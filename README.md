@@ -22,7 +22,6 @@ WestSeverus-7B-DPO-v2 is an advanced multi-domain language model developed by co
 
 ---
 
-````markdown
 # WestSeverus-7B-DPO-v2
 
 WestSeverus-7B-DPO-v2 is a state-of-the-art large language model that integrates multiple specialized models to achieve exceptional performance in scientific knowledge, mathematical reasoning, and programming tasks. It is built upon **Mistral-7B**, enhanced with mathematical reasoning capabilities from **FerdanoGPT**, and further improved with scientific and programming knowledge from **WestLake**. The model utilizes the **DARE (Drop And Rescale)** technique for model fusion, achieving outstanding results on multi-task benchmarks.
@@ -58,7 +57,6 @@ outputs = model.generate(inputs['input_ids'])
 
 print(tokenizer.decode(outputs[0], skip_special_tokens=True))
 ```
-````
 
 ## License
 

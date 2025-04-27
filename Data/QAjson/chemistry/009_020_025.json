@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Isotopic labeling in chemistry",
+    "message_1": "What is the ratio of carbon-14 to carbon-12 in a sample of organic material that is 5000 years old? Use the half-life of carbon-14 (5730 years) to calculate the answer.",
+    "message_2": "To calculate the ratio of carbon-14 to carbon-12 in a sample of organic material that is 5000 years old, we can use the radioactive decay formula:\n\nN = N0 * (1/2)^(t/T)\n\nwhere:\nN = the remaining amount of carbon-14 after time t\nN0 = the initial amount of carbon-14\nt = time elapsed (5000 years)\nT = half-life of carbon-14 (5730 years)\n\nSince we are looking for the ratio of carbon-14 to carbon-12, we can set N0 = 1 (assuming there was initially 1 unit of carbon-14). This means that the ratio will be equal to the remaining amount of carbon-14 (N) after 5000 years.\n\nN = 1 * (1/2)^(5000/5730)\n\nUsing a calculator, we find:\n\nN ≈ 0.765\n\nSo, the ratio of carbon-14 to carbon-12 in a sample of organic material that is 5000 years old is approximately 0.765:1."
+}

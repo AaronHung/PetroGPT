@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Radioactive decay series",
+    "message_1": "What is the daughter nuclide produced when the radioactive decay of uranium-238 undergoes alpha decay three times in a row?",
+    "message_2": "When uranium-238 (U-238) undergoes alpha decay, it emits an alpha particle, which consists of 2 protons and 2 neutrons. After three consecutive alpha decays, the original nuclide will lose a total of 6 protons and 6 neutrons.\n\nUranium-238 has 92 protons and 146 neutrons. After three alpha decays:\n\nNumber of protons: 92 - 6 = 86\nNumber of neutrons: 146 - 6 = 140\n\nThe resulting nuclide has 86 protons and 140 neutrons, which corresponds to radon-222 (Rn-222). So, the daughter nuclide produced after uranium-238 undergoes alpha decay three times in a row is radon-222."
+}

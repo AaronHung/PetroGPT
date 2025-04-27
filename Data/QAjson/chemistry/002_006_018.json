@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the molar mass of inorganic compounds",
+    "message_1": "What is the molar mass of calcium nitrate, Ca(NO3)2?",
+    "message_2": "The molar mass of calcium nitrate, Ca(NO3)2, can be calculated by adding the molar masses of its constituent elements: calcium (Ca), nitrogen (N), and oxygen (O).\n\nCalcium (Ca) has a molar mass of 40.08 g/mol.\nNitrogen (N) has a molar mass of 14.01 g/mol.\nOxygen (O) has a molar mass of 16.00 g/mol.\n\nIn the formula Ca(NO3)2, there is one calcium atom, two nitrogen atoms, and six oxygen atoms. So, the molar mass of calcium nitrate is:\n\n(1 × 40.08 g/mol Ca) + (2 × 14.01 g/mol N) + (6 × 16.00 g/mol O) = 40.08 + 28.02 + 96.00 = 164.10 g/mol\n\nThe molar mass of calcium nitrate, Ca(NO3)2, is 164.10 g/mol."
+}

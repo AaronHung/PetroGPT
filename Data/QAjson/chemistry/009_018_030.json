@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Radioisotope production and uses",
+    "message_1": "What radioisotope is commonly used in nuclear medicine for imaging and diagnosis, and how is it produced?",
+    "message_2": "The radioisotope commonly used in nuclear medicine for imaging and diagnosis is Technetium-99m (Tc-99m). It is produced by irradiating a target material, usually Molybdenum-98 (Mo-98), with neutrons in a nuclear reactor. The Mo-98 absorbs a neutron and becomes Molybdenum-99 (Mo-99), which then decays through beta decay into Technetium-99m. The Tc-99m is then extracted from the irradiated target material using a generator system, which is often called a \"moly cow\" or \"technetium cow.\" The Tc-99m can then be used as a radiotracer in various imaging procedures, such as single-photon emission computed tomography (SPECT)."
+}

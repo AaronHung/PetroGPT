@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Surface chemistry",
+    "sub_topic": "Langmuir adsorption isotherm",
+    "message_1": "What is the maximum achievable monolayer coverage of a gas on a solid surface at a temperature of 25°C and a pressure of 1 atmosphere, given that the Langmuir constant is 0.05 L/mol?",
+    "message_2": "To calculate the maximum achievable monolayer coverage of a gas on a solid surface, we can use the Langmuir isotherm equation:\n\nθ = (KP) / (1 + KP)\n\nwhere θ is the fractional coverage of the surface, K is the Langmuir constant (0.05 L/mol), and P is the pressure (1 atm).\n\nθ = (0.05 L/mol * 1 atm) / (1 + 0.05 L/mol * 1 atm)\n\nθ = 0.05 / (1 + 0.05)\n\nθ = 0.05 / 1.05\n\nθ ≈ 0.0476\n\nThe maximum achievable monolayer coverage of the gas on the solid surface at 25°C and 1 atmosphere is approximately 0.0476 or 4.76%."
+}

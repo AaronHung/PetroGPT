@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Biochemistry",
+    "sub_topic": "RNA transcription and translation",
+    "message_1": "What is the complete sequence of amino acids in the polypeptide chain that is translated from the mRNA sequence 5'-AUGGUCUCAGCAGGACCUUGA-3'?",
+    "message_2": "To determine the sequence of amino acids in the polypeptide chain, we need to translate the mRNA sequence into amino acids using the genetic code. The mRNA sequence is read in groups of three nucleotides, called codons. Each codon corresponds to a specific amino acid.\n\nHere is the mRNA sequence: 5'-AUGGUCUCAGCAGGACCUUGA-3'\n\nWe can break it down into codons as follows:\nAUG - GUC - UCA - GCA - GGA - CCU - UGA\n\nNow, let's translate each codon into its corresponding amino acid using the genetic code:\n\nAUG - Methionine (Met or M)\nGUC - Valine (Val or V)\nUCA - Serine (Ser or S)\nGCA - Alanine (Ala or A)\nGGA - Glycine (Gly or G)\nCCU - Proline (Pro or P)\nUGA - Stop codon (translation ends)\n\nSo, the complete sequence of amino acids in the polypeptide chain is:\nMethionine - Valine - Serine - Alanine - Glycine - Proline\n\nOr, using the single-letter code: MVSAGP"
+}

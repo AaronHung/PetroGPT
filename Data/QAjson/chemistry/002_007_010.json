@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the products of inorganic reactions",
+    "message_1": "Identify the products formed when magnesium metal reacts with hydrochloric acid (HCl) and write a balanced chemical equation for the reaction.",
+    "message_2": "When magnesium metal reacts with hydrochloric acid (HCl), the products formed are magnesium chloride (MgCl₂) and hydrogen gas (H₂). The balanced chemical equation for the reaction is:\n\nMg (s) + 2 HCl (aq) → MgCl₂ (aq) + H₂ (g)"
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Analytical chemistry",
+    "sub_topic": "Quantification of the amount of a substance in a sample using coulometry",
+    "message_1": "How many moles of copper (Cu) are present in a sample that requires 4000 coulombs of electricity to be completely oxidized in a coulometric analysis?",
+    "message_2": "To solve this problem, we need to use the following equation:\n\nmoles = (coulombs) / (Faraday constant * n)\n\nwhere:\n- moles represent the number of moles of copper (Cu)\n- coulombs represent the amount of electricity used (4000 C)\n- Faraday constant (F) is approximately 96485 C/mol\n- n is the number of electrons transferred in the redox reaction\n\nFor copper, the redox reaction is:\n\nCu(s) → Cu²⁺(aq) + 2e⁻\n\nIn this reaction, copper loses 2 electrons (n = 2) to form Cu²⁺ ions.\n\nNow, we can plug the values into the equation:\n\nmoles = (4000 C) / (96485 C/mol * 2)\n\nmoles = 4000 / 192970\n\nmoles ≈ 0.0207\n\nTherefore, there are approximately 0.0207 moles of copper in the sample."
+}

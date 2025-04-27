@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Radioactive dating methods",
+    "message_1": "What is the age of a fossil containing 1/4 of its original amount of Carbon-14 if its half-life is 5730 years?",
+    "message_2": "To determine the age of the fossil, we can use the formula for radioactive decay:\n\nN(t) = N0 * (1/2)^(t / t_half)\n\nWhere:\nN(t) is the amount of Carbon-14 remaining at time t,\nN0 is the initial amount of Carbon-14,\nt_half is the half-life of Carbon-14 (5730 years in this case), and\nt is the time elapsed.\n\nWe are given that the fossil contains 1/4 of its original amount of Carbon-14, so N(t) = 1/4 * N0. We can now plug this into the formula and solve for t:\n\n1/4 * N0 = N0 * (1/2)^(t / 5730)\n\nNow we can cancel out N0 from both sides:\n\n1/4 = (1/2)^(t / 5730)\n\nTo solve for t, we can take the logarithm of both sides:\n\nlog(1/4) = log((1/2)^(t / 5730))\n\nNow we can use the logarithmic identity log(a^b) = b * log(a):\n\nlog(1/4) = (t / 5730) * log(1/2)\n\nNext, we can isolate t by dividing both sides by log(1/2):\n\nt / 5730 = log(1/4) / log(1/2)\n\nNow we can multiply both sides by 5730 to find t:\n\nt = 5730 * (log(1/4) / log(1/2))\n\nUsing a calculator, we find:\n\nt ≈ 11460 years\n\nSo, the age of the fossil is approximately 11,460 years."
+}

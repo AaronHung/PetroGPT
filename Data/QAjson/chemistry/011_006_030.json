@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Computational chemistry",
+    "sub_topic": "Ab initio calculations of molecular properties",
+    "message_1": "What is the dipole moment of a water molecule according to ab initio calculations?",
+    "message_2": "The dipole moment of a water molecule according to ab initio calculations is approximately 1.85 Debye. This value may vary slightly depending on the level of theory and basis set used in the calculations."
+}

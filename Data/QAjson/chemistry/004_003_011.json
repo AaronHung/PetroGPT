@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Analytical chemistry",
+    "sub_topic": "Identification of unknown compounds using mass spectrometry",
+    "message_1": "Identify the unknown compound in a given sample using mass spectrometry and provide its chemical formula, molecular weight, and possible functional groups present in the compound.",
+    "message_2": "As an AI language model, I cannot directly analyze a physical sample or perform mass spectrometry. However, if you provide me with the mass spectrometry data or the molecular weight and fragmentation pattern, I can help you interpret the data and identify the compound."
+}

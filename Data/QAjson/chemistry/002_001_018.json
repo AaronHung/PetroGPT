@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Balancing chemical equations for inorganic compounds",
+    "message_1": "What is the balanced chemical equation for the reaction between iron(III) oxide and hydrogen gas to form iron metal and water?",
+    "message_2": "The balanced chemical equation for the reaction between iron(III) oxide (Fe2O3) and hydrogen gas (H2) to form iron metal (Fe) and water (H2O) is:\n\nFe2O3 + 3H2 → 2Fe + 3H2O"
+}

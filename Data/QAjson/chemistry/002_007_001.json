@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the products of inorganic reactions",
+    "message_1": "What are the products formed in the reaction between sulfuric acid and potassium hydroxide? Write the balanced chemical equation for the reaction and predict whether it is an exothermic or endothermic process.",
+    "message_2": "The reaction between sulfuric acid (H₂SO₄) and potassium hydroxide (KOH) is an acid-base reaction, also known as a neutralization reaction. In this reaction, the products formed are potassium sulfate (K₂SO₄) and water (H₂O). The balanced chemical equation for the reaction is:\n\n2 KOH (aq) + H₂SO₄ (aq) → K₂SO₄ (aq) + 2 H₂O (l)\n\nThis reaction is exothermic, as most neutralization reactions release heat. The energy is released due to the formation of new bonds between the ions in the products, which is more stable than the reactants."
+}

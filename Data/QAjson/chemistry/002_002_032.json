@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Determining oxidation states of elements in inorganic compounds",
+    "message_1": "Determine the oxidation state of all elements in the following compound: CoCl<sub>2</sub>•6H<sub>2</sub>O.",
+    "message_2": "In the compound CoCl<sub>2</sub>•6H<sub>2</sub>O, we have three different elements: cobalt (Co), chlorine (Cl), and hydrogen (H) and oxygen (O) in the water molecules.\n\n1. Cobalt (Co): In CoCl<sub>2</sub>, the oxidation state of chlorine is -1 (as a halogen, it usually has an oxidation state of -1). Since there are two chlorine atoms, the total negative charge from chlorine is -2. To balance the charge, the oxidation state of cobalt must be +2. So, the oxidation state of Co is +2.\n\n2. Chlorine (Cl): As mentioned earlier, the oxidation state of chlorine in CoCl<sub>2</sub> is -1.\n\n3. Hydrogen (H): In the water molecules (H<sub>2</sub>O), hydrogen is bonded to oxygen. Hydrogen typically has an oxidation state of +1 when bonded to nonmetals. So, the oxidation state of H is +1.\n\n4. Oxygen (O): In the water molecules (H<sub>2</sub>O), oxygen is bonded to hydrogen. Oxygen typically has an oxidation state of -2 when bonded to nonmetals. So, the oxidation state of O is -2.\n\nIn summary, the oxidation states of the elements in CoCl<sub>2</sub>•6H<sub>2</sub>O are:\n- Cobalt (Co): +2\n- Chlorine (Cl): -1\n- Hydrogen (H): +1\n- Oxygen (O): -2"
+}

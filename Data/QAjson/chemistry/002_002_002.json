@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Determining oxidation states of elements in inorganic compounds",
+    "message_1": "Determine the oxidation state of the central atom in the compound [Fe(CN)6]4-.",
+    "message_2": "To determine the oxidation state of the central atom (Fe) in the compound [Fe(CN)6]4-, we first need to know the oxidation state of the other atoms in the compound.\n\nThe cyanide ion (CN-) has an overall charge of -1. Since there are six cyanide ions in the compound, the total charge contributed by the cyanide ions is -6.\n\nThe overall charge of the compound is -4, as given in the problem. To balance the charges, the oxidation state of the central atom (Fe) must be:\n\nFe + (-6) = -4\n\nFe = -4 + 6\n\nFe = +2\n\nSo, the oxidation state of the central atom (Fe) in the compound [Fe(CN)6]4- is +2."
+}

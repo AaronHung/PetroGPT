@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Naming organic compounds",
+    "message_1": "In organic chemistry, what is the proper name for the compound CH3CH2OH?",
+    "message_2": "The proper name for the compound CH3CH2OH in organic chemistry is ethanol."
+}

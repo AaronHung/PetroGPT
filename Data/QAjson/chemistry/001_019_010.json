@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Nucleophilic substitution reactions",
+    "message_1": "What products are formed when bromoethane reacts with sodium hydroxide in a nucleophilic substitution reaction, and what type of mechanism does the reaction follow?",
+    "message_2": "When bromoethane (CH3CH2Br) reacts with sodium hydroxide (NaOH) in a nucleophilic substitution reaction, the products formed are ethanol (CH3CH2OH) and sodium bromide (NaBr). The reaction follows an SN2 (Substitution Nucleophilic Bimolecular) mechanism. \n\nIn the SN2 mechanism, the nucleophile (hydroxide ion, OH-) attacks the electrophilic carbon center (the carbon bonded to the bromine atom) from the opposite side of the leaving group (bromide ion, Br-). The bond between the carbon and the leaving group breaks simultaneously as the bond between the carbon and the nucleophile forms. This leads to the formation of ethanol and sodium bromide as products. \n\nThe overall reaction can be written as:\n\nCH3CH2Br + NaOH → CH3CH2OH + NaBr"
+}

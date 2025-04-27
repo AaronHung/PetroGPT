@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Nuclear stability and decay modes",
+    "message_1": "A chemistry student needs to determine which of the following isotopes are stable and which ones are unstable and undergo decay: carbon-14, nitrogen-15, oxygen-16, and uranium-238. Additionally, the student needs to determine the type of decay (alpha, beta, or gamma) for the unstable isotopes.",
+    "message_2": "Carbon-14: This isotope is unstable and undergoes beta decay. In this process, a neutron is converted into a proton, and an electron (beta particle) is emitted.\n\nNitrogen-15: This isotope is stable and does not undergo decay.\n\nOxygen-16: This isotope is stable and does not undergo decay.\n\nUranium-238: This isotope is unstable and undergoes alpha decay. In this process, the nucleus emits an alpha particle, which consists of 2 protons and 2 neutrons, resulting in a decrease of the atomic number by 2 and the mass number by 4.\n\nIn summary:\n- Carbon-14: unstable, beta decay\n- Nitrogen-15: stable\n- Oxygen-16: stable\n- Uranium-238: unstable, alpha decay"
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Nuclear fission reactions",
+    "message_1": "What is the amount of energy released in a nuclear fission reaction that involves the splitting of one nucleus of uranium-235 into two daughter nuclei and a few neutrons, if the mass defect in the process is found to be 0.18 amu?",
+    "message_2": "To calculate the energy released in a nuclear fission reaction, we can use Einstein's famous equation, E=mc², where E is the energy, m is the mass defect, and c is the speed of light.\n\nFirst, we need to convert the mass defect from atomic mass units (amu) to kilograms (kg). The conversion factor is 1 amu = 1.66054 x 10^(-27) kg.\n\nMass defect in kg = 0.18 amu * 1.66054 x 10^(-27) kg/amu = 2.98897 x 10^(-28) kg\n\nNow, we can use the E=mc² equation. The speed of light (c) is approximately 3 x 10^8 meters per second (m/s).\n\nE = (2.98897 x 10^(-28) kg) * (3 x 10^8 m/s)²\nE = 2.98897 x 10^(-28) kg * 9 x 10^16 m²/s²\nE = 26.90073 x 10^(-12) kg m²/s²\n\nSince 1 Joule (J) is equal to 1 kg m²/s², the energy released is:\n\nE = 26.90073 x 10^(-12) J\n\nSo, the energy released in the nuclear fission reaction is approximately 26.9 picojoules (pJ)."
+}

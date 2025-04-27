@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the molar mass of inorganic compounds",
+    "message_1": "What is the molar mass of Sodium Sulfate (Na2SO4)? Round your answer to two decimal places.",
+    "message_2": "To find the molar mass of Sodium Sulfate (Na2SO4), we need to add the molar masses of all the elements in the compound.\n\nSodium (Na) has a molar mass of 22.99 g/mol. Since there are two sodium atoms in the compound, we multiply by 2:\n2 * 22.99 g/mol = 45.98 g/mol\n\nSulfur (S) has a molar mass of 32.07 g/mol. There is only one sulfur atom in the compound:\n1 * 32.07 g/mol = 32.07 g/mol\n\nOxygen (O) has a molar mass of 16.00 g/mol. There are four oxygen atoms in the compound:\n4 * 16.00 g/mol = 64.00 g/mol\n\nNow, we add the molar masses of all the elements:\n45.98 g/mol (Na) + 32.07 g/mol (S) + 64.00 g/mol (O) = 142.05 g/mol\n\nThe molar mass of Sodium Sulfate (Na2SO4) is 142.05 g/mol, rounded to two decimal places."
+}

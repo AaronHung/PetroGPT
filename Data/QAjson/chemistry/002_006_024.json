@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the molar mass of inorganic compounds",
+    "message_1": "What is the molar mass of Copper (II) sulfate pentahydrate, CuSO4.5H2O?",
+    "message_2": "To find the molar mass of Copper (II) sulfate pentahydrate (CuSO4·5H2O), we need to find the molar mass of each element in the compound and then add them together.\n\nCopper (Cu): 63.55 g/mol\nSulfur (S): 32.07 g/mol\nOxygen (O): 16.00 g/mol\nHydrogen (H): 1.01 g/mol\n\nCopper (II) sulfate (CuSO4) contains 1 copper atom, 1 sulfur atom, and 4 oxygen atoms:\n1 Cu = 1 × 63.55 g/mol = 63.55 g/mol\n1 S = 1 × 32.07 g/mol = 32.07 g/mol\n4 O = 4 × 16.00 g/mol = 64.00 g/mol\n\nSum of the molar masses of CuSO4 = 63.55 + 32.07 + 64.00 = 159.62 g/mol\n\nNow, we need to find the molar mass of the 5 water molecules (5H2O) in the pentahydrate:\n10 H = 10 × 1.01 g/mol = 10.10 g/mol\n5 O = 5 × 16.00 g/mol = 80.00 g/mol\n\nSum of the molar masses of 5H2O = 10.10 + 80.00 = 90.10 g/mol\n\nFinally, add the molar masses of CuSO4 and 5H2O to find the molar mass of CuSO4·5H2O:\n159.62 g/mol (CuSO4) + 90.10 g/mol (5H2O) = 249.72 g/mol\n\nThe molar mass of Copper (II) sulfate pentahydrate (CuSO4·5H2O) is 249.72 g/mol."
+}

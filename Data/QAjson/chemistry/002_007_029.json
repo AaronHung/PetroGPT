@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the products of inorganic reactions",
+    "message_1": "What is the product formed when aqueous solutions of copper(II) sulfate and potassium iodide are mixed together? Write the balanced chemical equation for the reaction and identify the spectator ions.",
+    "message_2": "When aqueous solutions of copper(II) sulfate (CuSO₄) and potassium iodide (KI) are mixed together, a double displacement reaction occurs, resulting in the formation of copper(II) iodide (CuI₂) and potassium sulfate (K₂SO₄). The balanced chemical equation for the reaction is:\n\nCuSO₄(aq) + 2KI(aq) → CuI₂(s) + K₂SO₄(aq)\n\nThe spectator ions are the ions that do not participate in the reaction and remain unchanged in the solution. In this case, the spectator ions are K⁺ (potassium) and SO₄²⁻ (sulfate)."
+}

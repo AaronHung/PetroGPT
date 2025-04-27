@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Solvation and solubility phenomena",
+    "message_1": "What is the relationship between solubility and temperature for sodium chloride in water?",
+    "message_2": "The solubility of sodium chloride (NaCl) in water generally increases with increasing temperature. This means that as the temperature of the water increases, more NaCl can dissolve in it. The relationship between solubility and temperature for NaCl in water is not linear, but it follows a general trend of increasing solubility with increasing temperature.\n\nFor example, at 0°C, the solubility of NaCl in water is approximately 35.7 grams per 100 grams of water. At 20°C, the solubility increases to about 36.0 grams per 100 grams of water, and at 100°C, it further increases to approximately 39.2 grams per 100 grams of water.\n\nIt is important to note that the relationship between solubility and temperature can vary for different solutes and solvents. In some cases, solubility may decrease with increasing temperature, while in others, the relationship may be more complex."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Electrophilic addition reactions",
+    "message_1": "What is the product formed by the electrophilic addition of HBr to propene? Provide the complete mechanism for the reaction.",
+    "message_2": "The product formed by the electrophilic addition of HBr to propene is 2-bromopropane.\n\nHere is the complete mechanism for the reaction:\n\n1. Protonation of the alkene (propene) by HBr:\nThe alkene (propene) acts as a nucleophile and attacks the hydrogen atom of HBr, which acts as an electrophile. This leads to the formation of a carbocation intermediate and a bromide ion (Br-). The carbocation is formed at the more substituted carbon (secondary carbocation) due to its greater stability compared to a primary carbocation.\n\nPropene + HBr -> [CH3-CH(+)-CH3] + Br-\n\n2. Nucleophilic attack by the bromide ion:\nThe bromide ion (Br-) acts as a nucleophile and attacks the carbocation, forming a bond with the positively charged carbon atom.\n\n[CH3-CH(+)-CH3] + Br- -> CH3-CH(Br)-CH3\n\nThe final product is 2-bromopropane."
+}

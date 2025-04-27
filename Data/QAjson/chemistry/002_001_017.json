@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Balancing chemical equations for inorganic compounds",
+    "message_1": "What is the balanced chemical equation for the reaction between sodium hydroxide and sulfuric acid?",
+    "message_2": "The balanced chemical equation for the reaction between sodium hydroxide (NaOH) and sulfuric acid (H2SO4) is:\n\n2 NaOH + H2SO4 → Na2SO4 + 2 H2O\n\nThis equation shows that two moles of sodium hydroxide react with one mole of sulfuric acid to produce one mole of sodium sulfate and two moles of water."
+}

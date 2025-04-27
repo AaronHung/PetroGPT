@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the solubility of inorganic salts in water",
+    "message_1": "What is the solubility of copper(II) sulfate pentahydrate in water at 25°C?",
+    "message_2": "The solubility of copper(II) sulfate pentahydrate (CuSO4·5H2O) in water at 25°C is approximately 23.1 grams per 100 mL of water. This means that 23.1 grams of copper(II) sulfate pentahydrate can dissolve in 100 mL of water at 25°C to form a saturated solution."
+}

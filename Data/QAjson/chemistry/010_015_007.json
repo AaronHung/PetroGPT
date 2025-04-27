@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the overpotential in an electrochemical reaction",
+    "message_1": "A chemist is attempting to electroplate copper onto a steel surface using a copper sulfate solution. The standard reduction potential for this reaction is -0.34 V, but the scientist is only seeing a voltage of -0.53 V. Calculate the overpotential for this electrochemical reaction.",
+    "message_2": "The overpotential is the difference between the observed potential and the standard reduction potential for the electrochemical reaction. In this case, the observed potential is -0.53 V, and the standard reduction potential is -0.34 V.\n\nOverpotential = Observed potential - Standard reduction potential\nOverpotential = (-0.53 V) - (-0.34 V)\n\nOverpotential = -0.53 V + 0.34 V\nOverpotential = -0.19 V\n\nThe overpotential for this electrochemical reaction is -0.19 V."
+}

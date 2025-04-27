@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the solubility of inorganic salts in water",
+    "message_1": "What is the solubility of Calcium chloride (CaCl2) in distilled water at room temperature?",
+    "message_2": "The solubility of calcium chloride (CaCl2) in distilled water at room temperature (25°C or 77°F) is approximately 74.5 g per 100 mL of water. This means that 74.5 grams of CaCl2 can dissolve in 100 mL of water at room temperature, forming a saturated solution."
+}

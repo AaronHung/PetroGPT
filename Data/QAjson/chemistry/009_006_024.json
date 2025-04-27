@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Isotope notation and identification",
+    "message_1": "Identify the isotope notation for an atom that has 8 protons and 9 neutrons.",
+    "message_2": "The isotope notation for an atom with 8 protons and 9 neutrons is 17O (Oxygen-17). The atomic number (number of protons) is represented by the symbol O, and the mass number (sum of protons and neutrons) is written as a superscript to the left of the symbol."
+}

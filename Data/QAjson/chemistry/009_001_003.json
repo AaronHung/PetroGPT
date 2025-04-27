@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Half-life calculations",
+    "message_1": "A sample of Carbon-14 has an initial activity of 600 counts per minute (cpm). Determine its activity after 8000 years if the half-life of Carbon-14 is 5730 years.",
+    "message_2": "To determine the activity of the Carbon-14 sample after 8000 years, we can use the radioactive decay formula:\n\nActivity_final = Activity_initial * (1/2)^(time_elapsed / half_life)\n\nwhere:\nActivity_initial = 600 cpm (initial activity)\ntime_elapsed = 8000 years\nhalf_life = 5730 years (half-life of Carbon-14)\n\nActivity_final = 600 * (1/2)^(8000 / 5730)\n\nUsing a calculator, we can find the value of (1/2)^(8000 / 5730):\n\n(1/2)^(8000 / 5730) ≈ 0.397\n\nNow, we can calculate the final activity:\n\nActivity_final = 600 * 0.397 ≈ 238.2 cpm\n\nThe activity of the Carbon-14 sample after 8000 years will be approximately 238.2 counts per minute."
+}

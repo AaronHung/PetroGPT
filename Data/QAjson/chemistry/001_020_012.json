@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Electrophilic addition reactions",
+    "message_1": "What happens when propene (C3H6) reacts with hydrogen bromide (HBr)? Write a balanced chemical equation for the reaction and explain the mechanism of this electrophilic addition reaction.",
+    "message_2": "When propene (C3H6) reacts with hydrogen bromide (HBr), it undergoes an electrophilic addition reaction to form 2-bromopropane (C3H7Br) as the major product. The balanced chemical equation for the reaction is:\n\nC3H6 + HBr → C3H7Br\n\nMechanism of the electrophilic addition reaction:\n\n1. Protonation of the alkene:\nThe reaction begins with the electrophile, HBr, which has a polar bond between the hydrogen and bromine atoms. The partially positive hydrogen atom (Hδ+) attracts the electron-rich double bond of propene. The double bond donates a pair of electrons to the hydrogen atom, forming a new C-H bond. This step generates a carbocation intermediate and a bromide ion (Br⁻).\n\nC3H6 + Hδ+ → [C3H7]+ + Br⁻\n\n2. Nucleophilic attack by the bromide ion:\nThe carbocation intermediate is an electron-deficient species. The bromide ion (Br⁻), which is a nucleophile, donates a pair of electrons to the carbocation, forming a new C-Br bond and resulting in the formation of 2-bromopropane.\n\n[C3H7]+ + Br⁻ → C3H7Br\n\nOverall, the electrophilic addition of HBr to propene results in the formation of 2-bromopropane."
+}

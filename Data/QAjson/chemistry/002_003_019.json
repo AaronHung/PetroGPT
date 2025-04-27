@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the solubility of inorganic salts in water",
+    "message_1": "What is the solubility of calcium carbonate in water at 25°C?",
+    "message_2": "The solubility of calcium carbonate (CaCO3) in water at 25°C is quite low. It is approximately 15 mg/L (milligrams per liter) or 15 ppm (parts per million). This low solubility is due to the formation of a stable and insoluble solid when calcium ions (Ca2+) react with carbonate ions (CO32-) in water. The solubility product constant (Ksp) for calcium carbonate at 25°C is around 3.36 × 10^-8."
+}

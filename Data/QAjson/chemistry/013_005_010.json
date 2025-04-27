@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Surface chemistry",
+    "sub_topic": "Surface area determination by gas adsorption",
+    "message_1": "What is the specific surface area of a sample of activated carbon if 2.5 mL of nitrogen gas is adsorbed at 77 K and a pressure of 1 atm? The mass of the activated carbon sample is 0.25 g. The Brunauer-Emmett-Teller (BET) equation can be used to determine the specific surface area.",
+    "message_2": "To determine the specific surface area of the activated carbon sample, we can use the Brunauer-Emmett-Teller (BET) equation. However, we need to first convert the volume of nitrogen gas adsorbed to moles using the Ideal Gas Law:\n\nPV = nRT\n\nWhere:\nP = pressure (1 atm)\nV = volume (2.5 mL = 0.0025 L)\nn = moles of nitrogen gas\nR = gas constant (0.0821 L atm / (mol K))\nT = temperature (77 K)\n\nRearranging the equation to solve for n:\n\nn = PV / RT\n\nn = (1 atm * 0.0025 L) / (0.0821 L atm / (mol K) * 77 K)\n\nn = 0.000394 mol\n\nNow, we can use the BET equation to determine the specific surface area (A):\n\nA = (n * N_A * A_N2) / m\n\nWhere:\nn = moles of nitrogen gas adsorbed (0.000394 mol)\nN_A = Avogadro's number (6.022 x 10^23 molecules/mol)\nA_N2 = cross-sectional area of a nitrogen molecule (0.162 nm^2)\nm = mass of the activated carbon sample (0.25 g)\n\nA = (0.000394 mol * 6.022 x 10^23 molecules/mol * 0.162 nm^2) / 0.25 g\n\nA = 6.35 x 10^5 m^2/g\n\nSo, the specific surface area of the activated carbon sample is approximately 6.35 x 10^5 m^2/g."
+}

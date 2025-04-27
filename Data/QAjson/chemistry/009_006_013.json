@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Isotope notation and identification",
+    "message_1": "What is the isotope notation for an atom of carbon-14 and how many neutrons are present in the nucleus?",
+    "message_2": "The isotope notation for carbon-14 is 14C or alternatively, C-14. In the nucleus of carbon-14, there are 8 neutrons present. This is calculated by subtracting the atomic number of carbon (6) from the mass number (14): 14 - 6 = 8."
+}

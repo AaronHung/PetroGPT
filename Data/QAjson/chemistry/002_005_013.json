@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Identifying the type of inorganic compound (ionic, covalent, metallic)",
+    "message_1": "Identify the type of inorganic compound formed between magnesium and sulfur using its chemical formula MgS.",
+    "message_2": "The inorganic compound formed between magnesium and sulfur is an ionic compound. The chemical formula MgS represents magnesium sulfide, where magnesium (Mg) is a metal and sulfur (S) is a non-metal. In this compound, magnesium loses two electrons to form a +2 cation (Mg²⁺), while sulfur gains two electrons to form a -2 anion (S²⁻). The electrostatic attraction between these oppositely charged ions results in the formation of the ionic compound magnesium sulfide."
+}

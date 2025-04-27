@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Thermodynamics of chemical reactions",
+    "message_1": "Sure, here's a question related to the Thermodynamics of chemical reactions for a chemistry student to solve:\n\nGiven the following reaction: 2SO2(g) + O2(g) → 2SO3(g), with ∆H = -198 kJ/mol and ∆S = -284 J/(mol·K), calculate the change in Gibbs free energy (∆G) at standard temperature and pressure (STP) and determine if the reaction is spontaneous or non-spontaneous under these conditions.",
+    "message_2": "To calculate the change in Gibbs free energy (∆G) at standard temperature and pressure (STP), we can use the following equation:\n\n∆G = ∆H - T∆S\n\nwhere ∆H is the change in enthalpy, T is the temperature in Kelvin, and ∆S is the change in entropy.\n\nAt STP, the temperature is 273.15 K (0°C). Now, we can plug in the given values:\n\n∆H = -198 kJ/mol = -198,000 J/mol (converting to Joules)\n∆S = -284 J/(mol·K)\n\n∆G = -198,000 J/mol - (273.15 K * -284 J/(mol·K))\n\n∆G = -198,000 J/mol + 77,573.1 J/mol\n\n∆G = -120,426.9 J/mol\n\nSince the change in Gibbs free energy (∆G) is negative, the reaction is spontaneous under standard temperature and pressure (STP) conditions."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Identifying the type of inorganic compound (ionic, covalent, metallic)",
+    "message_1": "Identify the type of inorganic compound formed between Nitrogen and Oxygen in nitrous oxide (N2O)? Is it ionic, covalent or metallic?",
+    "message_2": "The inorganic compound formed between Nitrogen and Oxygen in nitrous oxide (N2O) is covalent. Nitrogen and Oxygen are both non-metals, and they share electrons to form a covalent bond."
+}

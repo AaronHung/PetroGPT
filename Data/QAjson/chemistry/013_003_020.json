@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Surface chemistry",
+    "sub_topic": "Langmuir adsorption isotherm",
+    "message_1": "What is the maximum adsorption capacity of a Langmuir adsorbent if the equilibrium constant (K) is 0.05 L/mmol and the concentration of adsorbate (C) is 0.02 mmol/L at 298 K? The surface area of adsorbent used in the experiment is 0.4 m²/g.",
+    "message_2": "To calculate the maximum adsorption capacity of a Langmuir adsorbent, we need to use the Langmuir isotherm equation:\n\nθ = (KC) / (1 + KC)\n\nwhere θ is the fractional coverage of the adsorbent surface, K is the equilibrium constant, and C is the concentration of adsorbate.\n\nFirst, we need to find the fractional coverage (θ):\n\nθ = (0.05 L/mmol * 0.02 mmol/L) / (1 + 0.05 L/mmol * 0.02 mmol/L)\nθ = 0.001 / (1 + 0.001)\nθ = 0.001 / 1.001\nθ ≈ 0.001\n\nNow, we need to find the maximum adsorption capacity (q_max) using the surface area of the adsorbent (A) and the fractional coverage (θ):\n\nq_max = A * θ\n\nSince the surface area of the adsorbent is given in m²/g, we need to convert the concentration of adsorbate (C) to mol/m²:\n\n0.02 mmol/L * (1 mol/1000 mmol) * (1 L/1000 dm³) * (1 dm³/1000 cm³) * (1 cm³/1e-6 m³) = 2e-8 mol/m²\n\nNow, we can find the maximum adsorption capacity (q_max):\n\nq_max = 0.4 m²/g * 0.001\nq_max = 0.0004 mol/g\n\nSo, the maximum adsorption capacity of the Langmuir adsorbent is 0.0004 mol/g."
+}

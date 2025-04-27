@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the lattice energy of inorganic compounds",
+    "message_1": "Calculate the lattice energy of magnesium oxide (MgO) given the following data: \n\nIonization energy of magnesium (Mg): 738 kJ/mol \nElectron affinity of oxygen (O): -141 kJ/mol \nLattice energy of MgO at standard conditions: -3795 kJ/mol \nBond length between Mg and O: 203 pm",
+    "message_2": "The lattice energy of magnesium oxide (MgO) is already provided in the given data. The lattice energy of MgO at standard conditions is -3795 kJ/mol."
+}

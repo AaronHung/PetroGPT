@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Stereochemistry and chirality",
+    "message_1": "How many stereoisomers are possible for a molecule with one chiral center that has a substituent group containing a double bond and a methyl group bonded to it?",
+    "message_2": "For a molecule with one chiral center, there are 2^n possible stereoisomers, where n is the number of chiral centers. In this case, n = 1, so there are 2^1 = 2 possible stereoisomers. The presence of a double bond and a methyl group bonded to the chiral center does not change the number of stereoisomers, as long as the chiral center remains the same. Therefore, there are 2 possible stereoisomers for this molecule."
+}

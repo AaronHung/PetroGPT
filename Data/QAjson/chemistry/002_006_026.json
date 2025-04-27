@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the molar mass of inorganic compounds",
+    "message_1": "What is the molar mass of lithium carbonate (Li2CO3)?",
+    "message_2": "To find the molar mass of lithium carbonate (Li2CO3), we need to add the molar masses of all the elements present in the compound.\n\nLithium (Li) has a molar mass of 6.94 g/mol. Since there are two lithium atoms in the compound, we multiply the molar mass by 2:\n2 * 6.94 g/mol = 13.88 g/mol\n\nCarbon (C) has a molar mass of 12.01 g/mol. There is only one carbon atom in the compound, so we don't need to multiply:\n12.01 g/mol\n\nOxygen (O) has a molar mass of 16.00 g/mol. Since there are three oxygen atoms in the compound, we multiply the molar mass by 3:\n3 * 16.00 g/mol = 48.00 g/mol\n\nNow, we add the molar masses of all the elements:\n13.88 g/mol (Li) + 12.01 g/mol (C) + 48.00 g/mol (O) = 73.89 g/mol\n\nThe molar mass of lithium carbonate (Li2CO3) is 73.89 g/mol."
+}

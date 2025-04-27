@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Half-life calculations",
+    "message_1": "A sample of carbon-14 has an initial activity of 50 disintegrations per minute (dpm). If the half-life of carbon-14 is 5730 years, what will be the activity of the sample after 17,190 years?",
+    "message_2": "To solve this problem, we can use the radioactive decay formula:\n\nActivity_final = Activity_initial * (1/2)^(time_elapsed / half_life)\n\nwhere Activity_final is the activity of the sample after 17,190 years, Activity_initial is the initial activity (50 dpm), time_elapsed is the time passed (17,190 years), and half_life is the half-life of carbon-14 (5730 years).\n\nActivity_final = 50 * (1/2)^(17,190 / 5730)\n\nFirst, we need to find the number of half-lives that have passed:\n\n17,190 / 5730 = 3\n\nNow, we can plug this value back into the formula:\n\nActivity_final = 50 * (1/2)^3\n\nActivity_final = 50 * (1/8)\n\nActivity_final = 6.25 dpm\n\nSo, the activity of the sample after 17,190 years will be approximately 6.25 disintegrations per minute."
+}

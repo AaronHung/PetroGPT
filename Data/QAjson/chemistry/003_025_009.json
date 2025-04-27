@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Chemical equilibria and equilibrium constants.",
+    "message_1": "What is the equilibrium constant expression for the reaction H2(g) + I2(g) ⇌ 2 HI(g) at 450°C, if the equilibrium concentrations of H2, I2, and HI are 0.05 M, 0.06 M, and 0.14 M respectively? Calculate the numerical value of the equilibrium constant (Kc) at 450°C.",
+    "message_2": "To find the equilibrium constant expression (Kc) for the given reaction, we first need to write the balanced chemical equation:\n\nH2(g) + I2(g) ⇌ 2 HI(g)\n\nNow, we can write the equilibrium constant expression (Kc) using the concentrations of the reactants and products at equilibrium:\n\nKc = [HI]^2 / ([H2] * [I2])\n\nGiven the equilibrium concentrations of H2, I2, and HI are 0.05 M, 0.06 M, and 0.14 M respectively, we can substitute these values into the Kc expression:\n\nKc = [0.14]^2 / (0.05 * 0.06)\n\nNow, we can calculate the numerical value of Kc:\n\nKc = (0.0196) / (0.003)\n\nKc ≈ 6.53\n\nTherefore, the equilibrium constant (Kc) for the reaction H2(g) + I2(g) ⇌ 2 HI(g) at 450°C is approximately 6.53."
+}

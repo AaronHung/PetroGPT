@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Isotopic labeling in chemistry",
+    "message_1": "What would be the concentration of a sample of hydrogen gas labeled with the radioisotope tritium (3H) if 25% of the hydrogen atoms are labeled with tritium, given the specific activity of tritium is 2.7 × 10^12 Bq/mol?",
+    "message_2": "To find the concentration of tritium in the sample, we first need to determine the activity of tritium in the sample. Since 25% of the hydrogen atoms are labeled with tritium, we can calculate the activity of tritium in the sample as follows:\n\nActivity of tritium in the sample = (Specific activity of tritium) × (Fraction of tritium-labeled hydrogen atoms)\nActivity of tritium in the sample = (2.7 × 10^12 Bq/mol) × (0.25)\nActivity of tritium in the sample = 6.75 × 10^11 Bq/mol\n\nNow, we can use the activity of tritium in the sample to find the concentration of tritium in the sample. The concentration of tritium can be calculated using the following formula:\n\nConcentration of tritium = (Activity of tritium in the sample) / (Avogadro's number)\n\nAvogadro's number is approximately 6.022 × 10^23 atoms/mol.\n\nConcentration of tritium = (6.75 × 10^11 Bq/mol) / (6.022 × 10^23 atoms/mol)\nConcentration of tritium ≈ 1.12 × 10^-12 mol/atom\n\nSo, the concentration of tritium in the sample is approximately 1.12 × 10^-12 mol/atom."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Half-life calculations",
+    "message_1": "Sure, here is a precise problem for a chemistry student to solve:\n\nA certain radioactive isotope has a half-life of 30 years. How much of a 180 gram sample of this isotope will remain after 90 years?",
+    "message_2": "To solve this problem, we can use the formula for radioactive decay:\n\nfinal amount = initial amount * (1/2)^(time elapsed / half-life)\n\nIn this case, the initial amount is 180 grams, the half-life is 30 years, and the time elapsed is 90 years. Plugging these values into the formula, we get:\n\nfinal amount = 180 * (1/2)^(90 / 30)\n\nfinal amount = 180 * (1/2)^3\n\nfinal amount = 180 * (1/8)\n\nfinal amount = 22.5 grams\n\nSo, after 90 years, 22.5 grams of the radioactive isotope will remain."
+}

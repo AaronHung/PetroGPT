@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Identifying the type of inorganic solid (ionic, covalent, metallic)",
+    "message_1": "Identify the type of inorganic solid that results from the ionic bonding between sodium and chlorine atoms.",
+    "message_2": "The type of inorganic solid that results from the ionic bonding between sodium and chlorine atoms is a salt, specifically sodium chloride (NaCl). This compound is commonly known as table salt and has a crystalline structure."
+}

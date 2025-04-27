@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Amines and amides",
+    "message_1": "What is the difference between a primary, secondary, and tertiary amine? Can you provide an example for each type of amine?",
+    "message_2": "The difference between primary, secondary, and tertiary amines lies in the number of carbon atoms directly attached to the nitrogen atom in their molecular structure. \n\n1. Primary amine: In a primary amine, the nitrogen atom is bonded to one carbon atom and two hydrogen atoms. The general formula for a primary amine is RNH2, where R is an alkyl or aryl group.\n\nExample: Methylamine (CH3NH2)\n\n2. Secondary amine: In a secondary amine, the nitrogen atom is bonded to two carbon atoms and one hydrogen atom. The general formula for a secondary amine is R2NH, where both R groups can be the same or different alkyl or aryl groups.\n\nExample: Dimethylamine [(CH3)2NH]\n\n3. Tertiary amine: In a tertiary amine, the nitrogen atom is bonded to three carbon atoms and has no hydrogen atoms directly attached to it. The general formula for a tertiary amine is R3N, where all three R groups can be the same or different alkyl or aryl groups.\n\nExample: Trimethylamine [(CH3)3N]"
+}

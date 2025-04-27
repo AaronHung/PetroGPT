@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Thermodynamics of chemical reactions",
+    "message_1": "What is the maximum amount of work that can be obtained from a chemical reaction at constant temperature and pressure, given the Gibbs free energy change of the reaction is -20 kJ/mol?",
+    "message_2": "The maximum amount of work that can be obtained from a chemical reaction at constant temperature and pressure is equal to the negative of the Gibbs free energy change of the reaction. In this case, the Gibbs free energy change is -20 kJ/mol.\n\nMaximum work = -ΔG = -(-20 kJ/mol) = 20 kJ/mol\n\nSo, the maximum amount of work that can be obtained from this reaction is 20 kJ/mol."
+}

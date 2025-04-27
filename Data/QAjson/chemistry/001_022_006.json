@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Rearrangement reactions",
+    "message_1": "Identify the products of the Beckmann rearrangement of cyclohexanone oxime in the presence of concentrated sulfuric acid.",
+    "message_2": "The Beckmann rearrangement is an organic reaction that involves the conversion of an oxime to an amide under acidic conditions. In the case of cyclohexanone oxime, the reaction proceeds as follows:\n\n1. Protonation of the oxime nitrogen by the concentrated sulfuric acid.\n2. Rearrangement of the molecule, involving the migration of the R group (in this case, a cyclohexyl group) from the carbon to the nitrogen, with the simultaneous migration of the nitrogen's lone pair to form a double bond with the carbon.\n3. Hydrolysis of the intermediate nitrilium ion to form the amide.\n\nThe product of the Beckmann rearrangement of cyclohexanone oxime in the presence of concentrated sulfuric acid is ε-caprolactam, which is a cyclic amide. ε-Caprolactam is an important monomer used in the production of Nylon-6."
+}

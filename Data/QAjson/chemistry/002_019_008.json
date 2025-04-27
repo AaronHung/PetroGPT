@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the boiling and melting points of inorganic compounds",
+    "message_1": "What is the boiling point of magnesium chloride (MgCl2) if its melting point is -711°C? (Assuming standard pressure and the compound is in its solid form when heated to its boiling point.)",
+    "message_2": "The boiling point of magnesium chloride (MgCl2) is not directly related to its melting point. The melting point of MgCl2 is indeed -711°C, but to determine its boiling point, we need to refer to its specific properties. Magnesium chloride has a boiling point of 1412°C (2574°F) under standard pressure."
+}

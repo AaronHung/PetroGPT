@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Crystallography and crystal structures",
+    "message_1": "What is the Miller index of a crystal face with a normal vector of [1 0 -1] in a cubic lattice with a lattice constant of 4 Å?",
+    "message_2": "The Miller index of a crystal face is represented by the notation (hkl), where h, k, and l are integers. To find the Miller index from a normal vector, you need to follow these steps:\n\n1. Take the reciprocal of the components of the normal vector.\n2. Clear the fractions by multiplying all the numbers by the smallest common multiple of the denominators.\n3. Convert the resulting numbers to integers.\n\nFor the given normal vector [1 0 -1], the reciprocal of the components would be:\n\n(1/1, 1/0, -1/1)\n\nSince division by zero is undefined, we can interpret 1/0 as infinity (∞). This means that the plane is parallel to the corresponding axis, and the Miller index for that axis should be 0.\n\nSo, the Miller index for the crystal face with a normal vector of [1 0 -1] in a cubic lattice is (1 0 -1). The lattice constant of 4 Å does not affect the Miller index calculation, as it only determines the size of the unit cell."
+}

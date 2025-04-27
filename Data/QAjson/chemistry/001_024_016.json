@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Spectroscopic techniques in organic chemistry",
+    "message_1": "Which spectroscopic technique in organic chemistry would be most effective for differentiating between two compounds with the same molecular formula but different functional groups?",
+    "message_2": "The most effective spectroscopic technique for differentiating between two compounds with the same molecular formula but different functional groups in organic chemistry would be Infrared (IR) spectroscopy. \n\nInfrared spectroscopy is particularly useful for identifying functional groups because different functional groups have characteristic absorption bands in the IR region. By analyzing the IR spectrum of a compound, one can determine the presence or absence of specific functional groups and differentiate between the two compounds. Other spectroscopic techniques like NMR and UV-Vis can also provide valuable information, but IR spectroscopy is generally the most straightforward method for identifying functional groups."
+}

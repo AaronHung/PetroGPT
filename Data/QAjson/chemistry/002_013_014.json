@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Determining the hybridization of inorganic compounds",
+    "message_1": "What is the hybridization of the central atom in the molecule sulfur hexafluoride (SF6)?",
+    "message_2": "In sulfur hexafluoride (SF6), the central sulfur atom is surrounded by six fluorine atoms. To determine the hybridization of the central atom, we can use the following formula:\n\nHybridization = 1/2 (number of valence electrons + number of monovalent atoms - charge)\n\nSulfur has 6 valence electrons, and there are 6 monovalent fluorine atoms. The molecule is neutral, so the charge is 0. Plugging these values into the formula:\n\nHybridization = 1/2 (6 + 6 - 0) = 1/2 (12) = 6\n\nSince the hybridization value is 6, the central sulfur atom in SF6 is sp³d² hybridized."
+}

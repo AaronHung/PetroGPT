@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the mass of a substance deposited or dissolved during an electrochemical reaction",
+    "message_1": "What is the mass of silver that will be deposited on a cathode if 1000 C of electricity is passed through a silver nitrate solution using a silver electrode? (Assume 100% efficiency and a Faraday constant of 96500 C/mol)",
+    "message_2": "To determine the mass of silver deposited on the cathode, we can use Faraday's law of electrolysis. The equation for Faraday's law is:\n\nmass = (Equivalent weight of the substance * Charge in coulombs) / Faraday constant\n\nFirst, we need to find the equivalent weight of silver (Ag). The atomic weight of silver is 107.87 g/mol, and its valency is 1 (since it forms Ag+ ions). Therefore, the equivalent weight of silver is:\n\nEquivalent weight of Ag = Atomic weight / Valency\nEquivalent weight of Ag = 107.87 g/mol / 1\nEquivalent weight of Ag = 107.87 g/mol\n\nNow, we can use Faraday's law to find the mass of silver deposited:\n\nmass = (Equivalent weight of Ag * Charge in coulombs) / Faraday constant\nmass = (107.87 g/mol * 1000 C) / 96500 C/mol\n\nmass = 1.118 g\n\nSo, the mass of silver deposited on the cathode is approximately 1.118 grams."
+}

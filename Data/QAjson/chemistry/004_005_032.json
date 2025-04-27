@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Analytical chemistry",
+    "sub_topic": "Determination of the pH of a solution using a pH meter",
+    "message_1": "What is the pH of a solution if the pH meter reading is 3.7?",
+    "message_2": "The pH of the solution is 3.7 if the pH meter reading is 3.7."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Thermochemistry and calorimetry",
+    "message_1": "What is the enthalpy change for the combustion of 1 mole of methane gas, CH4(g), given the following information: \n\n- Heat of formation of methane gas, ΔHf = -74.8 kJ/mol\n- Equations for combustion of methane and related ΔH values:\n\n   CH4(g) + 2 O2(g) -> CO2(g) + 2 H2O(g)    ΔH = -891.1 kJ/mol\n   \n   2 H2(g) + O2(g) -> 2 H2O(g)                   ΔH = -483.7 kJ/mol",
+    "message_2": "The enthalpy change for the combustion of 1 mole of methane gas, CH4(g), is already given in the provided information:\n\nCH4(g) + 2 O2(g) -> CO2(g) + 2 H2O(g)    ΔH = -891.1 kJ/mol\n\nSo, the enthalpy change for the combustion of 1 mole of methane gas is -891.1 kJ/mol."
+}

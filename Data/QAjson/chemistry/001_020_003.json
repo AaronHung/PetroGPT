@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Electrophilic addition reactions",
+    "message_1": "What is the product of the electrophilic addition reaction between propene and hydrogen chloride?",
+    "message_2": "The product of the electrophilic addition reaction between propene (C3H6) and hydrogen chloride (HCl) is 2-chloropropane (C3H7Cl). In this reaction, the hydrogen atom of HCl bonds to the carbon atom with the most hydrogen atoms in the propene molecule, while the chlorine atom bonds to the other carbon atom involved in the double bond. The resulting product, 2-chloropropane, has the following structure: CH3-CHCl-CH3."
+}

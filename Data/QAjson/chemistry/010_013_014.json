@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the number of electrons transferred in an electrochemical reaction",
+    "message_1": "Calculate the number of electrons transferred when 1 mole of magnesium is oxidized to form magnesium ions in an electrochemical cell. The balanced half-reaction is Mg → Mg2+ + 2e-.",
+    "message_2": "When 1 mole of magnesium is oxidized to form magnesium ions, the balanced half-reaction is:\n\nMg → Mg²⁺ + 2e⁻\n\nAccording to the balanced half-reaction, 1 mole of magnesium (Mg) loses 2 moles of electrons (2e⁻) when it is oxidized to form 1 mole of magnesium ions (Mg²⁺). \n\nTherefore, the number of electrons transferred when 1 mole of magnesium is oxidized is 2 moles of electrons. Since there are 6.022 x 10²³ particles (atoms, ions, or molecules) in 1 mole, the number of electrons transferred is:\n\n2 moles of electrons × (6.022 x 10²³ electrons/mole) = 1.204 x 10²⁴ electrons"
+}

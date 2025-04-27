@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Isotope notation and identification",
+    "message_1": "Which of the following isotopes has a greater number of neutrons: carbon-12 or carbon-14?",
+    "message_2": "Carbon-14 has a greater number of neutrons. \n\nTo determine the number of neutrons in an isotope, you subtract the atomic number (number of protons) from the mass number (sum of protons and neutrons). Carbon has an atomic number of 6.\n\nFor carbon-12:\nNumber of neutrons = mass number - atomic number = 12 - 6 = 6 neutrons\n\nFor carbon-14:\nNumber of neutrons = mass number - atomic number = 14 - 6 = 8 neutrons\n\nCarbon-14 has 8 neutrons, which is greater than the 6 neutrons in carbon-12."
+}

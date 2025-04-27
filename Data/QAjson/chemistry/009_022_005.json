@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Radiation therapy and dosimetry",
+    "message_1": "What is the maximum dose of ionizing radiation that a patient can receive during a radiation therapy session without causing excessive damage to healthy tissues and organs?",
+    "message_2": "The maximum dose of ionizing radiation that a patient can receive during a radiation therapy session without causing excessive damage to healthy tissues and organs varies depending on the type of radiation therapy, the specific area being treated, and the individual patient's tolerance. In general, radiation oncologists aim to deliver the highest possible dose to the tumor while minimizing the dose to surrounding healthy tissues.\n\nTypically, radiation therapy is delivered in small, daily doses called fractions, which are usually around 1.8 to 2.0 Gray (Gy) per session. The total dose of radiation given over the course of treatment can range from 20 Gy to 80 Gy or more, depending on the type and stage of cancer being treated.\n\nIt is important to note that radiation oncologists and medical physicists work together to carefully plan and monitor each patient's radiation therapy to ensure the optimal balance between effectively treating the cancer and minimizing side effects."
+}

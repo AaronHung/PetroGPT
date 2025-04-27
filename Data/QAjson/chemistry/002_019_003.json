@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the boiling and melting points of inorganic compounds",
+    "message_1": "What is the boiling point of MgCl2 (magnesium chloride)? Provide your answer in degrees Celsius.",
+    "message_2": "Magnesium chloride (MgCl2) is a salt, and as such, it does not have a specific boiling point like a pure substance. Instead, it will dissociate into its ions (Mg2+ and 2Cl-) when dissolved in water, and the boiling point of the solution will depend on the concentration of MgCl2 in the water.\n\nHowever, if you are referring to the decomposition temperature of solid magnesium chloride, it starts to decompose at around 714°C (1317°F) into magnesium chloride hexahydrate and hydrochloric acid."
+}

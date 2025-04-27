@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Half-life calculations",
+    "message_1": "A sample of radioactive isotope of carbon-14 has an initial activity of 10,000 decays per second. If the half-life of carbon-14 is 5,700 years, what will be its activity after 17,100 years?",
+    "message_2": "To solve this problem, we can use the radioactive decay formula:\n\nActivity_final = Activity_initial * (1/2)^(time_elapsed / half_life)\n\nwhere Activity_final is the activity of the sample after 17,100 years, Activity_initial is the initial activity (10,000 decays per second), time_elapsed is the time that has passed (17,100 years), and half_life is the half-life of carbon-14 (5,700 years).\n\nActivity_final = 10,000 * (1/2)^(17,100 / 5,700)\n\nFirst, we need to find the number of half-lives that have passed:\n\n17,100 / 5,700 = 3\n\nNow, we can plug this value back into the formula:\n\nActivity_final = 10,000 * (1/2)^3\n\nActivity_final = 10,000 * (1/8)\n\nActivity_final = 1,250 decays per second\n\nSo, after 17,100 years, the activity of the carbon-14 sample will be 1,250 decays per second."
+}

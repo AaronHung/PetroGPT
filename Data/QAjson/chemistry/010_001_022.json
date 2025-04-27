@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of standard electrode potentials",
+    "message_1": "What is the standard electrode potential for the reduction of Ag+ ions to Ag(s) at a temperature of 25°C, given that the standard electrode potential for the standard hydrogen electrode is 0.00 V and the standard electrode potential for Ag+/Ag is +0.80 V?",
+    "message_2": "The standard electrode potential for the reduction of Ag+ ions to Ag(s) at a temperature of 25°C is +0.80 V. This value is already given for the Ag+/Ag half-cell, and since the standard hydrogen electrode has a potential of 0.00 V, there is no need to adjust the value. The standard electrode potential for the reduction of Ag+ ions to Ag(s) remains +0.80 V."
+}

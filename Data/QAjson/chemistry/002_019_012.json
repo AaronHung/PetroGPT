@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the boiling and melting points of inorganic compounds",
+    "message_1": "What is the boiling point of magnesium oxide (MgO) at a pressure of 1 atm?",
+    "message_2": "Magnesium oxide (MgO) has an extremely high boiling point. At a pressure of 1 atmosphere (atm), the boiling point of MgO is approximately 3,600 degrees Celsius (6,512 degrees Fahrenheit)."
+}

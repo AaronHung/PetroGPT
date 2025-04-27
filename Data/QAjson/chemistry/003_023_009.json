@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Thermochemistry and calorimetry",
+    "message_1": "Sure, here's a problem for the student to solve:\n\nA 4.5 g sample of ethanol (C2H5OH) was burned in a bomb calorimeter containing 200 g of water. The temperature of the water increased from 23.0°C to 35.5°C. What is the heat of combustion of ethanol per gram? Assume that the specific heat capacity of water is 4.18 J/(g°C) and that the calorimeter absorbs 251 J/°C.",
+    "message_2": "To solve this problem, we need to find the total heat absorbed by the water and the calorimeter, and then divide it by the mass of ethanol to find the heat of combustion per gram.\n\nFirst, let's find the heat absorbed by the water:\nq_water = mass_water × specific_heat_water × ΔT_water\nq_water = 200 g × 4.18 J/(g°C) × (35.5°C - 23.0°C)\nq_water = 200 g × 4.18 J/(g°C) × 12.5°C\nq_water = 10450 J\n\nNext, let's find the heat absorbed by the calorimeter:\nq_calorimeter = calorimeter_constant × ΔT_calorimeter\nq_calorimeter = 251 J/°C × 12.5°C\nq_calorimeter = 3137.5 J\n\nNow, let's find the total heat absorbed (q_total):\nq_total = q_water + q_calorimeter\nq_total = 10450 J + 3137.5 J\nq_total = 13587.5 J\n\nFinally, let's find the heat of combustion of ethanol per gram:\nheat_of_combustion = q_total / mass_ethanol\nheat_of_combustion = 13587.5 J / 4.5 g\nheat_of_combustion ≈ 3019.4 J/g\n\nSo, the heat of combustion of ethanol per gram is approximately 3019.4 J/g."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Nuclear stability and decay modes",
+    "message_1": "What is the mode of decay for a radioactive isotope with a neutron-to-proton ratio of 1.8?",
+    "message_2": "A radioactive isotope with a neutron-to-proton ratio of 1.8 has more neutrons than protons. In this case, the mode of decay is likely to be beta decay (specifically, beta-minus decay). \n\nIn beta-minus decay, a neutron in the nucleus is converted into a proton, an electron (called a beta particle), and an electron antineutrino. This process helps to decrease the neutron-to-proton ratio, making the nucleus more stable."
+}

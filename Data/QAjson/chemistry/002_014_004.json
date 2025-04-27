@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the formal charge of inorganic compounds",
+    "message_1": "What is the formal charge on the sulfur atom in SOCl2 molecule?",
+    "message_2": "To calculate the formal charge on the sulfur atom in SOCl2, we need to follow these steps:\n\n1. Determine the number of valence electrons for sulfur. Sulfur is in group 16, so it has 6 valence electrons.\n\n2. Calculate the number of bonding electrons. In SOCl2, sulfur forms two single bonds with the two chlorine atoms and one double bond with the oxygen atom. Each single bond has 2 electrons, and the double bond has 4 electrons. So, the total number of bonding electrons is 2 + 2 + 4 = 8.\n\n3. Calculate the number of non-bonding electrons. Subtract the number of bonding electrons from the total valence electrons: 6 - 8/2 = 6 - 4 = 2. Sulfur has 2 non-bonding electrons.\n\n4. Calculate the formal charge. The formal charge is the difference between the number of valence electrons and the sum of the bonding and non-bonding electrons: 6 - (4 + 2) = 6 - 6 = 0.\n\nSo, the formal charge on the sulfur atom in SOCl2 is 0."
+}

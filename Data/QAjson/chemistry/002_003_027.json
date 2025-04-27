@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the solubility of inorganic salts in water",
+    "message_1": "What is the solubility of NaCl (sodium chloride) in water at a temperature of 25°C and atmospheric pressure?",
+    "message_2": "The solubility of NaCl (sodium chloride) in water at 25°C and atmospheric pressure is approximately 357 grams per liter (g/L). This means that at this temperature and pressure, 357 grams of NaCl can dissolve in 1 liter of water before the solution becomes saturated."
+}

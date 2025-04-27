@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Analytical chemistry",
+    "sub_topic": "Analysis of the purity of a substance using melting point determination",
+    "message_1": "What is the purity of a given sample of acetanilide based on its melting point? The literature melting point of pure acetanilide is reported as 114-116 °C.",
+    "message_2": "To determine the purity of a given sample of acetanilide based on its melting point, you need to know the melting point of the sample you have. The closer the melting point of the sample is to the literature value of 114-116 °C, the higher the purity of the acetanilide sample.\n\nPlease provide the melting point of the given sample, and I can help you estimate its purity."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Functional groups and their reactions",
+    "message_1": "What is the product of the reaction between methane and chlorine under UV light?",
+    "message_2": "The reaction between methane (CH4) and chlorine (Cl2) under UV light is a radical halogenation reaction. The main product of this reaction is chloromethane (CH3Cl), along with a smaller amount of dichloromethane (CH2Cl2), trichloromethane (CHCl3), and carbon tetrachloride (CCl4). The reaction proceeds through a series of steps involving free radicals."
+}

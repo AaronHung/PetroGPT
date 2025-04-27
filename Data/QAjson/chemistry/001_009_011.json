@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Ethers and epoxides",
+    "message_1": "What type of ether is produced as a major byproduct when ethylene oxide is reacted with a silver catalyst?",
+    "message_2": "When ethylene oxide is reacted with a silver catalyst, the major byproduct formed is ethylene glycol dimethyl ether (also known as 1,2-dimethoxyethane or glyme). The reaction proceeds through the formation of a silver alkoxide intermediate, which then reacts with another molecule of ethylene oxide to form the ether product."
+}

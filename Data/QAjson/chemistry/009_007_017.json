@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Nuclear stability and decay modes",
+    "message_1": "What is the mode of decay and stability of a radioactive isotope that has an atomic number of 92 and a mass number of 235?",
+    "message_2": "The radioactive isotope with an atomic number of 92 and a mass number of 235 is Uranium-235 (U-235). The mode of decay for U-235 is alpha decay, where it emits an alpha particle (consisting of 2 protons and 2 neutrons) and transforms into Thorium-231 (Th-231).\n\nU-235 is not stable, as it is a radioactive isotope. However, it has a relatively long half-life of about 703.8 million years, which means it decays slowly over time. This long half-life contributes to its use as a fuel in nuclear reactors and as a material for nuclear weapons."
+}

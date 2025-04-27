@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Nuclear stability and decay modes",
+    "message_1": "What is the decay mode of an isotope with a neutron-to-proton ratio of 1.5, and why is this particular decay mode preferred for this isotope?",
+    "message_2": "An isotope with a neutron-to-proton ratio of 1.5 has an excess of neutrons compared to protons. In such a situation, the preferred decay mode is beta-minus (β-) decay. This is because beta-minus decay helps to decrease the number of neutrons and increase the number of protons, bringing the neutron-to-proton ratio closer to a more stable value.\n\nIn beta-minus decay, a neutron within the nucleus is transformed into a proton, an electron (called a beta particle), and an electron antineutrino. The process can be represented by the following equation:\n\nn → p + e⁻ + ν̅(e)\n\nwhere n represents a neutron, p represents a proton, e⁻ represents the emitted electron (beta particle), and ν̅(e) represents the electron antineutrino.\n\nThis decay mode is preferred for isotopes with a high neutron-to-proton ratio because it helps to achieve a more stable configuration by converting a neutron into a proton, thus reducing the ratio and moving the isotope closer to the region of stability on the chart of nuclides."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the solubility of inorganic salts in water",
+    "message_1": "What is the solubility of barium sulfate (BaSO4) in water at room temperature?",
+    "message_2": "The solubility of barium sulfate (BaSO4) in water at room temperature (25°C) is very low. It is approximately 2.4 mg/L or 2.4 ppm (parts per million). This means that only about 2.4 milligrams of BaSO4 will dissolve in 1 liter of water at room temperature. Barium sulfate is considered to be an insoluble salt due to its extremely low solubility."
+}

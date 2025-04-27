@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Carboxylic acids and their derivatives",
+    "message_1": "What is the product formed when butyric acid reacts with ammonia under acidic conditions, and how does the reaction differ when it is performed under basic conditions?",
+    "message_2": "When butyric acid (C3H7COOH) reacts with ammonia (NH3) under acidic conditions, an ammonium salt is formed. In this case, the product will be butyramide (C3H7CONH4). The reaction can be represented as follows:\n\nC3H7COOH + NH3 → C3H7CONH4\n\nUnder basic conditions, the reaction between butyric acid and ammonia will still form an amide, but the product will be different. In this case, the product will be butyramide (C3H7CONH2). The reaction can be represented as follows:\n\nC3H7COOH + NH3 → C3H7CONH2 + H2O\n\nThe main difference between the reactions under acidic and basic conditions is the product formed. Under acidic conditions, an ammonium salt is formed, while under basic conditions, an amide is formed along with water."
+}

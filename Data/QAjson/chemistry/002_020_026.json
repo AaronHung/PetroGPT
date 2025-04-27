@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Identifying the type of inorganic solid (ionic, covalent, metallic)",
+    "message_1": "What is the type of inorganic solid formed when magnesium (Mg) and oxygen (O) combine? Is it an ionic solid, a covalent solid, or a metallic solid? Justify your answer.",
+    "message_2": "When magnesium (Mg) and oxygen (O) combine, they form an inorganic solid called magnesium oxide (MgO). This compound is an ionic solid.\n\nJustification: Magnesium is a metal (from Group 2 in the periodic table) and has a tendency to lose two electrons to achieve a stable electron configuration. Oxygen is a non-metal (from Group 16 in the periodic table) and has a tendency to gain two electrons to achieve a stable electron configuration. When magnesium and oxygen combine, magnesium loses two electrons and forms a Mg²⁺ ion, while oxygen gains two electrons and forms an O²⁻ ion. The electrostatic attraction between these oppositely charged ions results in the formation of an ionic solid, magnesium oxide (MgO)."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Gamma spectroscopy",
+    "message_1": "What is the energy of a gamma photon emitted during the decay of Cobalt-60 nucleus, given that the gamma radiation has a frequency of 1.33 x 10¹⁹ Hz?",
+    "message_2": "To calculate the energy of a gamma photon, we can use the formula:\n\nE = h * f\n\nwhere E is the energy of the photon, h is the Planck's constant (6.626 x 10⁻³⁴ Js), and f is the frequency of the gamma radiation.\n\nGiven the frequency f = 1.33 x 10¹⁹ Hz, we can plug in the values into the formula:\n\nE = (6.626 x 10⁻³⁴ Js) * (1.33 x 10¹⁹ Hz)\n\nE = 8.81298 x 10⁻¹⁵ J\n\nThe energy of the gamma photon emitted during the decay of Cobalt-60 nucleus is approximately 8.81 x 10⁻¹⁵ Joules."
+}

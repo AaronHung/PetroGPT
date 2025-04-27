@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the corrosion current density of a metal in a given environment",
+    "message_1": "A copper wire is exposed to a solution containing 0.2 M NaCl. The corrosion rate of the wire is found to be 5.8 microAmp/cm². Calculate the corrosion current density of the copper wire in the given environment.",
+    "message_2": "The corrosion rate of the copper wire is given as 5.8 microAmp/cm². This value is already the corrosion current density. \n\nCorrosion current density (i_corr) is the measure of the rate of corrosion in terms of current per unit area. It is usually expressed in microAmp/cm² or mA/cm². In this case, the corrosion current density of the copper wire in the given environment is 5.8 microAmp/cm²."
+}

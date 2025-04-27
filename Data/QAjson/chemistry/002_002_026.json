@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Determining oxidation states of elements in inorganic compounds",
+    "message_1": "What is the oxidation state of manganese in the compound MnO2?",
+    "message_2": "In the compound MnO2, the oxidation state of manganese (Mn) is +4.\n\nHere's the explanation: Oxygen has an oxidation state of -2. Since there are two oxygen atoms in the compound, their total oxidation state is -4. To balance the overall charge of the compound, the oxidation state of manganese (Mn) must be +4."
+}

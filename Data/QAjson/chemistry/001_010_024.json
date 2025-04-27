@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Aldehydes and ketones",
+    "message_1": "What is the product obtained when 3-methyl-1-phenylpropanal is heated with Tollen's reagent?",
+    "message_2": "When 3-methyl-1-phenylpropanal is heated with Tollen's reagent (ammoniacal silver nitrate), the aldehyde group in the compound is oxidized to a carboxylic acid group. The product obtained is 3-methyl-1-phenylpropanoic acid. Additionally, silver ions in the Tollen's reagent are reduced to metallic silver, which forms a silver mirror on the walls of the reaction vessel."
+}

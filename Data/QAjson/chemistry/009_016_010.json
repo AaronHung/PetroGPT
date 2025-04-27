@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Gamma spectroscopy",
+    "message_1": "What is the energy (in MeV) of a gamma ray emitted when a nucleus in an excited state with 3.45 MeV decays to its ground state via gamma emission? (Hint: The energy of a gamma ray is equivalent to the difference in energy between the excited and ground states of the nucleus.)",
+    "message_2": "The energy of a gamma ray emitted during the decay of a nucleus from an excited state to its ground state is equal to the difference in energy between the excited state and the ground state. In this case, the excited state has an energy of 3.45 MeV, and the ground state has an energy of 0 MeV (by definition).\n\nTherefore, the energy of the gamma ray is:\n\nEnergy (gamma ray) = Energy (excited state) - Energy (ground state)\nEnergy (gamma ray) = 3.45 MeV - 0 MeV\nEnergy (gamma ray) = 3.45 MeV\n\nSo, the energy of the gamma ray emitted is 3.45 MeV."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Analytical chemistry",
+    "sub_topic": "Identification of the presence of specific ions in a solution using ion-selective electrodes",
+    "message_1": "What is the concentration of potassium ions in a 0.1 M solution of potassium chloride using a potassium ion-selective electrode?",
+    "message_2": "In a 0.1 M solution of potassium chloride (KCl), the concentration of potassium ions (K+) is equal to the concentration of the KCl solution, since KCl dissociates completely into K+ and Cl- ions in solution. Therefore, the concentration of potassium ions in a 0.1 M KCl solution is 0.1 M. \n\nUsing a potassium ion-selective electrode, you would calibrate the electrode with a series of standard potassium solutions of known concentrations. Then, you would measure the potential (voltage) of the 0.1 M KCl solution and compare it to the calibration curve to confirm the concentration of potassium ions in the solution. In this case, the electrode should indicate a concentration of 0.1 M K+."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the geometry and polarity of inorganic molecules",
+    "message_1": "What is the geometry and polarity of the ammonia molecule, NH3?",
+    "message_2": "The geometry of the ammonia molecule (NH3) is trigonal pyramidal. In this geometry, the nitrogen atom is at the center, and the three hydrogen atoms surround it, forming a pyramid-like shape. There is also a lone pair of electrons on the nitrogen atom, which contributes to the overall geometry.\n\nAs for polarity, ammonia is a polar molecule. This is because nitrogen is more electronegative than hydrogen, which creates a difference in electronegativity between the N-H bonds. This results in a net dipole moment, making the molecule polar. The lone pair of electrons on the nitrogen atom also contributes to the polarity of the molecule."
+}

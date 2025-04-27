@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Chemical kinetics and reaction mechanisms",
+    "message_1": "What is the reaction rate law for the reaction A + 2B → C, if the rate varies with A to the power of 0.5 and B to the power of 1?",
+    "message_2": "The reaction rate law for the given reaction can be written as:\n\nRate = k[A]^m[B]^n\n\nwhere Rate is the reaction rate, k is the rate constant, [A] and [B] are the concentrations of reactants A and B, and m and n are the orders of the reaction with respect to A and B, respectively.\n\nAccording to the problem, the rate varies with A to the power of 0.5 and B to the power of 1. So, m = 0.5 and n = 1.\n\nTherefore, the reaction rate law for this reaction is:\n\nRate = k[A]^0.5[B]^1"
+}

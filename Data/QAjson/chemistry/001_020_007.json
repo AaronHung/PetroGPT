@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Electrophilic addition reactions",
+    "message_1": "What is the product formed when propene reacts with sulfuric acid followed by water in an electrophilic addition reaction?",
+    "message_2": "When propene (C3H6) reacts with sulfuric acid (H2SO4) in an electrophilic addition reaction, the double bond in propene is broken, and the sulfuric acid molecule adds across the double bond. The reaction forms an intermediate alkyl hydrogen sulfate ester. In the case of propene, it forms 2-propyl hydrogen sulfate (CH3-CH(SO4H)-CH3) as the intermediate.\n\nWhen this intermediate is treated with water, the alkyl hydrogen sulfate ester is hydrolyzed, and the sulfate group is replaced by a hydroxyl group (OH). This results in the formation of 2-propanol (CH3-CH(OH)-CH3) as the final product."
+}

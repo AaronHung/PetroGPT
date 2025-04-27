@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Electrochemistry and electrochemical cells",
+    "message_1": "A student needs to calculate the standard cell potential for the following reaction at 25°C:\n\nZn (s) + Fe2+ (aq) → Zn2+ (aq) + Fe (s)\n\nGiven:\n\n- Standard reduction potentials: Eº(Zn2+/Zn) = -0.76 V and Eº(Fe2+/Fe) = -0.44 V\n\n- Concentration of Fe2+ = 0.1 M and concentration of Zn2+ = 1.0 M\n\nWhat is the value of the standard cell potential for this reaction?",
+    "message_2": "To calculate the standard cell potential for the given reaction, we need to first write the half-reactions for the reduction and oxidation processes:\n\nReduction: Fe2+ (aq) + 2e- → Fe (s) ; Eº = -0.44 V\nOxidation: Zn (s) → Zn2+ (aq) + 2e- ; Eº = -0.76 V\n\nNext, we need to reverse the oxidation half-reaction to make it a reduction half-reaction:\n\nZn2+ (aq) + 2e- → Zn (s) ; Eº = +0.76 V\n\nNow, we can add the two half-reactions to get the overall cell reaction:\n\nFe2+ (aq) + Zn (s) → Zn2+ (aq) + Fe (s)\n\nTo find the standard cell potential (Eº_cell), we can add the standard reduction potentials of the two half-reactions:\n\nEº_cell = Eº_red (Fe2+/Fe) + Eº_red (Zn/Zn2+)\nEº_cell = (-0.44 V) + (+0.76 V)\nEº_cell = +0.32 V\n\nSo, the standard cell potential for this reaction at 25°C is +0.32 V."
+}

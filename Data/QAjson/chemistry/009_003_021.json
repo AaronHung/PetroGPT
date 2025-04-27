@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Nuclear fission reactions",
+    "message_1": "\"What is the minimum amount of energy required to initiate a nuclear fission reaction of uranium-235?\"",
+    "message_2": "The minimum amount of energy required to initiate a nuclear fission reaction of uranium-235 is called the fission barrier energy. For uranium-235, this energy is approximately 6 MeV (Mega-electron volts). This energy is needed to overcome the forces holding the nucleus together and to allow the fission process to occur. Typically, this energy is provided by bombarding the uranium-235 nucleus with slow-moving neutrons, which are easily absorbed and cause the nucleus to become unstable and undergo fission."
+}

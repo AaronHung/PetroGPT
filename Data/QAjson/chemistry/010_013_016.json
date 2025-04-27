@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the number of electrons transferred in an electrochemical reaction",
+    "message_1": "What is the number of electrons transferred in the following electrochemical reaction: \n\nCu(s) + 2Ag+(aq) -> Cu2+(aq) + 2Ag(s) \n\n(Note: the standard reduction potentials of Cu2+(aq)/Cu(s) and Ag+(aq)/Ag(s) are 0.34V and 0.80V, respectively)",
+    "message_2": "In this electrochemical reaction, Cu(s) is being oxidized to Cu2+(aq), and Ag+(aq) is being reduced to Ag(s).\n\nThe half-reactions for this process are:\n\nOxidation: Cu(s) -> Cu2+(aq) + 2e⁻\nReduction: 2Ag+(aq) + 2e⁻ -> 2Ag(s)\n\nAs we can see from the half-reactions, 2 electrons are being transferred in this electrochemical reaction."
+}

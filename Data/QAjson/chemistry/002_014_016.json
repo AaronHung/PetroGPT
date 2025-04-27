@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the formal charge of inorganic compounds",
+    "message_1": "What is the formal charge on the sulfur atom in SO4^(2-)?",
+    "message_2": "To calculate the formal charge on the sulfur atom in SO4^(2-), we can use the following formula:\n\nFormal charge = (Valence electrons of the atom) - (Non-bonding electrons) - 0.5 * (Bonding electrons)\n\nFor sulfur in SO4^(2-):\n\n1. Valence electrons of sulfur (S) = 6 (as it is in group 6 of the periodic table)\n2. Non-bonding electrons = 0 (since sulfur is bonded to all four oxygen atoms)\n3. Bonding electrons = 8 (as there are four single bonds between sulfur and the four oxygen atoms, each bond has 2 electrons)\n\nNow, we can plug these values into the formula:\n\nFormal charge on S = 6 - 0 - 0.5 * 8\nFormal charge on S = 6 - 0 - 4\nFormal charge on S = 2\n\nSo, the formal charge on the sulfur atom in SO4^(2-) is +2."
+}

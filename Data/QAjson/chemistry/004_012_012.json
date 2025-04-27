@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Analytical chemistry",
+    "sub_topic": "Analysis of the composition of a sample using elemental analysis",
+    "message_1": "What is the percentage composition of nitrogen in a fertilizer sample using elemental analysis?",
+    "message_2": "To determine the percentage composition of nitrogen in a fertilizer sample using elemental analysis, you will need to follow these steps:\n\n1. Obtain a representative sample of the fertilizer.\n2. Perform an elemental analysis on the sample using an appropriate method, such as the Kjeldahl method, Dumas method, or CHN analyzer.\n3. Calculate the percentage composition of nitrogen in the sample.\n\nFor example, let's say you performed an elemental analysis on a fertilizer sample and found that it contains 5 grams of nitrogen in a 20-gram sample.\n\nTo calculate the percentage composition of nitrogen, use the following formula:\n\nPercentage composition of nitrogen = (mass of nitrogen / total mass of sample) x 100\n\nPercentage composition of nitrogen = (5 grams / 20 grams) x 100 = 25%\n\nSo, the percentage composition of nitrogen in the fertilizer sample is 25%."
+}

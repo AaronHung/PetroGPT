@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Stereochemistry and chirality",
+    "message_1": "How many stereoisomers are possible for a compound with the molecular formula C<sub>4</sub>H<sub>9</sub>Br if it contains one chiral carbon atom?",
+    "message_2": "If a compound contains one chiral carbon atom, it can have two possible stereoisomers: one R-configuration and one S-configuration. These two stereoisomers are enantiomers of each other. So, for a compound with the molecular formula C4H9Br and one chiral carbon atom, there are 2 possible stereoisomers."
+}

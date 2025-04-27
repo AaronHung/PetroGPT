@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the formal charge of inorganic compounds",
+    "message_1": "What is the formal charge on the nitrogen atom (N) in the ammonium ion (NH4+)? Show your calculation steps.",
+    "message_2": "To calculate the formal charge on the nitrogen atom (N) in the ammonium ion (NH4+), we can use the following formula:\n\nFormal charge = (Valence electrons of N) - (Non-bonding electrons) - (1/2 * Bonding electrons)\n\nStep 1: Determine the valence electrons of nitrogen (N)\nNitrogen is in group 15 of the periodic table, so it has 5 valence electrons.\n\nStep 2: Determine the non-bonding electrons\nIn the ammonium ion, nitrogen is bonded to four hydrogen atoms, and there are no lone pairs (non-bonding electrons) on the nitrogen atom. So, the non-bonding electrons are 0.\n\nStep 3: Determine the bonding electrons\nEach nitrogen-hydrogen bond in the ammonium ion has 2 electrons. Since there are 4 nitrogen-hydrogen bonds, there are a total of 4 * 2 = 8 bonding electrons.\n\nNow, we can plug these values into the formula:\n\nFormal charge = (5) - (0) - (1/2 * 8)\nFormal charge = 5 - 0 - 4\nFormal charge = +1\n\nSo, the formal charge on the nitrogen atom (N) in the ammonium ion (NH4+) is +1."
+}

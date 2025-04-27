@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the molar mass of inorganic compounds",
+    "message_1": "What is the molar mass of calcium phosphate, Ca3(PO4)2?",
+    "message_2": "To find the molar mass of calcium phosphate (Ca3(PO4)2), we need to determine the molar mass of each element in the compound and then add them together.\n\nCalcium (Ca) has a molar mass of 40.08 g/mol.\nPhosphorus (P) has a molar mass of 30.97 g/mol.\nOxygen (O) has a molar mass of 16.00 g/mol.\n\nIn the formula Ca3(PO4)2, there are:\n- 3 calcium atoms\n- 2 phosphate groups, each containing 1 phosphorus atom and 4 oxygen atoms\n\nNow, we can calculate the molar mass of calcium phosphate:\n\n(3 × 40.08 g/mol Ca) + (2 × [(1 × 30.97 g/mol P) + (4 × 16.00 g/mol O)])\n\n= (3 × 40.08) + (2 × [30.97 + (4 × 16.00)])\n\n= 120.24 + (2 × [30.97 + 64.00])\n\n= 120.24 + (2 × 94.97)\n\n= 120.24 + 189.94\n\n= 310.18 g/mol\n\nThe molar mass of calcium phosphate (Ca3(PO4)2) is 310.18 g/mol."
+}

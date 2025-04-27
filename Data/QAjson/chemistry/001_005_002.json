@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Alkanes and cycloalkanes",
+    "message_1": "What is the IUPAC name of a cycloalkane with 9 carbons, and how many stereoisomers does it have if it contains two methyl groups in a trans-configuration?",
+    "message_2": "The IUPAC name of a cycloalkane with 9 carbons is cyclo-nonane. \n\nTo determine the number of stereoisomers for the compound with two methyl groups in a trans-configuration, we need to consider the possible positions of the methyl groups on the cyclo-nonane ring. \n\nLet's number the carbons in the ring from 1 to 9. If we place the first methyl group on carbon 1, the second methyl group can be placed on carbons 4, 5, or 6 to maintain a trans-configuration. This gives us three possible isomers:\n\n1. 1,4-dimethylcyclo-nonane (trans)\n2. 1,5-dimethylcyclo-nonane (trans)\n3. 1,6-dimethylcyclo-nonane (trans)\n\nNow, if we place the first methyl group on carbon 2, the second methyl group can be placed on carbons 5 or 6 to maintain a trans-configuration. This gives us two more possible isomers:\n\n4. 2,5-dimethylcyclo-nonane (trans)\n5. 2,6-dimethylcyclo-nonane (trans)\n\nFinally, if we place the first methyl group on carbon 3, the second methyl group can only be placed on carbon 6 to maintain a trans-configuration. This gives us one more possible isomer:\n\n6. 3,6-dimethylcyclo-nonane (trans)\n\nIn total, there are 6 stereoisomers of cyclo-nonane with two methyl groups in a trans-configuration."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Electrochemistry and electrochemical cells",
+    "message_1": "What is the standard electrode potential of a copper electrode if it is combined with a zinc electrode in a galvanic cell, and the measured cell potential is 1.10 V at 298 K? Given: E°(Zn²⁺/Zn) = -0.76 V and E°(Cu²⁺/Cu) = 0.34 V.",
+    "message_2": "In a galvanic cell, the standard cell potential (E°cell) is the difference between the standard electrode potentials of the two half-cells. The standard cell potential can be calculated using the Nernst equation:\n\nE°cell = E°(cathode) - E°(anode)\n\nIn this case, the copper electrode acts as the cathode, and the zinc electrode acts as the anode. The given standard electrode potentials are:\n\nE°(Cu²⁺/Cu) = 0.34 V (cathode)\nE°(Zn²⁺/Zn) = -0.76 V (anode)\n\nNow, we can calculate the standard cell potential:\n\nE°cell = 0.34 V - (-0.76 V) = 0.34 V + 0.76 V = 1.10 V\n\nThe measured cell potential is also given as 1.10 V, which matches the calculated standard cell potential. Therefore, the standard electrode potential of the copper electrode (E°(Cu²⁺/Cu)) is 0.34 V."
+}

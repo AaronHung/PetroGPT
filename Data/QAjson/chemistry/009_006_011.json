@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Isotope notation and identification",
+    "message_1": "What is the isotope notation and identification of carbon-14?",
+    "message_2": "The isotope notation of carbon-14 is written as ¹⁴C or C-14. Carbon-14 is an isotope of carbon with 6 protons and 8 neutrons in its nucleus, giving it an atomic mass of 14. It is a radioactive isotope, commonly used in radiocarbon dating and other scientific applications."
+}

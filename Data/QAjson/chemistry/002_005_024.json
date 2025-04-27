@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Identifying the type of inorganic compound (ionic, covalent, metallic)",
+    "message_1": "Classify the following compounds as ionic, covalent, or metallic: NaCl, H2O, Fe, CO2, MgO.",
+    "message_2": "1. NaCl (Sodium Chloride) - Ionic: It is formed by the transfer of electrons between a metal (sodium) and a non-metal (chlorine).\n\n2. H2O (Water) - Covalent: It is formed by the sharing of electrons between two non-metals (hydrogen and oxygen).\n\n3. Fe (Iron) - Metallic: It is a pure metal, and metallic bonds are present between the metal atoms.\n\n4. CO2 (Carbon Dioxide) - Covalent: It is formed by the sharing of electrons between a non-metal (carbon) and another non-metal (oxygen).\n\n5. MgO (Magnesium Oxide) - Ionic: It is formed by the transfer of electrons between a metal (magnesium) and a non-metal (oxygen)."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Ethers and epoxides",
+    "message_1": "What is the major product formed when 1-methylcyclohexene is reacted with ethylene oxide in the presence of catalytic sulfuric acid?",
+    "message_2": "When 1-methylcyclohexene reacts with ethylene oxide in the presence of catalytic sulfuric acid, the major product formed is 1-methyl-2-(2-hydroxyethyl)cyclohexanol. \n\nThe reaction proceeds through the following steps:\n1. The sulfuric acid protonates the ethylene oxide, making it more electrophilic.\n2. The nucleophilic double bond of 1-methylcyclohexene attacks the electrophilic carbon of the protonated ethylene oxide, forming a new carbon-carbon bond.\n3. The positive charge on the oxygen is neutralized by deprotonation, leading to the formation of the alcohol group.\n\nThe final product, 1-methyl-2-(2-hydroxyethyl)cyclohexanol, is formed as a result of the nucleophilic addition of 1-methylcyclohexene to the protonated ethylene oxide followed by deprotonation."
+}

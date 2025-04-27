@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Alkanes and cycloalkanes",
+    "message_1": "What is the IUPAC name of the following compound?\n\nCH3CH2CH2CH2CH2CH2CH2CH2CH2CH3\n\nThis question requires the student to apply their understanding of the rules of nomenclature in Organic chemistry, specifically for Alkanes and Cycloalkanes.",
+    "message_2": "The given compound is a linear alkane with 10 carbon atoms. According to the IUPAC nomenclature rules for alkanes, the name is based on the number of carbon atoms in the longest continuous chain, which is 10 in this case. The prefix for 10 carbon atoms is \"dec,\" and since it's an alkane, the suffix is \"ane.\" Therefore, the IUPAC name of the compound is:\n\nDecane"
+}

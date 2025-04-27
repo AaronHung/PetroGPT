@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Radiation detection and measurement",
+    "message_1": "What is the total absorbed dose in grays (Gy) received by a worker who has been working in a nuclear power plant for 5 hours if the dose rate is 0.02 Gy/hour?",
+    "message_2": "To calculate the total absorbed dose in grays (Gy) received by the worker, we can use the following formula:\n\nTotal absorbed dose (Gy) = Dose rate (Gy/hour) × Time (hours)\n\nIn this case, the dose rate is 0.02 Gy/hour, and the worker has been working for 5 hours. So, the calculation would be:\n\nTotal absorbed dose (Gy) = 0.02 Gy/hour × 5 hours\n\nTotal absorbed dose (Gy) = 0.1 Gy\n\nThe worker received a total absorbed dose of 0.1 grays (Gy) during the 5 hours of work."
+}

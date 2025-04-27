@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of standard electrode potentials",
+    "message_1": "Calculate the standard electrode potential of the half-cell reaction Ag+ + e- → Ag, given that the standard reduction potential of Ag+ is 0.80 V.",
+    "message_2": "The standard electrode potential of a half-cell reaction is the same as its standard reduction potential when the reaction is written as a reduction (gain of electrons). In this case, the half-cell reaction is already written as a reduction:\n\nAg+ + e- → Ag\n\nSince the standard reduction potential of Ag+ is given as 0.80 V, the standard electrode potential of this half-cell reaction is also 0.80 V."
+}

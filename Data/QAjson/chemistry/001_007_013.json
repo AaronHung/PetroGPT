@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Aromatic compounds",
+    "message_1": "Identify the structural formula and functional group of a compound that has a benzene ring with two methyl groups attached in the ortho positions and a nitro group attached in the meta position.",
+    "message_2": "The compound you are describing is 2,6-dimethyl-3-nitrobenzene. The structural formula of this compound is:\n\n```\n  O\n  ||\n  NO2\n   |\n   C\n  // \\\nC     C\n  \\\\ / \\\\\n   C   CH3\n  // \\\nC     C\n  \\\\ /\n   CH3\n```\n\nThe functional groups present in this compound are:\n1. Aromatic ring (benzene ring)\n2. Methyl groups (CH3) in the ortho positions\n3. Nitro group (NO2) in the meta position"
+}

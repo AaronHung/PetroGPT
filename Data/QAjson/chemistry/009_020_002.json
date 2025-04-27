@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Isotopic labeling in chemistry",
+    "message_1": "What is the minimum percentage of a stable isotope that needs to be present in a sample for isotopic labeling to be effective in nuclear chemistry experiments?",
+    "message_2": "The minimum percentage of a stable isotope required for isotopic labeling to be effective in nuclear chemistry experiments depends on the specific isotope and the sensitivity of the detection method being used. Generally, a higher percentage of the isotope is preferred to ensure accurate and reliable results. However, in some cases, as low as 1% enrichment of the stable isotope can be sufficient, while in other cases, a higher percentage, such as 10% or more, may be necessary. Ultimately, the required percentage will depend on the experimental conditions and the goals of the study."
+}

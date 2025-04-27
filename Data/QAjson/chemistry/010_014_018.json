@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the mass of a substance deposited or dissolved during an electrochemical reaction",
+    "message_1": "A student needs to determine the mass of silver that can be deposited on a silver electrode using a current of 2.5 A for 3 hours in a solution containing 0.2 M silver ions. What is the mass of silver deposited on the electrode? (Assuming 100% current efficiency and atomic weight of silver is 107.9 g/mol)",
+    "message_2": "To determine the mass of silver deposited on the electrode, we can use Faraday's law of electrolysis. \n\nFirst, we need to find the total charge (Q) passed through the solution:\nQ = current (I) × time (t)\nQ = 2.5 A × 3 hours × 3600 seconds/hour\nQ = 27000 Coulombs\n\nNext, we need to find the number of moles of electrons (n) passed through the solution:\nn = Q / (Faraday's constant, F)\nn = 27000 C / (96485 C/mol)\nn = 0.2798 mol of electrons\n\nSince the silver ion (Ag+) requires one electron to be reduced to silver metal (Ag), the number of moles of silver deposited is equal to the number of moles of electrons:\nn(Ag) = 0.2798 mol\n\nNow we can find the mass of silver deposited:\nmass(Ag) = n(Ag) × atomic weight of silver\nmass(Ag) = 0.2798 mol × 107.9 g/mol\nmass(Ag) = 30.18 g\n\nTherefore, the mass of silver deposited on the electrode is approximately 30.18 grams."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the molar mass of inorganic compounds",
+    "message_1": "What is the molar mass of FeSO4?",
+    "message_2": "To find the molar mass of FeSO₄ (Iron (II) sulfate), we need to add the molar masses of each element in the compound.\n\n1. Iron (Fe): 1 atom × 55.845 g/mol = 55.845 g/mol\n2. Sulfur (S): 1 atom × 32.066 g/mol = 32.066 g/mol\n3. Oxygen (O): 4 atoms × 16.00 g/mol = 64.00 g/mol\n\nNow, add the molar masses of each element together:\n\n55.845 g/mol (Fe) + 32.066 g/mol (S) + 64.00 g/mol (O) = 151.911 g/mol\n\nThe molar mass of FeSO₄ is approximately 151.911 g/mol."
+}

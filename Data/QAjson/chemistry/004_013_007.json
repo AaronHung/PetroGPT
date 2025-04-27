@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Analytical chemistry",
+    "sub_topic": "Quantification of the amount of a substance in a sample using coulometry",
+    "message_1": "A student needs to determine the amount of copper present in a sample of brass using coulometry. If the sample is dissolved in acid and subjected to coulometric analysis using a standard silver electrode, what is the concentration of copper (in ppm) in the brass sample?",
+    "message_2": "To determine the concentration of copper in the brass sample using coulometry, we need to know the mass of the brass sample, the mass of copper deposited during the coulometric analysis, and the volume of the solution used for the analysis. Unfortunately, you have not provided this information.\n\nHowever, I can guide you on how to calculate the concentration of copper in ppm once you have the necessary data:\n\n1. Dissolve the brass sample in acid and perform the coulometric analysis using a standard silver electrode. Record the mass of copper deposited (m_Cu) during the analysis.\n\n2. Calculate the mass of the brass sample (m_brass) used for the analysis.\n\n3. Calculate the mass fraction of copper in the brass sample:\nmass_fraction_Cu = (m_Cu / m_brass)\n\n4. Convert the mass fraction of copper to ppm (parts per million):\nconcentration_Cu_ppm = mass_fraction_Cu × 1,000,000\n\nOnce you have the necessary data, you can follow these steps to determine the concentration of copper in the brass sample in ppm."
+}

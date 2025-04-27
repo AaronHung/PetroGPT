@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Nuclear stability and decay modes",
+    "message_1": "What is the decay mode of thorium-232, and what is the final product of its decay chain?",
+    "message_2": "Thorium-232 undergoes alpha decay, which means it emits an alpha particle (consisting of 2 protons and 2 neutrons) from its nucleus. The final product of its decay chain is stable lead-208 (Pb-208) after a series of intermediate decays involving other radioactive isotopes."
+}

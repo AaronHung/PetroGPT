@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Nuclear stability and decay modes",
+    "message_1": "What is the nuclear decay mode of Boron-10 and what is the resulting product?",
+    "message_2": "Boron-10 is a stable isotope and does not undergo nuclear decay. Therefore, there is no decay mode or resulting product for Boron-10."
+}

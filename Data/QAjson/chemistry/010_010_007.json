@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the power output of an electrochemical cell",
+    "message_1": "An electrochemical cell has a standard emf of 1.10 V and a current of 0.500 A when operating at standard conditions. What is the power output of the cell?",
+    "message_2": "The power output of an electrochemical cell can be calculated using the formula:\n\nPower (P) = Voltage (V) × Current (I)\n\nGiven the standard emf (voltage) of 1.10 V and a current of 0.500 A, we can calculate the power output as follows:\n\nP = 1.10 V × 0.500 A\nP = 0.55 W (watts)\n\nThe power output of the electrochemical cell is 0.55 watts."
+}

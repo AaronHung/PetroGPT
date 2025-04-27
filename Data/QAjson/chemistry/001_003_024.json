@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Stereochemistry and chirality",
+    "message_1": "What is the specific configuration (R or S) of the chiral center in the molecule shown below? \n\nHint: Use the Cahn-Ingold-Prelog priority rules to assign priorities to the substituents attached to the chiral center and determine the direction of rotation needed to align the priorities from highest to lowest.",
+    "message_2": "Unfortunately, I cannot see the molecule you are referring to. Please provide a description of the molecule or the substituents attached to the chiral center, and I will help you determine the configuration (R or S)."
+}

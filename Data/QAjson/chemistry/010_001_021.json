@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of standard electrode potentials",
+    "message_1": "Calculate the standard electrode potential for the cell reaction: \n\nFe3+(aq) + e- → Fe2+(aq) \n\nGiven E°Fe3+/Fe2+ = 0.77 V.",
+    "message_2": "The standard electrode potential for the given cell reaction is already provided. The reaction is:\n\nFe3+(aq) + e- → Fe2+(aq)\n\nThe standard electrode potential for this reaction, E°Fe3+/Fe2+, is given as 0.77 V. Therefore, there is no need to calculate it further. The answer is:\n\nE° = 0.77 V"
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Thermodynamics of chemical reactions",
+    "message_1": "Calculate the change in internal energy of a system that releases 350 J of heat to the surroundings and does 200 J of work on its surroundings?",
+    "message_2": "To calculate the change in internal energy (ΔU) of a system, we can use the first law of thermodynamics, which states:\n\nΔU = q + w\n\nwhere ΔU is the change in internal energy, q is the heat exchanged with the surroundings, and w is the work done on or by the system.\n\nIn this case, the system releases 350 J of heat to the surroundings, so q = -350 J (negative because heat is released). The system also does 200 J of work on its surroundings, so w = -200 J (negative because work is done on the surroundings).\n\nNow, we can plug these values into the equation:\n\nΔU = (-350 J) + (-200 J)\n\nΔU = -550 J\n\nThe change in internal energy of the system is -550 J."
+}

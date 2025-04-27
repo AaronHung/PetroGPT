@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the resistance of an electrochemical cell",
+    "message_1": "Calculate the total resistance of an electrochemical cell consisting of two half-cells where one half-cell has a copper electrode submerged in a 0.5 M CuSO4 solution, and the other half-cell has a zinc electrode submerged in a 1.0 M ZnSO4 solution. The copper electrode is connected to the zinc electrode through a salt bridge. The resistance of the salt bridge is 22 ohms, and the resistance of the copper and zinc electrodes are negligible.",
+    "message_2": "Since the resistance of the copper and zinc electrodes are negligible, the total resistance of the electrochemical cell will be primarily determined by the resistance of the salt bridge. In this case, the salt bridge has a resistance of 22 ohms. Therefore, the total resistance of the electrochemical cell is 22 ohms."
+}

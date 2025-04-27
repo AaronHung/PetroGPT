@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Balancing chemical equations for inorganic compounds",
+    "message_1": "Balance the following chemical equation of an inorganic compound: \n\nFe2O3 + CO → Fe + CO2",
+    "message_2": "To balance the given chemical equation, we need to make sure that the number of atoms of each element on both sides of the equation is equal.\n\nFe2O3 + CO → Fe + CO2\n\nFirst, let's balance the Fe (iron) atoms:\n\n2Fe2O3 + CO → 4Fe + CO2\n\nNow, let's balance the O (oxygen) atoms:\n\n2Fe2O3 + 3CO → 4Fe + 3CO2\n\nFinally, let's balance the C (carbon) atoms:\n\n2Fe2O3 + 3CO → 4Fe + 3CO2\n\nThe balanced chemical equation is:\n\n2Fe2O3 + 3CO → 4Fe + 3CO2"
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Balancing chemical equations for inorganic compounds",
+    "message_1": "What is the balanced chemical equation for the reaction between potassium permanganate (KMnO4) and hydrogen peroxide (H2O2) in acidic medium?",
+    "message_2": "In acidic medium, potassium permanganate (KMnO4) reacts with hydrogen peroxide (H2O2) to form manganese dioxide (MnO2), potassium ions (K+), water (H2O), and oxygen gas (O2). The balanced chemical equation for this reaction is:\n\n2 KMnO4 + 3 H2O2 + 4 H+ → 2 MnO2 + 2 K+ + 6 H2O + 3 O2"
+}

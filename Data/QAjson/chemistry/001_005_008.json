@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Alkanes and cycloalkanes",
+    "message_1": "Identify the structural isomers for the alkane C6H14 and draw their structures, also name them according to IUPAC nomenclature.",
+    "message_2": "There are five structural isomers for the alkane C6H14. Here are their IUPAC names and structures:\n\n1. n-Hexane\n   Structure: CH3-CH2-CH2-CH2-CH2-CH3\n\n2. 2-Methylpentane\n   Structure: CH3-CH(CH3)-CH2-CH2-CH3\n\n3. 3-Methylpentane\n   Structure: CH3-CH2-CH(CH3)-CH2-CH3\n\n4. 2,2-Dimethylbutane\n   Structure: CH3-C(CH3)2-CH2-CH3\n\n5. 2,3-Dimethylbutane\n   Structure: CH3-CH(CH3)-CH(CH3)-CH3\n\nNote that the structures are represented in a linear format, but in reality, they have a three-dimensional arrangement."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Isotope notation and identification",
+    "message_1": "Identify the unknown isotope X, which has 48 protons and 63 neutrons in its nucleus. Write its complete nuclear symbol in isotope notation.",
+    "message_2": "The unknown isotope X has 48 protons, which means its atomic number (Z) is 48. The element with atomic number 48 is Cadmium (Cd). The isotope also has 63 neutrons, so its mass number (A) is the sum of protons and neutrons, which is 48 + 63 = 111. \n\nThe complete nuclear symbol in isotope notation for this isotope is:\n\n¹¹¹Cd"
+}

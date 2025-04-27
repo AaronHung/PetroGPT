@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Elimination reactions",
+    "message_1": "Identify the major product and the mechanism for the following elimination reaction:\n\nCH3CH2Br + KOH → ?",
+    "message_2": "The major product for this elimination reaction is CH2=CH2 (ethene) and the mechanism is E2 (bimolecular elimination).\n\nHere's the step-by-step mechanism for the reaction:\n\n1. The KOH (potassium hydroxide) acts as a strong base in this reaction. The hydroxide ion (OH-) from KOH abstracts a β-hydrogen (a hydrogen atom on the carbon adjacent to the carbon attached to the bromine atom) from the CH3CH2Br molecule.\n\n2. Simultaneously, the electrons from the C-H bond form a double bond between the two carbons (C=C), and the C-Br bond breaks, releasing the bromide ion (Br-).\n\n3. The final products are ethene (CH2=CH2) and potassium bromide (KBr).\n\nThe overall reaction can be written as:\n\nCH3CH2Br + KOH → CH2=CH2 + KBr"
+}

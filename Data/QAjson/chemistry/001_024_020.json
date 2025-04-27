@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Spectroscopic techniques in organic chemistry",
+    "message_1": "What is the identity of an unknown compound that shows a strong absorption at 1700 cm⁻¹ in its IR spectrum and displays a singlet at 2.2 ppm in its ¹H NMR spectrum?",
+    "message_2": "The strong absorption at 1700 cm⁻¹ in the IR spectrum suggests the presence of a carbonyl group (C=O) in the compound. The singlet at 2.2 ppm in the ¹H NMR spectrum is indicative of a methyl group (CH3) adjacent to the carbonyl group. Based on this information, the unknown compound is likely to be an aldehyde or a ketone with a methyl group adjacent to the carbonyl group.\n\nA possible candidate for the unknown compound is acetone (CH3-CO-CH3), which has a carbonyl group and two methyl groups adjacent to it. The IR absorption and ¹H NMR chemical shift values are consistent with the properties of acetone."
+}

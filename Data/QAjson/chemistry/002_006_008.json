@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the molar mass of inorganic compounds",
+    "message_1": "What is the molar mass of calcium chloride (CaCl2)?",
+    "message_2": "To find the molar mass of calcium chloride (CaCl2), we need to determine the molar mass of each element in the compound and then add them together.\n\nCalcium (Ca) has a molar mass of 40.08 g/mol.\nChlorine (Cl) has a molar mass of 35.45 g/mol.\n\nSince there are two chlorine atoms in calcium chloride, we need to multiply the molar mass of chlorine by 2:\n\nMolar mass of 2 Cl atoms = 2 × 35.45 g/mol = 70.90 g/mol\n\nNow, add the molar mass of calcium and the molar mass of the two chlorine atoms:\n\nMolar mass of CaCl2 = 40.08 g/mol (Ca) + 70.90 g/mol (2 Cl) = 110.98 g/mol\n\nSo, the molar mass of calcium chloride (CaCl2) is 110.98 g/mol."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Naming organic compounds",
+    "message_1": "Identify the IUPAC name of the following organic compound: CH3CH2CH(CH3)CH2CH2OH",
+    "message_2": "The IUPAC name of the given organic compound is 4-methylpentan-2-ol."
+}

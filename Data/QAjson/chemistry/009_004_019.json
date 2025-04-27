@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Nuclear fusion reactions",
+    "message_1": "What is the minimum temperature required for two deuterium atoms to undergo a successful fusion reaction?",
+    "message_2": "The minimum temperature required for two deuterium atoms to undergo a successful fusion reaction is approximately 15 million Kelvin (15 x 10^6 K) or 27 million degrees Fahrenheit. This high temperature is necessary to overcome the electrostatic repulsion between the positively charged nuclei and allow them to come close enough for the strong nuclear force to take over and fuse the nuclei together."
+}

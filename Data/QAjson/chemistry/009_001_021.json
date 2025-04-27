@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Half-life calculations",
+    "message_1": "A sample of radioactive element X has a half-life of 10 minutes. If the initial amount of X is 200 grams, how much will be left after 30 minutes?",
+    "message_2": "To solve this problem, we can use the formula for radioactive decay:\n\nFinal amount = Initial amount * (1/2)^(time elapsed / half-life)\n\nIn this case, the initial amount of element X is 200 grams, the half-life is 10 minutes, and the time elapsed is 30 minutes. Plugging these values into the formula, we get:\n\nFinal amount = 200 * (1/2)^(30 / 10)\n\nFinal amount = 200 * (1/2)^3\n\nFinal amount = 200 * (1/8)\n\nFinal amount = 25 grams\n\nSo, after 30 minutes, there will be 25 grams of element X left."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the number of electrons transferred in an electrochemical reaction",
+    "message_1": "What is the number of electrons transferred in a reaction where 2 moles of aluminum are oxidized and 3 moles of copper (II) ions are reduced in an electrolytic cell?",
+    "message_2": "In this reaction, aluminum is being oxidized and copper (II) ions are being reduced. The balanced half-reactions for this process are:\n\nOxidation half-reaction: Al → Al³⁺ + 3e⁻\nReduction half-reaction: Cu²⁺ + 2e⁻ → Cu\n\nSince we have 2 moles of aluminum being oxidized, the total number of electrons released in the oxidation half-reaction is:\n\n2 moles Al × (3 moles e⁻ / 1 mole Al) = 6 moles e⁻\n\nNow, we need to find the number of electrons required for the reduction of 3 moles of copper (II) ions:\n\n3 moles Cu²⁺ × (2 moles e⁻ / 1 mole Cu²⁺) = 6 moles e⁻\n\nIn this reaction, the number of electrons released by the oxidation of aluminum is equal to the number of electrons required for the reduction of copper (II) ions. Therefore, the total number of electrons transferred in this reaction is 6 moles of electrons."
+}

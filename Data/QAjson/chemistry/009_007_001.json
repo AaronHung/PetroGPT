@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Nuclear stability and decay modes",
+    "message_1": "What is the nuclear decay mode of a carbon-14 atom and what element is formed after the decay process?",
+    "message_2": "Carbon-14 undergoes beta-minus decay (β- decay), which is a type of radioactive decay where a neutron in the nucleus is converted into a proton, and an electron (called a beta particle) is emitted. In this process, an antineutrino is also released.\n\nWhen carbon-14 decays, it transforms into nitrogen-14, as the atomic number (number of protons) increases by one while the mass number (sum of protons and neutrons) remains the same. The decay equation can be written as:\n\n¹⁴C → ¹⁴N + β⁻ + ν̅\n\nwhere ¹⁴C is carbon-14, ¹⁴N is nitrogen-14, β⁻ is the emitted beta particle (electron), and ν̅ is the antineutrino."
+}

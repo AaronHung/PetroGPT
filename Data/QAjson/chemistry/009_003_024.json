@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Nuclear fission reactions",
+    "message_1": "What is the energy released in MeV when one atom of Uranium-235 undergoes nuclear fission?",
+    "message_2": "The energy released during the nuclear fission of one atom of Uranium-235 is approximately 200 MeV (Mega-electron volts). This value can vary slightly depending on the specific fission products produced in the reaction."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Analytical chemistry",
+    "sub_topic": "Quantification of the amount of a substance in a sample using gravimetric analysis",
+    "message_1": "\"What is the mass percentage of magnesium oxide in a sample if 1.152 grams of magnesium carbonate produced 0.784 grams of magnesium oxide after heating at 800°C?\"",
+    "message_2": "To find the mass percentage of magnesium oxide in the sample, we can use the following formula:\n\nMass percentage = (mass of magnesium oxide / mass of magnesium carbonate) × 100\n\nGiven that 1.152 grams of magnesium carbonate produced 0.784 grams of magnesium oxide after heating, we can plug these values into the formula:\n\nMass percentage = (0.784 g / 1.152 g) × 100\n\nMass percentage ≈ 0.6806 × 100\n\nMass percentage ≈ 68.06%\n\nTherefore, the mass percentage of magnesium oxide in the sample is approximately 68.06%."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the boiling and melting points of inorganic compounds",
+    "message_1": "What is the boiling point of MgCl2 (magnesium chloride) at 1 atm?",
+    "message_2": "The boiling point of magnesium chloride (MgCl2) at 1 atmosphere (atm) is approximately 1412 degrees Celsius (2574 degrees Fahrenheit)."
+}

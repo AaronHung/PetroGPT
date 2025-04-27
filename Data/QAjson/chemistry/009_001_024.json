@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Half-life calculations",
+    "message_1": "Surely! Here is a precise question for the student to solve: \n\nA sample of radon-222 has an initial activity of 4000 decays per minute (dpm). After 10 days, the activity of the sample has decreased to 1250 dpm. What is the half-life of radon-222?",
+    "message_2": "To solve this problem, we will use the radioactive decay formula:\n\nA = A0 * (1/2)^(t/T)\n\nWhere:\nA = final activity (1250 dpm)\nA0 = initial activity (4000 dpm)\nt = time elapsed (10 days)\nT = half-life (which we need to find)\n\nFirst, let's divide both sides of the equation by A0:\n\nA/A0 = (1/2)^(t/T)\n\nNow, plug in the given values:\n\n1250/4000 = (1/2)^(10/T)\n\n0.3125 = (1/2)^(10/T)\n\nTo solve for T, we can take the logarithm of both sides:\n\nlog(0.3125) = (10/T) * log(1/2)\n\nNow, divide both sides by log(1/2):\n\nlog(0.3125) / log(1/2) = 10/T\n\nNext, we can find the value of T by inverting the equation:\n\nT = 10 / (log(0.3125) / log(1/2))\n\nT ≈ 3.27 days\n\nSo, the half-life of radon-222 is approximately 3.27 days."
+}

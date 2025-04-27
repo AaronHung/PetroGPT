@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Alcohols and phenols",
+    "message_1": "Identify the major product (or products) of the following reaction: \n\nIn the presence of a strong acid catalyst, a primary alcohol R-CH2OH is treated with an excess of hydrogen halide (HX).",
+    "message_2": "The major product of the reaction between a primary alcohol (R-CH2OH) and an excess of hydrogen halide (HX) in the presence of a strong acid catalyst is an alkyl halide (R-CH2X), where R is the alkyl group and X is the halide. This reaction is known as nucleophilic substitution, specifically an SN1 or SN2 mechanism depending on the structure of the alkyl group (R). In this case, since it is a primary alcohol, the reaction will likely proceed via an SN2 mechanism."
+}

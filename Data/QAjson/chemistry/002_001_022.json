@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Balancing chemical equations for inorganic compounds",
+    "message_1": "How many moles of sulfuric acid (H2SO4) are required to react completely with 5 moles of magnesium hydroxide (Mg(OH)2) to produce magnesium sulfate (MgSO4) and water (H2O)?",
+    "message_2": "To determine the number of moles of sulfuric acid (H2SO4) required to react completely with 5 moles of magnesium hydroxide (Mg(OH)2), we need to first write the balanced chemical equation for the reaction:\n\nMg(OH)2 + H2SO4 → MgSO4 + 2H2O\n\nFrom the balanced equation, we can see that 1 mole of Mg(OH)2 reacts with 1 mole of H2SO4 to produce 1 mole of MgSO4 and 2 moles of H2O.\n\nSince we have 5 moles of Mg(OH)2, we will need 5 moles of H2SO4 to react completely with it."
+}

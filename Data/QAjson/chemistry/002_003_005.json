@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the solubility of inorganic salts in water",
+    "message_1": "What is the solubility of sodium chloride (NaCl) in water at room temperature?",
+    "message_2": "The solubility of sodium chloride (NaCl) in water at room temperature (approximately 25°C or 77°F) is about 35.9 grams per 100 milliliters of water. This means that at room temperature, you can dissolve approximately 35.9 grams of NaCl in 100 milliliters of water before the solution becomes saturated."
+}

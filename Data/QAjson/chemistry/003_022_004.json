@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Solvation and solubility phenomena",
+    "message_1": "What is the effect of temperature on the solubility of potassium nitrate in water?",
+    "message_2": "The solubility of potassium nitrate (KNO₃) in water is directly affected by temperature. As the temperature of the water increases, the solubility of potassium nitrate also increases. This means that more potassium nitrate can dissolve in water at higher temperatures compared to lower temperatures.\n\nThis relationship can be represented by a solubility curve, which is a graph showing the solubility of a solute (in this case, potassium nitrate) as a function of temperature. For potassium nitrate, the curve has a positive slope, indicating that solubility increases with increasing temperature.\n\nFor example, at 20°C (68°F), the solubility of potassium nitrate in water is approximately 32 grams per 100 grams of water. However, at 100°C (212°F), the solubility increases to around 247 grams per 100 grams of water.\n\nThis temperature-dependent solubility is a common characteristic of many ionic compounds and can be utilized in various applications, such as recrystallization for purification purposes or adjusting solubility for chemical reactions."
+}

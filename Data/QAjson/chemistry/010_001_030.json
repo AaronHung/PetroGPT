@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of standard electrode potentials",
+    "message_1": "What is the standard half-cell potential of the following reaction: Zn(s) + Cu2+(aq) → Zn2+(aq) + Cu(s) given that the standard half-cell potential of Zn2+(aq)|Zn(s) is -0.76 V and the standard reduction potential for Cu2+(aq)|Cu(s) is +0.34 V?",
+    "message_2": "To find the standard half-cell potential of the given reaction, we need to use the Nernst equation. The Nernst equation states that the overall cell potential (E_cell) is equal to the difference between the reduction potential of the cathode (E_cathode) and the reduction potential of the anode (E_anode).\n\nE_cell = E_cathode - E_anode\n\nIn this reaction, Zn(s) is being oxidized to Zn2+(aq), so it is the anode, and Cu2+(aq) is being reduced to Cu(s), so it is the cathode. We are given the standard reduction potential for Cu2+(aq)|Cu(s) as +0.34 V and the standard half-cell potential for Zn2+(aq)|Zn(s) as -0.76 V. Since Zn(s) is being oxidized, we need to reverse the sign of its potential to get the oxidation potential:\n\nE_anode = -(-0.76 V) = +0.76 V\n\nNow we can plug these values into the Nernst equation:\n\nE_cell = E_cathode - E_anode\nE_cell = (+0.34 V) - (+0.76 V)\nE_cell = -0.42 V\n\nThe standard half-cell potential of the given reaction is -0.42 V."
+}

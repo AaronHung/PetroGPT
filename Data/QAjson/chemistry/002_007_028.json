@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the products of inorganic reactions",
+    "message_1": "What will be the products of the reaction between magnesium metal and hydrochloric acid? Write the balanced chemical equation for the reaction and identify the type of reaction.",
+    "message_2": "When magnesium metal reacts with hydrochloric acid, the products formed are magnesium chloride and hydrogen gas. The balanced chemical equation for the reaction is:\n\nMg (s) + 2 HCl (aq) → MgCl₂ (aq) + H₂ (g)\n\nThis reaction is an example of a single displacement reaction, where magnesium displaces hydrogen from hydrochloric acid to form magnesium chloride and hydrogen gas."
+}

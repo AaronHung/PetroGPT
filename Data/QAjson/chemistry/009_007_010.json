@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Nuclear stability and decay modes",
+    "message_1": "What is the decay mode and the resulting product when the radioactive isotope of carbon, Carbon-14, undergoes beta decay?",
+    "message_2": "When Carbon-14 undergoes beta decay, it emits a beta particle (an electron) and an antineutrino. The decay mode is β- decay. The resulting product is Nitrogen-14, as one of the neutrons in the Carbon-14 nucleus is converted into a proton. The equation for this decay process is:\n\n¹⁴C → ¹⁴N + β⁻ + ν̅e"
+}

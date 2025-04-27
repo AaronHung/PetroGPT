@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Isotope notation and identification",
+    "message_1": "What is the symbol and number of protons, neutrons, and electrons in the isotope nitrogen-15?",
+    "message_2": "The symbol for nitrogen is N. Nitrogen-15 is an isotope of nitrogen, which means it has a different number of neutrons compared to the most common nitrogen isotope (nitrogen-14).\n\nFor nitrogen-15:\n- The atomic number (number of protons) is 7 (same for all nitrogen isotopes).\n- The number of electrons is also 7 (assuming it's a neutral atom with no charge).\n- The mass number (sum of protons and neutrons) is 15. To find the number of neutrons, subtract the number of protons from the mass number: 15 - 7 = 8 neutrons.\n\nSo, nitrogen-15 (N-15) has 7 protons, 8 neutrons, and 7 electrons."
+}

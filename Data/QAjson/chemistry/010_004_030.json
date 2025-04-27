@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the cell potential for a given electrochemical reaction",
+    "message_1": "An aqueous solution of 1.0 M HCl is oxidized by a lead anode in a half-cell, while a half-cell with a hydrogen electrode is used as the standard reduction potential. If the electrode potential of the lead electrode is -0.13 V, what is the cell potential of the overall reaction?",
+    "message_2": "To determine the cell potential of the overall reaction, we need to consider the standard reduction potentials of both half-cells. The standard reduction potential of the hydrogen electrode is 0 V by definition. The electrode potential of the lead electrode is given as -0.13 V.\n\nThe overall cell potential (E_cell) can be calculated using the formula:\n\nE_cell = E_cathode - E_anode\n\nIn this case, the hydrogen electrode is the cathode (since it has a higher reduction potential) and the lead electrode is the anode. Plugging the values into the formula:\n\nE_cell = 0 V - (-0.13 V) = 0.13 V\n\nThe cell potential of the overall reaction is 0.13 V."
+}

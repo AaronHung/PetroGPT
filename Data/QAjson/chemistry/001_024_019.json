@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Spectroscopic techniques in organic chemistry",
+    "message_1": "What is the identity of an unknown organic compound that gives a strong absorption peak at 1700 cm^-1 in its infrared spectrum?",
+    "message_2": "A strong absorption peak at 1700 cm^-1 in the infrared spectrum is indicative of a carbonyl group (C=O) present in the unknown organic compound. The carbonyl group is a common functional group found in various organic compounds such as aldehydes, ketones, carboxylic acids, esters, and amides.\n\nTo determine the exact identity of the unknown organic compound, more information is needed, such as additional absorption peaks in the infrared spectrum, NMR data, or mass spectrometry data. This will help narrow down the possibilities and identify the specific compound."
+}

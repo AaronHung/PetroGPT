@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Crystallography and crystal structures",
+    "message_1": "What is the crystal structure and coordination number of the metal atom in copper (II) sulfate pentahydrate?",
+    "message_2": "Copper (II) sulfate pentahydrate (CuSO4·5H2O) has a triclinic crystal structure. In this structure, the copper (Cu) atom is surrounded by four oxygen atoms from water molecules and two oxygen atoms from the sulfate ion (SO4), forming an octahedral geometry. Therefore, the coordination number of the metal atom (Cu) in copper (II) sulfate pentahydrate is 6."
+}

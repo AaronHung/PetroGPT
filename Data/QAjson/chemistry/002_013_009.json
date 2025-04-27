@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Determining the hybridization of inorganic compounds",
+    "message_1": "What is the hybridization of the central atom in the molecule H2SO4?",
+    "message_2": "In H2SO4, the central atom is sulfur (S). To determine the hybridization of the central atom, we need to consider the number of electron domains around it.\n\nSulfur is in group 6A of the periodic table and has 6 valence electrons. In H2SO4, sulfur forms two single bonds with two hydrogens and two double bonds with two oxygens. This results in a total of 4 electron domains (2 single bonds and 2 double bonds).\n\nAccording to the VSEPR theory, 4 electron domains correspond to a tetrahedral geometry, which requires sp³ hybridization. Therefore, the hybridization of the central atom (sulfur) in the H2SO4 molecule is sp³."
+}

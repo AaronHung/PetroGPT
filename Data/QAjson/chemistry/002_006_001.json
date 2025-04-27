@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the molar mass of inorganic compounds",
+    "message_1": "Calculate the molar mass of magnesium nitrate [Mg(NO3)2].",
+    "message_2": "To calculate the molar mass of magnesium nitrate [Mg(NO3)2], we need to find the molar mass of each element in the compound and then add them together.\n\n1. Magnesium (Mg): The molar mass of magnesium is 24.305 g/mol.\n\n2. Nitrogen (N): The molar mass of nitrogen is 14.007 g/mol. Since there are two nitrogen atoms in each nitrate ion (NO3-) and two nitrate ions in the compound, there are a total of 4 nitrogen atoms. So, the total molar mass of nitrogen in the compound is 4 * 14.007 g/mol = 56.028 g/mol.\n\n3. Oxygen (O): The molar mass of oxygen is 15.999 g/mol. There are three oxygen atoms in each nitrate ion (NO3-) and two nitrate ions in the compound, making a total of 6 oxygen atoms. So, the total molar mass of oxygen in the compound is 6 * 15.999 g/mol = 95.994 g/mol.\n\nNow, we add the molar masses of magnesium, nitrogen, and oxygen together:\n\nMolar mass of Mg(NO3)2 = 24.305 g/mol (Mg) + 56.028 g/mol (N) + 95.994 g/mol (O) = 176.327 g/mol\n\nSo, the molar mass of magnesium nitrate [Mg(NO3)2] is 176.327 g/mol."
+}

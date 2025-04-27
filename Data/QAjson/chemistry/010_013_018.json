@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the number of electrons transferred in an electrochemical reaction",
+    "message_1": "What is the number of electrons that are transferred in the following reaction: \nMnO<sub>4</sub><sup>-</sup> + 8H<sup>+</sup> + 5e<sup>-</sup> → Mn<sup>2+</sup> + 4H<sub>2</sub>O",
+    "message_2": "In the given reaction, 5 electrons (5e⁻) are transferred from the reactant side to the product side. This can be seen in the balanced equation:\n\nMnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O"
+}

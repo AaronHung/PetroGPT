@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the Faraday constant",
+    "message_1": "A student needs to calculate the Faraday constant for the reduction of copper ions in a solution using a current of 2.5 amperes for 5 minutes. If the mass of copper deposited on the cathode was 0.3 grams, what is the value of the Faraday constant?",
+    "message_2": "To calculate the Faraday constant, we can use the following formula:\n\nFaraday constant (F) = (I * t) / (n * m)\n\nwhere:\nI = current (in amperes)\nt = time (in seconds)\nn = number of moles of electrons transferred per mole of substance (for copper, n = 2, as the reaction is Cu²⁺ + 2e⁻ → Cu)\nm = mass of substance deposited (in grams)\n\nFirst, we need to convert the time from minutes to seconds:\n\n5 minutes * 60 seconds/minute = 300 seconds\n\nNext, we need to find the number of moles of copper deposited:\n\nThe molar mass of copper (Cu) is approximately 63.5 g/mol. \n\nmoles of Cu = mass of Cu / molar mass of Cu\nmoles of Cu = 0.3 g / 63.5 g/mol ≈ 0.0047 mol\n\nNow we can plug the values into the formula:\n\nF = (2.5 A * 300 s) / (2 * 0.0047 mol)\nF ≈ 79545.74 C/mol\n\nThe Faraday constant is approximately 79,546 C/mol."
+}

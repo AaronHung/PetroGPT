@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Aromatic compounds",
+    "message_1": "Identify the major product and write the reaction mechanism for the bromination of toluene in the presence of iron (III) bromide as a catalyst.",
+    "message_2": "The major product of the bromination of toluene in the presence of iron (III) bromide as a catalyst is ortho-bromotoluene and para-bromotoluene, with para-bromotoluene being the major product due to steric hindrance.\n\nReaction mechanism:\n\n1. Formation of the electrophile:\nFeBr3 + Br2 → Br+ + FeBr4-\n\n2. Electrophilic aromatic substitution:\nToluene reacts with the electrophile (Br+) at the ortho and para positions due to the electron-donating effect of the methyl group, forming a resonance-stabilized carbocation.\n\n3. Deprotonation:\nThe carbocation loses a proton to the FeBr4- ion, regenerating the FeBr3 catalyst and forming the final products, ortho-bromotoluene and para-bromotoluene.\n\nOverall reaction:\nToluene + Br2 + FeBr3 → ortho-bromotoluene + para-bromotoluene + HBr + FeBr3"
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Nuclear fission reactions",
+    "message_1": "How much energy is released during the nuclear fission of one atom of uranium-235 and what are the daughter products generated as a result of the fission reaction?",
+    "message_2": "During the nuclear fission of one atom of uranium-235, approximately 200 MeV (million electron volts) of energy is released. This energy is primarily in the form of kinetic energy of the fission fragments and the release of neutrons and gamma radiation.\n\nThe daughter products generated as a result of the fission reaction are highly variable, as uranium-235 can undergo fission in multiple ways, producing different combinations of fission products. Some common fission products include isotopes of krypton, barium, strontium, cesium, and iodine, among others. Additionally, 2-3 neutrons are typically released during the fission of uranium-235, which can go on to cause further fission reactions in a chain reaction."
+}

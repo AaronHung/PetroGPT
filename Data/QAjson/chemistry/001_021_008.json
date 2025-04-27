@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Elimination reactions",
+    "message_1": "What is the major product formed in the elimination reaction of 2-methylcyclohexanol with concentrated sulfuric acid at high temperature?",
+    "message_2": "The major product formed in the elimination reaction of 2-methylcyclohexanol with concentrated sulfuric acid at high temperature is 1-methylcyclohexene. This reaction proceeds via an E1 mechanism, where the alcohol is first protonated by the sulfuric acid to form a good leaving group (water), and then a carbocation is formed at the 2-position. Finally, a β-hydrogen is removed, and the double bond is formed to give the more stable alkene, which is 1-methylcyclohexene due to the Zaitsev's rule."
+}

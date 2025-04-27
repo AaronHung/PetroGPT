@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Gamma spectroscopy",
+    "message_1": "What is the energy of a gamma ray emitted during the decay of cesium-137 nucleus? Given that the decay scheme is: \ncesium-137 → barium-137m + gamma ray. The half-life of cesium-137 is 30.1 years and the fraction of cesium-137 remaining after 150.5 years is 0.2.",
+    "message_2": "The energy of the gamma ray emitted during the decay of cesium-137 nucleus can be found by looking up the decay scheme of cesium-137. In this decay, cesium-137 (Cs-137) undergoes beta decay to form barium-137m (Ba-137m), which is a metastable nuclear isomer. The Ba-137m then undergoes gamma decay to reach its stable ground state (Ba-137).\n\nThe gamma ray emitted during this process has an energy of approximately 661.7 keV (kilo-electron volts). This value is a well-known and experimentally determined energy for the gamma ray emitted during the decay of Cs-137 to Ba-137m."
+}

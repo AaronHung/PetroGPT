@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the mass of a substance deposited or dissolved during an electrochemical reaction",
+    "message_1": "What mass of copper is deposited on a cathode when a current of 2.5 A passes through a solution of copper(II) sulphate for 30 minutes? (Given: Atomic mass of copper = 63.5 g/mol, Faraday constant = 96500 C/mol)",
+    "message_2": "To solve this problem, we will use Faraday's laws of electrolysis. The mass of copper deposited on the cathode can be calculated using the following formula:\n\nmass = (current × time × molar mass) / (n × Faraday constant)\n\nwhere:\n- mass is the mass of copper deposited (in grams)\n- current is the electric current (in amperes)\n- time is the duration of the electrolysis (in seconds)\n- molar mass is the molar mass of copper (in grams per mole)\n- n is the number of electrons involved in the redox reaction (in this case, 2 for the Cu²⁺ ion)\n- Faraday constant is the charge of one mole of electrons (in coulombs per mole)\n\nFirst, let's convert the time from minutes to seconds:\n\n30 minutes × 60 seconds/minute = 1800 seconds\n\nNow, we can plug the values into the formula:\n\nmass = (2.5 A × 1800 s × 63.5 g/mol) / (2 × 96500 C/mol)\n\nmass = (4500 C × 63.5 g/mol) / (193000 C/mol)\n\nmass ≈ 1.47 g\n\nSo, approximately 1.47 grams of copper will be deposited on the cathode when a current of 2.5 A passes through a solution of copper(II) sulphate for 30 minutes."
+}

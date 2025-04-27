@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Nuclear stability and decay modes",
+    "message_1": "What is the decay mode of Co-60, and how long will it take for half of a sample of Co-60 to decay into Ni-60?",
+    "message_2": "The decay mode of Cobalt-60 (Co-60) is beta decay. In this process, Co-60 decays into Nickel-60 (Ni-60) by emitting beta particles (high-energy electrons) and gamma radiation.\n\nThe half-life of Co-60, which is the time it takes for half of a sample to decay into Ni-60, is approximately 5.27 years."
+}

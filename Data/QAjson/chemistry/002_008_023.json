@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the percent composition of inorganic compounds",
+    "message_1": "What is the percent composition (by mass) of sulfur in a sample of sulfuric acid (H2SO4) that contains 6.25 grams of sulfur and has a total mass of 98.08 grams?",
+    "message_2": "To find the percent composition (by mass) of sulfur in the sample of sulfuric acid, you can use the following formula:\n\nPercent composition = (mass of sulfur / total mass of the sample) × 100\n\nIn this case, the mass of sulfur is 6.25 grams, and the total mass of the sample is 98.08 grams. Plugging these values into the formula, we get:\n\nPercent composition = (6.25 g / 98.08 g) × 100\n\nPercent composition ≈ 0.0637 × 100\n\nPercent composition ≈ 6.37%\n\nSo, the percent composition (by mass) of sulfur in the sample of sulfuric acid is approximately 6.37%."
+}

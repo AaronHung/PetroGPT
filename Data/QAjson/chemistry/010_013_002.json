@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the number of electrons transferred in an electrochemical reaction",
+    "message_1": "What is the number of electrons transferred in the following electrochemical reaction:\n2AgCl(s) + H2(g) → 2HCl(aq) + 2Ag(s) \n\nHint: First, balance the oxidation and reduction half-reactions and then determine the number of electrons transferred in each half-reaction.",
+    "message_2": "First, we need to identify the oxidation and reduction half-reactions. In this case, Ag is being reduced (gaining electrons) and H is being oxidized (losing electrons).\n\nReduction half-reaction: AgCl(s) → Ag(s) + Cl^-(aq)\nOxidation half-reaction: H2(g) → 2H^+(aq) + 2e^-\n\nNow, we need to balance the half-reactions. The reduction half-reaction is already balanced. For the oxidation half-reaction, we need to add 2Cl^-(aq) to the right side to balance the Cl atoms:\n\nOxidation half-reaction: H2(g) + 2Cl^-(aq) → 2H^+(aq) + 2e^- + 2Cl^-(aq)\n\nNow, we can add the half-reactions together:\n\n2AgCl(s) + H2(g) → 2Ag(s) + 2H^+(aq) + 2e^- + 2Cl^-(aq)\n\nThe number of electrons transferred in this reaction is 2."
+}

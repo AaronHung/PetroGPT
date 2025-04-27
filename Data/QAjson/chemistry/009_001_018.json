@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Half-life calculations",
+    "message_1": "A sample of a radioactive isotope has an initial activity of 500 counts per minute (cpm). After 24 hours, the activity decreases to 125 cpm due to radioactive decay. What is the half-life of the isotope?",
+    "message_2": "To find the half-life of the radioactive isotope, we can use the decay formula:\n\nFinal activity = Initial activity * (1/2)^(time elapsed / half-life)\n\nIn this case, the final activity is 125 cpm, the initial activity is 500 cpm, and the time elapsed is 24 hours. We want to find the half-life (T).\n\n125 = 500 * (1/2)^(24 / T)\n\nDivide both sides by 500:\n\n0.25 = (1/2)^(24 / T)\n\nNow, take the logarithm of both sides:\n\nlog(0.25) = log((1/2)^(24 / T))\n\nUsing the logarithm property, we can rewrite the right side of the equation:\n\nlog(0.25) = (24 / T) * log(1/2)\n\nNow, solve for T:\n\nT = (24 * log(1/2)) / log(0.25)\n\nT ≈ 12 hours\n\nSo, the half-life of the radioactive isotope is approximately 12 hours."
+}

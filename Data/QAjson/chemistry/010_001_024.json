@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of standard electrode potentials",
+    "message_1": "Calculate the standard electrode potential of the following cell reaction at 25°C: \nCu(s) | Cu2+ (0.01 M) || Zn2+ (1.0 M) | Zn(s)",
+    "message_2": "To calculate the standard electrode potential of the given cell reaction, we can use the Nernst equation. First, we need to know the standard reduction potentials for the half-reactions:\n\nCu2+ + 2e- → Cu(s)  E°(Cu2+/Cu) = +0.34 V\nZn2+ + 2e- → Zn(s)  E°(Zn2+/Zn) = -0.76 V\n\nThe overall cell reaction is:\n\nCu2+ + Zn(s) → Cu(s) + Zn2+\n\nNow, we can use the Nernst equation to find the electrode potential (E) at the given concentrations:\n\nE = E°(cell) - (RT/nF) * ln(Q)\n\nwhere E°(cell) is the standard cell potential, R is the gas constant (8.314 J/mol·K), T is the temperature in Kelvin (25°C = 298.15 K), n is the number of electrons transferred (2 in this case), F is the Faraday constant (96485 C/mol), and Q is the reaction quotient.\n\nFirst, we need to find E°(cell):\n\nE°(cell) = E°(Cu2+/Cu) - E°(Zn2+/Zn) = 0.34 V - (-0.76 V) = 1.10 V\n\nNow, we can calculate Q:\n\nQ = [Zn2+]/[Cu2+] = (1.0 M)/(0.01 M) = 100\n\nNow, we can plug these values into the Nernst equation:\n\nE = 1.10 V - (8.314 J/mol·K * 298.15 K)/(2 * 96485 C/mol) * ln(100)\nE = 1.10 V - (0.0257 V) * ln(100)\nE = 1.10 V - 0.0257 V * 4.605\nE ≈ 1.10 V - 0.118 V\nE ≈ 0.982 V\n\nSo, the standard electrode potential of the given cell reaction at 25°C is approximately 0.982 V."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Electrophilic addition reactions",
+    "message_1": "What is the mechanism of electrophilic addition reaction of chlorine with ethene? Draw the reaction mechanism and identify the major product formed.",
+    "message_2": "The electrophilic addition reaction of chlorine (Cl2) with ethene (C2H4) involves the following steps:\n\n1. Formation of the electrophile: Chlorine molecule (Cl2) is a non-polar molecule, but it can be polarized by the electron-rich double bond of ethene. The polarization of the chlorine molecule leads to the formation of a positively charged chlorine electrophile (Cl+) and a negatively charged chlorine anion (Cl-).\n\nCl2 → Cl+ + Cl-\n\n2. Attack of the electrophile on the double bond: The positively charged chlorine electrophile (Cl+) attacks the electron-rich double bond of ethene (C2H4). This results in the formation of a carbocation intermediate and the breaking of the double bond.\n\nC2H4 + Cl+ → [C2H4Cl]+\n\n3. Capture of the carbocation by the nucleophile: The negatively charged chlorine anion (Cl-) formed in the first step acts as a nucleophile and attacks the carbocation intermediate, forming a new bond with the positively charged carbon atom.\n\n[C2H4Cl]+ + Cl- → C2H4Cl2\n\nThe major product formed in this reaction is 1,2-dichloroethane (C2H4Cl2), which is an alkyl halide. The reaction mechanism can be visualized as follows:\n\n      Cl2\n       |\nC=C + Cl-Cl → Cl-C-C-Cl\n  |         |\n H H       H H"
+}

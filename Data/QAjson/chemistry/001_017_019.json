@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Oxidation and reduction reactions",
+    "message_1": "What is the oxidation state of carbon in ethanol when it is converted to acetic acid?",
+    "message_2": "To determine the oxidation state change of carbon in ethanol when it is converted to acetic acid, we need to know the molecular formulas of both compounds and then assign oxidation numbers to the carbon atoms in each.\n\nEthanol has the molecular formula C2H5OH, and acetic acid has the molecular formula CH3COOH.\n\nIn ethanol, the carbon atom bonded to the hydroxyl group (OH) has the following bonds:\n- One bond with oxygen (more electronegative, so it \"takes\" the electrons)\n- One bond with another carbon (same electronegativity, so no change)\n- Two bonds with hydrogen (less electronegative, so carbon \"takes\" the electrons)\n\nOxidation state of this carbon in ethanol = +1\n\nIn acetic acid, the carbon atom bonded to the hydroxyl group (OH) and the carbonyl group (C=O) has the following bonds:\n- One bond with oxygen in the hydroxyl group (more electronegative, so it \"takes\" the electrons)\n- Two bonds with oxygen in the carbonyl group (more electronegative, so it \"takes\" the electrons)\n- One bond with another carbon (same electronegativity, so no change)\n\nOxidation state of this carbon in acetic acid = +3\n\nThe oxidation state of the carbon atom in question has increased from +1 in ethanol to +3 in acetic acid, indicating that it has been oxidized."
+}

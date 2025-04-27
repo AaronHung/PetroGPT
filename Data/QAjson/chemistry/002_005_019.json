@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Identifying the type of inorganic compound (ionic, covalent, metallic)",
+    "message_1": "Identify the type of inorganic compound formed between sodium and chlorine.",
+    "message_2": "The inorganic compound formed between sodium and chlorine is sodium chloride (NaCl). It is an ionic compound, as it is formed through the transfer of electrons between a metal (sodium) and a non-metal (chlorine)."
+}

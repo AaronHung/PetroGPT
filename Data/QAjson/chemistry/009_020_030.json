@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Isotopic labeling in chemistry",
+    "message_1": "What is the percentage of carbon-14 in a sample of organic material that is approximately 8,000 years old, assuming the original amount of carbon-14 was 100%?",
+    "message_2": "To determine the percentage of carbon-14 remaining in a sample of organic material, we can use the concept of half-life. The half-life of carbon-14 is approximately 5,730 years. This means that after 5,730 years, half of the initial amount of carbon-14 will have decayed, and half will remain.\n\nTo find out how many half-lives have passed in 8,000 years, we can use the following formula:\n\nNumber of half-lives = (Age of the sample) / (Half-life of carbon-14)\n\nNumber of half-lives = 8,000 years / 5,730 years ≈ 1.396 half-lives\n\nNow, we can calculate the percentage of carbon-14 remaining in the sample using the formula:\n\nPercentage of carbon-14 remaining = (Initial amount of carbon-14) * (1/2)^(Number of half-lives)\n\nSince the initial amount of carbon-14 was 100%, we can plug in the values:\n\nPercentage of carbon-14 remaining = 100% * (1/2)^1.396 ≈ 100% * 0.242 ≈ 24.2%\n\nTherefore, approximately 24.2% of the original carbon-14 remains in the sample after 8,000 years."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Solvation and solubility phenomena",
+    "message_1": "What is the maximum amount of potassium chloride (KCl) that can be dissolved in 100 mL of water at 25°C?",
+    "message_2": "The solubility of potassium chloride (KCl) in water at 25°C is approximately 34 grams per 100 mL of water. Therefore, the maximum amount of KCl that can be dissolved in 100 mL of water at 25°C is 34 grams."
+}

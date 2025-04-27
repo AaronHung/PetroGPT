@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the enthalpy and entropy of inorganic reactions",
+    "message_1": "Calculate the standard entropy change for the reaction: \n\n2SO3(g) + O2(g) → 2SO4(g) \n\nGiven the following standard entropies of formation: \n\nΔS°f SO3(g) = 256.2 J/K mol \nΔS°f O2(g) = 205.0 J/K mol \nΔS°f SO4(g) = 296.8 J/K mol",
+    "message_2": "To calculate the standard entropy change (ΔS°) for the reaction, we can use the following equation:\n\nΔS° = ΣnΔS°f(products) - ΣnΔS°f(reactants)\n\nwhere n is the stoichiometric coefficient of each species in the balanced chemical equation.\n\nFor the given reaction:\n\n2SO3(g) + O2(g) → 2SO4(g)\n\nWe can plug in the given standard entropies of formation (ΔS°f) for each species:\n\nΔS° = [2 × ΔS°f(SO4) - (2 × ΔS°f(SO3) + ΔS°f(O2))]\n\nNow, substitute the given values:\n\nΔS° = [2 × 296.8 J/K mol - (2 × 256.2 J/K mol + 205.0 J/K mol)]\n\nΔS° = [593.6 J/K mol - (512.4 J/K mol + 205.0 J/K mol)]\n\nΔS° = 593.6 J/K mol - 717.4 J/K mol\n\nΔS° = -123.8 J/K mol\n\nThe standard entropy change for the reaction is -123.8 J/K mol."
+}

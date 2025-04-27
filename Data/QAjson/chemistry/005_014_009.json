@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Biochemistry",
+    "sub_topic": "Glycolysis and gluconeogenesis",
+    "message_1": "How many ATP molecules are produced during glycolysis and what is the net gain of ATP molecules in glycolysis?",
+    "message_2": "During glycolysis, a total of 4 ATP molecules are produced. However, 2 ATP molecules are consumed in the initial steps of glycolysis. Therefore, the net gain of ATP molecules in glycolysis is 2 ATP molecules."
+}

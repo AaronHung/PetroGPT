@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Positron emission tomography (PET)",
+    "message_1": "What is the decay equation for the positron emission of fluorine-18, which is commonly used in PET scans to visualize brain activity, and how does it change the atomic and mass numbers of the nucleus involved in the decay?",
+    "message_2": "The decay equation for the positron emission of fluorine-18 is:\n\nF-18 → O-18 + e+ + νe\n\nIn this equation, F-18 (fluorine-18) undergoes positron emission and decays into O-18 (oxygen-18), a positron (e+), and a neutrino (νe).\n\nDuring this decay process, the atomic number (Z) decreases by 1, and the mass number (A) remains the same. Fluorine-18 has an atomic number of 9 and a mass number of 18. After the decay, oxygen-18 has an atomic number of 8 and a mass number of 18."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Chemical equilibria and equilibrium constants.",
+    "message_1": "What is the equilibrium constant for the following chemical reaction at 25°C: \n\n2 SO2(g) + O2(g) ⇌ 2 SO3(g)\n\nGiven the concentrations of SO2 and O2 to be 0.1 M and 0.05 M, respectively, and the concentration of SO3 to be 0.2 M at equilibrium.",
+    "message_2": "To find the equilibrium constant (Kc) for the given reaction, we need to use the expression for Kc, which is the ratio of the concentrations of the products raised to their stoichiometric coefficients divided by the concentrations of the reactants raised to their stoichiometric coefficients.\n\nFor the given reaction:\n\n2 SO2(g) + O2(g) ⇌ 2 SO3(g)\n\nThe expression for Kc is:\n\nKc = [SO3]^2 / ([SO2]^2 * [O2])\n\nAt equilibrium, the concentrations are given as:\n\n[SO2] = 0.1 M\n[O2] = 0.05 M\n[SO3] = 0.2 M\n\nNow, we can plug these values into the Kc expression:\n\nKc = (0.2)^2 / ((0.1)^2 * (0.05))\n\nKc = 0.04 / (0.01 * 0.05)\n\nKc = 0.04 / 0.0005\n\nKc = 80\n\nSo, the equilibrium constant (Kc) for the given reaction at 25°C is 80."
+}

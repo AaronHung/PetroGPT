@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of standard electrode potentials",
+    "message_1": "What is the standard electrode potential of a silver electrode (Ag) when it is dipped in a solution of silver nitrate (AgNO3) at 298 K and 1 atm pressure? The reduction half-reaction for silver is: Ag+(aq) + e- -> Ag(s).",
+    "message_2": "The standard electrode potential (E°) for the reduction half-reaction of silver (Ag) is a constant value that can be found in standard reduction potential tables. For the given half-reaction:\n\nAg+(aq) + e- -> Ag(s)\n\nThe standard electrode potential (E°) is +0.7996 V at 298 K and 1 atm pressure."
+}

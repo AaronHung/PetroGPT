@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Functional groups and their reactions",
+    "message_1": "Identify the functional group present in the following compound and predict the reaction it undergoes with bromine water: CH3CH2OH.",
+    "message_2": "The compound CH3CH2OH is ethanol. The functional group present in this compound is the hydroxyl group (-OH), which makes it an alcohol.\n\nWhen ethanol reacts with bromine water (Br2/H2O), it undergoes a substitution reaction, specifically a halogenation reaction. In this reaction, the bromine atom replaces the hydrogen atom of the hydroxyl group, forming ethyl bromide (CH3CH2Br) and water (H2O) as products.\n\nThe balanced chemical equation for this reaction is:\n\nCH3CH2OH + Br2 → CH3CH2Br + H2O"
+}

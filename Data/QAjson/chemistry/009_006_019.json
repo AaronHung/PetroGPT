@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Isotope notation and identification",
+    "message_1": "What is the isotopic notation for carbon-14, and how many protons, neutrons, and electrons are present in the nucleus and atomic structure of the carbon-14 isotope?",
+    "message_2": "The isotopic notation for carbon-14 is written as ¹⁴C or C-14, where 14 is the mass number (sum of protons and neutrons) and C is the chemical symbol for carbon.\n\nCarbon-14 has:\n- 6 protons (since the atomic number of carbon is 6)\n- 8 neutrons (14 - 6 = 8)\n- 6 electrons (equal to the number of protons in a neutral atom)\n\nSo, in the nucleus of carbon-14, there are 6 protons and 8 neutrons, and in the atomic structure, there are 6 electrons."
+}

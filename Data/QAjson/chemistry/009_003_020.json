@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Nuclear fission reactions",
+    "message_1": "How much energy is released in the fission reaction of one atom of uranium-235?",
+    "message_2": "The energy released in the fission reaction of one atom of uranium-235 (U-235) is approximately 200 MeV (million electron volts) per fission event. This value can vary slightly depending on the specific fission products and neutrons produced in the reaction. To convert this energy to joules, you can use the conversion factor:\n\n1 eV = 1.602 x 10^(-19) J\n\nSo, the energy released in joules is:\n\n200 MeV * (10^6 eV/MeV) * (1.602 x 10^(-19) J/eV) ≈ 3.204 x 10^(-11) J\n\nThus, the energy released in the fission reaction of one atom of uranium-235 is approximately 3.204 x 10^(-11) joules."
+}

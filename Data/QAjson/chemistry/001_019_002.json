@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Nucleophilic substitution reactions",
+    "message_1": "Which type of nucleophilic substitution reaction will occur when 1-bromobutane is reacted with sodium methoxide in methanol, and what is the mechanism of this reaction?",
+    "message_2": "When 1-bromobutane is reacted with sodium methoxide in methanol, a nucleophilic substitution reaction called SN2 (Substitution Nucleophilic Bimolecular) will occur. The mechanism of this reaction is as follows:\n\n1. Sodium methoxide (CH3O-Na+) dissociates into a methoxide ion (CH3O-) and a sodium ion (Na+). The methoxide ion acts as a strong nucleophile.\n\n2. The methoxide ion (CH3O-) attacks the electrophilic carbon atom (the one bonded to the bromine) in 1-bromobutane from the backside, opposite to the leaving group (Br-).\n\n3. As the methoxide ion forms a bond with the electrophilic carbon, the carbon-bromine bond starts to break, and the bromide ion (Br-) is released as a leaving group.\n\n4. The product of this reaction is 1-methoxybutane, and the reaction proceeds with inversion of configuration at the electrophilic carbon due to the backside attack of the nucleophile.\n\nThe overall reaction can be written as:\n\nCH3CH2CH2CH2Br + CH3O-Na+ → CH3CH2CH2CH2OCH3 + NaBr"
+}

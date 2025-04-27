@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the density of inorganic compounds",
+    "message_1": "What is the density of sodium carbonate (Na2CO3) with a mass of 10 grams and a volume of 0.025 L at a temperature of 25°C? (The molar mass of Na2CO3 is 105.99 g/mol.)",
+    "message_2": "To find the density of sodium carbonate, we can use the formula:\n\nDensity = mass/volume\n\nGiven the mass of sodium carbonate is 10 grams and the volume is 0.025 L, we can plug these values into the formula:\n\nDensity = 10 g / 0.025 L = 400 g/L\n\nSo, the density of sodium carbonate at 25°C is 400 g/L."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Radiation detection and measurement",
+    "message_1": "What is the minimum detectable activity of a gamma-ray detector with an efficiency of 20% for a radioactive sample that has a specific activity of 200 Bq/g?",
+    "message_2": "To find the minimum detectable activity (MDA) of a gamma-ray detector, we need to consider the efficiency of the detector and the specific activity of the radioactive sample.\n\nEfficiency (ε) = 20% = 0.20\nSpecific activity (A_s) = 200 Bq/g\n\nThe minimum detectable activity (MDA) can be calculated using the following formula:\n\nMDA = A_s / ε\n\nMDA = 200 Bq/g / 0.20\n\nMDA = 1000 Bq/g\n\nThe minimum detectable activity of the gamma-ray detector is 1000 Bq/g."
+}

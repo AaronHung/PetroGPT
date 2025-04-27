@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Identifying the type of inorganic solid (ionic, covalent, metallic)",
+    "message_1": "Identify the type of inorganic solid that is formed between sulfur and oxygen in the compound SO2.",
+    "message_2": "Sulfur dioxide (SO2) is not an inorganic solid. It is a gaseous compound at room temperature, consisting of one sulfur atom and two oxygen atoms. It is a covalent molecular compound, as the atoms within the molecule are held together by covalent bonds."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Nuclear fission reactions",
+    "message_1": "What is the energy released in joules when a nucleus of uranium-235 undergoes nuclear fission and splits into two nuclei of roughly equal masses, with a total mass of 236 atomic mass units? The mass defect of uranium-235 is 0.1876 atomic mass units, and the speed of light is 2.998 x 10^8 meters per second.",
+    "message_2": "To calculate the energy released during the nuclear fission of uranium-235, we can use Einstein's famous equation, E=mc^2, where E is the energy, m is the mass defect, and c is the speed of light.\n\nFirst, we need to convert the mass defect from atomic mass units (amu) to kilograms. 1 amu is equal to 1.66054 x 10^-27 kg.\n\nMass defect in kg = 0.1876 amu * (1.66054 x 10^-27 kg/amu) = 3.114 x 10^-28 kg\n\nNow, we can plug the mass defect and the speed of light into the equation:\n\nE = (3.114 x 10^-28 kg) * (2.998 x 10^8 m/s)^2\nE = 3.114 x 10^-28 kg * 8.987 x 10^16 m^2/s^2\nE = 2.799 x 10^-11 Joules\n\nSo, the energy released when a nucleus of uranium-235 undergoes nuclear fission is approximately 2.799 x 10^-11 Joules."
+}

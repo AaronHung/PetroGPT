@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Identifying the type of inorganic compound (ionic, covalent, metallic)",
+    "message_1": "What type of inorganic compound is magnesium oxide (MgO)? Ionic, covalent or metallic? Justify your answer using relevant information from Inorganic Chemistry.",
+    "message_2": "Magnesium oxide (MgO) is an ionic compound. In inorganic chemistry, compounds are classified based on the type of bonding that occurs between their constituent atoms. Ionic compounds are formed when there is a transfer of electrons between a metal and a non-metal, resulting in the formation of positively charged cations and negatively charged anions that are held together by electrostatic forces.\n\nIn the case of magnesium oxide, magnesium (Mg) is a metal from Group 2 (alkaline earth metals) of the periodic table, and oxygen (O) is a non-metal from Group 16 (chalcogens). Magnesium has two valence electrons, and it tends to lose these electrons to achieve a stable electron configuration with a full outer shell. Oxygen, on the other hand, has six valence electrons and needs two more electrons to achieve a stable electron configuration.\n\nWhen magnesium and oxygen react, magnesium loses its two valence electrons, forming a Mg²⁺ cation, and oxygen gains these two electrons, forming an O²⁻ anion. The electrostatic attraction between the Mg²⁺ cation and the O²⁻ anion results in the formation of the ionic compound magnesium oxide (MgO)."
+}

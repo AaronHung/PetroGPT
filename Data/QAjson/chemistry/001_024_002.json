@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Spectroscopic techniques in organic chemistry",
+    "message_1": "What is the structure of a given unknown organic compound using IR spectroscopy?",
+    "message_2": "As a chemist, I can help you interpret the IR spectroscopy data to determine the structure of an unknown organic compound. However, I will need the actual IR spectrum or the significant peak values and their corresponding wavenumbers (cm⁻¹) to provide a detailed analysis.\n\nIn general, IR spectroscopy is a powerful technique for identifying functional groups in organic compounds. Here are some common functional groups and their characteristic IR absorption bands:\n\n1. O-H (alcohol or phenol) - broad peak around 3200-3600 cm⁻¹\n2. N-H (amine) - sharp peak around 3300-3500 cm⁻¹\n3. C-H (alkane) - peaks around 2800-3000 cm⁻¹\n4. C=C (alkene) - peaks around 1600-1680 cm⁻¹\n5. C=O (carbonyl) - sharp peak around 1700-1750 cm⁻¹\n6. C≡C (alkyne) - peak around 2100-2260 cm⁻¹\n7. C≡N (nitrile) - peak around 2210-2260 cm⁻¹\n8. C-O (ether or ester) - peak around 1000-1300 cm⁻¹\n\nPlease provide the IR spectrum or the significant peak values, and I will help you determine the structure of the unknown organic compound."
+}

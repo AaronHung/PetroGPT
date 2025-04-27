@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Medical applications of nuclear chemistry",
+    "message_1": "What is the primary medical isotope used in nuclear medicine, and how is it produced?",
+    "message_2": "The primary medical isotope used in nuclear medicine is Technetium-99m (Tc-99m). It is produced by irradiating a target material, usually Molybdenum-98 (Mo-98), with neutrons in a nuclear reactor. The Mo-98 absorbs a neutron and becomes Molybdenum-99 (Mo-99), which has a half-life of about 66 hours and decays by beta emission to form Technetium-99m. Tc-99m is then extracted from the irradiated target material using a generator system, which is commonly referred to as a \"moly cow\" or \"technetium cow.\" The Tc-99m is then used as a radiotracer in various diagnostic imaging procedures due to its favorable nuclear properties, such as its short half-life (about 6 hours) and its ability to emit gamma radiation that can be detected by gamma cameras."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Balancing chemical equations for inorganic compounds",
+    "message_1": "Balance the following chemical equation for the synthesis of ammonia (NH3) from nitrogen (N2) and hydrogen (H2) gas: \n\nN2 + H2 → NH3",
+    "message_2": "To balance the chemical equation for the synthesis of ammonia, we need to make sure that the number of atoms of each element is the same on both sides of the equation. The balanced equation is:\n\nN2 + 3H2 → 2NH3"
+}

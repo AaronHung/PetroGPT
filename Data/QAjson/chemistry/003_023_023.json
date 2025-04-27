@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Thermochemistry and calorimetry",
+    "message_1": "What is the amount of heat (in joules) required to raise the temperature of 125 grams of water from 25°C to its boiling point of 100°C? The specific heat capacity of water is 4.184 J/(g·°C) and the enthalpy of vaporization of water is 40.7 kJ/mol.",
+    "message_2": "To calculate the amount of heat required to raise the temperature of 125 grams of water from 25°C to 100°C, we can use the formula:\n\nq = mcΔT\n\nwhere q is the heat in joules, m is the mass of the substance in grams, c is the specific heat capacity in J/(g·°C), and ΔT is the change in temperature in °C.\n\nGiven:\nm = 125 g\nc = 4.184 J/(g·°C)\nInitial temperature (T1) = 25°C\nFinal temperature (T2) = 100°C\n\nΔT = T2 - T1 = 100°C - 25°C = 75°C\n\nNow, we can plug in the values into the formula:\n\nq = (125 g) × (4.184 J/(g·°C)) × (75°C)\nq = 125 × 4.184 × 75\nq = 39225 J\n\nTherefore, the amount of heat required to raise the temperature of 125 grams of water from 25°C to its boiling point of 100°C is 39,225 joules."
+}

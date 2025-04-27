@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Half-life calculations",
+    "message_1": "Sure, here's a question for a chemistry student to solve in the subtopic of Half-life calculations:\n\nThe half-life of Carbon-14 is 5,700 years. If a sample originally contained 468 grams of Carbon-14, how much Carbon-14 would be left after 17,100 years?",
+    "message_2": "To solve this problem, we can use the half-life formula:\n\nFinal amount = Initial amount * (1/2)^(time elapsed / half-life)\n\nIn this case, the initial amount of Carbon-14 is 468 grams, the time elapsed is 17,100 years, and the half-life of Carbon-14 is 5,700 years. Plugging these values into the formula, we get:\n\nFinal amount = 468 * (1/2)^(17,100 / 5,700)\n\nFirst, we need to find the number of half-lives that have passed:\n\n17,100 / 5,700 = 3\n\nNow, we can plug this value back into the formula:\n\nFinal amount = 468 * (1/2)^3\n\nFinal amount = 468 * (1/8)\n\nFinal amount = 58.5 grams\n\nSo, after 17,100 years, there would be 58.5 grams of Carbon-14 left in the sample."
+}

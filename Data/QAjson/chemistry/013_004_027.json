@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Surface chemistry",
+    "sub_topic": "BET theory of multilayer adsorption",
+    "message_1": "What is the surface area of an activated carbon sample (mass = 2 g) according to the BET theory, if the nitrogen adsorption isotherm data at 77K resulted in a multilayer adsorption uptake of 4.36 mmol/g and the monolayer adsorption uptake is 1.54 mmol/g? (Assume a molecular cross-sectional area of nitrogen as 0.162 nm2)",
+    "message_2": "To calculate the surface area of the activated carbon sample according to the BET theory, we can use the following formula:\n\nSurface area (SA) = mass × monolayer adsorption uptake × molecular cross-sectional area of nitrogen × Avogadro's number\n\nFirst, we need to convert the monolayer adsorption uptake from mmol/g to mol/g:\n\n1.54 mmol/g = 1.54 × 10^(-3) mol/g\n\nNow, we can plug the values into the formula:\n\nSA = 2 g × 1.54 × 10^(-3) mol/g × 0.162 nm² × 6.022 × 10^(23) molecules/mol\n\nSA = 2 × 1.54 × 10^(-3) × 0.162 × 6.022 × 10^(23)\n\nSA = 3.084 × 10^(-3) × 0.162 × 6.022 × 10^(23)\n\nSA = 0.499656 × 6.022 × 10^(23)\n\nSA = 3.006 × 10^(23) nm²\n\nSo, the surface area of the activated carbon sample is approximately 3.006 × 10^(23) nm²."
+}

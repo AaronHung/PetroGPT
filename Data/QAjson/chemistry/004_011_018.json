@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Analytical chemistry",
+    "sub_topic": "Identification of the structure of a compound using nuclear magnetic resonance spectroscopy",
+    "message_1": "What is the structure of an unknown compound X based on the 1H-NMR and 13C-NMR spectra obtained from the compound using nuclear magnetic resonance spectroscopy techniques?",
+    "message_2": "To determine the structure of an unknown compound X using 1H-NMR and 13C-NMR spectra, I would need the actual data from the spectra, including chemical shifts, splitting patterns, and integration values for the 1H-NMR, as well as chemical shifts for the 13C-NMR. \n\nOnce the data is provided, I can help you interpret the spectra and deduce the structure of the compound."
+}

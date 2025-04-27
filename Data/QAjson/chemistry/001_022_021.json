@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Rearrangement reactions",
+    "message_1": "What is the product of the following rearrangement reaction? \n\nCH3-C(CH3)2-CH2OH → ?",
+    "message_2": "The given compound is 2-methyl-2-butanol. The rearrangement reaction that can occur in this case is a 1,2-hydride shift, which would lead to the formation of a more stable carbocation. The reaction proceeds as follows:\n\nCH3-C(CH3)2-CH2OH → CH3-C+(CH3)-CH3 + OH-\n\nAfter the 1,2-hydride shift:\n\nCH3-CH+(CH3)2 + OH-\n\nNow, the hydroxide ion (OH-) can attack the carbocation, forming a new bond:\n\nCH3-CH(OH)-(CH3)2\n\nThe product of the rearrangement reaction is 2-methylpropan-2-ol or also known as isobutanol."
+}

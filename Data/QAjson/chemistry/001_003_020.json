@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Stereochemistry and chirality",
+    "message_1": "Identify the number of stereoisomers that can be obtained by replacing one hydrogen atom in the following molecule with a chlorine atom:\n\nH3C–CH=CH–CH2–CH3",
+    "message_2": "To determine the number of stereoisomers that can be obtained by replacing one hydrogen atom with a chlorine atom, we need to identify the possible positions for the substitution and consider the stereochemistry.\n\nThe given molecule is H3C–CH=CH–CH2–CH3, which is pent-2-ene. There are three possible positions for the substitution:\n\n1. Substitution at the terminal methyl group (H3C–):\nH2C(Cl)–CH=CH–CH2–CH3. This will not result in any stereoisomers, as the chlorine atom is bonded to a carbon atom with three identical hydrogen atoms.\n\n2. Substitution at the carbon atom in the double bond (–CH=CH–):\nH3C–CH(Cl)=CH–CH2–CH3. This will not result in any stereoisomers, as the carbon atom in the double bond has two identical hydrogen atoms.\n\n3. Substitution at the methylene group (–CH2–):\nH3C–CH=CH–CH(Cl)–CH3. This will result in two stereoisomers due to the presence of a chiral center. The two stereoisomers are enantiomers (non-superimposable mirror images).\n\nSo, there are a total of 2 stereoisomers that can be obtained by replacing one hydrogen atom in the given molecule with a chlorine atom."
+}

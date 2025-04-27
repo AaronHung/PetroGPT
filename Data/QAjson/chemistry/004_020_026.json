@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Analytical chemistry",
+    "sub_topic": "Identification of the presence of specific functional groups in a compound using UV-Vis spectroscopy",
+    "message_1": "\"What specific functional group is present in compound X as determined by UV-Vis spectroscopy analysis?\"",
+    "message_2": "As a chemist, I would need more information about compound X and its UV-Vis spectroscopy data to determine the specific functional group present in the compound. UV-Vis spectroscopy measures the absorption of light by a compound, and different functional groups absorb light at different wavelengths. If you can provide the wavelength at which the compound absorbs light or any other relevant information about the compound, I can help you identify the functional group."
+}

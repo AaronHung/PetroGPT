@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Alcohols and phenols",
+    "message_1": "What is the product formed when tertiary butyl alcohol undergoes dehydration in the presence of concentrated sulfuric acid?",
+    "message_2": "When tertiary butyl alcohol (t-butanol) undergoes dehydration in the presence of concentrated sulfuric acid, it forms isobutylene (also known as 2-methylpropene) as the major product. The reaction proceeds via an E1 mechanism, where the alcohol is protonated by the sulfuric acid to form a tertiary carbocation, which then loses a proton to form the alkene. The overall reaction can be represented as:\n\nt-butanol (2-methyl-2-propanol) → isobutylene (2-methylpropene) + H2O"
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Elimination reactions",
+    "message_1": "What is the major product of the elimination reaction between 2-methylcyclohexanol and concentrated phosphoric acid in the presence of heat?",
+    "message_2": "The major product of the elimination reaction between 2-methylcyclohexanol and concentrated phosphoric acid in the presence of heat is 1-methylcyclohexene. This reaction proceeds via an E1 mechanism, where the alcohol is first protonated by the phosphoric acid to form a good leaving group (water), and then a carbocation is formed at the 2-position. The most stable carbocation is formed due to the methyl group's hyperconjugation, and finally, a β-hydrogen is eliminated to form the alkene. The major product is the more stable alkene, which in this case is 1-methylcyclohexene due to its higher degree of substitution."
+}

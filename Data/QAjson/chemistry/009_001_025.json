@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Half-life calculations",
+    "message_1": "A student has a sample of radioactive substance that has a half-life of 10 days. If the initial mass of the substance is 50 grams, what will be the mass of the substance after 30 days?",
+    "message_2": "To determine the mass of the substance after 30 days, we can use the formula for radioactive decay:\n\nFinal mass = Initial mass * (1/2)^(time elapsed / half-life)\n\nIn this case, the initial mass is 50 grams, the half-life is 10 days, and the time elapsed is 30 days. Plugging these values into the formula, we get:\n\nFinal mass = 50 * (1/2)^(30 / 10)\n\nFinal mass = 50 * (1/2)^3\n\nFinal mass = 50 * (1/8)\n\nFinal mass = 6.25 grams\n\nAfter 30 days, the mass of the radioactive substance will be 6.25 grams."
+}

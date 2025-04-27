@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Isomerism in organic compounds",
+    "message_1": "How many different structural isomers are possible for the molecular formula C4H10O?",
+    "message_2": "For the molecular formula C4H10O, there are 7 different structural isomers possible. They are:\n\n1. Butan-1-ol (1-Butanol): CH3CH2CH2CH2OH\n2. Butan-2-ol (2-Butanol): CH3CH2CH(OH)CH3\n3. 2-Methylpropan-1-ol (Isobutanol): (CH3)2CHCH2OH\n4. 2-Methylpropan-2-ol (tert-Butanol): (CH3)3COH\n5. Methoxypropane: CH3OCH2CH2CH3\n6. 1-Methoxypropane (1-Methoxypropyl): CH3OCH(CH3)CH3\n7. 2-Methoxypropane (2-Methoxypropyl): CH3OCH2CH(CH3)2\n\nThese isomers include four alcohols (1-Butanol, 2-Butanol, Isobutanol, and tert-Butanol) and three ethers (Methoxypropane, 1-Methoxypropane, and 2-Methoxypropane)."
+}

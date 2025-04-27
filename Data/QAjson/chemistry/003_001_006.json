@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Thermodynamics of chemical reactions",
+    "message_1": "Calculate the standard Gibbs free energy change (ΔG°) for the reaction below at 298 K:\n\n2NO(g) + O2(g) → 2NO2(g)\n\nGiven:\n\nΔG°f(NO2(g)) = -51.29 kJ/mol\n\nΔG°f(NO(g)) = 86.67 kJ/mol\n\nΔG°f(O2(g)) = 0 kJ/mol",
+    "message_2": "To calculate the standard Gibbs free energy change (ΔG°) for the reaction, we can use the following equation:\n\nΔG° = Σ ΔG°f(products) - Σ ΔG°f(reactants)\n\nFor the given reaction:\n\n2NO(g) + O2(g) → 2NO2(g)\n\nΔG° = [2 × ΔG°f(NO2(g))] - [2 × ΔG°f(NO(g)) + ΔG°f(O2(g))]\n\nNow, we can plug in the given values:\n\nΔG° = [2 × (-51.29 kJ/mol)] - [2 × (86.67 kJ/mol) + 0 kJ/mol]\n\nΔG° = (-102.58 kJ/mol) - (173.34 kJ/mol)\n\nΔG° = -275.92 kJ/mol\n\nThe standard Gibbs free energy change (ΔG°) for the reaction is -275.92 kJ/mol."
+}

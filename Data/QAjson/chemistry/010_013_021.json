@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the number of electrons transferred in an electrochemical reaction",
+    "message_1": "What is the total number of electrons transferred when a solution of potassium permanganate is added to a solution of sodium sulfite and allowed to react in an acidic medium? (The balanced chemical equation is: 2KMnO4 + 5Na2SO3 + 8H2SO4 → 2MnSO4 + 5Na2SO4 + K2SO4 + 8H2O + 10SO2)",
+    "message_2": "To find the total number of electrons transferred in this redox reaction, we need to first identify the oxidation states of the elements involved in the reaction and then determine the change in oxidation states.\n\nIn the reactants, the oxidation states are:\nMn in KMnO4: +7\nS in Na2SO3: +4\n\nIn the products, the oxidation states are:\nMn in MnSO4: +2\nS in SO2: +4\n\nNow, let's determine the change in oxidation states:\nMn: +7 to +2, a decrease of 5 (reduction)\nS: +4 to +4, no change\n\nSince there is no change in the oxidation state of sulfur, we only need to consider the change in the oxidation state of manganese. The change in oxidation state of Mn is 5, which means 5 electrons are gained per Mn atom during the reduction.\n\nThere are 2 moles of KMnO4 in the balanced equation, so the total number of electrons transferred is:\n\n2 moles of Mn × 5 electrons per Mn = 10 electrons\n\nSo, the total number of electrons transferred in this redox reaction is 10."
+}

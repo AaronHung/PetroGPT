@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Radioactive dating methods",
+    "message_1": "What is the age of a fossil if 75% of its original carbon-14 has decayed and the half-life of carbon-14 is 5,730 years?",
+    "message_2": "To determine the age of the fossil, we can use the formula for radioactive decay:\n\nN(t) = N0 * (1/2)^(t / t_half)\n\nWhere:\n- N(t) is the amount of carbon-14 remaining after time t\n- N0 is the original amount of carbon-14\n- t_half is the half-life of carbon-14 (5,730 years)\n\nIn this case, 75% of the original carbon-14 has decayed, which means 25% remains. So, we can set up the equation as follows:\n\n0.25 * N0 = N0 * (1/2)^(t / 5,730)\n\nNow, we can solve for t:\n\n0.25 = (1/2)^(t / 5,730)\n\nTo solve for t, we can take the logarithm of both sides:\n\nlog(0.25) = log((1/2)^(t / 5,730))\n\nUsing the logarithm property log(a^b) = b * log(a), we get:\n\nlog(0.25) = (t / 5,730) * log(1/2)\n\nNow, we can isolate t:\n\nt = (5,730 * log(0.25)) / log(1/2)\n\nUsing a calculator, we find:\n\nt ≈ 5,730 * (-0.60206) / (-0.30103)\n\nt ≈ 11,460 years\n\nSo, the age of the fossil is approximately 11,460 years."
+}

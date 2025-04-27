@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Analytical chemistry",
+    "sub_topic": "Analysis of the composition of a sample using mass balance calculations",
+    "message_1": "What is the mass percentage of each component in a compound made of 23.5 g of carbon, 5.5 g of hydrogen, and 71.0 g of oxygen?",
+    "message_2": "To find the mass percentage of each component in the compound, we need to follow these steps:\n\n1. Find the total mass of the compound.\n2. Calculate the mass percentage of each component.\n\nStep 1: Find the total mass of the compound\nTotal mass = mass of carbon + mass of hydrogen + mass of oxygen\nTotal mass = 23.5 g (C) + 5.5 g (H) + 71.0 g (O)\nTotal mass = 100.0 g\n\nStep 2: Calculate the mass percentage of each component\nMass percentage of carbon (C) = (mass of carbon / total mass) × 100\nMass percentage of C = (23.5 g / 100.0 g) × 100\nMass percentage of C = 23.5%\n\nMass percentage of hydrogen (H) = (mass of hydrogen / total mass) × 100\nMass percentage of H = (5.5 g / 100.0 g) × 100\nMass percentage of H = 5.5%\n\nMass percentage of oxygen (O) = (mass of oxygen / total mass) × 100\nMass percentage of O = (71.0 g / 100.0 g) × 100\nMass percentage of O = 71.0%\n\nSo, the mass percentage of each component in the compound is:\n- Carbon (C): 23.5%\n- Hydrogen (H): 5.5%\n- Oxygen (O): 71.0%"
+}

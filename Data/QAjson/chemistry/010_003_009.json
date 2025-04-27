@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the Gibbs free energy change for an electrochemical reaction",
+    "message_1": "What is the Gibbs free energy change of a spontaneous electrochemical reaction where zinc metal electrode is used as an anode and copper metal electrode is used as a cathode, with a cell potential of 1.10 V?",
+    "message_2": "To calculate the Gibbs free energy change (ΔG) of a spontaneous electrochemical reaction, we can use the following equation:\n\nΔG = -nFE\n\nwhere:\n- n is the number of moles of electrons transferred in the reaction\n- F is the Faraday constant (96,485 C/mol)\n- E is the cell potential (1.10 V in this case)\n\nFor the reaction between zinc and copper, the balanced redox reaction is:\n\nZn(s) + Cu^2+(aq) → Zn^2+(aq) + Cu(s)\n\nIn this reaction, 2 moles of electrons are transferred (n = 2) as zinc loses 2 electrons and copper gains 2 electrons.\n\nNow we can plug the values into the equation:\n\nΔG = -(2 mol)(96,485 C/mol)(1.10 V)\n\nΔG = -212,667 J/mol\n\nThe Gibbs free energy change for this spontaneous electrochemical reaction is -212,667 J/mol."
+}

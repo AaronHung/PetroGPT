@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Nuclear stability and decay modes",
+    "message_1": "What is the nuclear decay mode of Carbon-14 and what element does it decay into?",
+    "message_2": "Carbon-14 undergoes beta decay (β- decay), and it decays into Nitrogen-14."
+}

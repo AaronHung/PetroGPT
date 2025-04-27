@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Analytical chemistry",
+    "sub_topic": "Identification of the presence of specific functional groups in a compound using UV-Vis spectroscopy",
+    "message_1": "\"What specific functional group is present in a compound if the UV-Vis spectroscopy analysis reveals an absorption peak at 170-180 nm?\"",
+    "message_2": "An absorption peak at 170-180 nm in UV-Vis spectroscopy is characteristic of compounds with isolated double bonds (C=C) or isolated triple bonds (C≡C). These functional groups are found in alkenes and alkynes, respectively. The presence of such a peak suggests that the compound contains one of these functional groups."
+}

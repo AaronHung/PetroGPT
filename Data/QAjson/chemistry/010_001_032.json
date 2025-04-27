@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of standard electrode potentials",
+    "message_1": "What is the standard potential of the Zn/Zn²⁺ electrode with respect to the standard hydrogen electrode (SHE), given that the reduction potential of Zn²⁺ is -0.761 V?",
+    "message_2": "The standard potential of the Zn/Zn²⁺ electrode with respect to the standard hydrogen electrode (SHE) is the same as the reduction potential of Zn²⁺, which is -0.761 V. This is because the standard hydrogen electrode has a potential of 0 V by definition, so the potential difference between the Zn/Zn²⁺ electrode and the SHE is simply the reduction potential of Zn²⁺."
+}

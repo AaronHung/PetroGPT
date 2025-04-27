@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the number of electrons transferred in an electrochemical reaction",
+    "message_1": "What is the number of electrons transferred when zinc metal reacts with copper(II) ions in a galvanic cell? The balanced reaction is:\n\nZn(s) + Cu2+(aq) → Zn2+(aq) + Cu(s)",
+    "message_2": "In the given balanced reaction, zinc metal (Zn) loses 2 electrons to become zinc ion (Zn2+), while copper ion (Cu2+) gains 2 electrons to become copper metal (Cu). The number of electrons transferred in this redox reaction is 2."
+}

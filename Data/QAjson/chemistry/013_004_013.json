@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Surface chemistry",
+    "sub_topic": "BET theory of multilayer adsorption",
+    "message_1": "What is the total surface area of a sample of activated carbon with a mass of 0.5 g, assuming a monolayer adsorption capacity of 80 mg/g and a BET surface area of 900 m²/g?",
+    "message_2": "The Brunauer-Emmett-Teller (BET) theory is used to calculate the surface area of porous materials, such as activated carbon. In this case, we are given the mass of the activated carbon sample, its monolayer adsorption capacity, and its BET surface area.\n\nFirst, we need to find the mass of the adsorbed monolayer. To do this, we multiply the mass of the activated carbon sample by its monolayer adsorption capacity:\n\nMass of monolayer = mass of activated carbon × monolayer adsorption capacity\nMass of monolayer = 0.5 g × 80 mg/g\n\nSince 1 g = 1000 mg, we need to convert the mass of the activated carbon to mg:\n\nMass of monolayer = 500 mg × 80 mg/g = 40000 mg\n\nNow that we have the mass of the adsorbed monolayer, we can calculate the total surface area of the activated carbon sample. To do this, we multiply the mass of the activated carbon sample by its BET surface area:\n\nTotal surface area = mass of activated carbon × BET surface area\nTotal surface area = 0.5 g × 900 m²/g = 450 m²\n\nSo, the total surface area of the activated carbon sample is 450 m²."
+}

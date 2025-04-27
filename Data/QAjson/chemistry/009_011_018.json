@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Radioactive dating methods",
+    "message_1": "What is the age of a sample containing 10 grams of carbon-14 if it currently contains only 2.5 grams of carbon-14, and has a half-life of 5,700 years?",
+    "message_2": "To determine the age of the sample, we can use the half-life formula:\n\nN = N0 * (1/2)^(t/T)\n\nWhere:\nN = the final amount of carbon-14 (2.5 grams)\nN0 = the initial amount of carbon-14 (10 grams)\nt = the time elapsed (which we want to find)\nT = the half-life of carbon-14 (5,700 years)\n\nRearranging the formula to solve for t:\n\nt = T * (log(N/N0) / log(1/2))\n\nPlugging in the values:\n\nt = 5700 * (log(2.5/10) / log(1/2))\nt ≈ 5700 * (log(0.25) / log(0.5))\nt ≈ 5700 * (-2 / -1)\nt ≈ 5700 * 2\nt ≈ 11,400 years\n\nThe age of the sample containing 10 grams of carbon-14 is approximately 11,400 years."
+}

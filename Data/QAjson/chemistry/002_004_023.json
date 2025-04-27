@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the pH of inorganic acid-base reactions",
+    "message_1": "What is the pH of a 0.1 M solution of HClO4 at 25°C?",
+    "message_2": "HClO4 (perchloric acid) is a strong acid, which means it completely dissociates in water. When it dissociates, it releases H+ ions. The concentration of H+ ions in the solution will be equal to the concentration of the HClO4 solution.\n\nIn this case, the concentration of HClO4 is 0.1 M, so the concentration of H+ ions will also be 0.1 M.\n\nThe pH of a solution is calculated using the formula:\n\npH = -log10[H+]\n\nwhere [H+] is the concentration of H+ ions in the solution.\n\nFor this problem:\n\npH = -log10(0.1)\n\npH = -(-1)\n\npH = 1\n\nSo, the pH of a 0.1 M solution of HClO4 at 25°C is 1."
+}

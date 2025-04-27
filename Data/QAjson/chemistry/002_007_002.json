@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the products of inorganic reactions",
+    "message_1": "What products will be formed when sodium chloride (NaCl) is treated with silver nitrate (AgNO3)? Write a balanced chemical equation for the reaction and predict if a precipitate will form.",
+    "message_2": "When sodium chloride (NaCl) is treated with silver nitrate (AgNO3), a double displacement reaction occurs, resulting in the formation of sodium nitrate (NaNO3) and silver chloride (AgCl). The balanced chemical equation for the reaction is:\n\nNaCl(aq) + AgNO3(aq) → NaNO3(aq) + AgCl(s)\n\nA precipitate will form in this reaction, as silver chloride (AgCl) is insoluble in water and will precipitate out as a solid."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the solubility of inorganic salts in water",
+    "message_1": "Determine the solubility of potassium nitrate (KNO3) in water at 25°C, given that its Ksp value is 74.55 g/L.",
+    "message_2": "The solubility of potassium nitrate (KNO₃) in water at 25°C is already given as 74.55 g/L. This means that at 25°C, 74.55 grams of KNO₃ can dissolve in 1 liter of water to form a saturated solution."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Carboxylic acids and their derivatives",
+    "message_1": "What is the product formed when propanoic acid reacts with sodium hydroxide? Write the balanced equation for the reaction and identify the functional group present in the product.",
+    "message_2": "When propanoic acid (C3H6O2) reacts with sodium hydroxide (NaOH), the product formed is sodium propanoate (C3H5O2Na) and water (H2O). This is an acid-base neutralization reaction. The balanced equation for the reaction is:\n\nC3H6O2 + NaOH → C3H5O2Na + H2O\n\nThe functional group present in the product, sodium propanoate, is the carboxylate ion (COO-) which is a deprotonated carboxylic acid (COOH) group."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the bond order and bond length of inorganic compounds",
+    "message_1": "What is the bond order and bond length of the carbon-oxygen double bond in carbon dioxide (CO2)?",
+    "message_2": "In carbon dioxide (CO2), there are two carbon-oxygen double bonds. The bond order of a carbon-oxygen double bond is 2, as there are two shared electron pairs between the carbon and oxygen atoms.\n\nThe bond length of a carbon-oxygen double bond in CO2 is approximately 1.16 Å (angstroms) or 116 pm (picometers). This value can vary slightly depending on the specific molecule and its environment, but 1.16 Å is a commonly accepted value for the bond length of a C=O double bond in CO2."
+}

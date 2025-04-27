@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Thermodynamics of chemical reactions",
+    "message_1": "Sure, here is a precise problem for the student to solve:\n\nWhat is the change in enthalpy (ΔH) for the combustion of methane gas (CH4) at standard conditions (298 K and 1 atm pressure) given the balanced chemical equation:\n\nCH4(g) + 2O2(g) -> CO2(g) + 2H2O(g)\n\nAnd the following data for the standard enthalpies of formation (ΔHf°) at 298 K:\nΔHf°[CH4(g)] = -74.8 kJ/mol\nΔHf°[CO2(g)] = -393.5 kJ/mol\nΔHf°[H2O(g)] = -241.8 kJ/mol",
+    "message_2": "To calculate the change in enthalpy (ΔH) for the combustion of methane gas (CH4) at standard conditions, we can use the following formula:\n\nΔH = Σ ΔHf°(products) - Σ ΔHf°(reactants)\n\nFor the given balanced chemical equation:\n\nCH4(g) + 2O2(g) -> CO2(g) + 2H2O(g)\n\nThe standard enthalpies of formation (ΔHf°) at 298 K are:\n\nΔHf°[CH4(g)] = -74.8 kJ/mol\nΔHf°[CO2(g)] = -393.5 kJ/mol\nΔHf°[H2O(g)] = -241.8 kJ/mol\n\nNow, we can plug these values into the formula:\n\nΔH = [1 × (-393.5 kJ/mol) + 2 × (-241.8 kJ/mol)] - [1 × (-74.8 kJ/mol) + 2 × 0 kJ/mol]\n\nNote that the enthalpy of formation for O2(g) is 0 kJ/mol since it is in its standard state.\n\nΔH = (-393.5 - 2 × 241.8 + 74.8) kJ/mol\nΔH = (-393.5 - 483.6 + 74.8) kJ/mol\nΔH = (-802.3 + 74.8) kJ/mol\nΔH = -727.5 kJ/mol\n\nSo, the change in enthalpy (ΔH) for the combustion of methane gas (CH4) at standard conditions is -727.5 kJ/mol."
+}

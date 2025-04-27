@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Nucleophilic substitution reactions",
+    "message_1": "What product(s) will be formed when 1-bromopropane is reacted with sodium iodide in acetone? Write the balanced chemical equation for the reaction and explain why acetone is used as a solvent in this reaction.",
+    "message_2": "When 1-bromopropane reacts with sodium iodide in acetone, a nucleophilic substitution reaction occurs, specifically an SN2 reaction. The iodide ion (I-) acts as a nucleophile and replaces the bromine atom in 1-bromopropane, forming 1-iodopropane and sodium bromide as products. The balanced chemical equation for this reaction is:\n\nC3H7Br + NaI → C3H7I + NaBr\n\nAcetone is used as a solvent in this reaction for several reasons:\n\n1. It is a polar aprotic solvent, which means it has a polar structure but does not have acidic protons. Polar aprotic solvents are known to favor SN2 reactions because they can stabilize the transition state and help the nucleophile to attack the substrate more effectively.\n\n2. Acetone dissolves both the reactants (1-bromopropane and sodium iodide) and the products (1-iodopropane and sodium bromide) well, which is essential for the reaction to proceed efficiently.\n\n3. Acetone has a relatively low boiling point (56°C), which makes it easy to remove from the reaction mixture after the reaction is complete, allowing for easier isolation and purification of the desired product."
+}

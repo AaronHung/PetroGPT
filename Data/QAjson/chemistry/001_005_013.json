@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Alkanes and cycloalkanes",
+    "message_1": "What is the name and structural formula of an alkane with 8 carbon atoms?",
+    "message_2": "The name of an alkane with 8 carbon atoms is Octane. The structural formula of octane is:\n\nCH3-CH2-CH2-CH2-CH2-CH2-CH2-CH3"
+}

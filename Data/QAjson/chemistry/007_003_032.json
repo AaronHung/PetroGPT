@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Medicinal chemistry",
+    "sub_topic": "Investigating the mechanism of action of existing drugs",
+    "message_1": "How does [Name of Existing Drug] bind to its target protein/enzyme, and what specific structural features of the drug and target result in its mechanism of action?",
+    "message_2": "To provide an accurate answer, please provide the name of the existing drug you would like to know about."
+}

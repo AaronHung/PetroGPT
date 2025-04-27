@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the color of inorganic compounds",
+    "message_1": "What is the predicted color of a cobalt(II) chloride solution when it is exposed to light?",
+    "message_2": "When a cobalt(II) chloride solution (CoCl₂) is exposed to light, it undergoes a process called photodissociation. This process causes the cobalt(II) chloride to change from its hydrated form (CoCl₂·6H₂O) to its anhydrous form (CoCl₂). The hydrated form of cobalt(II) chloride is typically pink or rose-colored, while the anhydrous form is blue. \n\nSo, when a cobalt(II) chloride solution is exposed to light, the predicted color change would be from pink/rose to blue."
+}

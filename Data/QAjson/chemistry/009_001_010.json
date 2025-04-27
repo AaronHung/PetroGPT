@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Half-life calculations",
+    "message_1": "A sample of strontium-90 has an initial activity of 80,000 Bq (Becquerel) and a half-life of 28.8 years. Calculate the activity of the sample after 115.2 years, and how much time would be required for its activity to decrease to 10,000 Bq?",
+    "message_2": "To calculate the activity of the sample after a given time, we can use the radioactive decay formula:\n\nA = A0 * (1/2)^(t/T)\n\nwhere A is the final activity, A0 is the initial activity, t is the time elapsed, and T is the half-life of the substance.\n\n1. Activity after 115.2 years:\n\nA0 = 80,000 Bq\nT = 28.8 years\nt = 115.2 years\n\nA = 80,000 * (1/2)^(115.2/28.8)\nA = 80,000 * (1/2)^4\nA = 80,000 * (1/16)\nA = 5,000 Bq\n\nThe activity of the sample after 115.2 years is 5,000 Bq.\n\n2. Time required for the activity to decrease to 10,000 Bq:\n\nA = 10,000 Bq\n\nWe can rearrange the radioactive decay formula to solve for time:\n\nt = T * (log(A/A0) / log(1/2))\n\nt = 28.8 * (log(10,000/80,000) / log(1/2))\nt = 28.8 * (log(1/8) / log(1/2))\nt = 28.8 * (-3)\nt = -86.4 years\n\nSince the time cannot be negative, we made an error in our calculations. The correct formula for calculating the time should be:\n\nt = T * (log(A0/A) / log(2))\n\nt = 28.8 * (log(80,000/10,000) / log(2))\nt = 28.8 * (log(8) / log(2))\nt = 28.8 * 3\nt = 86.4 years\n\nThe time required for the activity to decrease to 10,000 Bq is 86.4 years."
+}

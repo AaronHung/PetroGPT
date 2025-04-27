@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the overpotential in an electrochemical reaction",
+    "message_1": "Calculate the overpotential (in millivolts) for the reduction of Cu2+ to Cu on a copper electrode at 25°C, given that the standard reduction potential of Cu2+ to Cu is +0.34 V and the actual voltage is 0.32 V.",
+    "message_2": "Overpotential is the difference between the actual potential (voltage) and the standard potential (voltage) for a given redox reaction. In this case, we are given the standard reduction potential of Cu2+ to Cu as +0.34 V and the actual voltage as 0.32 V.\n\nTo calculate the overpotential, we can use the following formula:\n\nOverpotential = Actual potential - Standard potential\n\nOverpotential = 0.32 V - 0.34 V\nOverpotential = -0.02 V\n\nTo convert the overpotential from volts to millivolts, we can multiply by 1000:\n\nOverpotential = -0.02 V × 1000\nOverpotential = -20 mV\n\nThe overpotential for the reduction of Cu2+ to Cu on a copper electrode at 25°C is -20 millivolts."
+}

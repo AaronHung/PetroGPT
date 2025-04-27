@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Chemical equilibria and equilibrium constants.",
+    "message_1": "What is the equilibrium constant, Kc, for the reaction below at 298 K if the concentration of NOCl(g) is 0.025 mol/L and the concentration of NO(g) and Cl2(g) are both 0.010 mol/L? \n\n2NOCl(g) ⇌ 2NO(g) + Cl2(g)",
+    "message_2": "To find the equilibrium constant (Kc) for the given reaction, we can use the expression:\n\nKc = [NO]^2 * [Cl2] / [NOCl]^2\n\nGiven the concentrations of the species at equilibrium:\n[NOCl] = 0.025 mol/L\n[NO] = 0.010 mol/L\n[Cl2] = 0.010 mol/L\n\nNow, we can plug these values into the Kc expression:\n\nKc = (0.010)^2 * (0.010) / (0.025)^2\nKc = 0.0001 * 0.010 / 0.000625\nKc = 0.001 / 0.000625\nKc ≈ 1.6\n\nSo, the equilibrium constant (Kc) for the given reaction at 298 K is approximately 1.6."
+}

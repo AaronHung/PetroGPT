@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Analytical chemistry",
+    "sub_topic": "Analysis of the purity of a substance using melting point determination",
+    "message_1": "What is the percent purity of a sample of aspirin if its melting point range is found to be 131-135°C, compared to the known melting point range of pure aspirin at 135-136°C?",
+    "message_2": "To determine the percent purity of a sample of aspirin based on its melting point range, we can use the following formula:\n\nPercent Purity = [(Observed Melting Point - Impure Melting Point) / (Pure Melting Point - Impure Melting Point)] × 100\n\nHowever, in this case, we only have the observed melting point range (131-135°C) and the pure melting point range (135-136°C). We do not have a specific impure melting point to use in the formula. Therefore, we cannot accurately calculate the percent purity of the aspirin sample using the given information.\n\nIt is important to note that a lower melting point range than the pure aspirin range indicates the presence of impurities in the sample, but we cannot quantify the exact percent purity without more information."
+}

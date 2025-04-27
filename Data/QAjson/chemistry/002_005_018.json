@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Identifying the type of inorganic compound (ionic, covalent, metallic)",
+    "message_1": "Given the following compounds, identify whether they are ionic, covalent or metallic:\n\n1. NaCl\n2. H2O\n3. Cu\n4. Fe2O3\n5. CO2",
+    "message_2": "1. NaCl - Ionic (formed by the transfer of electrons between a metal, sodium, and a non-metal, chlorine)\n2. H2O - Covalent (formed by the sharing of electrons between two non-metals, hydrogen and oxygen)\n3. Cu - Metallic (copper is a metal and its bonding is characterized by a sea of delocalized electrons)\n4. Fe2O3 - Ionic (formed by the transfer of electrons between a metal, iron, and a non-metal, oxygen)\n5. CO2 - Covalent (formed by the sharing of electrons between two non-metals, carbon and oxygen)"
+}

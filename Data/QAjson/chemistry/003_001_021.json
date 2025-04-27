@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Thermodynamics of chemical reactions",
+    "message_1": "Calculate the Gibbs free energy change at standard conditions for the following synthesis reaction: CO2 (g) + 2H2 (g) → CH3OH (g)",
+    "message_2": "To calculate the Gibbs free energy change (ΔG°) at standard conditions for the given reaction, we need to know the standard Gibbs free energy of formation (ΔGf°) for each of the compounds involved in the reaction. The standard Gibbs free energy of formation is the change in Gibbs free energy when 1 mole of a compound is formed from its constituent elements in their standard states.\n\nThe reaction is: CO2 (g) + 2H2 (g) → CH3OH (g)\n\nThe standard Gibbs free energy of formation for the compounds involved are:\n\nΔGf° (CO2) = -394.4 kJ/mol\nΔGf° (H2) = 0 kJ/mol (since H2 is an element in its standard state)\nΔGf° (CH3OH) = -162.2 kJ/mol\n\nNow, we can calculate the Gibbs free energy change for the reaction using the following equation:\n\nΔG° = Σ [ΔGf° (products)] - Σ [ΔGf° (reactants)]\n\nΔG° = [ΔGf° (CH3OH)] - [ΔGf° (CO2) + 2 * ΔGf° (H2)]\n\nΔG° = (-162.2 kJ/mol) - (-394.4 kJ/mol + 2 * 0 kJ/mol)\n\nΔG° = -162.2 kJ/mol + 394.4 kJ/mol\n\nΔG° = 232.2 kJ/mol\n\nThe Gibbs free energy change at standard conditions for the given synthesis reaction is 232.2 kJ/mol."
+}

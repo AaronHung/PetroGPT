@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the percent composition of inorganic compounds",
+    "message_1": "What is the percent composition of Copper(II) sulfate pentahydrate (CuSO4 . 5H2O) by mass?",
+    "message_2": "To find the percent composition of Copper(II) sulfate pentahydrate (CuSO4 . 5H2O) by mass, we first need to determine the molar mass of the compound and then calculate the mass percentage of each element.\n\n1. Determine the molar mass of CuSO4 . 5H2O:\n- Copper (Cu): 63.55 g/mol\n- Sulfur (S): 32.07 g/mol\n- Oxygen (O): 16.00 g/mol (4 oxygen atoms in SO4)\n- Hydrogen (H): 1.01 g/mol (10 hydrogen atoms in 5H2O)\n- Oxygen (O): 16.00 g/mol (5 oxygen atoms in 5H2O)\n\nMolar mass of CuSO4 . 5H2O = 63.55 + 32.07 + (4 × 16.00) + (10 × 1.01) + (5 × 16.00)\n= 63.55 + 32.07 + 64.00 + 10.10 + 80.00\n= 249.72 g/mol\n\n2. Calculate the mass percentage of each element:\n- Copper (Cu): (63.55 / 249.72) × 100% = 25.45%\n- Sulfur (S): (32.07 / 249.72) × 100% = 12.84%\n- Oxygen (O) in SO4: (64.00 / 249.72) × 100% = 25.64%\n- Hydrogen (H) in 5H2O: (10.10 / 249.72) × 100% = 4.04%\n- Oxygen (O) in 5H2O: (80.00 / 249.72) × 100% = 32.03%\n\nPercent composition of Copper(II) sulfate pentahydrate (CuSO4 . 5H2O) by mass:\n- Cu: 25.45%\n- S: 12.84%\n- O (in SO4): 25.64%\n- H (in 5H2O): 4.04%\n- O (in 5H2O): 32.03%"
+}

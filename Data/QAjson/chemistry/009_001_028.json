@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Half-life calculations",
+    "message_1": "What is the half-life of a radioactive sample if only 1/8 of the original sample remains after 30 days?",
+    "message_2": "To solve this problem, we can use the half-life formula:\n\nN(t) = N0 * (1/2)^(t / T)\n\nwhere:\nN(t) = the remaining amount of the substance at time t\nN0 = the initial amount of the substance\nt = time elapsed\nT = half-life of the substance\n\nIn this case, we know that 1/8 of the original sample remains after 30 days. So, we can set up the equation as follows:\n\n1/8 = (1/2)^(30 / T)\n\nNow, we need to solve for T (the half-life). We can start by taking the logarithm of both sides of the equation:\n\nlog(1/8) = log((1/2)^(30 / T))\n\nUsing the logarithm property log(a^b) = b * log(a), we can rewrite the equation as:\n\nlog(1/8) = (30 / T) * log(1/2)\n\nNow, we can isolate T by dividing both sides of the equation by log(1/2):\n\nT = (30 * log(1/2)) / log(1/8)\n\nUsing a calculator, we find:\n\nT ≈ 10 days\n\nSo, the half-life of the radioactive sample is approximately 10 days."
+}

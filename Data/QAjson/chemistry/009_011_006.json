@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Radioactive dating methods",
+    "message_1": "What is the age of a fossil that contains 25% of its original Carbon-14 isotope when its half-life is 5,700 years?",
+    "message_2": "To determine the age of the fossil, we can use the formula for radioactive decay:\n\nN = N0 * (1/2)^(t / t_half)\n\nWhere:\nN = remaining amount of Carbon-14 (25% in this case)\nN0 = initial amount of Carbon-14 (100%)\nt = time elapsed (what we want to find)\nt_half = half-life of Carbon-14 (5,700 years)\n\nWe can set up the equation as follows:\n\n0.25 = 1 * (1/2)^(t / 5700)\n\nNow, we need to solve for t:\n\n0.25 = (1/2)^(t / 5700)\nlog(0.25) = log((1/2)^(t / 5700))\nlog(0.25) = (t / 5700) * log(1/2)\nt / 5700 = log(0.25) / log(1/2)\nt = 5700 * (log(0.25) / log(1/2))\n\nCalculating the value of t:\n\nt ≈ 5700 * 2\nt ≈ 11,400 years\n\nSo, the age of the fossil is approximately 11,400 years."
+}

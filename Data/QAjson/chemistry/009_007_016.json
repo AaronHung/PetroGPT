@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Nuclear stability and decay modes",
+    "message_1": "What is the decay mode of radium-226 and what is the resulting nucleus after the decay?",
+    "message_2": "Radium-226 (Ra-226) undergoes alpha decay, which is a type of radioactive decay where an alpha particle (consisting of 2 protons and 2 neutrons) is emitted from the nucleus. \n\nWhen Ra-226 undergoes alpha decay, it loses 2 protons and 2 neutrons, resulting in a new nucleus with a lower atomic number and mass number. The resulting nucleus after the decay of Ra-226 is radon-222 (Rn-222). The equation for this decay process is:\n\nRa-226 → Rn-222 + α (alpha particle)"
+}

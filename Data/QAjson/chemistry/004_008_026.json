@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Analytical chemistry",
+    "sub_topic": "Identification of functional groups in a compound using infrared spectroscopy",
+    "message_1": "What functional groups are present in compound X, as identified by infrared spectroscopy?",
+    "message_2": "As an AI, I cannot analyze a specific compound without any provided data or structure. However, I can help you interpret infrared (IR) spectroscopy data if you provide the relevant peaks and their wavenumbers.\n\nIn general, some common functional groups and their corresponding IR absorption peaks are:\n\n1. O-H (alcohol or phenol): Broad peak around 3200-3600 cm⁻¹\n2. N-H (amine or amide): Sharp peak around 3100-3500 cm⁻¹\n3. C=O (carbonyl group in aldehyde, ketone, carboxylic acid, ester, or amide): Sharp peak around 1650-1750 cm⁻¹\n4. C=C (alkene): Peak around 1620-1680 cm⁻¹\n5. C≡C (alkyne): Peak around 2100-2260 cm⁻¹\n6. C-O (ether, ester, or carboxylic acid): Peak around 1000-1300 cm⁻¹\n7. C-N (amine, amide, or nitrile): Peak around 1080-1360 cm⁻¹\n8. C≡N (nitrile): Peak around 2210-2260 cm⁻¹\n\nPlease provide the IR peaks and their wavenumbers for the compound you are analyzing, and I can help you identify the functional groups present in it."
+}

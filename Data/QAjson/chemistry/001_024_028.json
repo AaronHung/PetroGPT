@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Spectroscopic techniques in organic chemistry",
+    "message_1": "What type of functional group is present in the compound that has an IR stretch at 1700 cm^-1 and an NMR peak at 9 ppm in the ^1H NMR spectrum?",
+    "message_2": "The IR stretch at 1700 cm^-1 is indicative of a carbonyl group (C=O) present in the compound. The 1H NMR peak at 9 ppm suggests that there is an aldehyde proton (CHO) in the compound. Therefore, the functional group present in the compound is an aldehyde (R-CHO)."
+}

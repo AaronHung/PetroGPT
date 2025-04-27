@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Biochemistry",
+    "sub_topic": "Citric acid cycle and oxidative phosphorylation",
+    "message_1": "What is the total number of ATP molecules generated per glucose molecule during Citric acid cycle and oxidative phosphorylation?",
+    "message_2": "During the citric acid cycle (also known as the Krebs cycle or TCA cycle) and oxidative phosphorylation, a total of approximately 30-32 ATP molecules are generated per glucose molecule. Here's the breakdown:\n\n1. Glycolysis (before the citric acid cycle): 2 ATP molecules are produced.\n2. Citric acid cycle: 2 ATP molecules are produced (1 ATP per turn, and the cycle turns twice per glucose molecule).\n3. Electron transport chain and oxidative phosphorylation: Approximately 26-28 ATP molecules are produced, depending on the efficiency of the electron transport chain and the specific organism.\n\nSo, the total number of ATP molecules generated per glucose molecule during the citric acid cycle and oxidative phosphorylation is approximately 30-32 ATP molecules."
+}

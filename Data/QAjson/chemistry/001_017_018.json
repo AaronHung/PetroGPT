@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Oxidation and reduction reactions",
+    "message_1": "What is the balanced chemical equation for the oxidation of ethylene (C2H4) with potassium permanganate (KMnO4), and what are the oxidation states of the carbon atoms before and after the reaction?",
+    "message_2": "The balanced chemical equation for the oxidation of ethylene (C2H4) with potassium permanganate (KMnO4) in an acidic medium is:\n\n3 C2H4 + 2 KMnO4 + 4 H2SO4 → 2 K2SO4 + 2 MnSO4 + 6 CH3COOH\n\nIn this reaction, ethylene (C2H4) is oxidized to acetic acid (CH3COOH) by potassium permanganate (KMnO4) in the presence of sulfuric acid (H2SO4). The potassium permanganate is reduced to manganese sulfate (MnSO4), and potassium sulfate (K2SO4) is also formed.\n\nThe oxidation states of the carbon atoms in ethylene (C2H4) are -2 for each carbon atom. In acetic acid (CH3COOH), the oxidation state of the carbon atom in the CH3 group is -3, while the oxidation state of the carbon atom in the COOH group is +3."
+}

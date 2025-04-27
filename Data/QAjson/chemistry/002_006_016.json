@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the molar mass of inorganic compounds",
+    "message_1": "What is the molar mass of Ba(NO3)2?",
+    "message_2": "To calculate the molar mass of Ba(NO3)2, we need to find the molar mass of each element in the compound and then add them together.\n\n1. Barium (Ba): 137.33 g/mol\n2. Nitrogen (N): 14.01 g/mol\n3. Oxygen (O): 16.00 g/mol\n\nThe formula for Barium nitrate is Ba(NO3)2, which means we have:\n- 1 Barium atom\n- 2 Nitrogen atoms (since there are 2 NO3 groups)\n- 6 Oxygen atoms (since there are 2 NO3 groups with 3 Oxygen atoms each)\n\nNow, we can calculate the molar mass:\n\n(1 × 137.33 g/mol) + (2 × 14.01 g/mol) + (6 × 16.00 g/mol) = 137.33 + 28.02 + 96.00 = 261.35 g/mol\n\nThe molar mass of Ba(NO3)2 is 261.35 g/mol."
+}

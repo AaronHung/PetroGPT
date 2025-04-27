@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Acid-base reactions in organic chemistry",
+    "message_1": "What is the pH of a 0.1 M solution of formic acid (HCOOH) at 25 °C, given that the dissociation constant (Ka) of formic acid is 1.8 x 10^-4?",
+    "message_2": "To find the pH of the 0.1 M solution of formic acid, we can use the formula for the dissociation constant (Ka) and the definition of pH. The dissociation of formic acid (HCOOH) can be represented as:\n\nHCOOH ⇌ H+ + HCOO-\n\nThe Ka expression for this reaction is:\n\nKa = [H+][HCOO-] / [HCOOH]\n\nWe can set up an ICE (Initial, Change, Equilibrium) table to find the equilibrium concentrations of the species involved in the reaction:\n\n          HCOOH    H+    HCOO-\nInitial:  0.1 M    0 M    0 M\nChange:  -x        +x    +x\nEquilibrium: 0.1-x  x      x\n\nNow, we can substitute these equilibrium concentrations into the Ka expression:\n\n1.8 x 10^-4 = (x)(x) / (0.1 - x)\n\nTo simplify the calculation, we can assume that x is much smaller than 0.1, so 0.1 - x ≈ 0.1:\n\n1.8 x 10^-4 ≈ x^2 / 0.1\n\nNow, we can solve for x:\n\nx^2 = 1.8 x 10^-4 * 0.1\nx^2 = 1.8 x 10^-5\nx = √(1.8 x 10^-5)\nx ≈ 4.24 x 10^-3\n\nSince x represents the concentration of H+ ions, we can now find the pH using the definition of pH:\n\npH = -log[H+]\npH = -log(4.24 x 10^-3)\npH ≈ 2.37\n\nTherefore, the pH of the 0.1 M solution of formic acid at 25 °C is approximately 2.37."
+}

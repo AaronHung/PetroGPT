@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Stereochemistry and chirality",
+    "message_1": "Identify the number of stereoisomers for a molecule with the molecular formula C5H10O that contains a chiral carbon atom.",
+    "message_2": "To determine the number of stereoisomers for a molecule with the molecular formula C5H10O containing a chiral carbon atom, we need to consider the following:\n\n1. The molecule must have at least one chiral carbon atom (also known as an asymmetric carbon atom). A chiral carbon atom is a carbon atom that is bonded to four different groups.\n\n2. Stereoisomers are isomers that have the same molecular formula and the same connectivity of atoms but differ in the spatial arrangement of the atoms.\n\nThere are two types of stereoisomers: enantiomers and diastereomers. Enantiomers are non-superimposable mirror images of each other, while diastereomers are stereoisomers that are not mirror images of each other.\n\nFor a molecule with one chiral carbon atom, there are 2^n stereoisomers, where n is the number of chiral centers. In this case, n = 1, so there are 2^1 = 2 stereoisomers.\n\nTherefore, a molecule with the molecular formula C5H10O that contains a chiral carbon atom has 2 stereoisomers."
+}

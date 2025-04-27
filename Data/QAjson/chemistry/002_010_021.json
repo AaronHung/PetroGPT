@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the density of inorganic compounds",
+    "message_1": "What is the density of sodium chloride (NaCl) at 25°C if its volume is 75 mL and its mass is 108 g?",
+    "message_2": "To find the density of sodium chloride (NaCl) at 25°C, we can use the formula:\n\nDensity = Mass / Volume\n\nGiven the mass of NaCl is 108 g and its volume is 75 mL, we can plug these values into the formula:\n\nDensity = 108 g / 75 mL\n\nDensity = 1.44 g/mL\n\nSo, the density of sodium chloride (NaCl) at 25°C is 1.44 g/mL."
+}

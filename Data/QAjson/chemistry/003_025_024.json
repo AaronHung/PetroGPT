@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Chemical equilibria and equilibrium constants.",
+    "message_1": "What is the equilibrium constant expression for the following reaction at 298 K, given the concentrations of the reactants and products as follows:\nN₂(g) + 3H₂(g) ⇌ 2NH₃(g)\n[N₂] = 0.15 M, [H₂] = 0.25 M, [NH₃] = 0.20 M.",
+    "message_2": "To find the equilibrium constant expression (Kc) for the given reaction, we need to use the balanced chemical equation and the concentrations of the reactants and products at equilibrium.\n\nThe balanced chemical equation is:\n\nN₂(g) + 3H₂(g) ⇌ 2NH₃(g)\n\nThe equilibrium constant expression (Kc) for this reaction is given by:\n\nKc = [NH₃]^2 / ([N₂] * [H₂]^3)\n\nNow, we can plug in the given concentrations at equilibrium:\n\n[N₂] = 0.15 M\n[H₂] = 0.25 M\n[NH₃] = 0.20 M\n\nKc = (0.20)^2 / (0.15 * (0.25)^3)\n\nKc = 0.04 / (0.15 * 0.00390625)\n\nKc = 0.04 / 0.0005859375\n\nKc ≈ 68.27\n\nSo, the equilibrium constant (Kc) for the given reaction at 298 K is approximately 68.27."
+}

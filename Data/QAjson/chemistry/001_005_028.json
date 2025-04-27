@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Alkanes and cycloalkanes",
+    "message_1": "What is the condensed structural formula for the cyclohexane molecule?",
+    "message_2": "The condensed structural formula for the cyclohexane molecule is C6H12. Cyclohexane is a cyclic compound with six carbon atoms connected in a ring, and each carbon atom is bonded to two hydrogen atoms."
+}

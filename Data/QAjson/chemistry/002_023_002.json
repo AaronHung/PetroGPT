@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Determining the conductivity of inorganic compounds",
+    "message_1": "What is the effect of changing the concentration of a soluble inorganic salt (e.g. NaCl) on its electrical conductivity?",
+    "message_2": "The electrical conductivity of a solution is the ability of the solution to conduct electric current. This conductivity is primarily due to the presence of ions in the solution, which are formed when a soluble inorganic salt, like NaCl, dissolves in water.\n\nWhen the concentration of a soluble inorganic salt (e.g., NaCl) in a solution increases, the number of ions (Na+ and Cl-) in the solution also increases. As a result, the electrical conductivity of the solution increases because there are more ions available to carry the electric current.\n\nIn summary, increasing the concentration of a soluble inorganic salt in a solution will increase its electrical conductivity due to the increased number of ions present in the solution."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Balancing chemical equations for inorganic compounds",
+    "message_1": "What is the balanced chemical equation for the reaction between iron (III) oxide and carbon monoxide to produce iron metal and carbon dioxide gas?",
+    "message_2": "The balanced chemical equation for the reaction between iron (III) oxide (Fe2O3) and carbon monoxide (CO) to produce iron metal (Fe) and carbon dioxide gas (CO2) is:\n\nFe2O3 + 3CO → 2Fe + 3CO2"
+}

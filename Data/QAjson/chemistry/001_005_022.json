@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Alkanes and cycloalkanes",
+    "message_1": "What is the IUPAC name of the straight-chain alkane that has 12 carbon atoms?",
+    "message_2": "The IUPAC name of the straight-chain alkane with 12 carbon atoms is dodecane."
+}

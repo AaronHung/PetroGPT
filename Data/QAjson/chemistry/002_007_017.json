@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the products of inorganic reactions",
+    "message_1": "What are the predicted products of the reaction between copper sulfate and zinc metal?",
+    "message_2": "The reaction between copper sulfate (CuSO₄) and zinc metal (Zn) is a single displacement reaction. In this reaction, zinc displaces copper from copper sulfate, forming zinc sulfate (ZnSO₄) and copper metal (Cu). The balanced chemical equation for this reaction is:\n\nCuSO₄(aq) + Zn(s) → ZnSO₄(aq) + Cu(s)\n\nThe predicted products are zinc sulfate (ZnSO₄) and copper metal (Cu)."
+}

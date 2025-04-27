@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the Faraday constant",
+    "message_1": "A zinc electrode was kept in a 0.1 M ZnSO4(aq) solution, and a copper electrode was kept in a 0.1 M CuSO4(aq) solution. When 1500 C of electricity was passed through the cell, how many grams of copper were deposited on the cathode? (Assume 100 % efficiency and the Faraday constant is 96500 C/mol)",
+    "message_2": "To determine the amount of copper deposited on the cathode, we first need to find the number of moles of electrons transferred during the process. We can do this using the Faraday constant (96500 C/mol).\n\nNumber of moles of electrons = Charge (C) / Faraday constant (C/mol)\nNumber of moles of electrons = 1500 C / 96500 C/mol = 0.01554 mol\n\nIn the redox reaction, copper ions (Cu²⁺) gain two electrons to form copper metal (Cu):\n\nCu²⁺ + 2e⁻ → Cu\n\nSince 2 moles of electrons are required to deposit 1 mole of copper, we can now find the number of moles of copper deposited:\n\nNumber of moles of copper = Number of moles of electrons / 2\nNumber of moles of copper = 0.01554 mol / 2 = 0.00777 mol\n\nNow, we can calculate the mass of copper deposited using the molar mass of copper (63.55 g/mol):\n\nMass of copper = Number of moles of copper × Molar mass of copper\nMass of copper = 0.00777 mol × 63.55 g/mol = 0.493 g\n\nTherefore, 0.493 grams of copper were deposited on the cathode."
+}

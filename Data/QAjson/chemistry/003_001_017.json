@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Thermodynamics of chemical reactions",
+    "message_1": "What is the maximum amount of work that can be obtained from a chemical reaction at constant temperature and pressure, assuming perfect reversibility and no external work?",
+    "message_2": "The maximum amount of work that can be obtained from a chemical reaction at constant temperature and pressure, assuming perfect reversibility and no external work, is given by the change in Gibbs free energy (ΔG) of the reaction. Gibbs free energy is a thermodynamic potential that measures the maximum reversible work that can be done by a system at constant temperature and pressure.\n\nThe equation for Gibbs free energy change (ΔG) is:\n\nΔG = ΔH - TΔS\n\nwhere ΔH is the change in enthalpy (heat content) of the reaction, T is the absolute temperature in Kelvin, and ΔS is the change in entropy (disorder) of the reaction.\n\nA negative ΔG value indicates that the reaction is spontaneous and can perform work, while a positive ΔG value indicates that the reaction is non-spontaneous and requires work to proceed. The maximum amount of work that can be obtained from the reaction is equal to the magnitude of the negative ΔG value."
+}

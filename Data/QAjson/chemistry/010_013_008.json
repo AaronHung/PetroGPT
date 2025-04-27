@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the number of electrons transferred in an electrochemical reaction",
+    "message_1": "\"Calculate the number of electrons transferred in the electrochemical reaction when a solution of silver nitrate is added to a copper electrode and a salt bridge is used to complete the circuit.\"",
+    "message_2": "To calculate the number of electrons transferred in the electrochemical reaction between silver nitrate and a copper electrode, we need to first write the balanced half-reactions and the overall redox reaction.\n\nThe half-reactions are:\n\n1. Oxidation half-reaction (Cu -> Cu²⁺ + 2e⁻):\nCu(s) → Cu²⁺(aq) + 2e⁻\n\n2. Reduction half-reaction (Ag⁺ + e⁻ -> Ag):\n2Ag⁺(aq) + 2e⁻ → 2Ag(s)\n\nNow, we can combine the half-reactions to get the overall redox reaction:\n\nCu(s) + 2Ag⁺(aq) → Cu²⁺(aq) + 2Ag(s)\n\nIn this reaction, one copper atom loses two electrons (oxidation) and two silver ions each gain one electron (reduction). Therefore, the total number of electrons transferred in this electrochemical reaction is 2."
+}

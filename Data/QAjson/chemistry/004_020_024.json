@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Analytical chemistry",
+    "sub_topic": "Identification of the presence of specific functional groups in a compound using UV-Vis spectroscopy",
+    "message_1": "What functional group(s) are present in the given compound and at what wavelength do they absorb maximum in UV-Vis spectroscopy?",
+    "message_2": "Unfortunately, you have not provided the structure or name of the compound in question. Please provide the structure or name of the compound so that I can identify the functional groups present and their corresponding maximum absorption wavelengths in UV-Vis spectroscopy."
+}

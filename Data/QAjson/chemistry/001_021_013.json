@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Elimination reactions",
+    "message_1": "What is the major product of the following elimination reaction and what is the mechanism involved?\n \nCH3CH2CH2Br + KOH ------>",
+    "message_2": "The major product of this elimination reaction is an alkene, specifically, propene (CH3CH=CH2). The mechanism involved is E2 (bimolecular elimination) mechanism.\n\nHere's a step-by-step explanation of the E2 mechanism for this reaction:\n\n1. KOH is a strong base, and it will take a proton (H+) from the carbon next to the carbon attached to the bromine atom (Br). In this case, it will take a proton from the second carbon in the chain (CH3CH2CH2Br).\n\n2. The electrons from the carbon-hydrogen bond will move to form a double bond between the first and second carbons in the chain.\n\n3. At the same time, the carbon-bromine bond breaks, and the bromine atom leaves as a bromide ion (Br-).\n\n4. The final product is propene (CH3CH=CH2) and the by-products are water (H2O) and potassium bromide (KBr).\n\nThe overall reaction can be written as:\n\nCH3CH2CH2Br + KOH → CH3CH=CH2 + H2O + KBr"
+}

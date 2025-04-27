@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Biochemistry",
+    "sub_topic": "Nucleic acid structure and function",
+    "message_1": "What is the role of hydrogen bonds in maintaining the double helix structure of DNA? How many hydrogen bonds are formed between adenine and thymine base pairs compared to guanine and cytosine base pairs?",
+    "message_2": "Hydrogen bonds play a crucial role in maintaining the double helix structure of DNA. They provide the necessary stability and specificity for the base pairing between the two strands of DNA. The hydrogen bonds are formed between the nitrogenous bases of the two strands, holding them together and allowing the double helix structure to form.\n\nIn the DNA double helix, adenine (A) pairs with thymine (T), and guanine (G) pairs with cytosine (C). The number of hydrogen bonds formed between these base pairs differs:\n\n1. Adenine (A) and Thymine (T) form two hydrogen bonds.\n2. Guanine (G) and Cytosine (C) form three hydrogen bonds.\n\nThese hydrogen bonds contribute to the stability of the DNA double helix structure. The specific pairing of bases also ensures the accurate replication of genetic information during cell division."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Isotope notation and identification",
+    "message_1": "Identify the atomic number, mass number, and number of neutrons in the isotope of uranium-235.",
+    "message_2": "The isotope of uranium-235 is represented as U-235.\n\nAtomic number (Z): The atomic number represents the number of protons in an element. Uranium has an atomic number of 92, which means it has 92 protons.\n\nMass number (A): The mass number represents the total number of protons and neutrons in an isotope. For uranium-235, the mass number is 235.\n\nNumber of neutrons (N): To find the number of neutrons in the isotope, subtract the atomic number from the mass number. \n\nNumber of neutrons (N) = Mass number (A) - Atomic number (Z)\nN = 235 - 92\nN = 143\n\nSo, uranium-235 has an atomic number of 92, a mass number of 235, and 143 neutrons."
+}

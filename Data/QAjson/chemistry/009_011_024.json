@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Radioactive dating methods",
+    "message_1": "What is the age of a fossil that contains 25% of its original amount of carbon-14, assuming its initial carbon-14 activity was 12.5 disintegrations per minute per gram of carbon?",
+    "message_2": "To determine the age of the fossil, we can use the decay formula for carbon-14:\n\nN(t) = N0 * (1/2)^(t / t_half)\n\nWhere:\n- N(t) is the remaining amount of carbon-14 at time t\n- N0 is the initial amount of carbon-14\n- t_half is the half-life of carbon-14 (5,730 years)\n\nIn this case, the fossil contains 25% of its original amount of carbon-14, so N(t) = 0.25 * N0. We are not given the actual amount of carbon-14, but we are given the initial activity (12.5 disintegrations per minute per gram of carbon). However, since the activity is proportional to the amount of carbon-14, we can still use the decay formula to find the age of the fossil.\n\n0.25 * N0 = N0 * (1/2)^(t / 5,730)\n\nDivide both sides by N0:\n\n0.25 = (1/2)^(t / 5,730)\n\nNow, we need to solve for t. We can take the natural logarithm (ln) of both sides:\n\nln(0.25) = ln((1/2)^(t / 5,730))\n\nUsing the logarithm property ln(a^b) = b * ln(a), we get:\n\nln(0.25) = (t / 5,730) * ln(1/2)\n\nNow, we can solve for t:\n\nt = (5,730 * ln(0.25)) / ln(1/2)\n\nt ≈ 5,730 * (-1.386) / (-0.693)\n\nt ≈ 11,460 years\n\nThe age of the fossil is approximately 11,460 years."
+}

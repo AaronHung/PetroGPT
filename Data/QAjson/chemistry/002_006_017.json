@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the molar mass of inorganic compounds",
+    "message_1": "What is the molar mass of sodium sulfate decahydrate (Na2SO4.10H2O)?",
+    "message_2": "To calculate the molar mass of sodium sulfate decahydrate (Na2SO4·10H2O), we need to find the molar mass of each element in the compound and then add them together.\n\n1. Sodium (Na): There are 2 sodium atoms in the compound. The molar mass of sodium is 22.99 g/mol.\n   Molar mass of 2 Na = 2 × 22.99 g/mol = 45.98 g/mol\n\n2. Sulfur (S): There is 1 sulfur atom in the compound. The molar mass of sulfur is 32.07 g/mol.\n   Molar mass of S = 1 × 32.07 g/mol = 32.07 g/mol\n\n3. Oxygen (O): There are 4 oxygen atoms in the sulfate ion (SO4) and 20 oxygen atoms in the 10 water molecules (10H2O). The molar mass of oxygen is 16.00 g/mol.\n   Molar mass of 24 O = 24 × 16.00 g/mol = 384.00 g/mol\n\n4. Hydrogen (H): There are 20 hydrogen atoms in the 10 water molecules (10H2O). The molar mass of hydrogen is 1.01 g/mol.\n   Molar mass of 20 H = 20 × 1.01 g/mol = 20.20 g/mol\n\nNow, add the molar masses of all the elements together:\n\nMolar mass of Na2SO4·10H2O = 45.98 g/mol (Na) + 32.07 g/mol (S) + 384.00 g/mol (O) + 20.20 g/mol (H) = 482.25 g/mol\n\nSo, the molar mass of sodium sulfate decahydrate (Na2SO4·10H2O) is 482.25 g/mol."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Crystallography and crystal structures",
+    "message_1": "What is the coordination number of copper in a cubic closest-packed structure?",
+    "message_2": "In a cubic closest-packed (ccp) structure, also known as face-centered cubic (fcc) structure, each atom has 12 nearest neighbors. Therefore, the coordination number of copper in a cubic closest-packed structure is 12."
+}

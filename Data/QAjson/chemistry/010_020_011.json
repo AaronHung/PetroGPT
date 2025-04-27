@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the corrosion rate of a metal in a galvanic couple",
+    "message_1": "Sure, here's a question for the student to solve:\n\nWhat is the corrosion rate of an iron electrode in a galvanic couple with a zinc electrode, given that the iron electrode loses 0.10 g of mass over a period of 24 hours and that the area of the electrode is 4.5 cm2? Assume that the charge transferred is 1.02 x 104 C and the equivalent weight of iron is 27.9 g/equivalent.",
+    "message_2": "To calculate the corrosion rate of the iron electrode, we can use the following formula:\n\nCorrosion rate (CR) = (K * W) / (A * T * EW)\n\nWhere:\nCR = Corrosion rate (mm/year)\nK = Constant (3.27 x 10^6 for mm/year)\nW = Mass loss (g)\nA = Area of the electrode (cm^2)\nT = Time (hours)\nEW = Equivalent weight of iron (g/equivalent)\n\nGiven values:\nW = 0.10 g\nA = 4.5 cm^2\nT = 24 hours\nEW = 27.9 g/equivalent\n\nNow, we can plug these values into the formula:\n\nCR = (3.27 x 10^6 * 0.10) / (4.5 * 24 * 27.9)\nCR = (327000 / (4.5 * 24 * 27.9))\nCR = (327000 / 3027.6)\nCR = 108.03 mm/year\n\nThe corrosion rate of the iron electrode in the galvanic couple with a zinc electrode is approximately 108.03 mm/year."
+}

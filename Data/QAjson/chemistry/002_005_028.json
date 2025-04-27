@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Identifying the type of inorganic compound (ionic, covalent, metallic)",
+    "message_1": "Identify the type of inorganic compound formed between calcium and chlorine.",
+    "message_2": "The inorganic compound formed between calcium (Ca) and chlorine (Cl) is calcium chloride (CaCl2). This compound is an ionic compound, as it is formed through the transfer of electrons between a metal (calcium) and a non-metal (chlorine). Calcium loses two electrons to form a Ca2+ ion, while each chlorine atom gains one electron to form two Cl- ions. The resulting compound, CaCl2, is held together by the electrostatic attraction between the positively charged calcium ion and the negatively charged chloride ions."
+}

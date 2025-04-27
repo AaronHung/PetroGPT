@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the solubility of inorganic salts in water",
+    "message_1": "What is the solubility of Calcium Nitrate in 100 mL of water at 25 °C?",
+    "message_2": "The solubility of calcium nitrate (Ca(NO₃)₂) in water at 25 °C is approximately 121.2 g per 100 mL of water. This means that at 25 °C, you can dissolve 121.2 grams of calcium nitrate in 100 mL of water before it becomes saturated."
+}

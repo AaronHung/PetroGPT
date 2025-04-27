@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Nuclear stability and decay modes",
+    "message_1": "What is the decay mode of Uranium-238 and what are the resulting daughter nuclei formed from the decay process?",
+    "message_2": "Uranium-238 undergoes alpha decay, which is a type of radioactive decay where an alpha particle (consisting of 2 protons and 2 neutrons) is emitted from the nucleus. When Uranium-238 decays, it loses an alpha particle and forms a daughter nucleus, Thorium-234 (Th-234). The equation for this decay process is:\n\nU-238 → Th-234 + α (alpha particle)"
+}

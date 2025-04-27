@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Analytical chemistry",
+    "sub_topic": "Analysis of the purity of a substance using melting point determination",
+    "message_1": "What is the expected melting point range for a pure sample of caffeine? Compare the observed melting point of your given caffeine sample with the expected range and determine whether or not the sample is pure. If impure, estimate the percentage of impurity present.",
+    "message_2": "The expected melting point range for a pure sample of caffeine is 235-238°C.\n\nTo determine the purity of your given caffeine sample, you need to provide the observed melting point. If the observed melting point is within the expected range (235-238°C), it is likely that the sample is pure. If the observed melting point is lower than the expected range, it indicates the presence of impurities.\n\nTo estimate the percentage of impurity present, you would need to perform additional experiments, such as quantitative analysis using techniques like high-performance liquid chromatography (HPLC) or gas chromatography (GC). These methods can help determine the concentration of caffeine and impurities in the sample, allowing you to calculate the percentage of impurity."
+}

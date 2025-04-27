@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Determining the hybridization of inorganic compounds",
+    "message_1": "What is the hybridization of the nitrogen atom in ammonia (NH3) and what is the justification for the hybridization state?",
+    "message_2": "In ammonia (NH3), the nitrogen atom is sp3 hybridized. The justification for this hybridization state is based on the valence shell electron configuration of nitrogen and the number of sigma bonds and lone pairs present in the ammonia molecule.\n\nNitrogen has 5 valence electrons, with the electron configuration 2s²2p³. In ammonia, nitrogen forms three sigma bonds with three hydrogen atoms and also has one lone pair of electrons. To accommodate these four electron groups (3 sigma bonds and 1 lone pair), nitrogen undergoes hybridization, where one 2s orbital and three 2p orbitals combine to form four sp3 hybrid orbitals. These four sp3 hybrid orbitals are then used to form three N-H sigma bonds and to accommodate the lone pair of electrons.\n\nThe geometry of the ammonia molecule is trigonal pyramidal, with bond angles of approximately 107.5°, which is consistent with the tetrahedral arrangement of the four sp3 hybrid orbitals."
+}

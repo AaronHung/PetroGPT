@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Crystallography and crystal structures",
+    "message_1": "What is the unit cell of sodium chloride crystal?",
+    "message_2": "The unit cell of sodium chloride (NaCl) crystal is a face-centered cubic (FCC) lattice. In this arrangement, each sodium (Na+) ion is surrounded by six chloride (Cl-) ions, and each chloride ion is surrounded by six sodium ions. The coordination number (the number of nearest neighbors) is 6 for both types of ions. The unit cell consists of 4 sodium ions and 4 chloride ions, with the chloride ions located at the corners and face centers of the cube, and the sodium ions located at the edge centers and the center of the cube."
+}

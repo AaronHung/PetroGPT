@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Isotope notation and identification",
+    "message_1": "Identify the isotope represented by the following notation: \n\\[{}^{207}Pb\\]",
+    "message_2": "The isotope represented by the notation \\[{}^{207}Pb\\] is lead-207 (207Pb). The number 207 is the mass number (A), which is the sum of protons and neutrons in the nucleus. The symbol \"Pb\" represents the element lead, which has an atomic number (Z) of 82, meaning it has 82 protons. To find the number of neutrons, subtract the atomic number from the mass number: 207 - 82 = 125 neutrons. So, this isotope of lead has 82 protons and 125 neutrons."
+}

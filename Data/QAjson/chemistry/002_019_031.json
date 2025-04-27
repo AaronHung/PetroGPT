@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the boiling and melting points of inorganic compounds",
+    "message_1": "What is the boiling point of potassium iodide, given that its melting point is 681 °C and its heat of fusion is 20.7 kJ/mol? Assume a standard atmospheric pressure of 1 atm. Convert the answer into Kelvin scale.",
+    "message_2": "To determine the boiling point of potassium iodide (KI), we need to know its heat of vaporization. Unfortunately, the given information only provides the melting point and heat of fusion. However, we can estimate the boiling point using the available data.\n\nPotassium iodide has a melting point of 681 °C. The boiling point of KI is known to be around 1330 °C. To convert this to the Kelvin scale, we add 273.15 to the Celsius value:\n\nBoiling point (K) = Boiling point (°C) + 273.15\nBoiling point (K) = 1330 + 273.15\nBoiling point (K) ≈ 1603.15 K\n\nSo, the estimated boiling point of potassium iodide is approximately 1603.15 K under standard atmospheric pressure."
+}

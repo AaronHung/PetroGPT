@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the Faraday constant",
+    "message_1": "A student wants to calculate the amount of copper deposited on the cathode during the electrolysis of a copper (II) sulfate solution. If 2.5 A of current is passed through the cell for 10 minutes, what is the mass of copper that is deposited on the cathode? (Assume the atomic weight of copper is 63.55 g/mol and the Faraday constant is 96,485 C/mol).",
+    "message_2": "To calculate the mass of copper deposited on the cathode, we can use Faraday's law of electrolysis. The formula is:\n\nmass = (current × time × molar mass) / (n × Faraday constant)\n\nwhere:\n- mass is the mass of copper deposited (in grams)\n- current is the electric current (in amperes)\n- time is the duration of electrolysis (in seconds)\n- molar mass is the molar mass of copper (in grams per mole)\n- n is the number of electrons transferred per copper ion (in this case, it's 2 for Cu²⁺)\n- Faraday constant is the charge per mole of electrons (in coulombs per mole)\n\nFirst, we need to convert the time from minutes to seconds:\n\n10 minutes × 60 seconds/minute = 600 seconds\n\nNow, we can plug in the values into the formula:\n\nmass = (2.5 A × 600 s × 63.55 g/mol) / (2 × 96,485 C/mol)\n\nmass = (1500 C × 63.55 g/mol) / (192,970 C/mol)\n\nmass ≈ 0.492 g\n\nSo, the mass of copper deposited on the cathode is approximately 0.492 grams."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the percent composition of inorganic compounds",
+    "message_1": "What is the percent composition of magnesium oxide (MgO) by mass?",
+    "message_2": "To find the percent composition of magnesium oxide (MgO) by mass, we first need to determine the molar mass of each element in the compound and then calculate the percentage of each element.\n\n1. Determine the molar mass of magnesium (Mg) and oxygen (O):\n- Magnesium (Mg) has a molar mass of 24.305 g/mol.\n- Oxygen (O) has a molar mass of 16.00 g/mol.\n\n2. Calculate the molar mass of magnesium oxide (MgO):\nMgO = 24.305 g/mol (Mg) + 16.00 g/mol (O) = 40.305 g/mol\n\n3. Calculate the percent composition by mass of each element in MgO:\n- Magnesium (Mg): (24.305 g/mol (Mg) / 40.305 g/mol (MgO)) x 100% = 60.30%\n- Oxygen (O): (16.00 g/mol (O) / 40.305 g/mol (MgO)) x 100% = 39.70%\n\nSo, the percent composition of magnesium oxide (MgO) by mass is approximately 60.30% magnesium (Mg) and 39.70% oxygen (O)."
+}

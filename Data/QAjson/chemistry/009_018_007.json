@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Radioisotope production and uses",
+    "message_1": "Which radioisotope is commonly used in medical imaging and how is it produced?",
+    "message_2": "The radioisotope commonly used in medical imaging is Technetium-99m (99mTc). It is widely used in various diagnostic procedures, particularly in nuclear medicine and single-photon emission computed tomography (SPECT) scans.\n\nTechnetium-99m is produced by irradiating a target material, usually Molybdenum-98 (98Mo), with neutrons in a nuclear reactor. The neutron capture by 98Mo results in the formation of Molybdenum-99 (99Mo), which decays through beta decay to form Technetium-99m. The 99Mo is then extracted and purified from the target material, and it is loaded into a generator system. Technetium-99m is then obtained by eluting the generator with a saline solution, which separates the 99mTc from the 99Mo. This eluted solution containing 99mTc is then used to prepare radiopharmaceuticals for medical imaging."
+}

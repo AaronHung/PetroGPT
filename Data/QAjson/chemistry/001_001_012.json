@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Naming organic compounds",
+    "message_1": "What is the IUPAC name of the following organic compound?\n\nCH3CH2CH2COOH",
+    "message_2": "The IUPAC name of the organic compound CH3CH2CH2COOH is butanoic acid."
+}

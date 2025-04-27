@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the percent composition of inorganic compounds",
+    "message_1": "What is the percent composition of Iron (III) oxide? A sample of Iron (III) oxide has a mass of 12.3 g, and of this mass, 5.6 g is Iron. What is the percentage of Iron in this compound?",
+    "message_2": "To find the percent composition of Iron (III) oxide, we will first determine the mass of oxygen in the sample and then calculate the percentage of iron.\n\nGiven:\nTotal mass of Iron (III) oxide sample = 12.3 g\nMass of Iron in the sample = 5.6 g\n\nTo find the mass of oxygen in the sample, subtract the mass of iron from the total mass of the sample:\n\nMass of Oxygen = Total mass of Iron (III) oxide sample - Mass of Iron\nMass of Oxygen = 12.3 g - 5.6 g\nMass of Oxygen = 6.7 g\n\nNow, to find the percentage of Iron in the compound, divide the mass of Iron by the total mass of the sample and multiply by 100:\n\nPercentage of Iron = (Mass of Iron / Total mass of Iron (III) oxide sample) × 100\nPercentage of Iron = (5.6 g / 12.3 g) × 100\nPercentage of Iron ≈ 45.53 %\n\nTherefore, the percent composition of Iron in Iron (III) oxide is approximately 45.53%."
+}

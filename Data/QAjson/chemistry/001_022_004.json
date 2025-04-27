@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Rearrangement reactions",
+    "message_1": "What is the mechanism and product produced when 2-methylbut-2-ene undergoes a Wagner-Meerwein rearrangement reaction in the presence of concentrated sulfuric acid?",
+    "message_2": "When 2-methylbut-2-ene undergoes a Wagner-Meerwein rearrangement in the presence of concentrated sulfuric acid, the following mechanism and product are observed:\n\n1. Protonation: The double bond of 2-methylbut-2-ene reacts with the concentrated sulfuric acid (H2SO4), resulting in the protonation of the alkene and the formation of a carbocation intermediate.\n\n2. Wagner-Meerwein rearrangement: The carbocation intermediate undergoes a 1,2-hydride shift, which is the key step in the Wagner-Meerwein rearrangement. The hydride from the neighboring carbon (3rd carbon) moves to the carbocation center (2nd carbon), and the positive charge shifts to the 3rd carbon.\n\n3. Deprotonation: The carbocation formed in the previous step is deprotonated by the bisulfate ion (HSO4-) to regenerate the sulfuric acid catalyst and form the final product.\n\nThe final product of this reaction is 2-methylbut-1-ene."
+}

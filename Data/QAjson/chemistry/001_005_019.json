@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Alkanes and cycloalkanes",
+    "message_1": "What is the molecular formula and structural formula for the third member of the alkane series?",
+    "message_2": "The third member of the alkane series is propane. \n\nMolecular formula: C3H8\n\nStructural formula:\n```\n    H H H\n    | | |\nH - C-C-C - H\n    | | |\n    H H H\n```"
+}

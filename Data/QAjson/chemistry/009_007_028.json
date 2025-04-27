@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Nuclear stability and decay modes",
+    "message_1": "What is the nuclear decay mode of carbon-14 and what is the resulting daughter nucleus?",
+    "message_2": "Carbon-14 undergoes beta decay (β- decay), which is a type of radioactive decay where a neutron in the nucleus is converted into a proton, and an electron (called a beta particle) is emitted. The resulting daughter nucleus is nitrogen-14 (N-14)."
+}

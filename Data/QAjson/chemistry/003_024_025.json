@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Gas phase reactions and kinetics",
+    "message_1": "What is the rate constant (k) for the reaction 2NOBr(g) -> 2NO(g) + Br2(g) at 450°C when the initial concentrations of NOBr and helium gas (He) are 0.0045 M and 1.00 atm, respectively, and the half-life of the reaction is 230 seconds?",
+    "message_2": "To find the rate constant (k) for the reaction, we need to use the half-life formula for a second-order reaction. The given reaction is:\n\n2NOBr(g) -> 2NO(g) + Br2(g)\n\nSince the stoichiometric coefficient of NOBr is 2, this is a second-order reaction with respect to NOBr. The half-life formula for a second-order reaction is:\n\nt1/2 = 1 / (k * [A]0)\n\nwhere t1/2 is the half-life, k is the rate constant, and [A]0 is the initial concentration of the reactant (NOBr in this case).\n\nWe are given the half-life (t1/2 = 230 seconds) and the initial concentration of NOBr ([A]0 = 0.0045 M). We can now solve for the rate constant (k):\n\n230 s = 1 / (k * 0.0045 M)\n\nRearranging the equation to solve for k:\n\nk = 1 / (230 s * 0.0045 M)\n\nk ≈ 0.000962 M^(-1)s^(-1)\n\nSo, the rate constant (k) for the reaction at 450°C is approximately 0.000962 M^(-1)s^(-1)."
+}

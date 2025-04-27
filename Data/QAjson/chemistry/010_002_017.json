@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Determination of the oxidation state of an element in a compound",
+    "message_1": "What is the oxidation state of nitrogen in ammonium nitrate (NH4NO3)?",
+    "message_2": "Ammonium nitrate (NH4NO3) consists of two ions: the ammonium ion (NH4+) and the nitrate ion (NO3-). To find the oxidation state of nitrogen in ammonium nitrate, we need to determine the oxidation state of nitrogen in each ion separately.\n\n1. In the ammonium ion (NH4+), nitrogen is bonded to four hydrogen atoms. Hydrogen has an oxidation state of +1. Therefore, the oxidation state of nitrogen in the ammonium ion is -3 (since +1 * 4 = +4, and nitrogen's oxidation state must balance the charge: -3 + 4 = +1).\n\n2. In the nitrate ion (NO3-), nitrogen is bonded to three oxygen atoms. Oxygen has an oxidation state of -2. Therefore, the oxidation state of nitrogen in the nitrate ion is +5 (since -2 * 3 = -6, and nitrogen's oxidation state must balance the charge: +5 - 6 = -1).\n\nSo, in ammonium nitrate (NH4NO3), nitrogen has two different oxidation states: -3 in the ammonium ion and +5 in the nitrate ion."
+}

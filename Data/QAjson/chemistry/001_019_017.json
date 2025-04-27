@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Nucleophilic substitution reactions",
+    "message_1": "What is the product formed when methyl bromide reacts with aqueous sodium hydroxide and what type of nucleophilic substitution reaction is occurring?",
+    "message_2": "When methyl bromide (CH3Br) reacts with aqueous sodium hydroxide (NaOH), a nucleophilic substitution reaction occurs. Specifically, it is an SN2 reaction (substitution nucleophilic bimolecular). In this reaction, the hydroxide ion (OH-) from sodium hydroxide acts as a nucleophile and attacks the electrophilic carbon in methyl bromide, replacing the bromide ion (Br-).\n\nThe products formed in this reaction are methanol (CH3OH) and sodium bromide (NaBr). The balanced chemical equation for this reaction is:\n\nCH3Br + NaOH → CH3OH + NaBr"
+}

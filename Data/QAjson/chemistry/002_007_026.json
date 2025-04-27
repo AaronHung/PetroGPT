@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the products of inorganic reactions",
+    "message_1": "What are the products of the following reaction: FeCl3 + KSCN? And what type of reaction is it?",
+    "message_2": "The reaction between FeCl3 (Iron(III) chloride) and KSCN (Potassium thiocyanate) is a double displacement reaction, also known as a metathesis reaction. In this reaction, the anions (Cl- and SCN-) will exchange places, resulting in the formation of new products.\n\nThe balanced chemical equation for this reaction is:\n\nFeCl3 (aq) + 3 KSCN (aq) → Fe(SCN)3 (aq) + 3 KCl (aq)\n\nThe products of this reaction are Fe(SCN)3 (Iron(III) thiocyanate) and KCl (Potassium chloride)."
+}

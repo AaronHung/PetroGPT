@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Elimination reactions",
+    "message_1": "What is the major product formed in the elimination reaction when 2-methylcyclohexanol is heated with concentrated hydrochloric acid?",
+    "message_2": "When 2-methylcyclohexanol is heated with concentrated hydrochloric acid, an E1 elimination reaction occurs. In this reaction, the hydroxyl group (-OH) in the alcohol is protonated by the hydrochloric acid to form a good leaving group (water). Then, a carbocation is formed, and a neighboring hydrogen is removed by a base (chloride ion, Cl-) to form a double bond. \n\nThe major product of this reaction is 1-methylcyclohexene. This is due to the Zaitsev's rule, which states that the more substituted alkene is the major product in an elimination reaction. In this case, 1-methylcyclohexene is more substituted than the alternative product, 3-methylcyclohexene, and therefore is the major product."
+}

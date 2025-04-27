@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Half-life calculations",
+    "message_1": "A sample of radioactive iodine-131 has an initial activity of 2000 Bq. Determine the activity of the sample after 8 days, given that the half-life of iodine-131 is 8 days.",
+    "message_2": "To determine the activity of the sample after 8 days, we can use the radioactive decay formula:\n\nActivity_final = Activity_initial * (1/2)^(time_elapsed / half_life)\n\nwhere\nActivity_initial = 2000 Bq (initial activity)\ntime_elapsed = 8 days\nhalf_life = 8 days (half-life of iodine-131)\n\nActivity_final = 2000 * (1/2)^(8/8)\nActivity_final = 2000 * (1/2)^1\nActivity_final = 2000 * 0.5\nActivity_final = 1000 Bq\n\nThe activity of the sample after 8 days is 1000 Bq."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Half-life calculations",
+    "message_1": "A sample of Iodine-131 decays with a half-life of 8.02 days. If the initial activity of the sample was 120 μCi, what is the activity of the sample after 24.06 days?",
+    "message_2": "To solve this problem, we can use the radioactive decay formula:\n\nA(t) = A₀ * (1/2)^(t / T)\n\nWhere:\nA(t) is the activity of the sample at time t,\nA₀ is the initial activity of the sample,\nt is the time that has passed (in days),\nT is the half-life of the substance (in days).\n\nGiven:\nA₀ = 120 μCi\nT = 8.02 days\nt = 24.06 days\n\nWe can now plug these values into the formula:\n\nA(24.06) = 120 * (1/2)^(24.06 / 8.02)\n\nA(24.06) = 120 * (1/2)^(3)\n\nA(24.06) = 120 * (1/8)\n\nA(24.06) = 15 μCi\n\nSo, the activity of the Iodine-131 sample after 24.06 days is 15 μCi."
+}

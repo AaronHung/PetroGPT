@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Radiation detection and measurement",
+    "message_1": "What is the percentage of energy conversion efficiency for a Geiger-Muller counter used for radiation detection and measurement, if it records 720 counts per minute and the radiation source emits 3.6 x 10^6 particles per minute?",
+    "message_2": "To calculate the percentage of energy conversion efficiency for the Geiger-Muller counter, we need to determine the ratio of the detected particles (counts per minute) to the total emitted particles (particles per minute) and then multiply by 100 to get the percentage.\n\nEfficiency (%) = (Detected particles / Total emitted particles) × 100\n\nIn this case, the Geiger-Muller counter records 720 counts per minute, and the radiation source emits 3.6 x 10^6 particles per minute.\n\nEfficiency (%) = (720 / 3.6 x 10^6) × 100\n\nEfficiency (%) = (720 / 3600000) × 100\n\nEfficiency (%) = 0.0002 × 100\n\nEfficiency (%) = 0.02\n\nThe energy conversion efficiency for the Geiger-Muller counter used for radiation detection and measurement is 0.02%."
+}

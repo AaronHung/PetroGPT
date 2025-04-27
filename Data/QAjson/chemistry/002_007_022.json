@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the products of inorganic reactions",
+    "message_1": "Given the reactants Copper(II) chloride and Sodium hydroxide, predict the products of the reaction and write the balanced chemical equation.",
+    "message_2": "The reaction between Copper(II) chloride (CuCl₂) and Sodium hydroxide (NaOH) is a double displacement reaction, which results in the formation of Copper(II) hydroxide (Cu(OH)₂) and Sodium chloride (NaCl). The balanced chemical equation for this reaction is:\n\nCuCl₂ (aq) + 2 NaOH (aq) → Cu(OH)₂ (s) + 2 NaCl (aq)"
+}

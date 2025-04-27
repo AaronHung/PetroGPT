@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Neutron activation analysis",
+    "message_1": "What is the concentration of gold in a given sample that contains unknown amount of gold but the sample is known to consist of 95% silver and 5% gold, if the neutron activation analysis of the sample shows that it contains 1% gold?",
+    "message_2": "If the neutron activation analysis shows that the sample contains 1% gold, then the concentration of gold in the sample is 1%. This is because the neutron activation analysis provides a direct measurement of the gold content in the sample. The initial information about the sample consisting of 95% silver and 5% gold is not relevant in this case, as the neutron activation analysis has already determined the gold concentration."
+}

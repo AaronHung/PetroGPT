@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Radiation therapy and dosimetry",
+    "message_1": "What is the maximum amount of radiation dosage that can be safely administered to a cancer patient undergoing radiation therapy without causing excessive damage to surrounding healthy tissues?",
+    "message_2": "I am not a medical professional, but I can provide some general information on this topic. The maximum amount of radiation dosage that can be safely administered to a cancer patient undergoing radiation therapy varies depending on several factors, such as the type and location of the cancer, the patient's overall health, and the specific treatment plan.\n\nIn general, radiation therapy is administered in small doses called fractions, which are typically given daily over several weeks. This approach, called fractionation, allows the healthy tissues to recover between treatments while still delivering a high enough dose to the cancer cells.\n\nThe total radiation dose for a course of treatment is measured in units called Gray (Gy). The total dose and the number of fractions can vary depending on the specific treatment plan. For example, a common dose for external beam radiation therapy might be 45-70 Gy, delivered in 1.8-2 Gy fractions over 5-7 weeks.\n\nIt is essential to work closely with a radiation oncologist to determine the appropriate radiation dose for each individual patient, as they will take into account the patient's specific circumstances and treatment goals."
+}

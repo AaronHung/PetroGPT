@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Functional groups and their reactions",
+    "message_1": "Identify the functional group of the following compound and predict its reaction with sodium hydroxide: \nCH3CH2CH2OH",
+    "message_2": "The given compound is CH3CH2CH2OH, which can also be written as C3H7OH. This compound contains an -OH group, which is an alcohol functional group.\n\nWhen the alcohol reacts with sodium hydroxide (NaOH), it will undergo a reaction called acid-base reaction. In this reaction, the acidic hydrogen atom from the alcohol (-OH group) will be replaced by a sodium ion (Na+), forming a sodium alkoxide salt and water as a byproduct.\n\nThe reaction can be represented as follows:\n\nC3H7OH + NaOH → C3H7ONa + H2O\n\nThe product formed is sodium propoxide (C3H7ONa) and water (H2O)."
+}

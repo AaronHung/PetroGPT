@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the geometry and polarity of inorganic molecules",
+    "message_1": "What is the molecular geometry and polarity of carbon dioxide (CO2)?",
+    "message_2": "The molecular geometry of carbon dioxide (CO2) is linear. In this molecule, the central carbon atom is double-bonded to two oxygen atoms. The bond angle between the oxygen atoms is 180 degrees.\n\nRegarding polarity, CO2 is a nonpolar molecule. Although the carbon-oxygen bonds are polar due to the difference in electronegativity between carbon and oxygen, the linear geometry causes the dipole moments of the two C=O bonds to cancel each other out, resulting in an overall nonpolar molecule."
+}

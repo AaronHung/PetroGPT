@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Balancing chemical equations for inorganic compounds",
+    "message_1": "What is the balanced chemical equation for the reaction between copper (II) sulfate and sodium hydroxide?",
+    "message_2": "The reaction between copper (II) sulfate (CuSO₄) and sodium hydroxide (NaOH) is a double displacement reaction, resulting in the formation of copper (II) hydroxide (Cu(OH)₂) and sodium sulfate (Na₂SO₄). The balanced chemical equation for this reaction is:\n\nCuSO₄ (aq) + 2 NaOH (aq) → Cu(OH)₂ (s) + Na₂SO₄ (aq)"
+}

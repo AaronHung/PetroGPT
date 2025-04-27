@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Determination of the oxidation state of an element in a compound",
+    "message_1": "What is the oxidation state of manganese in potassium permanganate (KMnO4)?",
+    "message_2": "In potassium permanganate (KMnO4), the oxidation state of manganese is +7."
+}

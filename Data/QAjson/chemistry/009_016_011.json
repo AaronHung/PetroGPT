@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Gamma spectroscopy",
+    "message_1": "What is the energy (in keV) of a gamma ray emitted during the decay of Cobalt-60 if the energy of the resulting daughter nucleus is known to be 1.17 MeV? (Hint: Cobalt-60 undergoes a beta decay followed by gamma emission)",
+    "message_2": "Cobalt-60 decays to Nickel-60 through beta decay, which is then followed by gamma emission. The gamma emission from Cobalt-60 decay consists of two gamma rays with energies of 1.17 MeV and 1.33 MeV. Since the energy of the resulting daughter nucleus is given as 1.17 MeV, we can assume that the gamma ray emitted has an energy of 1.33 MeV.\n\nTo convert the energy from MeV to keV, we use the conversion factor:\n\n1 MeV = 1000 keV\n\nSo, the energy of the gamma ray emitted during the decay of Cobalt-60 is:\n\n1.33 MeV * 1000 keV/MeV = 1330 keV"
+}

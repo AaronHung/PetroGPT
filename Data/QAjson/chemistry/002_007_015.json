@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the products of inorganic reactions",
+    "message_1": "What are the products of the reaction between sodium hydroxide and hydrochloric acid, and what type of reaction is occurring?",
+    "message_2": "The reaction between sodium hydroxide (NaOH) and hydrochloric acid (HCl) is an acid-base reaction, specifically a neutralization reaction. In this reaction, the products are sodium chloride (NaCl) and water (H2O). The balanced chemical equation for this reaction is:\n\nNaOH + HCl → NaCl + H2O"
+}

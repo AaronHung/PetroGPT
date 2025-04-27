@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Determining oxidation states of elements in inorganic compounds",
+    "message_1": "What is the oxidation state of the central metal ion in the compound Fe(CO)₅?",
+    "message_2": "In the compound Fe(CO)₅, the central metal ion is iron (Fe). The ligand in this compound is carbonyl (CO), which is a neutral ligand, meaning it does not have a charge. Since there are five carbonyl ligands surrounding the iron atom and they do not contribute any charge, the oxidation state of the central metal ion (iron) in this compound is 0."
+}

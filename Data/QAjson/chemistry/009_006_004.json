@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Isotope notation and identification",
+    "message_1": "What is the isotope notation for carbon-14 and what is its significance in radiocarbon dating?",
+    "message_2": "The isotope notation for carbon-14 is ¹⁴C or C-14, where the superscript \"14\" represents the mass number (the sum of protons and neutrons) and \"C\" is the chemical symbol for carbon.\n\nCarbon-14 is significant in radiocarbon dating because it is a radioactive isotope of carbon that decays over time. It is naturally produced in the Earth's atmosphere when cosmic rays interact with nitrogen atoms. Living organisms constantly exchange carbon with their environment, taking in ¹⁴C through processes like photosynthesis and respiration. As a result, the ratio of ¹⁴C to the stable isotope ¹²C remains constant in living organisms.\n\nWhen an organism dies, it stops exchanging carbon with its environment, and the ¹⁴C in its body begins to decay into nitrogen-14 at a known rate, called the half-life (approximately 5,730 years for ¹⁴C). By measuring the remaining ¹⁴C in a sample and comparing it to the initial ratio of ¹⁴C to ¹²C, scientists can determine how long it has been since the organism died. This method, known as radiocarbon dating, is widely used to determine the age of archaeological and geological samples up to about 50,000 years old."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the solubility of inorganic salts in water",
+    "message_1": "What is the solubility of the inorganic salt calcium phosphate in water at 25°C, given its Ksp value?",
+    "message_2": "To determine the solubility of calcium phosphate (Ca₃(PO₄)₂) in water at 25°C, we need to use its solubility product constant (Ksp) value. The Ksp value for calcium phosphate at 25°C is 2.07 × 10⁻³³.\n\nFirst, let's write the balanced dissolution equation for calcium phosphate:\n\nCa₃(PO₄)₂(s) ⇌ 3Ca²⁺(aq) + 2PO₄³⁻(aq)\n\nNow, let's express the Ksp in terms of the concentrations of the ions:\n\nKsp = [Ca²⁺]³ * [PO₄³⁻]²\n\nLet x be the solubility of calcium phosphate in moles per liter (mol/L). According to the stoichiometry of the dissolution equation, for every 1 mol of Ca₃(PO₄)₂ that dissolves, 3 mol of Ca²⁺ and 2 mol of PO₄³⁻ are produced. Therefore, the concentrations of the ions are:\n\n[Ca²⁺] = 3x\n[PO₄³⁻] = 2x\n\nNow, substitute these concentrations into the Ksp expression:\n\nKsp = (3x)³ * (2x)²\n\nPlug in the Ksp value for calcium phosphate:\n\n2.07 × 10⁻³³ = (3x)³ * (2x)²\n\nNow, we need to solve for x:\n\n2.07 × 10⁻³³ = 108x⁵\n\nx⁵ = (2.07 × 10⁻³³) / 108\nx⁵ = 1.92 × 10⁻³⁵\n\nTake the fifth root of both sides:\n\nx = (1.92 × 10⁻³⁵)^(1/5)\nx ≈ 1.30 × 10⁻⁷\n\nThe solubility of calcium phosphate in water at 25°C is approximately 1.30 × 10⁻⁷ mol/L."
+}

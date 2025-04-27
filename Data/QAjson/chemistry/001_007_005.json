@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Aromatic compounds",
+    "message_1": "What is the molecular formula and structure of a compound that contains one benzene ring and two methyl groups?",
+    "message_2": "The molecular formula of a compound that contains one benzene ring and two methyl groups is C8H10. This compound is called xylene. There are three isomers of xylene, which differ in the positions of the methyl groups on the benzene ring:\n\n1. Ortho-xylene (o-xylene): The two methyl groups are attached to adjacent carbon atoms in the benzene ring.\n2. Meta-xylene (m-xylene): The two methyl groups are attached to carbon atoms with one carbon atom in between them in the benzene ring.\n3. Para-xylene (p-xylene): The two methyl groups are attached to opposite carbon atoms in the benzene ring.\n\nThe structure of each isomer can be represented as follows:\n\n1. Ortho-xylene: \n   CH3\n    |\n1-C-2-C-3-C\n|     |     |\n6-C-5-C-4-C\n    |\n   CH3\n\n2. Meta-xylene:\n   CH3\n    |\n1-C-2-C-3-C\n|     |     |\n6-C-5-C-4-C\n          |\n         CH3\n\n3. Para-xylene:\n   CH3\n    |\n1-C-2-C-3-C\n|     |     |\n6-C-5-C-4-C\n          |\n         CH3"
+}

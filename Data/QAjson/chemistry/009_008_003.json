@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Radiation detection and measurement",
+    "message_1": "What is the activity of a radioactive source if it has decayed by 75% in 10 days, given that its initial activity was 1000 Bq?",
+    "message_2": "To find the activity of the radioactive source after it has decayed by 75%, we first need to determine the remaining percentage of the source. Since it has decayed by 75%, the remaining percentage is 100% - 75% = 25%.\n\nNow, we can calculate the remaining activity by multiplying the initial activity by the remaining percentage:\n\nRemaining activity = Initial activity * Remaining percentage\nRemaining activity = 1000 Bq * 0.25\nRemaining activity = 250 Bq\n\nSo, the activity of the radioactive source after decaying by 75% in 10 days is 250 Bq."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Balancing chemical equations for inorganic compounds",
+    "message_1": "Sure, here's a question for the student to solve:\n\n\"How many molecules of Hydrochloric acid (HCl) are required to completely react with 5 molecules of Sodium Hydroxide (NaOH) according to the balanced chemical equation?\" \n\nThe balanced chemical equation is:  NaOH + HCl → NaCl + H2O",
+    "message_2": "According to the balanced chemical equation, one molecule of Sodium Hydroxide (NaOH) reacts with one molecule of Hydrochloric acid (HCl) to produce one molecule of Sodium Chloride (NaCl) and one molecule of Water (H2O).\n\nNaOH + HCl → NaCl + H2O\n\nSince there are 5 molecules of Sodium Hydroxide (NaOH), you will need 5 molecules of Hydrochloric acid (HCl) to completely react with them."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Identifying the type of inorganic compound (ionic, covalent, metallic)",
+    "message_1": "What type of inorganic compound is formed when magnesium reacts with oxygen? Is it a ionic, covalent or metallic compound? Justify your answer with appropriate reasons.",
+    "message_2": "When magnesium reacts with oxygen, an inorganic compound called magnesium oxide (MgO) is formed. This compound is an ionic compound. The reason for this classification is based on the nature of the bond formed between magnesium and oxygen.\n\nMagnesium is a metal from Group 2 (alkaline earth metals) of the periodic table, and it has a tendency to lose two electrons to achieve a stable electron configuration. When it loses these two electrons, it forms a cation with a +2 charge (Mg²⁺).\n\nOxygen, on the other hand, is a non-metal from Group 16 (chalcogens) of the periodic table, and it has a tendency to gain two electrons to achieve a stable electron configuration. When it gains these two electrons, it forms an anion with a -2 charge (O²⁻).\n\nIn the formation of magnesium oxide, the magnesium cation (Mg²⁺) and the oxygen anion (O²⁻) are attracted to each other due to their opposite charges, resulting in the formation of an ionic bond. This bond is characterized by the electrostatic attraction between the positively charged magnesium ion and the negatively charged oxygen ion.\n\nTherefore, magnesium oxide (MgO) is an ionic compound formed when magnesium reacts with oxygen."
+}

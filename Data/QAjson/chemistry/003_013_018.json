@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Non-equilibrium thermodynamics and irreversible processes",
+    "message_1": "What is the maximum amount of work that can be obtained from a chemical reaction at a constant temperature and pressure, if it is irreversible and occurs spontaneously?",
+    "message_2": "In an irreversible and spontaneous chemical reaction at constant temperature and pressure, the maximum amount of work that can be obtained is equal to the change in Gibbs free energy (ΔG) of the reaction. The Gibbs free energy is a thermodynamic potential that measures the maximum reversible work that can be done by a system at constant temperature and pressure.\n\nΔG = ΔH - TΔS\n\nwhere ΔH is the change in enthalpy, T is the temperature in Kelvin, and ΔS is the change in entropy.\n\nFor an irreversible and spontaneous reaction, ΔG will be negative, indicating that the reaction will proceed spontaneously and can perform work. The magnitude of ΔG represents the maximum amount of work that can be obtained from the reaction. It is important to note that this is the theoretical maximum, and in practice, the actual work obtained may be less due to inefficiencies and losses."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Gamma spectroscopy",
+    "message_1": "What is the energy of a gamma photon emitted during the decay of a radioactive nucleus that produces a peak in the gamma spectrum at 511 keV?",
+    "message_2": "The energy of a gamma photon emitted during the decay of a radioactive nucleus that produces a peak in the gamma spectrum at 511 keV is 511 kilo-electron volts (keV). This value is already given in the problem statement, and it represents the energy of the gamma photon."
+}

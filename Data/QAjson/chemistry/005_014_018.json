@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Biochemistry",
+    "sub_topic": "Glycolysis and gluconeogenesis",
+    "message_1": "How many ATP molecules are generated through the process of glycolysis when glucose is converted into pyruvate?",
+    "message_2": "During the process of glycolysis, one molecule of glucose (6-carbon sugar) is converted into two molecules of pyruvate (3-carbon sugar). In this process, a net gain of 2 ATP molecules is generated for each glucose molecule that undergoes glycolysis."
+}

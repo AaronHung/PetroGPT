@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Alkenes and alkynes",
+    "message_1": "Identify and draw the structural isomers of C6H12 that contain at least one triple bond.",
+    "message_2": "To have at least one triple bond in a C6H12 molecule, we need to consider alkynes. However, the general formula for alkynes is CnH2n-2. For a C6 alkyne, the formula would be C6H10, not C6H12. Therefore, it is not possible to have a structural isomer of C6H12 with at least one triple bond."
+}

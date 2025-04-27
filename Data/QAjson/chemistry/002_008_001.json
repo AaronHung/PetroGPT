@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the percent composition of inorganic compounds",
+    "message_1": "What is the percent composition of KClO3 (potassium chlorate)?",
+    "message_2": "To find the percent composition of KClO3, we first need to determine the molar mass of each element in the compound and the molar mass of the entire compound.\n\n1. Determine the molar mass of each element in KClO3:\n- Potassium (K): 1 atom × 39.10 g/mol = 39.10 g/mol\n- Chlorine (Cl): 1 atom × 35.45 g/mol = 35.45 g/mol\n- Oxygen (O): 3 atoms × 16.00 g/mol = 48.00 g/mol\n\n2. Calculate the molar mass of KClO3:\nMolar mass of KClO3 = 39.10 g/mol (K) + 35.45 g/mol (Cl) + 48.00 g/mol (O) = 122.55 g/mol\n\n3. Calculate the percent composition of each element in KClO3:\n- Percent composition of K: (39.10 g/mol (K) / 122.55 g/mol (KClO3)) × 100% = 31.91%\n- Percent composition of Cl: (35.45 g/mol (Cl) / 122.55 g/mol (KClO3)) × 100% = 28.93%\n- Percent composition of O: (48.00 g/mol (O) / 122.55 g/mol (KClO3)) × 100% = 39.16%\n\nSo, the percent composition of KClO3 is approximately 31.91% potassium (K), 28.93% chlorine (Cl), and 39.16% oxygen (O)."
+}

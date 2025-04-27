@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Half-life calculations",
+    "message_1": "What would be the remaining activity of a radioactive sample with an initial activity of 5000 Becquerels if its half-life is 10 hours after 30 hours?",
+    "message_2": "To solve this problem, we can use the radioactive decay formula:\n\nA = A₀ * (1/2)^(t/T)\n\nWhere:\nA = remaining activity after time t\nA₀ = initial activity\nt = time elapsed\nT = half-life of the substance\n\nGiven:\nA₀ = 5000 Becquerels\nT = 10 hours\nt = 30 hours\n\nNow, we can plug these values into the formula:\n\nA = 5000 * (1/2)^(30/10)\n\nA = 5000 * (1/2)^3\n\nA = 5000 * (1/8)\n\nA = 625 Becquerels\n\nSo, the remaining activity of the radioactive sample after 30 hours would be 625 Becquerels."
+}

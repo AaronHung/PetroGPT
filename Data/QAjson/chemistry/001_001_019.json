@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Naming organic compounds",
+    "message_1": "Identify the IUPAC name of the organic compound with the molecular formula C3H8O.",
+    "message_2": "There are two possible isomers for the molecular formula C3H8O:\n\n1. Propan-1-ol (also known as 1-propanol or n-propyl alcohol): CH3CH2CH2OH\n2. Propan-2-ol (also known as 2-propanol or isopropyl alcohol): CH3CH(OH)CH3\n\nBoth of these compounds are alcohols with three carbon atoms and one hydroxyl group. The difference lies in the position of the hydroxyl group on the carbon chain."
+}

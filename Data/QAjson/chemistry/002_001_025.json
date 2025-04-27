@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Balancing chemical equations for inorganic compounds",
+    "message_1": "Balance the following chemical equation for the combustion of methane (CH4) in oxygen (O2) to form carbon dioxide (CO2) and water (H2O): \n\nCH4 + O2 → CO2 + H2O",
+    "message_2": "To balance the chemical equation for the combustion of methane, follow these steps:\n\n1. First, balance the carbon atoms. There is one carbon atom in CH4 and one carbon atom in CO2, so the carbon atoms are already balanced.\n\n2. Next, balance the hydrogen atoms. There are four hydrogen atoms in CH4 and two hydrogen atoms in H2O. To balance the hydrogen atoms, place a coefficient of 2 in front of H2O:\n\nCH4 + O2 → CO2 + 2H2O\n\n3. Finally, balance the oxygen atoms. There are two oxygen atoms in O2, two oxygen atoms in CO2, and four oxygen atoms in 2H2O (2 × 2 = 4). To balance the oxygen atoms, place a coefficient of 2 in front of O2:\n\nCH4 + 2O2 → CO2 + 2H2O\n\nNow, the balanced chemical equation for the combustion of methane is:\n\nCH4 + 2O2 → CO2 + 2H2O"
+}

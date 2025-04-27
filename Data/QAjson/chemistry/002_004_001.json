@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the pH of inorganic acid-base reactions",
+    "message_1": "What is the pH of a 0.1 M solution of hydrochloric acid?",
+    "message_2": "To calculate the pH of a 0.1 M solution of hydrochloric acid (HCl), we need to know the concentration of hydrogen ions (H+) in the solution. HCl is a strong acid, which means it completely dissociates in water:\n\nHCl → H+ + Cl-\n\nSince HCl completely dissociates, the concentration of H+ ions in the solution will be equal to the concentration of HCl, which is 0.1 M.\n\nThe pH of a solution is calculated using the formula:\n\npH = -log10[H+]\n\nIn this case:\n\npH = -log10(0.1)\n\npH = -(-1)\n\npH = 1\n\nSo, the pH of a 0.1 M solution of hydrochloric acid is 1."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Thermodynamics of chemical reactions",
+    "message_1": "What is the standard enthalpy change of the combustion reaction of propane in terms of kJ/mol if the balanced chemical equation is:\n\nC3H8(g) + 5O2(g) → 3CO2(g) + 4H2O(l)\n\nGiven that the standard enthalpy change of formation of CO2 is -393.5 kJ/mol and the standard enthalpy change of formation of H2O (l) is -285.8 kJ/mol.",
+    "message_2": "To calculate the standard enthalpy change of the combustion reaction of propane, we can use the following formula:\n\nΔH_combustion = Σ ΔH_f(products) - Σ ΔH_f(reactants)\n\nFor the given balanced chemical equation:\n\nC3H8(g) + 5O2(g) → 3CO2(g) + 4H2O(l)\n\nThe standard enthalpy change of formation for the products is:\n\n3 * ΔH_f(CO2) + 4 * ΔH_f(H2O) = 3 * (-393.5 kJ/mol) + 4 * (-285.8 kJ/mol) = -1180.5 kJ/mol - 1143.2 kJ/mol = -2323.7 kJ/mol\n\nSince propane (C3H8) and oxygen (O2) are in their standard states, their standard enthalpy change of formation is 0. Therefore, the standard enthalpy change of formation for the reactants is:\n\nΔH_f(C3H8) + 5 * ΔH_f(O2) = 0 + 5 * 0 = 0 kJ/mol\n\nNow, we can calculate the standard enthalpy change of the combustion reaction:\n\nΔH_combustion = -2323.7 kJ/mol - 0 kJ/mol = -2323.7 kJ/mol\n\nSo, the standard enthalpy change of the combustion reaction of propane is -2323.7 kJ/mol."
+}

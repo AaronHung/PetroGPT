@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Spectroscopy and molecular vibrations",
+    "message_1": "What is the energy of the vibrational mode that gives rise to an absorption band at 1712 cm$^{-1}$ in the IR spectrum of a molecule of acetic anhydride (C$_4$H$_6$O$_3$)?",
+    "message_2": "To calculate the energy of the vibrational mode that gives rise to an absorption band at 1712 cm⁻¹, we can use the formula:\n\nE = h * ν\n\nwhere E is the energy, h is the Planck's constant (6.626 x 10⁻³⁴ J·s), and ν is the frequency of the vibration in Hz.\n\nFirst, we need to convert the wavenumber (1712 cm⁻¹) to frequency (Hz). We can do this using the speed of light (c) and the following formula:\n\nν = c * wavenumber\n\nThe speed of light (c) is approximately 3.0 x 10⁸ m/s. However, the wavenumber is given in cm⁻¹, so we need to convert it to m⁻¹:\n\n1712 cm⁻¹ * (1 m / 100 cm) = 17120 m⁻¹\n\nNow, we can calculate the frequency:\n\nν = (3.0 x 10⁸ m/s) * (17120 m⁻¹) = 5.136 x 10¹³ Hz\n\nFinally, we can calculate the energy of the vibrational mode:\n\nE = (6.626 x 10⁻³⁴ J·s) * (5.136 x 10¹³ Hz) = 3.40 x 10⁻²₀ J\n\nSo, the energy of the vibrational mode that gives rise to an absorption band at 1712 cm⁻¹ in the IR spectrum of a molecule of acetic anhydride is approximately 3.40 x 10⁻²₀ J."
+}

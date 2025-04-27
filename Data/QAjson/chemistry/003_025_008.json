@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Chemical equilibria and equilibrium constants.",
+    "message_1": "What is the equilibrium constant (Kc) expression for the following chemical reaction at 25°C and 1 atm pressure?\n2 SO2 (g) + O2 (g) ⇌ 2 SO3 (g)",
+    "message_2": "The equilibrium constant (Kc) expression for a given chemical reaction relates the concentrations of the reactants and products at equilibrium. For the reaction:\n\n2 SO2 (g) + O2 (g) ⇌ 2 SO3 (g)\n\nThe Kc expression can be written as:\n\nKc = [SO3]^2 / ([SO2]^2 * [O2])\n\nwhere [SO3], [SO2], and [O2] represent the equilibrium concentrations of SO3, SO2, and O2, respectively. The exponents correspond to the stoichiometric coefficients in the balanced chemical equation."
+}

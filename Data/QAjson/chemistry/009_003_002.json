@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Nuclear fission reactions",
+    "message_1": "What is the binding energy per nucleon of the reactant nuclide and product nuclides for a nuclear fission reaction of U-235 when it absorbs a low-energy neutron?",
+    "message_2": "To determine the binding energy per nucleon for the reactant nuclide and product nuclides in a nuclear fission reaction of U-235 when it absorbs a low-energy neutron, we first need to know the products of the fission reaction. A common fission reaction for U-235 is:\n\nU-235 + n -> Ba-144 + Kr-89 + 3n\n\nNow, we need to find the binding energy for each nuclide involved. The binding energy can be calculated using the semi-empirical mass formula, but for simplicity, we can use the known binding energy values from nuclear data tables.\n\nBinding energy for U-235: 1783.3 MeV\nBinding energy for Ba-144: 1181.6 MeV\nBinding energy for Kr-89: 707.3 MeV\n\nNow, we can calculate the binding energy per nucleon for each nuclide:\n\nBinding energy per nucleon for U-235: 1783.3 MeV / 235 = 7.59 MeV/nucleon\nBinding energy per nucleon for Ba-144: 1181.6 MeV / 144 = 8.20 MeV/nucleon\nBinding energy per nucleon for Kr-89: 707.3 MeV / 89 = 7.95 MeV/nucleon\n\nSo, the binding energy per nucleon for the reactant nuclide U-235 is 7.59 MeV/nucleon, and for the product nuclides Ba-144 and Kr-89, it is 8.20 MeV/nucleon and 7.95 MeV/nucleon, respectively."
+}

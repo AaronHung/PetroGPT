@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Chemical equilibria and equilibrium constants.",
+    "message_1": "What is the equilibrium constant expression for the following reaction at 298 K?\nH2(g) + I2(g) ⇌ 2HI(g)",
+    "message_2": "The equilibrium constant expression for a reaction is given by the ratio of the concentrations of the products raised to their stoichiometric coefficients divided by the concentrations of the reactants raised to their stoichiometric coefficients.\n\nFor the given reaction:\n\nH2(g) + I2(g) ⇌ 2HI(g)\n\nThe equilibrium constant expression (Kc) can be written as:\n\nKc = [HI]^2 / ([H2] * [I2])\n\nWhere [HI], [H2], and [I2] represent the equilibrium concentrations of HI, H2, and I2, respectively."
+}

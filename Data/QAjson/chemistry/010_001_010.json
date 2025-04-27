@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of standard electrode potentials",
+    "message_1": "Consider a cell consisting of a zinc electrode in 1.0 M ZnSO4 solution and a copper electrode in 1.0 M CuSO4 solution. Calculate the standard cell potential of the cell at 25°C, given that the standard electrode potential for the zinc electrode is -0.76 V and for the copper electrode is +0.34 V.",
+    "message_2": "To calculate the standard cell potential of the cell, we need to subtract the standard electrode potential of the anode (zinc electrode) from the standard electrode potential of the cathode (copper electrode).\n\nThe standard cell potential (E°cell) can be calculated using the following formula:\n\nE°cell = E°cathode - E°anode\n\nGiven that the standard electrode potential for the zinc electrode (anode) is -0.76 V and for the copper electrode (cathode) is +0.34 V, we can plug these values into the formula:\n\nE°cell = (+0.34 V) - (-0.76 V)\n\nE°cell = +0.34 V + 0.76 V\n\nE°cell = +1.10 V\n\nTherefore, the standard cell potential of the cell at 25°C is +1.10 V."
+}

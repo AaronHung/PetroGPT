@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Nuclear stability and decay modes",
+    "message_1": "What is the decay mode of Polonium-218 and what are the products formed after decay?",
+    "message_2": "Polonium-218 (Po-218) primarily undergoes alpha decay. In this decay mode, the nucleus emits an alpha particle, which consists of 2 protons and 2 neutrons. As a result, the atomic number decreases by 2, and the mass number decreases by 4.\n\nWhen Polonium-218 undergoes alpha decay, it forms Lead-214 (Pb-214) and an alpha particle (He-4). The equation for this decay process is:\n\nPo-218 → Pb-214 + He-4"
+}

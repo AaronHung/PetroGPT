@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Quantum mechanics and molecular structure",
+    "message_1": "What is the bond angle between the hydrogen atoms in an ammonia molecule (NH3) according to the molecular orbital theory?",
+    "message_2": "According to the molecular orbital theory, the bond angle between the hydrogen atoms in an ammonia molecule (NH3) is not directly determined. However, we can use the Valence Shell Electron Pair Repulsion (VSEPR) theory to determine the bond angle.\n\nIn ammonia (NH3), the nitrogen atom is the central atom, and it has three hydrogen atoms bonded to it and one lone pair of electrons. According to VSEPR theory, the electron pairs around the central atom will arrange themselves to minimize repulsion. In the case of NH3, the arrangement is a tetrahedral geometry.\n\nHowever, since we are only considering the bond angle between the hydrogen atoms, we need to look at the trigonal pyramidal shape formed by the three hydrogen atoms and the nitrogen atom. In this shape, the bond angle between the hydrogen atoms (H-N-H) is approximately 107.5 degrees."
+}

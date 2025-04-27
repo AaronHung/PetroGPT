@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the geometry and polarity of inorganic molecules",
+    "message_1": "What is the molecular geometry and polarity of the carbon tetrafluoride (CF4) molecule?",
+    "message_2": "Carbon tetrafluoride (CF4) has a molecular geometry of tetrahedral. In a tetrahedral structure, the central carbon atom is surrounded by four fluorine atoms, with each fluorine atom occupying one corner of a regular tetrahedron.\n\nAs for polarity, CF4 is a nonpolar molecule. This is because the electronegativity difference between carbon and fluorine atoms is not significant enough to create a polar bond, and the symmetric tetrahedral arrangement of the fluorine atoms around the central carbon atom results in the cancellation of any possible dipole moments. Therefore, the overall molecule has no net dipole moment, making it nonpolar."
+}

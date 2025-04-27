@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Solvation and solubility phenomena",
+    "message_1": "What is the molar solubility of calcium sulfate (CaSO4) in water at 25°C, given the solubility product of CaSO4 is 4.93 x 10^-5?",
+    "message_2": "To find the molar solubility of calcium sulfate (CaSO4) in water at 25°C, we can use the solubility product constant (Ksp) expression. The balanced dissolution reaction for CaSO4 is:\n\nCaSO4 (s) ⇌ Ca²⁺ (aq) + SO₄²⁻ (aq)\n\nThe Ksp expression for this reaction is:\n\nKsp = [Ca²⁺][SO₄²⁻]\n\nLet x be the molar solubility of CaSO4 in water. When CaSO4 dissolves, it dissociates into one Ca²⁺ ion and one SO₄²⁻ ion. Therefore, the concentration of Ca²⁺ and SO₄²⁻ ions in the solution will both be x.\n\nNow, we can substitute these concentrations into the Ksp expression:\n\nKsp = (x)(x) = x²\n\nGiven the solubility product of CaSO4 is 4.93 x 10^-5, we can set up the equation:\n\n4.93 x 10^-5 = x²\n\nNow, we can solve for x:\n\nx = √(4.93 x 10^-5)\nx ≈ 7.02 x 10^-3\n\nThe molar solubility of calcium sulfate (CaSO4) in water at 25°C is approximately 7.02 x 10^-3 mol/L."
+}

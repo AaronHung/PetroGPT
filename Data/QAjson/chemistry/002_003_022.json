@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the solubility of inorganic salts in water",
+    "message_1": "What is the solubility of calcium chloride in water at 25°C, knowing that its solubility product constant (Ksp) is 1.98 × 10^-5?",
+    "message_2": "To find the solubility of calcium chloride (CaCl₂) in water at 25°C, we can use the solubility product constant (Ksp) and set up an equilibrium expression.\n\nWhen CaCl₂ dissolves in water, it dissociates into its ions:\nCaCl₂ (s) ⇌ Ca²⁺ (aq) + 2Cl⁻ (aq)\n\nLet the solubility of CaCl₂ be represented by 's' moles per liter. Then, the concentration of Ca²⁺ ions will be 's' and the concentration of Cl⁻ ions will be '2s'. The Ksp expression for this equilibrium is:\n\nKsp = [Ca²⁺] * [Cl⁻]²\n\nSubstitute the concentrations of the ions in terms of 's':\nKsp = (s) * (2s)²\n\nGiven that Ksp = 1.98 × 10⁻⁵, we can solve for 's':\n1.98 × 10⁻⁵ = (s) * (4s²)\n1.98 × 10⁻⁵ = 4s³\n\nNow, divide both sides by 4:\ns³ = (1.98 × 10⁻⁵) / 4\ns³ = 4.95 × 10⁻⁶\n\nNow, take the cube root of both sides to find 's':\ns = (4.95 × 10⁻⁶)^(1/3)\ns ≈ 1.7 × 10⁻² M\n\nSo, the solubility of calcium chloride in water at 25°C is approximately 1.7 × 10⁻² moles per liter."
+}

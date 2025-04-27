@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Spectroscopy and molecular vibrations",
+    "message_1": "What is the vibrational frequency of carbon dioxide (CO2) using infrared spectroscopy?",
+    "message_2": "Carbon dioxide (CO2) has three vibrational modes: symmetric stretching, bending, and asymmetric stretching. Using infrared spectroscopy, the vibrational frequencies for these modes are as follows:\n\n1. Symmetric stretching (ν1): ~1286 cm⁻¹\n2. Bending (ν2): ~667 cm⁻¹\n3. Asymmetric stretching (ν3): ~2349 cm⁻¹\n\nPlease note that these values are approximate and can vary slightly depending on the experimental conditions and sample purity."
+}

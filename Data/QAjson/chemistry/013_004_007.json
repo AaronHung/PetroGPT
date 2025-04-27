@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Surface chemistry",
+    "sub_topic": "BET theory of multilayer adsorption",
+    "message_1": "What is the monolayer capacity of a sample of activated alumina with a surface area of 200 m2/g, using the BET theory of multilayer adsorption and assuming a specific surface area of 16.2 × 10-20 m2 for nitrogen at 77 K?",
+    "message_2": "To calculate the monolayer capacity of the activated alumina sample, we need to determine the number of adsorption sites per gram of the sample. We can do this by dividing the total surface area of the sample by the specific surface area of nitrogen.\n\nTotal surface area of the sample (A) = 200 m²/g\nSpecific surface area of nitrogen (a) = 16.2 × 10^-20 m²\n\nNumber of adsorption sites per gram (N) = A / a\nN = 200 m²/g / (16.2 × 10^-20 m²)\nN = 200 / 16.2 × 10^20\nN ≈ 12.35 × 10^20 sites/g\n\nThe monolayer capacity of the activated alumina sample is approximately 12.35 × 10^20 sites per gram."
+}

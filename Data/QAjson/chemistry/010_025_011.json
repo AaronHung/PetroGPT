@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the activation energy for an electrochemical reaction.",
+    "message_1": "What is the activation energy for the reaction of Zn and CuSO4 in a galvanic cell with a cell potential of 1.12V, given that the rate constant at 25°C is 5.7 × 10^-5 s^-1 and the activation energy is 87.4 kJ/mol?",
+    "message_2": "The activation energy for the reaction of Zn and CuSO4 in a galvanic cell has already been provided in the problem statement. The activation energy is 87.4 kJ/mol."
+}

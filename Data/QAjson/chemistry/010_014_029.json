@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the mass of a substance deposited or dissolved during an electrochemical reaction",
+    "message_1": "What mass of silver (Ag) will be deposited on a cathode when a current of 0.5 A is passed through a silver nitrate (AgNO3) solution for 30 minutes? The molar mass of silver is 107.87 g/mol and the Faraday constant is 96,485 C/mol.",
+    "message_2": "To solve this problem, we will use the following formula:\n\nmass of Ag = (current × time × molar mass of Ag) / (n × Faraday constant)\n\nwhere:\n- current = 0.5 A\n- time = 30 minutes = 1800 seconds (since 1 minute = 60 seconds)\n- molar mass of Ag = 107.87 g/mol\n- n = number of electrons involved in the redox reaction (for silver, n = 1, as Ag+ + 1e- → Ag)\n- Faraday constant = 96,485 C/mol\n\nNow, we can plug in the values:\n\nmass of Ag = (0.5 A × 1800 s × 107.87 g/mol) / (1 × 96,485 C/mol)\n\nmass of Ag = (963,330 g·s/mol) / (96,485 C/mol)\n\nmass of Ag ≈ 9.98 g\n\nSo, approximately 9.98 grams of silver will be deposited on the cathode."
+}

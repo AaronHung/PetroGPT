@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the boiling and melting points of inorganic compounds",
+    "message_1": "What is the boiling point of sodium chloride (NaCl) at a pressure of 1 atm?",
+    "message_2": "Sodium chloride (NaCl), or common table salt, does not have a specific boiling point like a pure substance because it is an ionic compound. When heated, NaCl first dissolves in any trace of water present, and then it decomposes before reaching a boiling point.\n\nHowever, the melting point of NaCl is 801°C (1,474°F) at 1 atm pressure. If you were to heat NaCl in a closed system where it could not decompose, its boiling point would be around 1,465°C (2,669°F) under 1 atm pressure. Keep in mind that this value is not commonly used or observed in practice due to the decomposition of NaCl at high temperatures."
+}

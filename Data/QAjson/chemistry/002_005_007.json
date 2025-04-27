@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Identifying the type of inorganic compound (ionic, covalent, metallic)",
+    "message_1": "Identify the type of inorganic compound formed when Magnesium (Mg) reacts with Oxygen (O2).",
+    "message_2": "When Magnesium (Mg) reacts with Oxygen (O2), an inorganic compound called Magnesium Oxide (MgO) is formed. This compound is classified as an ionic compound, as it is formed by the transfer of electrons between the metal (Magnesium) and the non-metal (Oxygen) elements, resulting in the formation of positive and negative ions that are held together by electrostatic forces."
+}

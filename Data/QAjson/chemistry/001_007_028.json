@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Aromatic compounds",
+    "message_1": "Determine the hybridization state and geometry of the carbon atoms in benzene ring.",
+    "message_2": "In a benzene ring (C6H6), each carbon atom is bonded to two other carbon atoms and one hydrogen atom. The carbon atoms in benzene are sp2 hybridized.\n\nIn sp2 hybridization, one s orbital and two p orbitals from the carbon atom mix to form three sp2 hybrid orbitals. These sp2 hybrid orbitals are arranged in a trigonal planar geometry around the carbon atom, with bond angles of approximately 120 degrees.\n\nIn the benzene ring, each carbon atom forms three sigma bonds: one with a hydrogen atom and two with adjacent carbon atoms. The remaining unhybridized p orbital on each carbon atom overlaps with the p orbitals on the adjacent carbon atoms to form pi bonds, creating a delocalized pi electron system above and below the plane of the ring.\n\nThe geometry of the carbon atoms in the benzene ring is trigonal planar, with bond angles of approximately 120 degrees."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Gamma spectroscopy",
+    "message_1": "What is the energy in electronvolts of a gamma ray emitted by a radioactive nucleus with a decay energy of 2715 keV?",
+    "message_2": "To convert the decay energy from kiloelectronvolts (keV) to electronvolts (eV), you simply multiply by 1000, since there are 1000 eV in 1 keV.\n\nSo, for a decay energy of 2715 keV:\n\nEnergy (eV) = 2715 keV × 1000 eV/keV = 2715000 eV\n\nThe energy of the gamma ray emitted by the radioactive nucleus is 2,715,000 electronvolts (eV)."
+}

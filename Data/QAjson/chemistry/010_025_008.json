@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the activation energy for an electrochemical reaction.",
+    "message_1": "What is the activation energy for the oxidation of copper in a copper-zinc galvanic cell with a recorded potential of 1.60 V at 25°C? Given that the exchange current density is 4.0 x 10^-6 A cm^-2 and the activation energy of the reaction is 42.2 kJ mol^-1.",
+    "message_2": "The activation energy for the oxidation of copper in a copper-zinc galvanic cell is already given in the problem statement as 42.2 kJ mol^-1."
+}

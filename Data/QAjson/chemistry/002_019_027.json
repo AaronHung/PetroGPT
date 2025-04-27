@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the boiling and melting points of inorganic compounds",
+    "message_1": "What is the boiling point of potassium nitrate (KNO3) at a pressure of 760 mm Hg?",
+    "message_2": "The boiling point of a substance is typically associated with the temperature at which it changes from a liquid to a gas. However, potassium nitrate (KNO3) does not have a specific boiling point at a pressure of 760 mm Hg because it decomposes before reaching its boiling point. \n\nWhen heated, potassium nitrate undergoes thermal decomposition, breaking down into potassium nitrite (KNO2) and oxygen gas (O2) at around 400°C (752°F). This decomposition occurs before KNO3 has a chance to transition from a solid to a liquid and then to a gas. Therefore, it is not possible to provide a boiling point for potassium nitrate at a pressure of 760 mm Hg."
+}

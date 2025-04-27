@@ -1,0 +1,76 @@
+Question,Answer
+What are the dimensions of the robot in lying position?,"The dimensions of the robot in lying position are $942 \, \text{mm} \times 663 \, \text{mm} \times 450 \, \text{mm}$."
+What is the weight of the robot including the battery and inspection payload?,The weight of the robot including the battery and inspection payload is 56.3 kg.
+What is the maximum walking speed of the robot?,The maximum walking speed of the robot is 1.3 m/s.
+How many hoist points does the robot have?,The robot has 4 hoist points.
+What is the function of the Wi-Fi antenna on the robot?,The Wi-Fi antenna is used for communicating with the robot when in autonomous mode of operation.
+What is the purpose of the emergency stop button on the robot?,The emergency stop button is used to stop the robot in the event of an emergency.
+How many leg cooling fans are there in the robot?,"There are 8 leg cooling fans in the robot, with 2 cooling fans on each of the 4 legs."
+What does the LIDAR unit on the robot do?,The LIDAR unit is used as part of the robot navigation and movement system.
+What is the purpose of the power button on the robot?,The power button is used to power the robot on and off.
+Where is the Ethernet socket located on the robot?,The Ethernet socket is situated on the top of the robot.
+What is the purpose of the RS-232 socket on the inspection payload?,The RS-232 socket is used for serial communication and connecting peripheral devices to the inspection payload.
+"Where is the additional power connector located on the Robot, and what is its function?",The additional power connector is located next to the antenna at the front of the Robot. It provides power for any additional equipment fitted to the Robot.
+"How many hoist points does the Robot have, and how should they be utilized for lifting the Robot?","The Robot is equipped with four hoist points, two in the front and two in the back. These hoist points can be used to carry the Robot manually using a provided set of handles."
+What sensors does the Robot have for perceiving its state and surroundings?,"The Robot has an inertial measurement unit, depth cameras, wide-angle camera, and Lidar unit for sensing the position, orientation, terrain, objects, obstacles, and velocities of the Robot and its components."
+"Where is the danger zone active warning light located on the Robot, and when does it indicate a warning?","The danger zone active warning light is located on the top of the Lidar unit. It turns on when a command to enable the actuators has been issued, signaling bystanders to leave the vicinity or activate emergency stops."
+What is the function of the diagnostic lights on top of the Lidar unit inside the danger zone warning light?,The diagnostic lights are used to provide information when testing safety functions and are not utilized during normal operation of the Robot.
+How can the e-stop diagnostic lights on the Robot be used to indicate different states?,"The left-side e-stop diagnostic light indicates the engagement or disengagement of the Robot emergency stop, while the right-side light reflects the status of GUI cut power and drive-enable requests."
+What is the significance of the green and off states of the Robot e-stop diagnostic light in Table 2?,"The green-on state indicates the Robot emergency stop is engaged, and green-off signifies the emergency stop is disengaged."
+"What information do the sensors provide, and how is this information processed by the Robot software?","The sensors measure information such as position, orientation, terrain, objects, velocities, and torques, which are acquired and processed by the Robot software."
+How should the handles for lifting the Robot be utilized to ensure safety?,"Only the provided handles should be used for lifting the Robot, attaching at least four handles before lifting. The handles should not be used if damaged or worn, and the strap must be looped over the handle and tightened securely through all hoist points."
+What does a red solid status light indicate on the Robot?,A red solid status light indicates that an error has occurred that can stop the Robot from operating.
+In what situations does the amber solid status light turn on?,"The amber solid status light turns on when the ANYbotics Workforce app or GUI cut power was engaged, or when the protective stop was engaged."
+When does the amber pulsing status light occur?,The amber pulsing status light occurs when the docking procedure has failed or when an error occurred while the Robot was executing a mission.
+What does a green solid status light signify?,A green solid status light indicates that the Robot is ready for input.
+When would the green pulsing (slow) status light on the Robot be observed?,The green pulsing (slow) status light is observed when the Robot is sleeping or charging on the docking station.
+What does a white solid status light on the Robot signify?,A white solid status light signifies that the Robot is on.
+When would the white blinking (fast) status light be displayed on the Robot?,The white blinking (fast) status light is displayed when the Robot is powering up.
+What does the white pulsing status light indicate on the Robot?,The white pulsing status light indicates that the Robot is shutting down or switching to an operational mode.
+What is the role of the Locomotion computer (LPC) on the Robot?,The Locomotion computer (LPC) coordinates and hosts the software modules related to motion control and communicates with the PDB and actuators.
+How does the Robot's Wi-Fi antenna and router enhance its connectivity?,"The Wi-Fi antenna and router allow wireless connection of computers to the Robot, acting as an access point or connecting to an existing wireless network with support for Wi-Fi: 802.11a/b/g/n/ac, MIMO 2T2R, 2.4/5 GHz."
+What are the main components of the leg of the Robot according to the provided information?,"The main components of the leg of the Robot include: 
+- Hip 
+- Thigh 
+- Knee 
+- Shank 
+- Foot"
+How are protectors and shells utilized in the Robot to prevent damage during a mission?,"Protectors are attached to the legs of the Robot to protect the actuators in the Hips and Knees, while shells are attached to the torso of the Robot consisting of Top, Bottom, Front, and Back parts."
+What is the function of actuators in the Robot's hardware system?,"Actuators are motors located at each joint of the leg responsible for controlling and moving the Robot. The actuators are identified by their motions such as HAA (hip abduction/adduction), HFE (hip flexion/extension), and KFE (knee flexion/extension)."
+"Why are the shells at the top, front, and back of the Robot not to be removed unless damaged?","The top, front, and back shells are not to be removed unless damaged as they protect the inner components of the Robot, while the bottom shell is removable to allow for easy exchange of the battery."
+How does the LIDAR unit of the Robot function and where is it located?,"The LIDAR unit of the Robot, situated on top of the Robot, uses lasers to ping off objects around it, measure distances, and map the environment. It is important to avoid looking directly at the transmitting laser to prevent injury."
+What precaution is advised regarding the field of view and limitations of the LIDAR unit in the Robot?,"The field of view of the LIDAR unit can be restricted by the inspection payload towards the front, leading to blind spots. The LIDAR unit is protected by a rollover bar."
+"How many depth cameras does the Robot possess, and what are their primary purposes?","The Robot is equipped with six depth cameras: Two at the sides, two at the front, and two at the back. These cameras are used for obstacle avoidance and autonomous navigation."
+What movements are provided by the actuators in the Robot's leg joints?,"The actuators in the Robot's leg joints enable motions such as hip abduction/adduction (HAA), hip flexion/extension (HFE), and knee flexion/extension (KFE)."
+What is the role of wide angle cameras in the Robot's hardware system?,The Robot has two wide angle cameras mounted at the front and back which stream color images and provide a broader view of the area around the Robot.
+"When should the depth cameras of the Robot be returned to the manufacturer, according to the provided information?",The depth cameras of the Robot must be returned to the manufacturer for servicing or replacement if any external damage is observed.
+How is the Robot powered and what type of battery does it use?,The Robot is powered by a swappable battery composed of Lithium-ion based cells.
+Where is the battery located on the Robot and how is it secured?,The battery is situated under the Robot and is protected by the bottom shell. It is securely attached to the Robot using brackets and screws.
+What are the methods for charging the battery?,"The battery can be charged using the charging socket in the Robot, outside the Robot using the battery charger, or automatically with the docking station and docking socket."
+What percentage charge does the battery come with when shipped and what is recommended before the first use?,The battery is shipped with a 30% charge and must be charged before the first use.
+How can a fully discharged battery be forced to charge?,"If the battery is fully discharged, it goes into a deep sleep state. The force charge button is used to force charging of the battery."
+What components make up the autonomous charging system for the battery?,The autonomous charging system consists of a docking station and a docking socket.
+What are the indicators on the battery charger and what do they signify?,"The indicators on the battery charger include the full charge indicator, charging and/or power delivery indicator, connected indicator, power indicator, and voltage charge level."
+"When can the battery not be charged, and how is this monitored?",The battery cannot be charged if it is too hot. The charging state is notified in the operator GUI.
+What are the precautions concerning the battery charger if installed outdoors?,"If the battery charger is installed outdoors, it needs to have protection against water ingress."
+What should be ensured when using the charging cable socket?,Ensure the protective cover is fitted when the charging cable socket is not in use.
+How does sufficient lighting affect the Robot's ability to identify and localize the docking station?,Sufficient lighting is crucial for the Robot to properly identify and localize the docking station as it needs light to distinguish and accurately locate the docking station components.
+Why should the docking station be located in a dry environment?,"The docking station should be placed in a dry environment to prevent any water damage to the components of the docking station, ensuring its proper functioning."
+What is the purpose of the AprilTag in the hardware description of the battery charger?,"The AprilTag is used for providing identification and positioning information for the Robot, aiding in the correct alignment of the Robot with the docking station."
+Why should the docking socket on the Robot be kept clean?,"Keeping the docking socket clean is important for the reliable functioning of the autonomous charging system, as any dirt or debris can hinder the connection between the docking station and the Robot."
+What safety measures should be considered when locating the docking station?,"The docking station should not be placed in areas that could impact the safety of personnel, such as near fire exits, and should not be exposed to direct sunlight to prevent degradation of components due to UV light exposure."
+What is the Inspection payload used for?,"The Inspection payload integrates several sensors on a pan-tilt unit to allow the Robot to perform visual, thermal, and auditory inspections in various spaces."
+How is the gas sensing inspection payload beneficial?,"The gas sensing inspection payload equipped with gas sensors allows the Robot to detect a range of combustible and toxic gases, ensuring a safe environment during inspections."
+What is the purpose of the Zoom camera in the inspection payload?,"The Zoom camera is used for capturing high-quality images during inspections, providing detailed visual information for analysis and assessment."
+Why does the gas sensing inspection payload detect combustible and toxic gases?,"The gas sensing inspection payload is designed to detect a variety of combustible and toxic gases, including methane, propane, hydrogen sulfide, and carbon monoxide, to ensure the safety of the inspection environment."
+How is the Robot controlled in terms of software modules?,"The Robot is controlled by different software modules running on its onboard computers, with an operator graphical user interface (GUI) provided for interaction and management of the Robot's functions."
+How is the operator GUI launched in the ANYmal software launcher?,The operator GUI is launched by selecting $OPC$ from the software launcher.
+What does the control lease feature show in the operator GUI?,The control lease feature shows who is currently controlling the Robot and enables the Operator.
+What is the purpose of the disabled option in the interface?,The disabled option is present for functionalities that are currently unavailable or inactive.
+How is the list of Robots in the network displayed in the operator GUI?,The list of Robots in the network can be displayed by using the dedicated function in the GUI.
+What function is used to start and stop the software in the interface?,The software can be started and stopped using the designated button on the GUI.
+How can all Robots on the network be discovered using the operator GUI?,The operator GUI provides a feature to discover all Robots on the network with a single command.
+What action does the log console toggle button perform in the operator GUI?,The log console toggle button is used to show or hide the log console within the GUI.
+"In the operator's manual for ANYmal, what is the significance of the operator GUI?","The operator GUI allows the operator to control the Robot, visualize data, and monitor the state and health of the Robot."
+How is the ANYmal software launcher beneficial for the operator?,The ANYmal software launcher provides easy access to essential functions like operating the Robot and monitoring its status.
+Why is the Operator GUI described as a crucial component in the software package?,"The Operator GUI plays a vital role in enabling smooth operation, data visualization, and health monitoring of the Robot."

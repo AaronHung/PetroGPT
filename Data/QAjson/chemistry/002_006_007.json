@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the molar mass of inorganic compounds",
+    "message_1": "What is the molar mass of iron(III) sulfate hexahydrate?",
+    "message_2": "Iron(III) sulfate hexahydrate has the chemical formula Fe2(SO4)3·6H2O. To calculate its molar mass, we need to add the molar masses of all the atoms in the compound.\n\nFe (Iron) = 55.845 g/mol\nS (Sulfur) = 32.07 g/mol\nO (Oxygen) = 16.00 g/mol\nH (Hydrogen) = 1.008 g/mol\n\nThe compound has:\n- 2 Iron atoms\n- 3 Sulfate (SO4) groups, which have 1 Sulfur and 4 Oxygen atoms each\n- 6 Water (H2O) molecules, which have 2 Hydrogen and 1 Oxygen atom each\n\nMolar mass of Fe2(SO4)3·6H2O = (2 × 55.845) + (3 × (1 × 32.07 + 4 × 16.00)) + (6 × (2 × 1.008 + 1 × 16.00))\n\n= (2 × 55.845) + (3 × (32.07 + 64.00)) + (6 × (2.016 + 16.00))\n\n= 111.69 + (3 × 96.07) + (6 × 18.016)\n\n= 111.69 + 288.21 + 108.096\n\n= 507.996 g/mol\n\nSo, the molar mass of iron(III) sulfate hexahydrate is approximately 508 g/mol."
+}

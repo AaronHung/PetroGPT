@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Determining the hybridization of inorganic compounds",
+    "message_1": "What is the hybridization of the central atom in the compound XeF4?",
+    "message_2": "In the compound XeF4, the central atom is xenon (Xe). To determine the hybridization of the central atom, we need to consider the number of electron domains around it.\n\nXenon has 8 valence electrons, and it forms 4 bonds with the 4 fluorine (F) atoms. This accounts for 4 electron domains. Additionally, there are 2 lone pairs of electrons on the xenon atom, which adds 2 more electron domains. In total, there are 6 electron domains around the central xenon atom.\n\nTo accommodate these 6 electron domains, the hybridization of the central atom (Xe) in XeF4 is sp3d2."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the boiling and melting points of inorganic compounds",
+    "message_1": "What is the boiling point of Magnesium oxide (MgO)? Given that the molar mass of MgO is 40.3 g/mol and its melting point is 2,852 °C. (Assume standard atmospheric pressure of 1 atm).",
+    "message_2": "The boiling point of Magnesium oxide (MgO) is 3,600 °C (6,512 °F) under standard atmospheric pressure of 1 atm."
+}

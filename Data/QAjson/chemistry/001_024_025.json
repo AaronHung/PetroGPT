@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Spectroscopic techniques in organic chemistry",
+    "message_1": "What spectroscopic technique can be used to distinguish between two organic compounds with similar molecular formula but different functional groups?",
+    "message_2": "Infrared (IR) spectroscopy is a useful spectroscopic technique to distinguish between two organic compounds with similar molecular formulas but different functional groups. IR spectroscopy measures the vibrations of molecular bonds in response to infrared radiation, and different functional groups have characteristic absorption bands in the IR spectrum. By comparing the IR spectra of the two compounds, the presence or absence of specific functional groups can be identified, allowing for differentiation between the two compounds."
+}

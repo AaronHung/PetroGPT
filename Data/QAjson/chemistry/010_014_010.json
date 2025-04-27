@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the mass of a substance deposited or dissolved during an electrochemical reaction",
+    "message_1": "What is the mass of copper deposited on the cathode when a current of 5 A is passed through a CuSO4 electroplating solution for 30 minutes? The atomic weight of copper is 63.55 g/mol and the Faraday constant is 96,485 C/mol.",
+    "message_2": "To find the mass of copper deposited on the cathode, we can use Faraday's law of electrolysis. First, we need to find the total charge passed through the solution.\n\nTotal charge (Q) = Current (I) × Time (t)\nTime = 30 minutes = 30 × 60 seconds = 1800 seconds\nQ = 5 A × 1800 s = 9000 Coulombs\n\nNow, we can use Faraday's law to find the moles of copper deposited:\n\nMoles of copper = Total charge (Q) / (n × Faraday constant)\nwhere n is the number of electrons transferred in the reaction (for copper, n = 2, as Cu²⁺ + 2e⁻ → Cu)\n\nMoles of copper = 9000 C / (2 × 96,485 C/mol) = 0.0467 mol\n\nNow, we can find the mass of copper deposited:\n\nMass = Moles × Atomic weight\nMass = 0.0467 mol × 63.55 g/mol = 2.97 g\n\nSo, the mass of copper deposited on the cathode is approximately 2.97 grams."
+}

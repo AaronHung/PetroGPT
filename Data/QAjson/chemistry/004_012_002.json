@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Analytical chemistry",
+    "sub_topic": "Analysis of the composition of a sample using elemental analysis",
+    "message_1": "What is the percentage composition by mass of carbon, hydrogen, and nitrogen in a compound if elemental analysis shows that it contains 54.5% carbon, 9.1% hydrogen, and 36.4% nitrogen?",
+    "message_2": "The percentage composition by mass of each element in the compound is already given:\n\nCarbon (C): 54.5%\nHydrogen (H): 9.1%\nNitrogen (N): 36.4%\n\nThese percentages indicate that in a 100 g sample of the compound, there are 54.5 g of carbon, 9.1 g of hydrogen, and 36.4 g of nitrogen."
+}

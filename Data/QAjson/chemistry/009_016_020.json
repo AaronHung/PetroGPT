@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Gamma spectroscopy",
+    "message_1": "What is the energy (in eV) of a gamma ray emitted during the decay of a radioactive nucleus if the gamma spectroscopy experiment observes a peak at an energy of 511 keV?",
+    "message_2": "To convert the energy of the gamma ray from keV (kilo-electron volts) to eV (electron volts), you simply multiply by 1000, as there are 1000 eV in 1 keV.\n\nSo, for a gamma ray with an energy of 511 keV:\n\nEnergy (eV) = 511 keV × 1000 eV/keV = 511,000 eV\n\nThe energy of the gamma ray emitted during the decay of the radioactive nucleus is 511,000 eV."
+}

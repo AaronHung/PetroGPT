@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the color of inorganic compounds",
+    "message_1": "What is the predicted color of FeCl3 solution when diluted with water, and how does that color change if a few drops of NaOH solution are added?",
+    "message_2": "When FeCl3 (Iron(III) chloride) is dissolved in water, it forms a yellow-colored solution. This is due to the presence of Fe3+ ions in the solution.\n\nWhen a few drops of NaOH (sodium hydroxide) solution are added to the FeCl3 solution, a reaction occurs between Fe3+ ions and OH- ions from NaOH. This reaction forms a reddish-brown precipitate of Fe(OH)3 (Iron(III) hydroxide).\n\nFe3+ (aq) + 3OH- (aq) → Fe(OH)3 (s)\n\nSo, upon adding NaOH to the FeCl3 solution, the color changes from yellow to reddish-brown due to the formation of Fe(OH)3 precipitate."
+}

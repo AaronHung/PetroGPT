@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Spectroscopy and molecular vibrations",
+    "message_1": "What is the vibrational frequency of CO2 molecule in cm-1 using infrared spectroscopy with a wavelength of 4.24 µm? (The molecular bond length can be assumed to be 116.3 pm)",
+    "message_2": "To calculate the vibrational frequency of CO2 molecule, we can use the formula for the wavenumber (ν̃) in cm⁻¹:\n\nν̃ = 1/λ\n\nwhere λ is the wavelength in centimeters.\n\nFirst, we need to convert the given wavelength from micrometers (µm) to centimeters (cm):\n\n4.24 µm = 4.24 x 10⁻⁶ m = 4.24 x 10⁻⁴ cm\n\nNow, we can calculate the wavenumber (ν̃):\n\nν̃ = 1/(4.24 x 10⁻⁴ cm) = 2358.49 cm⁻¹\n\nSo, the vibrational frequency of CO2 molecule using infrared spectroscopy with a wavelength of 4.24 µm is approximately 2358.49 cm⁻¹."
+}

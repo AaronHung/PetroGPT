@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the overpotential in an electrochemical reaction",
+    "message_1": "What is the overpotential required for the oxidation of silver ions to silver metal at a silver electrode if the reduction potential for the reaction is +0.80 V and the applied voltage is +1.00 V?",
+    "message_2": "The overpotential is the difference between the applied voltage and the reduction potential for the reaction. In this case, the reduction potential for the oxidation of silver ions to silver metal at a silver electrode is +0.80 V, and the applied voltage is +1.00 V.\n\nOverpotential = Applied voltage - Reduction potential\nOverpotential = (+1.00 V) - (+0.80 V)\nOverpotential = +0.20 V\n\nThe overpotential required for the oxidation of silver ions to silver metal at a silver electrode is +0.20 V."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Radionuclide imaging and diagnostics",
+    "message_1": "The half-life of technetium-99m is 6 hours. A patient is administered 100 milligrams of technetium-99m for a diagnostic test. After 24 hours, how much of the technetium-99m remains in the patient's body?",
+    "message_2": "To determine the amount of technetium-99m remaining in the patient's body after 24 hours, we can use the half-life formula:\n\nFinal amount = Initial amount * (1/2)^(time elapsed / half-life)\n\nIn this case, the initial amount is 100 milligrams, the time elapsed is 24 hours, and the half-life is 6 hours. Plugging these values into the formula, we get:\n\nFinal amount = 100 * (1/2)^(24 / 6)\n\nFinal amount = 100 * (1/2)^4\n\nFinal amount = 100 * (1/16)\n\nFinal amount = 6.25 milligrams\n\nSo, after 24 hours, 6.25 milligrams of technetium-99m remains in the patient's body."
+}

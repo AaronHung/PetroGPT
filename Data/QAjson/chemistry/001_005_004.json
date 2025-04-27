@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Alkanes and cycloalkanes",
+    "message_1": "What is the chemical formula and structural formula of 3-ethylhexane?",
+    "message_2": "The chemical formula of 3-ethylhexane is C9H20.\n\nThe structural formula of 3-ethylhexane is:\n\nCH3-CH2-CH(CH2CH3)-CH2-CH2-CH3"
+}

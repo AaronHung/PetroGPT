@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Thermochemistry and calorimetry",
+    "message_1": "What is the enthalpy change of combustion of ethanol? Given that the temperature of 1000 mL of water increased by 20°C when 2.5 g of ethanol were burned in a bomb calorimeter with a heat capacity of 240 J/°C. The molar mass of ethanol is 46 g/mol. Calculate the enthalpy change of combustion per mole of ethanol in kJ/mol.",
+    "message_2": "To calculate the enthalpy change of combustion of ethanol, we first need to determine the amount of heat released during the combustion process. We can do this using the heat capacity of the bomb calorimeter and the temperature change of the water.\n\nq = heat capacity × ΔT\nq = 240 J/°C × 20°C\nq = 4800 J\n\nNow, we need to convert the heat released (q) to kJ:\n\nq = 4800 J × (1 kJ / 1000 J)\nq = 4.8 kJ\n\nNext, we need to determine the moles of ethanol burned:\n\nmoles of ethanol = mass of ethanol / molar mass of ethanol\nmoles of ethanol = 2.5 g / 46 g/mol\nmoles of ethanol = 0.0543 mol\n\nNow, we can calculate the enthalpy change of combustion per mole of ethanol:\n\nΔH_combustion = q / moles of ethanol\nΔH_combustion = 4.8 kJ / 0.0543 mol\nΔH_combustion = 88.4 kJ/mol\n\nThe enthalpy change of combustion of ethanol is approximately 88.4 kJ/mol."
+}

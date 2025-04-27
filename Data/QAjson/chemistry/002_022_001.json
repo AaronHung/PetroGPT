@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the lattice energy of inorganic compounds",
+    "message_1": "What is the lattice energy of NaCl? Given: The ionic radius of Na+ is 0.98 Å, the ionic radius of Cl- is 1.81 Å, and the lattice energy of NaCl is -787.3 kJ/mol.",
+    "message_2": "The lattice energy of NaCl is already given in the problem statement: -787.3 kJ/mol."
+}

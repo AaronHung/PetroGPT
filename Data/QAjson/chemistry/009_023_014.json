@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Radionuclide imaging and diagnostics",
+    "message_1": "What is the half-life of technetium-99m, which is commonly used in medical radionuclide imaging? Given that its initial activity is 50 mCi and its activity measures 5 mCi after 24 hours.",
+    "message_2": "To find the half-life of technetium-99m, we can use the decay formula:\n\nA(t) = A₀ * (1/2)^(t/T)\n\nWhere:\nA(t) = activity at time t\nA₀ = initial activity\nt = time elapsed\nT = half-life\n\nIn this case, A₀ = 50 mCi, A(t) = 5 mCi, and t = 24 hours. We need to find T.\n\n5 = 50 * (1/2)^(24/T)\n\nDivide both sides by 50:\n\n0.1 = (1/2)^(24/T)\n\nNow, take the logarithm of both sides:\n\nlog(0.1) = log((1/2)^(24/T))\n\nUsing the logarithm property log(a^b) = b * log(a), we get:\n\nlog(0.1) = (24/T) * log(1/2)\n\nNow, solve for T:\n\nT = (24 * log(1/2)) / log(0.1)\n\nT ≈ 6.02 hours\n\nSo, the half-life of technetium-99m is approximately 6.02 hours."
+}

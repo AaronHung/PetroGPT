@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Analytical chemistry",
+    "sub_topic": "Identification of the structure of a compound using nuclear magnetic resonance spectroscopy",
+    "message_1": "What is the molecular structure of the unknown compound X based on the nuclear magnetic resonance spectroscopy data, which includes the integration values, chemical shift, and coupling constants of its proton and carbon signals?",
+    "message_2": "To determine the molecular structure of the unknown compound X, we need the actual nuclear magnetic resonance (NMR) spectroscopy data, including the integration values, chemical shift, and coupling constants of its proton (1H NMR) and carbon (13C NMR) signals. \n\nPlease provide the NMR data for the unknown compound X, and then we can analyze it to determine the molecular structure."
+}

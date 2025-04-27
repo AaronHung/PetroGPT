@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Functional groups and their reactions",
+    "message_1": "Which functional group(s) is/are present in a molecule that undergoes hydrolysis in the presence of an acid catalyst to produce an alcohol and a carboxylic acid? Provide examples of such molecules and their reactions.",
+    "message_2": "The functional group present in a molecule that undergoes hydrolysis in the presence of an acid catalyst to produce an alcohol and a carboxylic acid is an ester group. Esters have the general formula RCOOR', where R and R' are alkyl or aryl groups. \n\nExample 1:\nEthyl acetate (CH3COOCH2CH3) is an ester that can undergo hydrolysis in the presence of an acid catalyst, such as sulfuric acid (H2SO4). The reaction is as follows:\n\nCH3COOCH2CH3 + H2O → CH3COOH + CH3CH2OH\nEthyl acetate + Water → Acetic acid + Ethanol\n\nExample 2:\nMethyl benzoate (C6H5COOCH3) is another ester that can undergo hydrolysis in the presence of an acid catalyst. The reaction is as follows:\n\nC6H5COOCH3 + H2O → C6H5COOH + CH3OH\nMethyl benzoate + Water → Benzoic acid + Methanol\n\nIn both examples, the ester reacts with water in the presence of an acid catalyst to produce a carboxylic acid and an alcohol."
+}

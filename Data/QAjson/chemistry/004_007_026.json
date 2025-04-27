@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Analytical chemistry",
+    "sub_topic": "Quantification of the amount of a substance in a sample using gravimetric analysis",
+    "message_1": "What is the amount (in moles) of calcium carbonate in a 7.25 g sample of limestone if the gravimetric analysis found that the sample contained 65.2% calcium carbonate?",
+    "message_2": "To find the amount of calcium carbonate in moles, we first need to determine the mass of calcium carbonate in the sample and then convert it to moles using the molar mass of calcium carbonate.\n\n1. Calculate the mass of calcium carbonate in the sample:\nMass of calcium carbonate = (Percentage of calcium carbonate / 100) × Mass of limestone sample\nMass of calcium carbonate = (65.2 / 100) × 7.25 g\nMass of calcium carbonate = 0.652 × 7.25 g\nMass of calcium carbonate ≈ 4.727 g\n\n2. Calculate the molar mass of calcium carbonate (CaCO3):\nMolar mass of CaCO3 = (1 × Molar mass of Ca) + (1 × Molar mass of C) + (3 × Molar mass of O)\nMolar mass of CaCO3 = (1 × 40.08 g/mol) + (1 × 12.01 g/mol) + (3 × 16.00 g/mol)\nMolar mass of CaCO3 = 40.08 g/mol + 12.01 g/mol + 48.00 g/mol\nMolar mass of CaCO3 ≈ 100.09 g/mol\n\n3. Convert the mass of calcium carbonate to moles:\nAmount of calcium carbonate in moles = Mass of calcium carbonate / Molar mass of CaCO3\nAmount of calcium carbonate in moles = 4.727 g / 100.09 g/mol\nAmount of calcium carbonate in moles ≈ 0.0472 mol\n\nTherefore, there are approximately 0.0472 moles of calcium carbonate in the 7.25 g sample of limestone."
+}

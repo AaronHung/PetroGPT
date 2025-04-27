@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the products of inorganic reactions",
+    "message_1": "What are the products formed when a barium nitrate (Ba(NO3)2) solution is mixed with a sodium sulfate (Na2SO4) solution? Show the balanced chemical equation and state whether the resulting mixture is aqueous or solid.",
+    "message_2": "When a barium nitrate (Ba(NO3)2) solution is mixed with a sodium sulfate (Na2SO4) solution, a double displacement reaction occurs. The products formed are barium sulfate (BaSO4) and sodium nitrate (NaNO3). Barium sulfate is a solid precipitate, while sodium nitrate remains in the aqueous solution. The balanced chemical equation for this reaction is:\n\nBa(NO3)2 (aq) + Na2SO4 (aq) → BaSO4 (s) + 2 NaNO3 (aq)\n\nIn this equation, (aq) denotes an aqueous solution and (s) denotes a solid."
+}

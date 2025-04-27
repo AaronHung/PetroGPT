@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of standard electrode potentials",
+    "message_1": "Calculate the standard electrode potential for the following half-reaction: \n\nCu2+(aq) + 2e- --> Cu(s) \n\ngiven that the standard reduction potential for Cu2+(aq) is +0.34 V.",
+    "message_2": "The standard electrode potential for the given half-reaction is the same as the standard reduction potential since the reaction is already written as a reduction. Therefore, the standard electrode potential for the half-reaction:\n\nCu2+(aq) + 2e- --> Cu(s)\n\nis +0.34 V."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Determining the hybridization of inorganic compounds",
+    "message_1": "What is the hybridization of the central atom in the molecule SF6?",
+    "message_2": "The hybridization of the central atom (sulfur) in the molecule SF6 (sulfur hexafluoride) is sp3d2. This is because sulfur has 6 valence electrons, and it forms 6 sigma bonds with the 6 fluorine atoms. To accommodate these 6 sigma bonds, sulfur needs to hybridize its one 3s, three 3p, and two 3d orbitals, resulting in a total of six sp3d2 hybrid orbitals."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Radiation detection and measurement",
+    "message_1": "What is the specific activity of a radioactive sample which has an activity of 2.5 × 10^10 Bq and a mass of 100 g? (Assume the radioactive element has a half-life of 5.27 years and emits alpha particles.)",
+    "message_2": "The specific activity of a radioactive sample is defined as the activity per unit mass of the sample. In this case, we are given the activity (2.5 × 10^10 Bq) and the mass (100 g) of the sample.\n\nTo find the specific activity, simply divide the activity by the mass:\n\nSpecific activity = (Activity) / (Mass)\nSpecific activity = (2.5 × 10^10 Bq) / (100 g)\n\nSpecific activity = 2.5 × 10^8 Bq/g\n\nSo, the specific activity of the radioactive sample is 2.5 × 10^8 Bq/g."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the pH of inorganic acid-base reactions",
+    "message_1": "What is the pH of a solution prepared by mixing 25 mL of 0.1 M hydrochloric acid (HCl) with 50 mL of 0.05 M sodium hydroxide (NaOH)?",
+    "message_2": "To solve this problem, we need to determine the amount of HCl and NaOH in moles, and then find out which one is in excess. After that, we can calculate the concentration of the excess and determine the pH or pOH of the solution.\n\n1. Calculate the moles of HCl and NaOH:\nmoles of HCl = volume (L) × concentration (M)\nmoles of HCl = 0.025 L × 0.1 M = 0.0025 moles\n\nmoles of NaOH = volume (L) × concentration (M)\nmoles of NaOH = 0.05 L × 0.05 M = 0.0025 moles\n\n2. Determine the excess reactant:\nIn this case, the moles of HCl and NaOH are equal, so they will completely neutralize each other, and there will be no excess reactant. The resulting solution will be neutral.\n\n3. Calculate the pH of the solution:\nSince the solution is neutral, the pH will be 7."
+}

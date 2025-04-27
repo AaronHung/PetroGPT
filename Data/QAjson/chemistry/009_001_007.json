@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Half-life calculations",
+    "message_1": "Calculate the decay rate of a radioactive isotope that has a half-life of 5 days and initially contains 10 grams of the substance. After 20 days, how much of the original substance will remain?",
+    "message_2": "To calculate the remaining amount of the radioactive isotope after 20 days, we can use the formula:\n\nRemaining amount = Initial amount * (1/2)^(time elapsed / half-life)\n\nIn this case, the initial amount is 10 grams, the half-life is 5 days, and the time elapsed is 20 days. Plugging these values into the formula, we get:\n\nRemaining amount = 10 * (1/2)^(20 / 5)\n\nRemaining amount = 10 * (1/2)^4\n\nRemaining amount = 10 * (1/16)\n\nRemaining amount = 10 * 0.0625\n\nRemaining amount = 0.625 grams\n\nAfter 20 days, 0.625 grams of the original radioactive isotope will remain."
+}

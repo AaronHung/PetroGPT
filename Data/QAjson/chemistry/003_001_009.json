@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Thermodynamics of chemical reactions",
+    "message_1": "What is the change in enthalpy (ΔH) of a reaction where 2 mol of methane gas (CH4) are burned in excess oxygen gas (O2) to produce carbon dioxide gas (CO2) and water vapor (H2O) if the standard enthalpy of formation (ΔH°f) for methane, carbon dioxide, and water vapor are -74.8 kJ/mol, -393.5 kJ/mol, and -241.8 kJ/mol, respectively?",
+    "message_2": "To calculate the change in enthalpy (ΔH) for the reaction, we can use the following equation:\n\nΔH = Σ ΔH°f(products) - Σ ΔH°f(reactants)\n\nFirst, let's write the balanced chemical equation for the combustion of methane:\n\nCH4(g) + 2 O2(g) → CO2(g) + 2 H2O(g)\n\nNow, we can plug in the values for the standard enthalpy of formation (ΔH°f) for each substance:\n\nΔH = [1 mol CO2 × (-393.5 kJ/mol CO2) + 2 mol H2O × (-241.8 kJ/mol H2O)] - [2 mol CH4 × (-74.8 kJ/mol CH4) + 0 mol O2 × (0 kJ/mol O2)]\n\nΔH = [-393.5 kJ + 2 × (-241.8 kJ)] - [2 × (-74.8 kJ)]\n\nΔH = (-393.5 kJ - 483.6 kJ) - (-149.6 kJ)\n\nΔH = (-877.1 kJ) + 149.6 kJ\n\nΔH = -727.5 kJ\n\nThe change in enthalpy (ΔH) for the reaction is -727.5 kJ."
+}

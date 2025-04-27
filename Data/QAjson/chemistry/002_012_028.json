@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the bond order and bond length of inorganic compounds",
+    "message_1": "What is the bond order and bond length of the N-O bond in nitric oxide (NO)?",
+    "message_2": "The bond order of the N-O bond in nitric oxide (NO) can be determined by analyzing its molecular orbital diagram and configuration. Nitric oxide has 11 valence electrons (5 from nitrogen and 6 from oxygen). The molecular orbital configuration for NO is:\n\nσ(1s)^2 σ*(1s)^2 σ(2s)^2 σ*(2s)^2 π(2px)^2 π(2py)^2 σ(2pz)^1\n\nThe bond order can be calculated using the formula:\n\nBond order = (number of electrons in bonding orbitals - number of electrons in antibonding orbitals) / 2\n\nBond order = (8 - 4) / 2 = 4 / 2 = 2\n\nSo, the bond order of the N-O bond in nitric oxide (NO) is 2.\n\nThe bond length of the N-O bond in nitric oxide is experimentally determined to be approximately 1.15 Å (115 picometers). This bond length is shorter than a typical single bond between nitrogen and oxygen (1.47 Å) and longer than a typical double bond between nitrogen and oxygen (1.21 Å), which is consistent with the bond order of 2."
+}

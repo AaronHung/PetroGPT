@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Acid-base reactions in organic chemistry",
+    "message_1": "What is the pKa of acetic acid (CH3COOH) and how is it affected by the presence of an electron-withdrawing group on the adjacent carbon atom?",
+    "message_2": "The pKa of acetic acid (CH3COOH) is approximately 4.76. \n\nWhen an electron-withdrawing group is present on the adjacent carbon atom, it can affect the acidity of the acetic acid. Electron-withdrawing groups have a tendency to pull electron density away from the adjacent atoms, which can stabilize the conjugate base formed after the acidic proton is lost. In the case of acetic acid, the conjugate base is the acetate ion (CH3COO-).\n\nIf an electron-withdrawing group is present on the adjacent carbon atom, it can stabilize the negative charge on the acetate ion, making it easier for the acetic acid to lose its proton. As a result, the presence of an electron-withdrawing group will generally increase the acidity of the acetic acid, leading to a lower pKa value."
+}

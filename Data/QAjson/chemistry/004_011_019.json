@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Analytical chemistry",
+    "sub_topic": "Identification of the structure of a compound using nuclear magnetic resonance spectroscopy",
+    "message_1": "Which specific hydrogen atoms in Compound X correspond to the peaks seen in the carbon-13 NMR spectrum, and what does this information tell us about the structure of Compound X?",
+    "message_2": "To provide a solution to this problem, we need more information about Compound X and the carbon-13 NMR spectrum. Please provide the molecular formula, any known functional groups, and the NMR data (chemical shifts, splitting patterns, and integration values) for Compound X. This information will allow us to analyze the NMR spectrum and determine the specific hydrogen atoms corresponding to the peaks and the structure of the compound."
+}

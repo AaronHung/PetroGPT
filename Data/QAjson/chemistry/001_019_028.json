@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Nucleophilic substitution reactions",
+    "message_1": "What is the product formed when 1-bromobutane is reacted with aqueous sodium hydroxide? Draw the mechanism that explains the reaction pathway of this nucleophilic substitution reaction.",
+    "message_2": "When 1-bromobutane is reacted with aqueous sodium hydroxide (NaOH), the product formed is 1-butanol. This reaction is an example of a nucleophilic substitution reaction, specifically an SN2 reaction.\n\nHere is the mechanism for this reaction:\n\n1. The hydroxide ion (OH-) from sodium hydroxide acts as a nucleophile and attacks the electrophilic carbon atom (the one bonded to the bromine) in 1-bromobutane.\n\n2. As the hydroxide ion forms a bond with the carbon atom, the carbon-bromine bond starts to break, and the bromide ion (Br-) is released as a leaving group.\n\n3. The final product, 1-butanol, is formed as the hydroxide ion is now bonded to the carbon atom, and the bromide ion is released as a byproduct.\n\nThe reaction can be represented as:\n\nCH3CH2CH2CH2Br + OH- → CH3CH2CH2CH2OH + Br-"
+}

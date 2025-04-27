@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the boiling and melting points of inorganic compounds",
+    "message_1": "What is the boiling point of aluminum chloride (AlCl3) when the atmospheric pressure is 1 atm? (Assuming the compound is in its standard state.)",
+    "message_2": "Aluminum chloride (AlCl3) is a solid at room temperature and undergoes sublimation at high temperatures, which means it transitions directly from a solid to a gaseous state without passing through a liquid state. The sublimation point of AlCl3 is around 181.2°C (357.8°F) at 1 atm of atmospheric pressure. So, it does not have a boiling point under normal atmospheric pressure."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the molar mass of inorganic compounds",
+    "message_1": "A chemistry student needs to determine the molar mass of aluminum chloride (AlCl3). What is the molar mass of aluminum chloride?",
+    "message_2": "To determine the molar mass of aluminum chloride (AlCl3), we need to add the molar masses of aluminum (Al) and chlorine (Cl) together. The molar mass of aluminum is 26.98 g/mol, and the molar mass of chlorine is 35.45 g/mol. Since there are three chlorine atoms in AlCl3, we need to multiply the molar mass of chlorine by 3.\n\nMolar mass of AlCl3 = (molar mass of Al) + 3 * (molar mass of Cl)\nMolar mass of AlCl3 = 26.98 g/mol + 3 * 35.45 g/mol\nMolar mass of AlCl3 = 26.98 g/mol + 106.35 g/mol\nMolar mass of AlCl3 = 133.33 g/mol\n\nSo, the molar mass of aluminum chloride (AlCl3) is 133.33 g/mol."
+}

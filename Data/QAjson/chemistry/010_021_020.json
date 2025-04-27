@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the corrosion potential of a metal in a galvanic couple",
+    "message_1": "What is the corrosion potential of a zinc electrode in a galvanic couple with a copper electrode in a 1.0 M copper(II) sulfate solution when the temperature is 25°C? The reduction potential of copper is +0.34 V and the standard electrode potential of zinc is -0.76 V. What is the potential difference between the zinc and copper electrodes, and which electrode will corrode?",
+    "message_2": "In a galvanic couple, the corrosion potential is determined by the difference in standard electrode potentials between the two metals. In this case, we have a zinc electrode with a standard electrode potential of -0.76 V and a copper electrode with a reduction potential of +0.34 V.\n\nThe potential difference between the zinc and copper electrodes can be calculated by subtracting the standard electrode potential of zinc from the reduction potential of copper:\n\nPotential difference = E(Cu) - E(Zn) = (+0.34 V) - (-0.76 V) = +1.10 V\n\nThe positive potential difference indicates that the zinc electrode will act as the anode (the site of oxidation) and the copper electrode will act as the cathode (the site of reduction). In a galvanic couple, the anode is the electrode that corrodes. Therefore, the zinc electrode will corrode in this galvanic couple with a copper electrode in a 1.0 M copper(II) sulfate solution at 25°C."
+}

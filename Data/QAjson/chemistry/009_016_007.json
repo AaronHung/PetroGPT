@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Gamma spectroscopy",
+    "message_1": "What is the energy (in keV) of a gamma-ray photon emitted in the decay of a radioactive nucleus if the gamma-ray was detected at a wavelength of 645 nm? (Hint: use the energy equation E = hc/λ, where h is the Planck's constant, c is the speed of light, and λ is the wavelength.)",
+    "message_2": "To calculate the energy of the gamma-ray photon, we will use the energy equation E = hc/λ, where h is the Planck's constant, c is the speed of light, and λ is the wavelength.\n\nGiven:\nWavelength (λ) = 645 nm = 645 × 10^(-9) m (converting nm to meters)\nPlanck's constant (h) = 6.626 × 10^(-34) Js (Joule-seconds)\nSpeed of light (c) = 3 × 10^8 m/s\n\nNow, let's plug these values into the energy equation:\n\nE = (6.626 × 10^(-34) Js) × (3 × 10^8 m/s) / (645 × 10^(-9) m)\n\nE = 3.0714 × 10^(-25) J (Joules)\n\nTo convert the energy from Joules to kilo-electron volts (keV), we'll use the conversion factor:\n\n1 eV = 1.602 × 10^(-19) J\n1 keV = 1.602 × 10^(-16) J\n\nE (in keV) = (3.0714 × 10^(-25) J) / (1.602 × 10^(-16) J/keV)\n\nE ≈ 1.917 × 10^(-9) keV\n\nThe energy of the gamma-ray photon emitted in the decay of a radioactive nucleus detected at a wavelength of 645 nm is approximately 1.917 × 10^(-9) keV."
+}

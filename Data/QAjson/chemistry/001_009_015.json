@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Ethers and epoxides",
+    "message_1": "Identify the expected product and reaction conditions when propene oxide is reacted with HI in the presence of red phosphorus as a catalyst.",
+    "message_2": "When propene oxide (C3H6O) reacts with hydrogen iodide (HI) in the presence of red phosphorus as a catalyst, the expected product is 2-iodopropanol (C3H7IO). The reaction conditions typically involve heating the reactants in a solvent, such as ether or acetic acid, at a temperature around 60-80°C.\n\nThe reaction proceeds through the following steps:\n\n1. The red phosphorus catalyzes the formation of iodine (I2) from HI.\n2. The iodine reacts with HI to form the reactive species, triiodide ion (I3-).\n3. The triiodide ion attacks the epoxide ring of propene oxide, leading to ring opening and formation of 2-iodopropanol.\n\nOverall, the reaction can be represented as:\n\nC3H6O + HI → C3H7IO"
+}

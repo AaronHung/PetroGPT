@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Determining the hybridization of inorganic compounds",
+    "message_1": "Determine the hybridization of the central atom in the molecule SF6.",
+    "message_2": "In the molecule SF6 (sulfur hexafluoride), the central atom is sulfur. To determine the hybridization of the central atom, we need to consider the number of electron domains around the sulfur atom.\n\nSulfur has 6 valence electrons, and each fluorine atom contributes 1 electron, making a total of 12 electrons around the sulfur atom. Since there are 6 fluorine atoms bonded to the sulfur atom, there are 6 electron domains (6 single bonds).\n\nTo accommodate 6 electron domains, the sulfur atom needs to use one s orbital, three p orbitals, and two d orbitals, which results in sp3d2 hybridization. Therefore, the hybridization of the central atom (sulfur) in the SF6 molecule is sp3d2."
+}

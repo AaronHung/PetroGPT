@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Half-life calculations",
+    "message_1": "Sure. Here's a precise problem for a chemistry student to solve:\n\n\"A sample of radioactive material has a half-life of 2.5 days. If the initial activity of the sample was 200 counts per second, what would be the activity of the sample after 10 days?\"",
+    "message_2": "To solve this problem, we can use the radioactive decay formula:\n\nFinal activity (A) = Initial activity (A₀) × (1/2)^(time elapsed (t) / half-life (t½))\n\nIn this case, the initial activity (A₀) is 200 counts per second, the half-life (t½) is 2.5 days, and the time elapsed (t) is 10 days. Plugging these values into the formula, we get:\n\nA = 200 × (1/2)^(10 / 2.5)\n\nA = 200 × (1/2)^4\n\nA = 200 × 1/16\n\nA = 12.5 counts per second\n\nSo, the activity of the sample after 10 days would be 12.5 counts per second."
+}

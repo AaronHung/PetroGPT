@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of standard electrode potentials",
+    "message_1": "Calculate the standard electrode potential of the electrode in the given electrochemical cell: \n\nFe3+(aq) + 3e- → Fe(s)                            E°= -0.04V \n\nAg+(aq) + e- → Ag(s)                                  E°= 0.80V",
+    "message_2": "To calculate the standard electrode potential of the given electrochemical cell, we need to determine the reduction half-reaction and the oxidation half-reaction. The reduction half-reaction is the one with the higher standard reduction potential, and the oxidation half-reaction is the one with the lower standard reduction potential.\n\nIn this case, the reduction half-reaction is:\nAg+(aq) + e- → Ag(s)                                  E°= 0.80V\n\nAnd the oxidation half-reaction is:\nFe3+(aq) + 3e- → Fe(s)                            E°= -0.04V\n\nTo calculate the standard electrode potential of the cell, we need to subtract the standard reduction potential of the oxidation half-reaction from the standard reduction potential of the reduction half-reaction:\n\nE°(cell) = E°(reduction) - E°(oxidation)\n\nE°(cell) = 0.80V - (-0.04V)\n\nE°(cell) = 0.80V + 0.04V\n\nE°(cell) = 0.84V\n\nThe standard electrode potential of the given electrochemical cell is 0.84V."
+}

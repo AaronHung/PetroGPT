@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the Faraday constant",
+    "message_1": "What is the amount of electric charge required to reduce 10 moles of cupric ions (Cu2+) to cuprous ions (Cu+) using a cathode current of 2 amperes for 4 hours? Given that the Faraday constant is equal to 96,487 Coulombs per mole of electrons.",
+    "message_2": "To determine the amount of electric charge required to reduce 10 moles of Cu2+ to Cu+, we first need to find out how many moles of electrons are needed for this reduction process. \n\nThe balanced half-reaction for the reduction of Cu2+ to Cu+ is:\n\nCu2+ + 1e- → Cu+\n\nThis means that 1 mole of electrons is required to reduce 1 mole of Cu2+ to Cu+. Since we have 10 moles of Cu2+, we will need 10 moles of electrons for the reduction.\n\nNow, we can use the Faraday constant (F) to find the total charge required. The Faraday constant is the charge per mole of electrons, which is 96,487 Coulombs per mole of electrons.\n\nTotal charge (Q) = moles of electrons × Faraday constant\nQ = 10 moles × 96,487 C/mol\nQ = 964,870 Coulombs\n\nSo, the amount of electric charge required to reduce 10 moles of Cu2+ to Cu+ is 964,870 Coulombs."
+}

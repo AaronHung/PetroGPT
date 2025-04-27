@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Nuclear fusion reactions",
+    "message_1": "What is the minimum temperature required for hydrogen nuclei (protons) to undergo nuclear fusion and form helium in stars?",
+    "message_2": "The minimum temperature required for hydrogen nuclei (protons) to undergo nuclear fusion and form helium in stars is approximately 10 million Kelvin (10^7 K) or 10 million degrees Celsius. At this temperature, protons have enough kinetic energy to overcome their mutual electrostatic repulsion and come close enough for the strong nuclear force to bind them together, leading to nuclear fusion. This process is known as the proton-proton chain, which is the dominant fusion mechanism in stars like our Sun."
+}

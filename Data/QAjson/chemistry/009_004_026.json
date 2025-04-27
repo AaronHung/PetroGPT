@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Nuclear fusion reactions",
+    "message_1": "What is the minimum temperature required for a deuterium-tritium fusion reaction to occur and produce energy?",
+    "message_2": "For a deuterium-tritium fusion reaction to occur and produce energy, the minimum temperature required is approximately 100 million Kelvin (100 MK or 100 million degrees Celsius). At this temperature, the kinetic energy of the deuterium and tritium nuclei is high enough to overcome the electrostatic repulsion between them, allowing the strong nuclear force to bind them together and release energy in the form of fusion."
+}

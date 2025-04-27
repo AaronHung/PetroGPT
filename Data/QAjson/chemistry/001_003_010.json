@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Stereochemistry and chirality",
+    "message_1": "Identify the number of stereoisomers for the compound with the molecular formula C4H10O that possesses one chiral center. Draw and name each stereoisomer indicating its R/S configuration.",
+    "message_2": "The compound with the molecular formula C4H10O that possesses one chiral center is 2-butanol. There are two stereoisomers for this compound, which are enantiomers of each other. \n\n1. (R)-2-butanol:\n   H\n    |\n  H-C-C-CH3\n    |\n   CH3\n\nConfiguration: R\n\n2. (S)-2-butanol:\n   H\n    |\n  H-C-C-CH3\n    |\n   CH3\n\nConfiguration: S\n\nThese two stereoisomers are mirror images of each other and are non-superimposable, making them enantiomers. The R/S configuration is determined by the Cahn-Ingold-Prelog priority rules, where the four groups attached to the chiral center are ranked by atomic number. In this case, the chiral center is the second carbon atom, and the groups attached to it are hydrogen (H), methyl (CH3), ethyl (C2H5), and hydroxyl (OH). The priority order is OH > C2H5 > CH3 > H. The R/S configuration is determined by the order of these groups when viewed from the hydrogen atom (the lowest priority group). If the order is clockwise, it is R, and if it is counterclockwise, it is S."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Surface chemistry",
+    "sub_topic": "BET theory of multilayer adsorption",
+    "message_1": "What is the monolayer capacity of a porous material with a specific surface area of 200 m²/g as determined by BET theory of multilayer adsorption, if the amount of gas adsorbed at a relative pressure of 0.1 is 5 mmol/g?",
+    "message_2": "To determine the monolayer capacity of the porous material, we can use the BET (Brunauer, Emmett, and Teller) equation:\n\nn = (n_m * C * P) / [(1 - P) * (1 + (C - 1) * P)]\n\nwhere n is the amount of gas adsorbed at a relative pressure P, n_m is the monolayer capacity, and C is the BET constant.\n\nWe are given the amount of gas adsorbed at a relative pressure of 0.1 (P = 0.1) as 5 mmol/g (n = 5). We need to find n_m, the monolayer capacity. However, we don't have the value of the BET constant C.\n\nUnfortunately, without the value of C, we cannot directly calculate the monolayer capacity n_m using the BET equation. The BET constant C is typically determined experimentally from adsorption isotherm data. If you have additional data points or information about the adsorption isotherm, you may be able to determine the value of C and subsequently calculate the monolayer capacity n_m."
+}

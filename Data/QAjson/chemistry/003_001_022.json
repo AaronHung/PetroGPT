@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Thermodynamics of chemical reactions",
+    "message_1": "What is the standard enthalpy change of combustion (ΔH°c) for propane (C3H8) gas at 298 K, given the balanced chemical equation: C3H8(g) + 5O2(g) -> 3CO2(g) + 4H2O(g)?",
+    "message_2": "To calculate the standard enthalpy change of combustion (ΔH°c) for propane (C3H8) gas at 298 K, we need the standard enthalpies of formation (ΔH°f) for the reactants and products involved in the balanced chemical equation.\n\nThe balanced chemical equation is:\nC3H8(g) + 5O2(g) -> 3CO2(g) + 4H2O(g)\n\nThe standard enthalpies of formation (ΔH°f) for the substances involved are:\nΔH°f [C3H8(g)] = -103.85 kJ/mol\nΔH°f [O2(g)] = 0 kJ/mol (since O2 is in its standard state)\nΔH°f [CO2(g)] = -393.5 kJ/mol\nΔH°f [H2O(g)] = -241.8 kJ/mol\n\nNow, we can calculate the standard enthalpy change of combustion (ΔH°c) using the following equation:\nΔH°c = Σ [ΔH°f (products)] - Σ [ΔH°f (reactants)]\n\nΔH°c = [3 × (-393.5 kJ/mol) + 4 × (-241.8 kJ/mol)] - [(-103.85 kJ/mol) + 5 × 0 kJ/mol]\n\nΔH°c = (-1180.5 kJ/mol + (-967.2 kJ/mol)) - (-103.85 kJ/mol)\n\nΔH°c = -2147.7 kJ/mol + 103.85 kJ/mol\n\nΔH°c = -2043.85 kJ/mol\n\nSo, the standard enthalpy change of combustion (ΔH°c) for propane (C3H8) gas at 298 K is approximately -2043.85 kJ/mol."
+}

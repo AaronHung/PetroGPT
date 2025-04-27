@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the solubility of inorganic salts in water",
+    "message_1": "What is the solubility of barium sulfate in water at a temperature of 25°C? Give the answer in grams of BaSO4 per 100 mL of water.",
+    "message_2": "The solubility of barium sulfate (BaSO4) in water at 25°C is very low. According to the solubility table, it is approximately 0.0024 grams of BaSO4 per 100 mL of water."
+}

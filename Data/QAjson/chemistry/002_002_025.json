@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Determining oxidation states of elements in inorganic compounds",
+    "message_1": "Determine the oxidation state of the transition metal in potassium manganate (VII) and explain how you arrived at your answer.",
+    "message_2": "Potassium manganate (VII) has the chemical formula KMnO₄. To determine the oxidation state of the transition metal (Mn) in this compound, we need to consider the oxidation states of the other elements and the overall charge of the compound.\n\nPotassium (K) is an alkali metal and has an oxidation state of +1. Oxygen (O) typically has an oxidation state of -2. Since there is only one potassium atom and four oxygen atoms in the compound, the total oxidation state contributed by these elements is:\n\n(+1) + 4(-2) = +1 - 8 = -7\n\nThe compound KMnO₄ is neutral, meaning its overall charge is 0. Therefore, the oxidation state of manganese (Mn) must balance the -7 contributed by the potassium and oxygen atoms:\n\nMn + (-7) = 0\n\nSolving for the oxidation state of Mn:\n\nMn = +7\n\nSo, the oxidation state of the transition metal manganese (Mn) in potassium manganate (VII) is +7."
+}

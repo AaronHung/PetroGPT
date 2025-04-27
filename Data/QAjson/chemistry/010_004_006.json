@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the cell potential for a given electrochemical reaction",
+    "message_1": "Given the electrochemical reaction Zn(s) + Cu2+(aq) → Zn2+(aq) + Cu(s), calculate the standard cell potential at 25°C if the standard reduction potentials are E°(Cu2+/Cu) = 0.34 V and E°(Zn2+/Zn) = -0.76 V.",
+    "message_2": "To calculate the standard cell potential (E°cell) for the given electrochemical reaction, we can use the following equation:\n\nE°cell = E°(cathode) - E°(anode)\n\nIn this reaction, Cu2+ is reduced to Cu, so it is the cathode, and Zn is oxidized to Zn2+, so it is the anode. We are given the standard reduction potentials for both half-reactions:\n\nE°(Cu2+/Cu) = 0.34 V (cathode)\nE°(Zn2+/Zn) = -0.76 V (anode)\n\nNow, we can plug these values into the equation:\n\nE°cell = 0.34 V - (-0.76 V)\nE°cell = 0.34 V + 0.76 V\nE°cell = 1.10 V\n\nSo, the standard cell potential for this electrochemical reaction at 25°C is 1.10 V."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the overpotential in an electrochemical reaction",
+    "message_1": "What is the overpotential of an electrochemical reaction if the standard potential is 0.8V and the measured potential is 1.2V?",
+    "message_2": "The overpotential of an electrochemical reaction is the difference between the measured potential and the standard potential. In this case, the standard potential is 0.8V, and the measured potential is 1.2V.\n\nOverpotential = Measured potential - Standard potential\nOverpotential = 1.2V - 0.8V\nOverpotential = 0.4V\n\nThe overpotential of the electrochemical reaction is 0.4V."
+}

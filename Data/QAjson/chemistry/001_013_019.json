@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Heterocyclic compounds",
+    "message_1": "Identify the functional group and name the compound shown below:\n\n![Heterocyclic compound](https://i.imgur.com/ONOE8Lf.png)",
+    "message_2": "The compound shown in the image is a heterocyclic compound containing a nitrogen atom in the ring. The functional group present in this compound is an amine group (-NH2) attached to the ring.\n\nThe compound can be named as 3-aminopyridine, where the nitrogen-containing ring is called pyridine and the amine group is at the 3rd position."
+}

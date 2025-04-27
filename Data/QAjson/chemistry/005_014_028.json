@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Biochemistry",
+    "sub_topic": "Glycolysis and gluconeogenesis",
+    "message_1": "What is the net ATP yield from the complete oxidation of one molecule of glucose in glycolysis?",
+    "message_2": "The net ATP yield from the complete oxidation of one molecule of glucose in glycolysis is 2 ATP molecules. During glycolysis, one glucose molecule (6 carbons) is broken down into two molecules of pyruvate (3 carbons each). In this process, 4 ATP molecules are produced, but 2 ATP molecules are consumed in the initial steps, resulting in a net gain of 2 ATP molecules."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Alkanes and cycloalkanes",
+    "message_1": "Which one of the following pairs has alkane and cycloalkane isomers?\na) Butane and cyclobutane \nb) Pentane and cyclopropane \nc) Hexane and cyclohexane \nd) Heptane and cycloheptane",
+    "message_2": "a) Butane and cyclobutane"
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the boiling and melting points of inorganic compounds",
+    "message_1": "What is the boiling point of potassium chloride (KCl) at standard atmospheric pressure? Show the necessary calculations and units used to arrive at your answer.",
+    "message_2": "The boiling point of potassium chloride (KCl) at standard atmospheric pressure (1 atm or 101.3 kPa) is 1,420°C or 2,588°F.\n\nTo arrive at this answer, we can refer to the physical properties of potassium chloride. The boiling point of a substance is a constant value under standard atmospheric pressure, so no calculations are needed in this case. The boiling point of KCl is a known value and can be found in reference materials such as the CRC Handbook of Chemistry and Physics or other chemistry resources.\n\nHowever, if you were to calculate the boiling point of a substance under different pressure conditions, you would need to use the Clausius-Clapeyron equation or other methods that relate vapor pressure and temperature. But for this problem, the boiling point of KCl at standard atmospheric pressure is simply 1,420°C or 2,588°F."
+}

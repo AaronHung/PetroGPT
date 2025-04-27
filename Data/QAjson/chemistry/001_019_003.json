@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Nucleophilic substitution reactions",
+    "message_1": "What is the major product(s) of the following nucleophilic substitution reaction between 1-bromopropane and sodium ethoxide in ethanol: \n\n1-bromopropane + sodium ethoxide → ? + sodium bromide",
+    "message_2": "The reaction between 1-bromopropane and sodium ethoxide in ethanol is an SN2 (nucleophilic substitution bimolecular) reaction. In this reaction, the ethoxide ion (CH3CH2O-) from sodium ethoxide acts as a nucleophile and attacks the electrophilic carbon (the one attached to the bromine) in 1-bromopropane. The bromide ion (Br-) leaves as a leaving group, and sodium bromide is formed as a byproduct.\n\nThe major product of this reaction is propyl ethyl ether (CH3CH2CH2OCH2CH3). The reaction can be represented as follows:\n\nCH3CH2CH2Br + CH3CH2ONa → CH3CH2CH2OCH2CH3 + NaBr"
+}

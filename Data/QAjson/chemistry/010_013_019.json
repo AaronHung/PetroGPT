@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the number of electrons transferred in an electrochemical reaction",
+    "message_1": "Sure! Here's a question for a chemistry student to solve related to the subtopic Calculation of the number of electrons transferred in an electrochemical reaction:\n\nCalculate the number of electrons transferred in the following electrochemical reaction: \n\nFe2+(aq) + Sn4+(aq) → Fe3+(aq) + Sn2+(aq) \n\nShow your work and explain the steps you took to arrive at your answer.",
+    "message_2": "To calculate the number of electrons transferred in the given electrochemical reaction, we need to first identify the oxidation and reduction half-reactions. \n\nOxidation half-reaction: Fe2+(aq) → Fe3+(aq) + e-\nReduction half-reaction: Sn4+(aq) + 2e- → Sn2+(aq)\n\nNow, we need to balance the number of electrons in both half-reactions. To do this, we'll multiply the oxidation half-reaction by 2 to match the number of electrons in the reduction half-reaction:\n\n2(Fe2+(aq) → Fe3+(aq) + e-) → 2Fe2+(aq) → 2Fe3+(aq) + 2e-\n\nNow, we can add the balanced half-reactions together:\n\n2Fe2+(aq) + Sn4+(aq) + 2e- → 2Fe3+(aq) + Sn2+(aq) + 2e-\n\nThe electrons on both sides of the reaction will cancel out:\n\n2Fe2+(aq) + Sn4+(aq) → 2Fe3+(aq) + Sn2+(aq)\n\nNow we can see that 2 electrons were transferred from the iron (Fe) atoms to the tin (Sn) atoms in this electrochemical reaction."
+}

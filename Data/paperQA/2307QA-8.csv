@@ -1,0 +1,137 @@
+Question,Answer
+What is the internal IP range used by the Robot in this system?,The Robot uses the $192.168.0.1/24$ range internally.
+Why is it necessary for the existing on-site Wi-Fi to use a different subnet range?,The routing can only work if the existing on-site Wi-Fi uses a different subnet range to avoid conflicts with the Robot's internal network.
+How can the Wi-Fi of the router be configured using the web interface?,"To configure the router Wi-Fi using the web interface, you need to enter the router IP address in a web browser, use ""root"" as the username, and enter the Robot name as the password."
+Which tool is recommended to edit the \texttt{/etc/config/wireless} file on the router for manual configuration?,"To edit the \texttt{/etc/config/wireless} file on the router for manual configuration, you can use a text editor."
+What steps should be followed to change the country code of the router for compliance with local radio regulations?,"To change the country code of the router, you need to run the command $anymal-router -i \langle router\_ip \rangle -p \langle router\_password \rangle$ configure-radio -- radio \langle radio \rangle -c \langle country\_code \rangle$."
+How can the regulatory database of the router be updated?,"To update the regulatory database of the router, the command $anymal-router update-regulatory-database$ can be used."
+Why should the Wi-Fi country code match the location where the Robot is operating?,The Wi-Fi country code must match the location to ensure that the router adheres to the regulatory laws and enables only the permitted Wi-Fi radio settings.
+What precautions should be taken if still using the \texttt{router\_setup.bash} script with the wireless profile?,"If still using the \texttt{router\_setup.bash} script, avoid changing the mode of a wireless profile."
+How can one remotely modify the router Wi-Fi configuration?,The router Wi-Fi configuration can be remotely modified by editing the \texttt{/etc/config/wireless} file using a text editor.
+Where can more information on country codes be found for configuring the router?,More information on country codes for configuring the router can be found at https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes.
+What is the purpose of setting up a VPN server in the Robot's remote operation setup?,"The purpose of setting up a VPN server is to establish a secure communication channel between the Robot and an OPC, allowing communication between the two devices from different networks."
+How can the LTE mode be enabled on the Robot router through the web interface?,"The LTE mode can be enabled on the Robot router through the web interface by changing the router mode to LTE mode, entering the APN and PIN data in the LTE interface settings, and saving the configuration."
+What security risk should be considered when connecting the router via LTE?,"When connecting the router via LTE, a security risk may arise, so it is important to always check for vulnerabilities in the router configuration."
+Why should a VPN be used when operating the Robot remotely using the ANYbotics Workflow app or an OPC?,"A VPN should be used when operating the Robot remotely to comply with security standards. It ensures a secure communication channel between the Robot and an OPC, especially when communication occurs between devices in different networks."
+What steps are involved in configuring the LTE connection on the Robot router through the web interface?,"The steps to configure the LTE connection involve changing the router mode to LTE, accessing the LTE interface settings, entering the APN and PIN data, saving the settings, and applying the changes through the web interface."
+How can vulnerabilities in the router configuration be mitigated when connecting via LTE?,Vulnerabilities in the router configuration can be mitigated by regularly checking for security flaws and ensuring that the latest security updates are applied to the router firmware.
+Why is a PIN code needed for the LTE module on the Robot router?,A PIN code is needed for the LTE module to unlock some SIM cards and establish a connection to the LTE network securely.
+"What are the recommended methods for configuring the router, besides using the web interface?","Besides using the web interface, advanced users can modify the router's Wi-Fi configuration manually to customize settings as per their requirements."
+How can the Robot communicate securely with an OPC located in a different network?,The Robot can communicate securely with an OPC in a different network by setting up a Virtual Private Network (VPN) where all traffic between the devices is rerouted through a designated VPN server.
+What are the hardware and software requirements to install the VPN server for communication between the Robot and OPC?,"The requirements to install the VPN server include a computer with the Linux Ubuntu 20.04 operating system, minimum system requirements, a user with sudo rights, an internet connection, and a network set up with a public IP address or an IP accessible from both the Robot and OPC."
+What command do you run to install WireGuard on the server?,$ sudo$ apt install wireguard
+Why is it necessary to enable IP forwarding for the VPN server?,Enabling IP forwarding allows traffic to flow between OPC and the Robot.
+How can you create public and private keys for the server?,"You can create public and private keys for the server using the following commands:
+$ mkdir wireguard\_keys \&\& cd wireguard\_keys \\
+$ umask 077 \\
+$ wg genkey | tee privatekey | wg pubkey > publickey"
+What is the purpose of the wg0.conf file in the WireGuard setup?,"The wg0.conf file holds the configuration details for the VPN server, including the IP address, private key, and firewall rules."
+How can you start the WireGuard server once everything is configured?,"To start the server, you run the command: $ sudo$ wg-quick up wg0"
+What firewall rules need to be specified for the VPN server using ufw?,"The firewall rules to allow SSH (port 22) and WireGuard (port 51820/UDP) are:
+$ sudo$ ufw allow 22/tcp \\
+$ sudo$ ufw allow 51820/udp \\
+$ sudo$ ufw enable"
+How can you see the status of the firewall configurations?,You can check the verbose status of the firewall using: $ sudo$ ufw status verbose
+How do you generate public and private keys for each client PC involved in the VPN setup?,"For each client PC, the public and private keys can be generated by following the same steps as for the server."
+Why is keeping the private keys secret important in a VPN setup?,"Keeping the private keys secret is crucial as they are used for encryption and authentication, and exposing them could compromise the security of the VPN communication."
+How can you automatically start the VPN server when the server computer boots?,"To enable the system service for automatic startup, you run: $ sudo$ systemctl enable wg-quick@wg0.service"
+"What files are created when running the command given in step 3, and what is the purpose of each file?","When running the command in step 3, two files are created: \verb|privatekey| and \verb|publickey|. The \verb|privatekey| file contains the client's private key, while the \verb|publickey| file contains the corresponding public key."
+"In step 4, what does the configuration file in \verb|/etc/wireguard/wg0.conf| for the client consist of, and what values need to be substituted for \verb|<private key of the client>| and \verb|<Client Address>|?",The configuration file for the client consists of the private key of the client (\verb|<private key of the client>|) and the client's address (\verb|<Client Address>|). The private key and client address need to be filled in accordingly in the configuration file.
+"How can a client be registered on the server in step 4, and what parameters need to be specified for this registration?","To register a client on the server in step 4, the command \verb|sudo wg set wg0 peer <Client Public Key> persistent-keepalive 25 allowed-ips <Client Address>/32| needs to be run. The client's public key, persistent keepalive value, and allowed IPs must be specified in this command."
+What command is used to start the VPN on the client side in step 5?,The command \verb|sudo wg-quick up wg0| is used to start the VPN on the client side in step 5.
+How can the VPN client service be enabled to start automatically on boot in step 7?,The VPN client service can be enabled to start automatically on boot by running \verb|sudo systemctl enable wg-quick@wg0.service|.
+"What needs to be modified in the \verb|/etc/hosts| file on the OPC in step 7.2.3, and why is this modification necessary?","In the \verb|/etc/hosts| file on the OPC, the IP addresses of Robot PCs need to be adapted to use the VPN subnet. This modification is necessary to ensure that the Robot PCs communicate over the VPN network."
+How can the ROS_IP be exported for the OPC in step 7.2.3?,The ROS_IP for the OPC can be exported by running \verb|export ROS_IP=<VPN IP of OPC>| in the console.
+"What does the \verb|ads-server| package provide for the network, and how can it be installed in step 7.3.1?",The \verb|ads-server| package provides an infrastructure server for the network. It can be installed by executing \verb|sudo apt install ads-server|.
+"What is the purpose of checking the server's TLS certificate in step 7.3.2, and how can this check be enabled?",The server's TLS certificate is checked to ensure secure communication and prevent impostors. This check can be enabled by following the steps outlined in the setup instructions.
+"Why is it necessary to build the docker-compose environment in step 7.3.1, and how is this achieved?",Building the docker-compose environment is necessary to set up the required service dependencies for the data synchronization server. This is achieved by navigating to the server directory and executing the provided docker-compose commands.
+What is the purpose of obtaining a TLS server certificate-chain and private key for a domain name or IP address?,"The purpose of obtaining a TLS server certificate-chain and private key is to establish a secure, encrypted connection between the client (such as a robot) and the server, ensuring data security and integrity during communication."
+Where should the TLS server certificate-chain and private key be stored for a server with domain name or IP address $<server-address>$?,"The TLS server certificate-chain should be stored under $/usr/share/ads/credentials/ads-server.crt$, and the private key should be stored under $/usr/share/ads/credentials/ads-server.pem$ for the specified server address."
+What is the significance of installing the signing root certificate at $/usr/share/ads/credentials/<server-address>-root.crt$ on machines connecting to the local infrastructure server?,"Installing the signing root certificate ensures that the certificates issued by the local infrastructure server are trusted and validated by connecting machines, establishing a secure connection between the server and the client."
+How can one configure a Robot to connect to a local server with a specific domain name or IP address?,"To configure a Robot to connect to a local server, the Robot configuration file on the LPC should be edited to include the necessary server address and port information for the communication to establish a connection."
+What steps are involved in starting the server after installing a valid server certificate?,"Upon installing a valid server certificate, the server can be started by navigating to $/usr/share/ads/server$ and using the command $sudo docker-compose up -d$ to initiate the server. The server will restart when necessary, even after a machine reboot."
+Why is it important to change the administrator passwords for the data synchronization server after installation?,Changing the administrator passwords is crucial to enhance the security of the data synchronization server as the preconfigured passwords are basic and can pose a security risk. This step ensures that only authorized users can access and manage the server.
+What caution should be exercised when testing the data synchronization server without TLS?,"It is important to exercise caution when testing the data synchronization server without TLS, as it removes all data security measures for the involved agents, clients, and server. Deactivating TLS for testing purposes can expose sensitive data to potential security risks."
+How can one change the built-in user management administrator account password for the data synchronization server?,"To change the built-in user management administrator account password, the commands $source /opt/ros/noetic/setup.bash$, $ads -s <server-address>:58050 login admin$, and $ads -s <server-address>:58050 passwd$ should be used to update the password for added security."
+What address can be accessed to view the basic performance metric dashboard of the data synchronization server?,The basic performance metric dashboard of the data synchronization server can be accessed at the address $http://<server-address>:3000$.
+How can one stop the data synchronization server using command-line instructions?,"To stop the data synchronization server, navigate to $/usr/share/ads/server$ and utilize the command $sudo docker-compose stop$ to halt the server operation."
+What is the purpose of creating an empty (invalid) root certificate for the local insecure server mentioned in the context?,The purpose of creating an empty (invalid) root certificate is to temporarily disable TLS security as specified by the $ADS\_SET\_SERVER\_CERT=--insecure$ flag.
+How can you reactivate TLS security after testing is complete on the server as per the instructions provided?,"To reactivate TLS security after testing, you should update the $ADS\_SET\_SERVER\_CERT$ flag with the valid server certificate path using the command: $ADS\_SET\_SERVER\_CERT=--server-cert /var/lib/ads/credentials/ads-server.crt$."
+What commands are required to update the server software after completing the package updates on the data synchronization server?,"To update the server software, the following commands need to be executed:
+1. $cd /usr/share/ads/server$
+2. $sudo docker-compose build --pull --no-cache$
+3. $docker-compose up -d$"
+How can you update the supporting services (TimescaleDB and Grafana) for the data synchronization server mentioned in the context?,"The supporting services can be updated by running the following commands:
+1. $cd /usr/share/ads/server$
+2. $docker-compose pull$
+3. $docker-compose up -d$
+4. $docker-compose exec timescaledb psql -U postgres ads -c ""ALTER EXTENSION timescaledb UPDATE;""$"
+What is the caution provided regarding charging the Robot that is mentioned in the context?,The caution stated is that only trained personnel should be allowed to use and operate the Robot to avoid the risk of injury.
+How can you check the Robot battery level before starting a mission?,"You can check the Robot battery level through the Graphical User Interface (GUI) or the ANYbotics Workforce app, as mentioned in the context."
+What precaution should be taken while charging the Robot battery externally according to the instructions given?,It is advised to install the battery charger in a sheltered area and not to leave the battery attached for extended periods to prevent any injury risks.
+How is the Robot battery charger connected for external charging as per the provided steps?,"The battery charger is connected to the battery adapter using a power cable, and then the battery is plugged into the back of the battery adapter."
+How to replace the Robot battery as mentioned in the context?,"To replace the Robot battery, it is necessary to remove the bottom shell, brackets, and the battery following the correct procedure mentioned in the instructions."
+What should be done after charging the Robot externally using the battery charger and adapter?,"After connecting the battery charger to the adapter and the battery, the battery charger should be disconnected from the power source to avoid leaving the battery attached for prolonged periods."
+How can you charge the Robot battery externally using the battery charger?,"To charge the Robot battery externally using the battery charger, follow these steps:
+1. Ensure the Robot emergency stop is disengaged.
+2. Connect the battery charger to the power socket.
+3. Plug the charging cable into the dedicated socket on the battery charger.
+4. Plug the charging cable into the charging socket on the top of the Robot.
+5. Turn on the battery charger. When the battery charger $Full$ light is on and the $Charging$ light is off, the battery is fully charged.
+
+---"
+What are the conditions under which the battery is considered fully charged in the Robot charging process with a battery charger?,"The battery is considered fully charged when the battery charger $Full$ light is on and the $Charging$ light is off.
+
+---"
+How can the Robot battery be charged using the docking station?,"To charge the Robot battery using the docking station, follow these steps:
+1. Connect the battery charger to the power socket.
+2. Plug the charging cable into the dedicated socket on the battery charger.
+3. Plug the charging cable into the docking station socket.
+4. Turn on the battery charger.
+5. Dock the Robot using Environmental objects or the operational modes.
+
+---"
+What are the main methods of controlling the Robot?,"The main methods of controlling the Robot are:
+1. Using the operator graphical user interface (GUI)
+2. Using the ANYbotics Workforce app
+3. Autonomous control
+
+---"
+How is the method used to control the Robot determined?,"The method used to control the Robot is determined based on the following priority:
+1. Emergency control
+2. Direct control using the ANYbotics Workforce app
+3. Direct control using the operator graphical user interface (GUI)
+4. Autonomous control
+
+---"
+What is the procedure to view who has control of the Robot?,"To view who has control of the Robot, refer to the $Control Lease$ panel in the operator graphical user interface (GUI) or the ANYbotics Workforce app."
+How can the Robot be controlled using the operator GUI?,The Robot can be controlled using the operator GUI by selecting either MANUAL to take control or AUTO to release control from the Control Lease panel.
+What steps should be followed to take control of the Robot using the operator GUI?,"To take control of the Robot using the operator GUI, select MANUAL from the Control Lease panel, and the MANUAL button will turn gold."
+How can control of the Robot be released using the operator GUI?,"Control of the Robot can be released using the operator GUI by selecting AUTO from the Control Lease panel, and the AUTO button will turn green."
+How is the Robot put into autonomous control mode from the operator GUI?,"To put the Robot into autonomous control mode from the operator GUI, select AUTO from the Control Lease panel, and the AUTO button will turn green."
+What are the steps to launch the ANYbotics Workforce app?,"The steps to launch the ANYbotics Workforce app include turning on the tablet, turning on the Robot, and selecting the ANYbotics Workforce app icon on the tablet."
+Why is it important to be familiar with the features of the ANYbotics Workforce app before operating the Robot?,It is important to be familiar with the features of the ANYbotics Workforce app before operating the Robot to ensure efficient and safe control of the Robot.
+What precautions should be taken before operating the ANYbotics Workforce app on a tablet?,"Before operating the ANYbotics Workforce app on a tablet, it is recommended to enable orientation lock, disable sleep mode, and set the app to full-screen mode."
+How can the Robot be controlled using the ANYbotics Workforce app?,The Robot can be controlled using the ANYbotics Workforce app by selecting Take Control or Release Control from the Control Lease button on the status bar.
+What are the available modes in the ANYbotics Workforce app?,The available modes in the ANYbotics Workforce app are manual control mode (Owner) and autonomous control mode (Limited).
+Why is the number row feature recommended to be turned on in the keyboard settings of the mobile device?,The number row feature is recommended to be turned on in the keyboard settings of the mobile device for ease of input and navigation within the ANYbotics Workforce app.
+How can the protective stop be activated using the ANYbotics Workforce app?,"To activate the protective stop, from the status bar, select the protective stop button."
+What is the consequence of activating the protective stop while the Robot is walking?,"Activating the protective stop while the Robot is walking may cause the Robot to collapse, potentially leading to injury or damage, especially in hazardous environments like stairs."
+How is the cut power activated using the ANYbotics Workforce app?,The cut power can be activated by holding and dragging the slider all the way to the right in the app screen.
+Why should one stand clear and keep limbs away when activating the emergency stop or cut power?,"Standing clear and keeping limbs away is crucial because when the emergency stop or cut power is activated, the Robot collapses, posing a crushing hazard."
+In what situations does the Robot operate in Blind mode according to the ANYmal (gen. D) Operator's Manual?,"The Robot operates in Blind mode when walking up or down stairs, docking, or in the crawl motion state, where it won't detect obstacles and may collide with them."
+Where can the operational mode panel be found for changing the Robot's operational mode?,The operational mode panel can be accessed from the Robot control menu in the ANYbotics Workforce app.
+What action does the Sleep operational mode perform on the Robot?,"The Sleep mode makes the Robot lie down and disables the actuators, turning off the danger zone active warning light."
+How does the Rest mode differ from the Sleep mode in terms of Robot position?,"In the Rest mode, the Robot is commanded to lower its torso to the ground while keeping the actuators still active."
+What is the specific mode in which the Robot can dock according to the Operator's Manual?,"The Robot can dock only in the AUTO mode, as mentioned in the ANYmal (gen. D) Operator's Manual."
+How can a new operational mode be activated after selection using the ANYbotics Workforce app?,"To activate the selected operational mode, one should select the confirmation button and wait until the mode icon turns green on the app screen."
+What is the first step to start a mission using the ANYbotics Workforce app?,The first step is to ensure that the Robot is localized.
+Why is it important to ensure the Robot is in AUTO mode before starting a mission?,It is important because the Robot needs to be in AUTO mode to operate autonomously.
+"What should you do before selecting ""Start Mission"" in the app?","Before selecting ""Start Mission"", ensure that it is safe for the Robot to perform the initial task."
+How can you control autonomous missions in the ANYbotics Workforce app?,You can control autonomous missions using the mission player in the operator task menu.
+Where can you find more information on localizing the Robot?,"More information on localizing the Robot can be found in section ""8.3.13 How to localize the Robot"" on page 214."
+Which screen should you be on in the app to start a mission?,You should be on the app main screen to start a mission.
+"What happens when you select ""Start Mission"" in step 6?","The Robot starts moving immediately when ""Start Mission"" is selected in step 6."
+What does the button of the Robot control menu change based on?,The button of the Robot control menu changes based on the operational mode selected.
+How can you take and release control of the Robot with the ANYbotics Workforce app?,"More information on how to take and release control of the Robot can be found in section ""8.3.2 How to take and release control of the Robot with the ANYbotics Workforce app"" on page 195."
+What should you be cautious of when starting a mission?,You should be cautious of the risk of injury when starting a mission.

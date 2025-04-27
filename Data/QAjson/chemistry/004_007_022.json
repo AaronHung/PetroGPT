@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Analytical chemistry",
+    "sub_topic": "Quantification of the amount of a substance in a sample using gravimetric analysis",
+    "message_1": "What is the amount (in grams) of pure calcium carbonate present in a sample of marble weighing 2.151 grams, assuming the marble consists entirely of calcium carbonate and using gravimetric analysis?",
+    "message_2": "To determine the amount of pure calcium carbonate (CaCO3) present in the 2.151 grams of marble sample, we can use gravimetric analysis. Since the problem assumes that the marble consists entirely of calcium carbonate, the entire mass of the marble sample is calcium carbonate.\n\nTherefore, the amount of pure calcium carbonate present in the marble sample is 2.151 grams."
+}

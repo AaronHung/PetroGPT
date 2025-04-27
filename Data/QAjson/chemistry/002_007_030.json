@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the products of inorganic reactions",
+    "message_1": "What are the products formed by the reaction of sulfuric acid with calcium hydroxide? Write the balanced chemical equation for the reaction and state whether the reaction is exothermic or endothermic.",
+    "message_2": "When sulfuric acid (H₂SO₄) reacts with calcium hydroxide (Ca(OH)₂), the products formed are calcium sulfate (CaSO₄) and water (H₂O). The balanced chemical equation for the reaction is:\n\nH₂SO₄ + Ca(OH)₂ → CaSO₄ + 2H₂O\n\nThis reaction is an example of an acid-base neutralization reaction, which is generally exothermic. In this case, heat is released as the strong acid (H₂SO₄) and the strong base (Ca(OH)₂) combine to form a salt (CaSO₄) and water."
+}

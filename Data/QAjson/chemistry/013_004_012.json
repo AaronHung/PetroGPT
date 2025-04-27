@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Surface chemistry",
+    "sub_topic": "BET theory of multilayer adsorption",
+    "message_1": "Given a sample of mesoporous silica with a surface area of 500 m²/g, an amount of physisorbed nitrogen of 4.2 µmol/g, and assuming a monolayer coverage of 16.2 µmol/m², calculate the BET surface area of the silica.",
+    "message_2": "The BET (Brunauer-Emmett-Teller) surface area is a widely used parameter to characterize the surface area of porous materials. To calculate the BET surface area, we can use the following formula:\n\nBET surface area = (Amount of physisorbed nitrogen / Monolayer coverage) × Surface area\n\nGiven the amount of physisorbed nitrogen (N) is 4.2 µmol/g, the monolayer coverage (M) is 16.2 µmol/m², and the surface area (S) is 500 m²/g, we can plug these values into the formula:\n\nBET surface area = (4.2 µmol/g) / (16.2 µmol/m²) × 500 m²/g\n\nBET surface area = 0.259259259 × 500 m²/g\n\nBET surface area ≈ 129.63 m²/g\n\nTherefore, the BET surface area of the mesoporous silica is approximately 129.63 m²/g."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Isotope notation and identification",
+    "message_1": "Identify the element and its corresponding isotopes in the following isotope notation: ¹⁶₈O, ¹⁷₀O, and ¹⁸O.",
+    "message_2": "The element in the given isotope notations is Oxygen (O). The isotopes are represented by the numbers before the element symbol. In this case, the isotopes are:\n\n1. Oxygen-16 (¹⁶O) - This isotope has 8 protons and 8 neutrons.\n2. Oxygen-17 (¹⁷O) - This isotope has 8 protons and 9 neutrons.\n3. Oxygen-18 (¹⁸O) - This isotope has 8 protons and 10 neutrons."
+}

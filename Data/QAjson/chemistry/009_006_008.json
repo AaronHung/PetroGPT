@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Isotope notation and identification",
+    "message_1": "What is the isotope notation for carbon-14 and how does it differ from the notation for carbon-12?",
+    "message_2": "The isotope notation for carbon-14 is written as ¹⁴C or C-14, while the notation for carbon-12 is written as ¹²C or C-12. \n\nThe difference between the two notations lies in the superscript number before the element symbol \"C\". The superscript number represents the mass number (A) of the isotope, which is the sum of protons and neutrons in the nucleus of the atom. Carbon-14 has 6 protons and 8 neutrons, giving it a mass number of 14, while carbon-12 has 6 protons and 6 neutrons, giving it a mass number of 12."
+}

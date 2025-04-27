@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Identifying the type of inorganic solid (ionic, covalent, metallic)",
+    "message_1": "Identify the type of inorganic solid formed between the elements in group 1 and group 7 of the periodic table.",
+    "message_2": "The type of inorganic solid formed between elements in group 1 (alkali metals) and group 7 (halogens) of the periodic table is an ionic solid. These compounds are formed through the transfer of electrons from the alkali metal to the halogen, resulting in the formation of positive and negative ions that are held together by strong electrostatic forces in a crystal lattice structure. Examples of such compounds include sodium chloride (NaCl), potassium bromide (KBr), and lithium iodide (LiI)."
+}

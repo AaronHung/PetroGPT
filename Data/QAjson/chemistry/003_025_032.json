@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Chemical equilibria and equilibrium constants.",
+    "message_1": "What is the equilibrium constant expression for the reaction: \n\n2NH3(g) ↔ N2(g) + 3H2(g) \n\ngiven that at equilibrium, the partial pressure of NH3 is 0.25 atm, the partial pressure of N2 is 0.10 atm, and the partial pressure of H2 is 0.15 atm? Calculate the equilibrium constant (Kp) for this reaction.",
+    "message_2": "To find the equilibrium constant expression (Kp) for the given reaction, we need to use the formula:\n\nKp = [products]^coefficients / [reactants]^coefficients\n\nFor the reaction:\n\n2NH3(g) ↔ N2(g) + 3H2(g)\n\nThe Kp expression will be:\n\nKp = [N2]^1 * [H2]^3 / [NH3]^2\n\nNow we are given the partial pressures at equilibrium:\n\n[NH3] = 0.25 atm\n[N2] = 0.10 atm\n[H2] = 0.15 atm\n\nPlug these values into the Kp expression:\n\nKp = (0.10)^1 * (0.15)^3 / (0.25)^2\n\nKp = (0.10) * (0.003375) / (0.0625)\n\nKp ≈ 0.0054\n\nSo, the equilibrium constant (Kp) for this reaction is approximately 0.0054."
+}

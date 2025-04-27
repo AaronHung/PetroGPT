@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Isotope notation and identification",
+    "message_1": "What is the isotope notation and nuclear symbol for an atom with 17 protons and 20 neutrons?",
+    "message_2": "The isotope notation for an atom with 17 protons and 20 neutrons is written as:\n\nChlorine-37 or ³⁷Cl\n\nThe nuclear symbol for this isotope is:\n\n³⁷Cl\n\nHere, 37 is the mass number (sum of protons and neutrons), and Cl is the chemical symbol for the element chlorine, which has 17 protons."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Determining the hybridization of inorganic compounds",
+    "message_1": "What is the hybridization of the central atom in the following compound: SO₂?",
+    "message_2": "In SO₂ (sulfur dioxide), the central atom is sulfur (S). To determine its hybridization, we need to first find the number of valence electrons and the electron domains surrounding the central atom.\n\nSulfur has 6 valence electrons, and each oxygen atom has 6 valence electrons. In SO₂, there is a double bond between sulfur and one oxygen atom, and a single bond between sulfur and the other oxygen atom. This accounts for 2 + 2 + 1 = 5 electron domains around the sulfur atom.\n\nNow, we can determine the hybridization based on the number of electron domains:\n\n- 2 electron domains: sp hybridization\n- 3 electron domains: sp² hybridization\n- 4 electron domains: sp³ hybridization\n- 5 electron domains: sp³d hybridization\n- 6 electron domains: sp³d² hybridization\n\nSince there are 5 electron domains around the sulfur atom in SO₂, the hybridization of the central atom (sulfur) is sp³d."
+}

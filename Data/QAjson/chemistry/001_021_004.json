@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Elimination reactions",
+    "message_1": "What is the major product formed when 2-methylbutan-2-ol undergoes an E1 elimination reaction with concentrated sulfuric acid?",
+    "message_2": "When 2-methylbutan-2-ol undergoes an E1 elimination reaction with concentrated sulfuric acid, the major product formed is 2-methylbut-2-ene.\n\nHere's the step-by-step process of the reaction:\n\n1. Protonation of the alcohol: The oxygen atom in the hydroxyl group (-OH) of 2-methylbutan-2-ol gets protonated by the sulfuric acid (H2SO4), forming a good leaving group (water molecule).\n\n2. Formation of carbocation: The water molecule leaves, resulting in the formation of a carbocation at the tertiary carbon (C3) of the 2-methylbutan-2-ol molecule. This carbocation is relatively stable due to the hyperconjugation effect.\n\n3. Elimination of a proton: A base (HSO4-) from the reaction mixture abstracts a proton from the adjacent carbon (C2) to the carbocation, forming a double bond between C2 and C3.\n\nThe major product of this E1 elimination reaction is 2-methylbut-2-ene."
+}

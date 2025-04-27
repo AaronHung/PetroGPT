@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Surface chemistry",
+    "sub_topic": "BET theory of multilayer adsorption",
+    "message_1": "\"What is the surface area of a sample of activated carbon with a BET (Brunauer-Emmett-Teller) surface area of 500 m²/g, if 5 g of the sample is used in the experiment?\"",
+    "message_2": "To calculate the total surface area of the activated carbon sample, you can use the following formula:\n\nTotal surface area = BET surface area × mass of the sample\n\nIn this case, the BET surface area is 500 m²/g, and the mass of the sample is 5 g. So, the total surface area can be calculated as follows:\n\nTotal surface area = 500 m²/g × 5 g\n\nTotal surface area = 2500 m²\n\nSo, the surface area of the 5 g sample of activated carbon is 2500 m²."
+}

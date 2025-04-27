@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Identifying the type of inorganic solid (ionic, covalent, metallic)",
+    "message_1": "Determine the type of inorganic solid formed between Strontium (Sr) and Oxygen (O) based on their electronegativities and bonding behavior. Is it ionic, covalent or metallic?",
+    "message_2": "Strontium (Sr) is an alkaline earth metal with an electronegativity of 0.95, while Oxygen (O) is a non-metal with an electronegativity of 3.44. The difference in electronegativity between Sr and O is 3.44 - 0.95 = 2.49. \n\nIn general, when the electronegativity difference between two elements is greater than 1.7, the bond formed is considered ionic. In this case, the electronegativity difference is 2.49, which is greater than 1.7. Therefore, the inorganic solid formed between Strontium (Sr) and Oxygen (O) is an ionic solid. The compound formed is Strontium oxide (SrO)."
+}

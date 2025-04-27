@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Crystallography and crystal structures",
+    "message_1": "What is the coordination number and the total number of atoms in a face-centered cubic (FCC) unit cell if the atom at each corner is shared between eight neighboring unit cells and the atom at the center of each face is shared between two adjacent unit cells?",
+    "message_2": "In a face-centered cubic (FCC) unit cell, there are 8 corner atoms and 6 face-centered atoms. Each corner atom is shared between 8 neighboring unit cells, and each face-centered atom is shared between 2 adjacent unit cells.\n\nTo calculate the total number of atoms in the FCC unit cell, we can use the following equation:\n\nTotal atoms = (Number of corner atoms × Sharing factor for corner atoms) + (Number of face-centered atoms × Sharing factor for face-centered atoms)\n\nTotal atoms = (8 × 1/8) + (6 × 1/2)\nTotal atoms = 1 + 3\nTotal atoms = 4\n\nSo, there are 4 atoms in a face-centered cubic unit cell.\n\nThe coordination number is the number of nearest neighboring atoms surrounding a central atom in a crystal structure. In an FCC unit cell, each atom has 12 nearest neighbors (6 face-centered atoms and 6 corner atoms). Therefore, the coordination number for a face-centered cubic unit cell is 12."
+}

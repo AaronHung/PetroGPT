@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the percent composition of inorganic compounds",
+    "message_1": "What is the percent composition of sulfur (S) in sulfuric acid (H₂SO₄)? Show your work.",
+    "message_2": "To find the percent composition of sulfur (S) in sulfuric acid (H₂SO₄), we need to determine the molar mass of sulfuric acid and the molar mass of sulfur. Then, we can calculate the percentage by dividing the molar mass of sulfur by the molar mass of sulfuric acid and multiplying by 100.\n\nFirst, let's find the molar mass of sulfuric acid (H₂SO₄). We will need the molar mass of each element in the compound:\n- Hydrogen (H): 1.01 g/mol\n- Sulfur (S): 32.07 g/mol\n- Oxygen (O): 16.00 g/mol\n\nNow, we can calculate the molar mass of sulfuric acid:\nH₂SO₄ = (2 × 1.01 g/mol) + (1 × 32.07 g/mol) + (4 × 16.00 g/mol)\nH₂SO₄ = 2.02 g/mol + 32.07 g/mol + 64.00 g/mol\nH₂SO₄ = 98.09 g/mol\n\nNow that we have the molar mass of sulfuric acid, we can find the percent composition of sulfur (S) in the compound:\nPercent composition of S = (molar mass of S / molar mass of H₂SO₄) × 100\nPercent composition of S = (32.07 g/mol / 98.09 g/mol) × 100\nPercent composition of S ≈ 32.69%\n\nSo, the percent composition of sulfur (S) in sulfuric acid (H₂SO₄) is approximately 32.69%."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Isotope notation and identification",
+    "message_1": "A sample of an unknown element contains 10 protons and 12 neutrons in the nucleus. What isotope notation represents this element?",
+    "message_2": "The isotope notation for this element can be represented as follows:\n\nX-A\n\nwhere X is the element symbol, and A is the mass number (sum of protons and neutrons).\n\nSince the element has 10 protons, it is neon (Ne), which has an atomic number of 10. The mass number (A) is the sum of protons and neutrons, which is 10 + 12 = 22.\n\nTherefore, the isotope notation for this element is Ne-22."
+}

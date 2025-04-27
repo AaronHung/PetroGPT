@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Radioactive decay series",
+    "message_1": "What is the final stable isotope produced from the radioactive decay series of Uranium-238 (U-238)?",
+    "message_2": "The final stable isotope produced from the radioactive decay series of Uranium-238 (U-238) is Lead-206 (Pb-206)."
+}

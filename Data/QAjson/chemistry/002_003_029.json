@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the solubility of inorganic salts in water",
+    "message_1": "What is the solubility product constant of calcium hydroxide in water at 25°C?",
+    "message_2": "The solubility product constant (Ksp) of calcium hydroxide (Ca(OH)2) in water at 25°C is approximately 5.5 × 10⁻⁶."
+}

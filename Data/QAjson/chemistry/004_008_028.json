@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Analytical chemistry",
+    "sub_topic": "Identification of functional groups in a compound using infrared spectroscopy",
+    "message_1": "What functional groups are present in Compound X based on the IR spectrum provided? Be sure to identify specific peaks and explain their corresponding functional groups.",
+    "message_2": "Unfortunately, I cannot view the IR spectrum as I am an AI language model and cannot process images or files. However, I can help you interpret an IR spectrum if you provide me with the specific peak values and their positions."
+}

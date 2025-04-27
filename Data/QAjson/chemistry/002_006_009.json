@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the molar mass of inorganic compounds",
+    "message_1": "What is the molar mass of potassium dichromate (K2Cr2O7) in grams per mole?",
+    "message_2": "To find the molar mass of potassium dichromate (K2Cr2O7), we need to add the molar masses of all the elements in the compound.\n\nPotassium (K) has a molar mass of 39.10 g/mol.\nChromium (Cr) has a molar mass of 51.996 g/mol.\nOxygen (O) has a molar mass of 16.00 g/mol.\n\nIn the compound K2Cr2O7, there are:\n- 2 potassium atoms\n- 2 chromium atoms\n- 7 oxygen atoms\n\nSo, the molar mass of potassium dichromate is:\n\n(2 × 39.10 g/mol) + (2 × 51.996 g/mol) + (7 × 16.00 g/mol) = 78.20 g/mol + 103.992 g/mol + 112.00 g/mol = 294.192 g/mol\n\nThe molar mass of potassium dichromate (K2Cr2O7) is approximately 294.19 g/mol."
+}

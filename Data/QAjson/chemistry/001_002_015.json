@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Isomerism in organic compounds",
+    "message_1": "How many possible chain isomers can be formed for a compound with the molecular formula C5H12?",
+    "message_2": "For a compound with the molecular formula C5H12, there are three possible chain isomers:\n\n1. n-Pentane: a straight chain of five carbon atoms\n2. Isopentane (2-methylbutane): a four-carbon chain with a methyl group attached to the second carbon\n3. Neopentane (2,2-dimethylpropane): a three-carbon chain with two methyl groups attached to the second carbon\n\nSo, there are 3 possible chain isomers for C5H12."
+}

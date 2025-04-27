@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Isotope notation and identification",
+    "message_1": "Using Isotope Notation, calculate the number of neutrons in Carbon 14.",
+    "message_2": "In isotope notation, the element is represented by its symbol, followed by a hyphen and the mass number (A). For Carbon-14, the notation is C-14. The mass number (A) is the sum of the number of protons and neutrons in the nucleus of an atom.\n\nCarbon has an atomic number (Z) of 6, which means it has 6 protons. To calculate the number of neutrons, we can use the formula:\n\nNumber of neutrons = Mass number (A) - Atomic number (Z)\n\nFor Carbon-14:\n\nNumber of neutrons = 14 - 6 = 8\n\nSo, Carbon-14 has 8 neutrons."
+}

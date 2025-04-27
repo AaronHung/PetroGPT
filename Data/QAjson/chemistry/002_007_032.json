@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the products of inorganic reactions",
+    "message_1": "What are the products of the reaction between magnesium chloride and sodium hydroxide? Write the balanced chemical equation for the reaction and predict the products formed.",
+    "message_2": "The reaction between magnesium chloride (MgCl₂) and sodium hydroxide (NaOH) is a double displacement reaction, also known as a metathesis reaction. In this reaction, the cations and anions of the two reactants switch places, forming two new products.\n\nThe balanced chemical equation for the reaction is:\n\nMgCl₂ (aq) + 2 NaOH (aq) → Mg(OH)₂ (s) + 2 NaCl (aq)\n\nThe products formed are magnesium hydroxide (Mg(OH)₂) and sodium chloride (NaCl). Magnesium hydroxide is a solid precipitate, while sodium chloride remains dissolved in the solution."
+}

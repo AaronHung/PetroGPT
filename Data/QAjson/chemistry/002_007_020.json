@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the products of inorganic reactions",
+    "message_1": "What are the products formed when calcium carbonate is heated? Provide the balanced chemical equation for the reaction and predict the physical state of each product.",
+    "message_2": "When calcium carbonate (CaCO3) is heated, it undergoes a decomposition reaction to form calcium oxide (CaO) and carbon dioxide (CO2). The balanced chemical equation for this reaction is:\n\nCaCO3 (s) → CaO (s) + CO2 (g)\n\nIn this equation, (s) denotes the solid state and (g) denotes the gas state. So, calcium carbonate is a solid, calcium oxide is also a solid, and carbon dioxide is a gas."
+}

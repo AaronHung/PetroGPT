@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the products of inorganic reactions",
+    "message_1": "What are the products formed when Potassium permanganate reacts with Hydrochloric acid? Write the balanced chemical equation for the reaction and mention the type of reaction that occurs.",
+    "message_2": "When potassium permanganate (KMnO₄) reacts with hydrochloric acid (HCl), the products formed are potassium chloride (KCl), manganese(II) chloride (MnCl₂), water (H₂O), and chlorine gas (Cl₂). The balanced chemical equation for the reaction is:\n\n2 KMnO₄ + 16 HCl → 2 KCl + 2 MnCl₂ + 8 H₂O + 5 Cl₂\n\nThis reaction is a redox reaction (reduction-oxidation reaction) because the oxidation states of the elements change during the reaction. In this case, manganese in potassium permanganate is reduced from +7 to +2, while chlorine in hydrochloric acid is oxidized from -1 to 0."
+}

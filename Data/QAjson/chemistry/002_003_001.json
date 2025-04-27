@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the solubility of inorganic salts in water",
+    "message_1": "What is the solubility of calcium sulfate in water at 25°C, given its Ksp value of 4.93 × 10^-5?",
+    "message_2": "To find the solubility of calcium sulfate (CaSO4) in water at 25°C, we can use the solubility product constant (Ksp) expression. The dissociation of CaSO4 in water can be represented as:\n\nCaSO4 (s) ⇌ Ca²⁺ (aq) + SO₄²⁻ (aq)\n\nLet the solubility of CaSO4 be represented by \"s\" in mol/L. When CaSO4 dissolves, it produces 1 mol of Ca²⁺ ions and 1 mol of SO₄²⁻ ions for each mole of CaSO4 that dissolves. Therefore, the concentration of Ca²⁺ ions and SO₄²⁻ ions will also be \"s\" mol/L.\n\nThe Ksp expression for CaSO4 is:\n\nKsp = [Ca²⁺] [SO₄²⁻]\n\nSince the concentrations of Ca²⁺ and SO₄²⁻ ions are both \"s\", we can rewrite the Ksp expression as:\n\nKsp = s²\n\nNow, we can plug in the given Ksp value of 4.93 × 10⁻⁵ and solve for \"s\":\n\n4.93 × 10⁻⁵ = s²\n\nTo find \"s\", take the square root of both sides:\n\ns = √(4.93 × 10⁻⁵)\ns ≈ 7.02 × 10⁻³ mol/L\n\nTherefore, the solubility of calcium sulfate in water at 25°C is approximately 7.02 × 10⁻³ mol/L."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Half-life calculations",
+    "message_1": "What is the half-life of a radioactive element if 400 g of it decays to 50 g in 30 years?",
+    "message_2": "To find the half-life of a radioactive element, we can use the formula:\n\nN(t) = N0 * (1/2)^(t/T)\n\nwhere N(t) is the amount of the element remaining after time t, N0 is the initial amount of the element, t is the time elapsed, and T is the half-life of the element.\n\nIn this case, we have:\n\nN(t) = 50 g\nN0 = 400 g\nt = 30 years\n\nWe want to find T, the half-life. Rearranging the formula to solve for T, we get:\n\nT = t * (log(1/2) / log(N(t)/N0))\n\nPlugging in the values:\n\nT = 30 * (log(1/2) / log(50/400))\nT = 30 * (log(1/2) / log(1/8))\nT ≈ 30 * ( -0.3010 / -0.9031)\nT ≈ 10 years\n\nSo, the half-life of the radioactive element is approximately 10 years."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Oxidation and reduction reactions",
+    "message_1": "Identify the oxidizing and reducing agents in the following reaction: \nCu(s) + 4HNO3(aq) → Cu(NO3)2(aq) + 2NO2(g) + 2H2O(l)",
+    "message_2": "In this reaction:\n\nCu(s) + 4HNO3(aq) → Cu(NO3)2(aq) + 2NO2(g) + 2H2O(l)\n\nTo identify the oxidizing and reducing agents, we need to determine the changes in oxidation states of the elements involved in the reaction.\n\n1. Copper (Cu) changes from an oxidation state of 0 in Cu(s) to +2 in Cu(NO3)2(aq). This is an increase in oxidation state, which means Cu is being oxidized. Therefore, Cu(s) is the reducing agent.\n\n2. Nitrogen (N) changes from an oxidation state of +5 in HNO3(aq) to +4 in NO2(g). This is a decrease in oxidation state, which means N is being reduced. Therefore, HNO3(aq) is the oxidizing agent."
+}

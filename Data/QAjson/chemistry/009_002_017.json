@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Radioactive decay series",
+    "message_1": "What is the complete decay series for radon-222?",
+    "message_2": "The complete decay series for radon-222 (Rn-222) is a sequence of radioactive decay processes that ultimately lead to a stable isotope. This decay series is also known as the uranium series or 4n+2 series. The decay series for radon-222 is as follows:\n\n1. Radon-222 (Rn-222) undergoes alpha decay to produce polonium-218 (Po-218).\n2. Polonium-218 (Po-218) undergoes alpha decay to produce lead-214 (Pb-214).\n3. Lead-214 (Pb-214) undergoes beta decay to produce bismuth-214 (Bi-214).\n4. Bismuth-214 (Bi-214) undergoes beta decay to produce polonium-214 (Po-214).\n5. Polonium-214 (Po-214) undergoes alpha decay to produce lead-210 (Pb-210).\n6. Lead-210 (Pb-210) undergoes beta decay to produce bismuth-210 (Bi-210).\n7. Bismuth-210 (Bi-210) undergoes beta decay to produce polonium-210 (Po-210).\n8. Polonium-210 (Po-210) undergoes alpha decay to produce the stable isotope lead-206 (Pb-206).\n\nThis series of decays ultimately results in the stable isotope lead-206 (Pb-206)."
+}

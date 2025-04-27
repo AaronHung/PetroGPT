@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the geometry and polarity of inorganic molecules",
+    "message_1": "What is the molecular geometry and polarity of the nitrogen trifluoride (NF3) molecule?",
+    "message_2": "Nitrogen trifluoride (NF3) has a trigonal pyramidal molecular geometry. This is because nitrogen has 5 valence electrons and needs 3 more electrons to complete its octet. It forms three single bonds with the three fluorine atoms, and there is one lone pair of electrons on the nitrogen atom.\n\nTo determine the polarity of NF3, we need to consider the electronegativity of the atoms involved. Fluorine is highly electronegative (3.98), while nitrogen has a lower electronegativity (3.04). Due to the difference in electronegativity, the N-F bonds are polar. However, the molecular geometry also plays a role in determining the overall polarity of the molecule.\n\nIn the case of NF3, the trigonal pyramidal geometry causes the bond dipoles to not cancel each other out, resulting in a net dipole moment. Therefore, nitrogen trifluoride (NF3) is a polar molecule."
+}

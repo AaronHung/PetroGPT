@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Quantum mechanics and molecular structure",
+    "message_1": "What is the bond angle between the hydrogen atoms in a water molecule according to quantum mechanics?",
+    "message_2": "According to quantum mechanics and the VSEPR (Valence Shell Electron Pair Repulsion) theory, the bond angle between the hydrogen atoms in a water molecule (H2O) is approximately 104.5 degrees. This is due to the presence of two lone pairs of electrons on the oxygen atom, which repel the bonding pairs of electrons and cause the hydrogen atoms to be pushed closer together."
+}

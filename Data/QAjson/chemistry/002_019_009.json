@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the boiling and melting points of inorganic compounds",
+    "message_1": "What is the boiling point of calcium chloride (CaCl2) at 1 atmosphere pressure?",
+    "message_2": "The boiling point of calcium chloride (CaCl2) at 1 atmosphere pressure is approximately 1935°C (3515°F)."
+}

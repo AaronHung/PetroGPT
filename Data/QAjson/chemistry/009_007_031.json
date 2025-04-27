@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Nuclear stability and decay modes",
+    "message_1": "What is the most stable isotope of carbon and what is its mode of radioactive decay?",
+    "message_2": "The most stable isotope of carbon is Carbon-12 (12C). It is a stable isotope, meaning it does not undergo radioactive decay. It has 6 protons and 6 neutrons in its nucleus. About 98.9% of naturally occurring carbon is Carbon-12."
+}

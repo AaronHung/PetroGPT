@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Solvation and solubility phenomena",
+    "message_1": "What is the maximum amount of NaCl that can be dissolved in 500 mL of water at 25°C?",
+    "message_2": "The solubility of NaCl (sodium chloride) in water at 25°C is approximately 357 g/L.\n\nTo find the maximum amount of NaCl that can be dissolved in 500 mL of water, we can use the following equation:\n\nAmount of NaCl (g) = Solubility (g/L) × Volume (L)\n\nFirst, we need to convert the volume from mL to L:\n\n500 mL = 0.5 L\n\nNow, we can calculate the maximum amount of NaCl that can be dissolved:\n\nAmount of NaCl (g) = 357 g/L × 0.5 L = 178.5 g\n\nSo, the maximum amount of NaCl that can be dissolved in 500 mL of water at 25°C is approximately 178.5 grams."
+}

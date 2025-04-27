@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Isotope notation and identification",
+    "message_1": "Identify the isotope of carbon that has 6 protons and 8 neutrons and write its isotope notation in the standard form.",
+    "message_2": "The isotope of carbon with 6 protons and 8 neutrons is Carbon-14. Its isotope notation in the standard form is:\n\n¹⁴C"
+}

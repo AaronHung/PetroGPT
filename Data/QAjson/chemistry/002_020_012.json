@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Identifying the type of inorganic solid (ionic, covalent, metallic)",
+    "message_1": "Identify the type of inorganic solid present in a compound with the chemical formula NaCl.",
+    "message_2": "The type of inorganic solid present in a compound with the chemical formula NaCl (sodium chloride) is an ionic solid. Sodium chloride forms a crystalline lattice structure where sodium ions (Na+) and chloride ions (Cl-) are held together by strong electrostatic forces (ionic bonds) between the positively charged sodium ions and the negatively charged chloride ions."
+}

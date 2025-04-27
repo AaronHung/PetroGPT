@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Electrophilic addition reactions",
+    "message_1": "What is the product formed when propene undergoes electrophilic addition reaction with hydrogen bromide (HBr)?",
+    "message_2": "When propene (C3H6) undergoes electrophilic addition reaction with hydrogen bromide (HBr), the product formed is 2-bromopropane (C3H7Br). The reaction proceeds as follows:\n\nC3H6 + HBr → C3H7Br"
+}

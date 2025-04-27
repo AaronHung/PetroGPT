@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Isotope notation and identification",
+    "message_1": "What is the isotope notation and identification for an atom of carbon with 6 protons and 7 neutrons?",
+    "message_2": "The isotope notation for an atom of carbon with 6 protons and 7 neutrons is written as ¹³C. The superscript \"13\" represents the mass number (the sum of protons and neutrons), and the letter \"C\" represents the element carbon. This isotope is called Carbon-13."
+}

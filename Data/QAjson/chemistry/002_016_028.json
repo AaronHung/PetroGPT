@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the enthalpy and entropy of inorganic reactions",
+    "message_1": "What is the standard molar entropy change (∆S°) for the reaction: \n\n2HBr(g) + Cl2(g) -> 2HCl(g) + Br2(g) \n\nif the standard molar enthalpy change (∆H°) is -107.6 kJ/mol?",
+    "message_2": "To calculate the standard molar entropy change (∆S°) for the reaction, we need to use the Gibbs free energy equation:\n\n∆G° = ∆H° - T∆S°\n\nHowever, we are not given the standard molar Gibbs free energy change (∆G°) or the temperature (T) in the problem. We need more information to solve this problem."
+}

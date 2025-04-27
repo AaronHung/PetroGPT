@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Non-equilibrium thermodynamics and irreversible processes",
+    "message_1": "\"What is the maximum work that can be done by a chemical reaction that occurs irreversibly at a constant temperature and pressure?\"",
+    "message_2": "In an irreversible chemical reaction, the maximum work that can be done is equal to the change in Gibbs free energy (ΔG) of the reaction. Gibbs free energy is a thermodynamic potential that measures the maximum reversible work that can be done by a system at constant temperature and pressure.\n\nThe Gibbs free energy change (ΔG) can be calculated using the following equation:\n\nΔG = ΔH - TΔS\n\nwhere ΔH is the change in enthalpy (heat content) of the reaction, T is the absolute temperature in Kelvin, and ΔS is the change in entropy (disorder) of the reaction.\n\nFor an irreversible reaction, the actual work done will be less than the maximum work (ΔG) due to inefficiencies and energy losses. However, the maximum work that can be done by the reaction is still represented by the change in Gibbs free energy (ΔG)."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Half-life calculations",
+    "message_1": "A sample of carbon-14 has an initial activity of 800 Bq. What is the activity of the sample after 5000 years if the half-life of carbon-14 is 5730 years?",
+    "message_2": "To calculate the activity of the sample after 5000 years, we can use the radioactive decay formula:\n\nA = A0 * (1/2)^(t/T)\n\nwhere:\nA = activity after time t\nA0 = initial activity (800 Bq)\nt = time elapsed (5000 years)\nT = half-life of carbon-14 (5730 years)\n\nA = 800 * (1/2)^(5000/5730)\n\nA ≈ 800 * (1/2)^0.872\n\nA ≈ 800 * 0.543\n\nA ≈ 434.4 Bq\n\nThe activity of the sample after 5000 years is approximately 434.4 Bq."
+}

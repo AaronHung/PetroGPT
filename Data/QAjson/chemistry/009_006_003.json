@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Isotope notation and identification",
+    "message_1": "Using the isotope notation, determine the number of protons, neutrons, and electrons in the nucleus of Uranium-235.",
+    "message_2": "Uranium-235 is represented by the isotope notation ²³⁵U. The atomic number of uranium (U) is 92, which means it has 92 protons. The number of electrons in a neutral atom is equal to the number of protons, so there are also 92 electrons.\n\nTo determine the number of neutrons, we can use the formula:\n\nNumber of neutrons = Mass number (A) - Atomic number (Z)\n\nIn this case, the mass number (A) is 235, and the atomic number (Z) is 92:\n\nNumber of neutrons = 235 - 92 = 143\n\nSo, Uranium-235 has 92 protons, 143 neutrons, and 92 electrons. Note that the electrons are not in the nucleus, but rather orbiting around it."
+}

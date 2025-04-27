@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Radiation therapy and dosimetry",
+    "message_1": "Calculate the absorbed dose of radiation received by a patient who underwent radiation therapy for cancer treatment. The patient received a total of 35 Gray of radiation over the course of 14 treatment sessions. If the patient's body mass is 70 kg, what was the absorbed dose of radiation in units of Gray per kilogram (Gy/kg)?",
+    "message_2": "To calculate the absorbed dose of radiation in units of Gray per kilogram (Gy/kg), we need to divide the total amount of radiation received (in Gray) by the patient's body mass (in kg).\n\nTotal radiation received = 35 Gray\nPatient's body mass = 70 kg\n\nAbsorbed dose of radiation (Gy/kg) = Total radiation received (Gray) / Patient's body mass (kg)\n\nAbsorbed dose of radiation (Gy/kg) = 35 Gray / 70 kg\n\nAbsorbed dose of radiation (Gy/kg) = 0.5 Gy/kg\n\nThe absorbed dose of radiation received by the patient is 0.5 Gray per kilogram (Gy/kg)."
+}

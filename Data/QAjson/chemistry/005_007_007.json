@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Biochemistry",
+    "sub_topic": "RNA transcription and translation",
+    "message_1": "What is the specific sequence of amino acids produced during translation of the following RNA sequence: AUGGCCAGCUUGGCAUCG?",
+    "message_2": "To determine the specific sequence of amino acids produced during translation of the given RNA sequence, we need to translate the RNA sequence into amino acids using the genetic code. The RNA sequence is:\n\nAUGGCCAGCUUGGCAUCG\n\nFirst, we need to divide the sequence into codons (groups of three nucleotides):\n\nAUG - GCC - AGC - UUG - GCA - UCG\n\nNow, we can use the genetic code to translate each codon into its corresponding amino acid:\n\nAUG - Methionine (Met or M)\nGCC - Alanine (Ala or A)\nAGC - Serine (Ser or S)\nUUG - Leucine (Leu or L)\nGCA - Alanine (Ala or A)\nUCG - Serine (Ser or S)\n\nSo, the specific sequence of amino acids produced during translation of the given RNA sequence is:\n\nMethionine - Alanine - Serine - Leucine - Alanine - Serine\n\nOr, using the single-letter code:\n\nMASLAS"
+}

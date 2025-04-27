@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the overpotential in an electrochemical reaction",
+    "message_1": "What is the overpotential of the cathodic reduction reaction of iron (Fe) in a solution of pH 3.5 with a potential of -0.84 V vs. the standard hydrogen electrode (SHE)? The half-reaction for the cathodic reduction of Fe2+ to Fe is:\n\nFe2+ (aq) + 2e- → Fe (s)\n\nThe standard reduction potential for this reaction is -0.44 V vs. the SHE at 25°C. The rate constant for the electron transfer process is 6.86 × 10^4 M^-1s^-1.",
+    "message_2": "To calculate the overpotential of the cathodic reduction reaction of iron (Fe) in a solution of pH 3.5 with a potential of -0.84 V vs. the standard hydrogen electrode (SHE), we need to compare the applied potential to the standard reduction potential for the reaction.\n\nThe standard reduction potential for the cathodic reduction of Fe2+ to Fe is -0.44 V vs. the SHE at 25°C. The applied potential in the solution is -0.84 V vs. the SHE.\n\nOverpotential is the difference between the applied potential and the standard reduction potential:\n\nOverpotential = Applied potential - Standard reduction potential\nOverpotential = (-0.84 V) - (-0.44 V)\nOverpotential = -0.84 V + 0.44 V\nOverpotential = -0.40 V\n\nThe overpotential for the cathodic reduction reaction of iron (Fe) in a solution of pH 3.5 with a potential of -0.84 V vs. the standard hydrogen electrode (SHE) is -0.40 V."
+}

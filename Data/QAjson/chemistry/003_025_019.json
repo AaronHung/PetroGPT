@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Chemical equilibria and equilibrium constants.",
+    "message_1": "What is the equilibrium constant for the reaction between nitrogen gas and hydrogen gas to form ammonia gas at 298 K if the concentrations of nitrogen and hydrogen gases are 0.20 M and 0.15 M, respectively, and the concentration of ammonia gas is 0.10 M at equilibrium?",
+    "message_2": "To find the equilibrium constant (Kc) for the reaction between nitrogen gas (N₂) and hydrogen gas (H₂) to form ammonia gas (NH₃), we first need to write the balanced chemical equation for the reaction:\n\nN₂(g) + 3H₂(g) ⇌ 2NH₃(g)\n\nNext, we can use the equilibrium concentrations of the reactants and products to find the equilibrium constant. The equilibrium expression for this reaction is:\n\nKc = [NH₃]^2 / ([N₂] * [H₂]^3)\n\nGiven the equilibrium concentrations:\n[N₂] = 0.20 M\n[H₂] = 0.15 M\n[NH₃] = 0.10 M\n\nWe can plug these values into the equilibrium expression:\n\nKc = (0.10)^2 / (0.20 * (0.15)^3)\n\nKc = 0.01 / (0.20 * 0.003375)\n\nKc = 0.01 / 0.000675\n\nKc ≈ 14.81\n\nSo, the equilibrium constant (Kc) for the reaction between nitrogen gas and hydrogen gas to form ammonia gas at 298 K is approximately 14.81."
+}

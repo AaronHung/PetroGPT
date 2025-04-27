@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Functional groups and their reactions",
+    "message_1": "Identify the functional groups present in the following compound and predict the products of its reaction with hydrochloric acid: \n\nC6H5CH2CH2OH",
+    "message_2": "The compound C6H5CH2CH2OH is known as phenethyl alcohol. It contains the following functional groups:\n\n1. Aromatic ring (Phenyl group): C6H5\n2. Aliphatic chain: CH2CH2\n3. Alcohol group: OH\n\nWhen phenethyl alcohol reacts with hydrochloric acid (HCl), the alcohol group (-OH) will be protonated, and a substitution reaction will occur, replacing the -OH group with a -Cl group. The product of this reaction will be phenethyl chloride (C6H5CH2CH2Cl) and water (H2O).\n\nReaction: C6H5CH2CH2OH + HCl → C6H5CH2CH2Cl + H2O"
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Thermodynamics of chemical reactions",
+    "message_1": "What is the standard enthalpy change of combustion of methane gas (CH4) at 298K?",
+    "message_2": "The standard enthalpy change of combustion (ΔHc°) of a substance is the enthalpy change when 1 mole of the substance is completely burned in oxygen under standard conditions (298 K and 1 atm pressure).\n\nFor methane (CH4), the balanced combustion reaction is:\n\nCH4(g) + 2 O2(g) → CO2(g) + 2 H2O(l)\n\nThe standard enthalpy change of combustion for methane can be determined using the standard enthalpies of formation (ΔHf°) for the products and reactants:\n\nΔHc° = [Σ ΔHf°(products) - Σ ΔHf°(reactants)]\n\nThe standard enthalpies of formation for the substances involved in the reaction are:\n\nΔHf°(CH4) = -74.8 kJ/mol\nΔHf°(O2) = 0 kJ/mol (since O2 is in its standard state)\nΔHf°(CO2) = -393.5 kJ/mol\nΔHf°(H2O) = -285.8 kJ/mol\n\nNow, we can calculate the standard enthalpy change of combustion for methane:\n\nΔHc° = [1 × (-393.5) + 2 × (-285.8)] - [1 × (-74.8) + 2 × 0]\nΔHc° = (-393.5 - 571.6) - (-74.8)\nΔHc° = -965.1 + 74.8\nΔHc° = -890.3 kJ/mol\n\nSo, the standard enthalpy change of combustion of methane gas (CH4) at 298 K is approximately -890.3 kJ/mol."
+}

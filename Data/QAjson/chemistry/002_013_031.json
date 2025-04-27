@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Determining the hybridization of inorganic compounds",
+    "message_1": "What is the hybridization of nitrogen in the compound NH3?",
+    "message_2": "In the compound NH3 (ammonia), the nitrogen atom is sp3 hybridized. \n\nHere's the explanation:\nNitrogen has 5 valence electrons. In NH3, nitrogen forms three sigma bonds with three hydrogen atoms. Additionally, there is one lone pair of electrons on the nitrogen atom. In total, there are four electron groups (3 single bonds and 1 lone pair) around the nitrogen atom. According to the VSEPR theory, these four electron groups will arrange themselves in a tetrahedral geometry to minimize electron-electron repulsion. \n\nTo accommodate this tetrahedral arrangement, the nitrogen atom undergoes hybridization, which involves the mixing of one 2s orbital and three 2p orbitals to form four sp3 hybrid orbitals. These sp3 hybrid orbitals are then used to form three sigma bonds with hydrogen atoms and to accommodate the lone pair of electrons."
+}

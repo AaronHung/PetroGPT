@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Isomerism in organic compounds",
+    "message_1": "Consider two organic compounds with the molecular formula C5H10, one of which is a cyclic alkene and the other one is an acyclic alkene. Both of them exhibit positional isomerism as well. Identify the two compounds and draw their structural formulas.",
+    "message_2": "The two organic compounds with the molecular formula C5H10 are cyclopentene (cyclic alkene) and 2-pentene (acyclic alkene). Both of these compounds exhibit positional isomerism.\n\n1. Cyclopentene:\nCyclopentene is a cyclic alkene with a five-membered ring and one double bond. Its structural formula is as follows:\n\n   H H H\n    | | |\nH-C-C=C-C-H\n    | |\n    H H\n\n2. 2-Pentene:\n2-Pentene is an acyclic alkene with a carbon chain of five carbons and one double bond between the second and third carbons. Its structural formula is as follows:\n\nH H H H H\n | | | | |\nH-C-C=C-C-C-H\n | | | | |\n H H H H H\n\nThese are the two organic compounds with the molecular formula C5H10 that exhibit positional isomerism."
+}

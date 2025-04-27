@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Alkanes and cycloalkanes",
+    "message_1": "How many different isomers can be obtained from hexane (C6H14)? Provide the structural formula of each isomer.",
+    "message_2": "Hexane (C6H14) can have a total of 5 different isomers. Here are the structural formulas of each isomer:\n\n1. n-Hexane (normal hexane):\n   CH3-CH2-CH2-CH2-CH2-CH3\n\n2. 2-Methylpentane (isohexane):\n   CH3-CH(CH3)-CH2-CH2-CH3\n\n3. 3-Methylpentane:\n   CH3-CH2-CH(CH3)-CH2-CH3\n\n4. 2,2-Dimethylbutane:\n   CH3-C(CH3)2-CH2-CH3\n\n5. 2,3-Dimethylbutane:\n   CH3-CH(CH3)-CH(CH3)-CH3\n\nThese are all the possible isomers of hexane."
+}

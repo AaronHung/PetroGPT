@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the molar mass of inorganic compounds",
+    "message_1": "What is the molar mass of magnesium sulfate (MgSO4)?",
+    "message_2": "The molar mass of magnesium sulfate (MgSO4) can be calculated by adding the molar masses of its constituent elements:\n\n- Magnesium (Mg): 24.305 g/mol\n- Sulfur (S): 32.07 g/mol\n- Oxygen (O): 16.00 g/mol\n\nSince there is one magnesium atom, one sulfur atom, and four oxygen atoms in MgSO4, the molar mass can be calculated as follows:\n\nMolar mass of MgSO4 = (1 × 24.305) + (1 × 32.07) + (4 × 16.00)\nMolar mass of MgSO4 = 24.305 + 32.07 + 64.00\nMolar mass of MgSO4 = 120.375 g/mol\n\nSo, the molar mass of magnesium sulfate (MgSO4) is approximately 120.375 g/mol."
+}

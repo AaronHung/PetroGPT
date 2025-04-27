@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Nuclear magnetic resonance spectroscopy (MRS)",
+    "message_1": "What is the chemical structure of a compound with the chemical formula C6H12O6, determined by Nuclear Magnetic Resonance Spectroscopy (MRS)?",
+    "message_2": "C6H12O6 is the molecular formula for glucose, a common monosaccharide. The chemical structure of glucose can be determined using Nuclear Magnetic Resonance Spectroscopy (NMR). \n\nThe structure of glucose is as follows:\n\n       HOCH2\n         |\n         C\n         |\nHO-C-H   C-OH\n   |     |\n   C-OH  C-OH\n   |     |\n   C-OH  C-OH\n   |     |\n   CH2OH  H\n\nThis is the structure of D-glucose in its linear form. In solution, glucose predominantly exists in its cyclic form, either as α-D-glucopyranose or β-D-glucopyranose. The cyclic form is formed by the reaction between the aldehyde group (C=O) at the first carbon and the hydroxyl group (OH) at the fifth carbon, forming a hemiacetal linkage and a six-membered ring structure."
+}

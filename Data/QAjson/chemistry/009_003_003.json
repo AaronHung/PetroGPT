@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Nuclear fission reactions",
+    "message_1": "What is the energy released when a Uranium-235 nucleus undergoes fission and splits into two smaller fragments?",
+    "message_2": "The energy released during the fission of a Uranium-235 nucleus can vary depending on the specific fission products formed. However, on average, the fission of one U-235 nucleus releases approximately 200 MeV (million electron volts) of energy. This energy is released in the form of kinetic energy of the fission fragments, kinetic energy of the emitted neutrons, and gamma radiation.\n\nTo convert this energy to more common units, such as joules, we can use the following conversion factor:\n\n1 eV = 1.602 x 10^(-19) J\n\nSo, the energy released in joules is:\n\n200 MeV * (10^6 eV/MeV) * (1.602 x 10^(-19) J/eV) ≈ 3.204 x 10^(-11) J\n\nTherefore, the energy released during the fission of a single Uranium-235 nucleus is approximately 3.204 x 10^(-11) joules."
+}

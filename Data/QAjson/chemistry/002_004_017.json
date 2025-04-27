@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the pH of inorganic acid-base reactions",
+    "message_1": "What is the pH of a solution with 0.1 M HNO3 (nitric acid)?",
+    "message_2": "To calculate the pH of a solution with 0.1 M HNO3, we need to know the concentration of hydrogen ions (H+) in the solution. Nitric acid (HNO3) is a strong acid, which means it dissociates completely in water to form H+ ions and NO3- ions. \n\nFor every mole of HNO3, one mole of H+ ions is produced. So, the concentration of H+ ions in the solution is equal to the concentration of HNO3, which is 0.1 M.\n\nNow, we can use the pH formula:\n\npH = -log10[H+]\n\nWhere [H+] is the concentration of hydrogen ions in the solution.\n\npH = -log10(0.1)\n\npH = -(-1) = 1\n\nThe pH of the solution with 0.1 M HNO3 is 1."
+}

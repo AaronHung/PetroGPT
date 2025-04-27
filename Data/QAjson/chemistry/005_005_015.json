@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Biochemistry",
+    "sub_topic": "Nucleic acid structure and function",
+    "message_1": "What is the specific base pairing rule that determines the sequence of a complementary strand of DNA from a given DNA strand, and how does it relate to the specific hydrogen bonds formed between the base pairs?",
+    "message_2": "The specific base pairing rule that determines the sequence of a complementary strand of DNA from a given DNA strand is known as Chargaff's rule or complementary base pairing. According to this rule, in a DNA molecule, the amount of adenine (A) always pairs with thymine (T), and the amount of cytosine (C) always pairs with guanine (G). This is due to the specific hydrogen bonding between these bases.\n\nThe hydrogen bonds formed between the base pairs are as follows:\n\n1. Adenine (A) forms two hydrogen bonds with Thymine (T).\n2. Cytosine (C) forms three hydrogen bonds with Guanine (G).\n\nThese specific hydrogen bonds provide stability to the DNA double helix structure and ensure accurate replication and transcription processes. When synthesizing a complementary strand of DNA from a given DNA strand, the nucleotides on the new strand will follow the base pairing rule: A pairs with T, and C pairs with G. For example, if the original DNA strand has the sequence 5'-ATCG-3', the complementary strand will have the sequence 5'-TAGC-3'."
+}

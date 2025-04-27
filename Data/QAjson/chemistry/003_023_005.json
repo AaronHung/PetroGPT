@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Thermochemistry and calorimetry",
+    "message_1": "What is the change in enthalpy (ΔH) in kJ/mol for the combustion of 0.500 mol of methane (CH4) if the standard enthalpy of combustion, ΔH°comb, is -890 kJ/mol?",
+    "message_2": "To find the change in enthalpy (ΔH) for the combustion of 0.500 mol of methane (CH4), you can use the following equation:\n\nΔH = n × ΔH°comb\n\nwhere n is the number of moles of methane and ΔH°comb is the standard enthalpy of combustion.\n\nGiven:\nn = 0.500 mol\nΔH°comb = -890 kJ/mol\n\nNow, plug in the values:\n\nΔH = (0.500 mol) × (-890 kJ/mol)\n\nΔH = -445 kJ\n\nThe change in enthalpy (ΔH) for the combustion of 0.500 mol of methane (CH4) is -445 kJ."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Electrophilic addition reactions",
+    "message_1": "What is the major product obtained when 1,3-butadiene undergoes electrophilic addition reaction with hydrogen chloride?",
+    "message_2": "When 1,3-butadiene undergoes electrophilic addition reaction with hydrogen chloride (HCl), the major product formed is 3-chloro-1-butene. This reaction follows the regioselectivity rule, which is explained by the resonance stabilization of the allylic carbocation intermediate. The HCl adds to the double bond, with the hydrogen attaching to the less substituted carbon (C1) and the chlorine attaching to the more substituted carbon (C2), resulting in the formation of 3-chloro-1-butene."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Electrophilic addition reactions",
+    "message_1": "Identify the product(s) formed when propene undergoes electrophilic addition with:\n(a) hydrogen bromide (HBr)\n(b) water (H2O)\n(c) hydrogen cyanide (HCN)",
+    "message_2": "When propene undergoes electrophilic addition with various reagents, the following products are formed:\n\n(a) With hydrogen bromide (HBr):\nPropene reacts with HBr in an electrophilic addition reaction to form 2-bromopropane as the major product. This occurs due to the Markovnikov's rule, which states that the hydrogen atom will add to the carbon with the greater number of hydrogen atoms already attached, while the bromine atom will add to the other carbon.\n\nReaction: CH3-CH=CH2 + HBr → CH3-CHBr-CH3 (2-bromopropane)\n\n(b) With water (H2O):\nPropene reacts with water in the presence of an acid catalyst (such as sulfuric acid, H2SO4) to form 2-propanol (isopropanol) as the major product, following Markovnikov's rule.\n\nReaction: CH3-CH=CH2 + H2O → CH3-CHOH-CH3 (2-propanol or isopropanol)\n\n(c) With hydrogen cyanide (HCN):\nPropene reacts with HCN in the presence of a catalyst (such as a Lewis acid like BF3) to form 2-cyanopropane as the major product, following Markovnikov's rule.\n\nReaction: CH3-CH=CH2 + HCN → CH3-CH(CN)-CH3 (2-cyanopropane)"
+}

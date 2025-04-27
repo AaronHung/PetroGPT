@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Analytical chemistry",
+    "sub_topic": "Analysis of the composition of a sample using elemental analysis",
+    "message_1": "What is the percentage composition of nitrogen and oxygen in a given sample of sodium nitrate using elemental analysis?",
+    "message_2": "To determine the percentage composition of nitrogen and oxygen in a given sample of sodium nitrate (NaNO₃), we first need to find the molar mass of each element and the compound.\n\n1. Sodium (Na): 22.99 g/mol\n2. Nitrogen (N): 14.01 g/mol\n3. Oxygen (O): 16.00 g/mol\n\nNow, let's find the molar mass of sodium nitrate (NaNO₃):\n(1 × 22.99) + (1 × 14.01) + (3 × 16.00) = 22.99 + 14.01 + 48.00 = 85.00 g/mol\n\nNext, we'll calculate the percentage composition of nitrogen and oxygen in sodium nitrate:\n\nPercentage of Nitrogen (N):\n(14.01 g/mol N) / (85.00 g/mol NaNO₃) × 100% = 16.48%\n\nPercentage of Oxygen (O):\n(48.00 g/mol O) / (85.00 g/mol NaNO₃) × 100% = 56.47%\n\nSo, the percentage composition of nitrogen in the given sample of sodium nitrate is 16.48%, and the percentage composition of oxygen is 56.47%."
+}

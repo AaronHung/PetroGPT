@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Isomerism in organic compounds",
+    "message_1": "How many constitutional isomers can be obtained for a given molecular formula C5H12?",
+    "message_2": "For the molecular formula C5H12, there are three constitutional isomers. They are:\n\n1. n-Pentane: a straight-chain alkane with all five carbon atoms connected in a row.\n   CH3-CH2-CH2-CH2-CH3\n\n2. Isopentane (also called methylbutane): a branched-chain alkane with a methyl group (CH3) attached to the second carbon atom of a butane molecule.\n   CH3-CH(CH3)-CH2-CH3\n\n3. Neopentane (also called dimethylpropane): a branched-chain alkane with two methyl groups (CH3) attached to the central carbon atom of a propane molecule.\n   CH3-C(CH3)2-CH3"
+}

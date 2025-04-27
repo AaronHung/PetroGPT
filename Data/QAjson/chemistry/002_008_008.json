@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the percent composition of inorganic compounds",
+    "message_1": "What is the percent composition of Aluminum Nitrate (Al(NO3)3)?",
+    "message_2": "To find the percent composition of aluminum nitrate (Al(NO3)3), we first need to determine the molar mass of the compound and then calculate the percentage of each element.\n\n1. Determine the molar mass of aluminum nitrate (Al(NO3)3):\n- Aluminum (Al): 1 atom × 26.98 g/mol = 26.98 g/mol\n- Nitrogen (N): 3 (from 3 NO3 groups) × 3 atoms × 14.01 g/mol = 126.09 g/mol\n- Oxygen (O): 3 (from 3 NO3 groups) × 3 atoms × 16.00 g/mol = 144.00 g/mol\n\nTotal molar mass of Al(NO3)3 = 26.98 g/mol (Al) + 126.09 g/mol (N) + 144.00 g/mol (O) = 297.07 g/mol\n\n2. Calculate the percent composition of each element:\n- Aluminum (Al): (26.98 g/mol ÷ 297.07 g/mol) × 100% = 9.08%\n- Nitrogen (N): (126.09 g/mol ÷ 297.07 g/mol) × 100% = 42.45%\n- Oxygen (O): (144.00 g/mol ÷ 297.07 g/mol) × 100% = 48.47%\n\nThe percent composition of aluminum nitrate (Al(NO3)3) is approximately:\n- Aluminum (Al): 9.08%\n- Nitrogen (N): 42.45%\n- Oxygen (O): 48.47%"
+}

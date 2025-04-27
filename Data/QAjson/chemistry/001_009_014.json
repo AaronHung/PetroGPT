@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Ethers and epoxides",
+    "message_1": "What is the IUPAC name and the structure of the ether produced from the reaction between ethyl alcohol and methyl chloride?",
+    "message_2": "The ether produced from the reaction between ethyl alcohol (ethanol) and methyl chloride is ethyl methyl ether. The IUPAC name for this compound is methoxyethane.\n\nThe structure of methoxyethane is as follows:\n\nCH3-O-CH2-CH3"
+}

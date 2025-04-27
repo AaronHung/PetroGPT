@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Radioactive decay series",
+    "message_1": "What is the final stable product produced by the decay of Uranium-238 (238U) through its radioactive decay series?",
+    "message_2": "The final stable product produced by the decay of Uranium-238 (238U) through its radioactive decay series is Lead-206 (206Pb)."
+}

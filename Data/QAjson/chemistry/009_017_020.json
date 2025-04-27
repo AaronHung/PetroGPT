@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Positron emission tomography (PET)",
+    "message_1": "What is the half-life of fluorine-18, a common radioisotope used in Positron Emission Tomography (PET), if only 12.5% of an initial sample remains after 110 minutes?",
+    "message_2": "To solve this problem, we can use the half-life formula:\n\nN_t = N_0 * (1/2)^(t / T)\n\nwhere:\nN_t = the remaining amount of the substance at time t\nN_0 = the initial amount of the substance\nt = time elapsed\nT = half-life of the substance\n\nIn this case, we know that N_t = 0.125 * N_0 (12.5% remaining), and t = 110 minutes. We want to find the half-life, T.\n\n0.125 * N_0 = N_0 * (1/2)^(110 / T)\n\nWe can divide both sides by N_0:\n\n0.125 = (1/2)^(110 / T)\n\nNow, we can take the logarithm of both sides to solve for T:\n\nlog(0.125) = log((1/2)^(110 / T))\n\nUsing the logarithm property log(a^b) = b * log(a), we get:\n\nlog(0.125) = (110 / T) * log(1/2)\n\nNow, we can solve for T:\n\nT = (110 * log(1/2)) / log(0.125)\n\nUsing a calculator, we find:\n\nT ≈ 36.67 minutes\n\nSo, the half-life of fluorine-18 is approximately 36.67 minutes."
+}

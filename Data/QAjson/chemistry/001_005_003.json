@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Alkanes and cycloalkanes",
+    "message_1": "What is the IUPAC name of a cycloalkane compound with 8 carbon atoms in its ring?",
+    "message_2": "The IUPAC name of a cycloalkane compound with 8 carbon atoms in its ring is cyclooctane."
+}

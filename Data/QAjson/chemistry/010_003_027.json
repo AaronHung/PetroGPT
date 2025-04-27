@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the Gibbs free energy change for an electrochemical reaction",
+    "message_1": "Sure, here's a question for the student to solve:\n\nThe reduction potential of a cell containing a zinc electrode and a copper electrode is measured to be +0.76 V. Calculate the Gibbs free energy change for the reaction that occurs when 2 moles of electrons are transferred from the zinc electrode to the copper electrode.",
+    "message_2": "To calculate the Gibbs free energy change (ΔG) for the reaction, we can use the following equation:\n\nΔG = -nFE\n\nwhere:\n- n is the number of moles of electrons transferred (in this case, 2 moles)\n- F is the Faraday constant (approximately 96,485 C/mol)\n- E is the reduction potential of the cell (in this case, +0.76 V)\n\nNow, we can plug in the values into the equation:\n\nΔG = -(2 moles)(96,485 C/mol)(0.76 V)\n\nΔG = -146,337.6 J/mol\n\nSince the value is negative, this indicates that the reaction is spontaneous. The Gibbs free energy change for the reaction is -146,337.6 J/mol."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Nuclear binding energy calculations",
+    "message_1": "What is the nuclear binding energy per nucleon of an atom that has a mass number of 56 and a binding energy of 487 MeV?",
+    "message_2": "To find the nuclear binding energy per nucleon, you need to divide the total binding energy by the mass number (number of nucleons) of the atom.\n\nIn this case, the total binding energy is 487 MeV and the mass number is 56.\n\nNuclear binding energy per nucleon = Total binding energy / Mass number\n\nNuclear binding energy per nucleon = 487 MeV / 56\n\nNuclear binding energy per nucleon ≈ 8.696 MeV per nucleon"
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the geometry and polarity of inorganic molecules",
+    "message_1": "What is the molecular geometry and polarity of the compound XeF4?",
+    "message_2": "The molecular geometry of XeF4 (xenon hexafluoride) is square planar. In this structure, the central xenon (Xe) atom is surrounded by four fluorine (F) atoms in a planar arrangement, with bond angles of 90 degrees between them.\n\nAs for the polarity of XeF4, it is a nonpolar molecule. Although the Xe-F bonds are polar due to the difference in electronegativity between xenon and fluorine atoms, the overall molecular geometry causes these bond dipoles to cancel each other out, resulting in a net dipole moment of zero. This makes the XeF4 molecule nonpolar."
+}

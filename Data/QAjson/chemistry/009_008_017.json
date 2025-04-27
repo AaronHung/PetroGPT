@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Radiation detection and measurement",
+    "message_1": "What is the efficiency of a radiation detector that has an observed count rate of 500 counts per minute and is exposed to a source of 5000 decays per minute?",
+    "message_2": "The efficiency of a radiation detector is calculated by dividing the observed count rate by the source decay rate.\n\nEfficiency = (Observed count rate) / (Source decay rate)\n\nIn this case, the observed count rate is 500 counts per minute, and the source decay rate is 5000 decays per minute.\n\nEfficiency = (500 counts per minute) / (5000 decays per minute)\n\nEfficiency = 0.1 or 10%\n\nThe efficiency of the radiation detector is 10%."
+}

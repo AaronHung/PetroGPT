@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the lattice energy of inorganic compounds",
+    "message_1": "Calculate the lattice energy of MgO using Born-Haber Cycle. Given the following information: \n\n- The enthalpy change of sublimation of Mg = +1472 kJ/mol\n- The first ionization energy of Mg = +738 kJ/mol\n- The second ionization energy of Mg = +1450 kJ/mol\n- The enthalpy change of electron affinity of O = -141 kJ/mol\n- The enthalpy change of formation of MgO = -601 kJ/mol\n- Assume that all other enthalpy changes are negligible.",
+    "message_2": "To calculate the lattice energy of MgO using the Born-Haber cycle, we need to consider the following steps:\n\n1. Sublimation of Mg (s) to Mg (g): ΔH_sub = +1472 kJ/mol\n2. Ionization of Mg (g) to Mg^+ (g): ΔH_IE1 = +738 kJ/mol\n3. Ionization of Mg^+ (g) to Mg^2+ (g): ΔH_IE2 = +1450 kJ/mol\n4. Electron affinity of O (g) to O^- (g): ΔH_EA1 = -141 kJ/mol\n5. Formation of MgO (s) from Mg^2+ (g) and O^- (g): ΔH_f = -601 kJ/mol\n\nThe Born-Haber cycle states that the sum of all these enthalpy changes should be equal to the lattice energy (U) of MgO:\n\nU = ΔH_sub + ΔH_IE1 + ΔH_IE2 + ΔH_EA1 + ΔH_f\n\nSubstitute the given values:\n\nU = (+1472 kJ/mol) + (+738 kJ/mol) + (+1450 kJ/mol) + (-141 kJ/mol) + (-601 kJ/mol)\n\nU = 3919 kJ/mol - 742 kJ/mol\n\nU = 3177 kJ/mol\n\nTherefore, the lattice energy of MgO is 3177 kJ/mol."
+}

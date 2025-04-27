@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Nuclear stability and decay modes",
+    "message_1": "Which of the following isotopes would undergo beta minus decay to form stable nuclei?\n\na) Carbon-14\nb) Potassium-40\nc) Uranium-235\nd) Strontium-90",
+    "message_2": "Beta minus decay occurs when a neutron in the nucleus is converted into a proton, releasing an electron (beta particle) and an electron antineutrino. This process usually occurs in isotopes with a high neutron-to-proton ratio, as it helps to stabilize the nucleus by increasing the number of protons.\n\na) Carbon-14 undergoes beta minus decay to form stable Nitrogen-14.\nb) Potassium-40 undergoes both beta minus decay to form stable Calcium-40 and beta plus decay to form stable Argon-40.\nc) Uranium-235 undergoes alpha decay, not beta minus decay, to eventually form stable Lead-207.\nd) Strontium-90 undergoes beta minus decay to form stable Yttrium-90, which then undergoes another beta minus decay to form stable Zirconium-90.\n\nSo, the isotopes that undergo beta minus decay to form stable nuclei are Carbon-14, Potassium-40, and Strontium-90."
+}

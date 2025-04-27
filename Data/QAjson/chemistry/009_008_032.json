@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Radiation detection and measurement",
+    "message_1": "What is the minimum detectable activity of a gamma-ray detector with a 10% efficiency that counts 10 counts per minute (cpm) above background when placed near a sample giving an exposure rate of 2.5 microsieverts per hour (μSv/h)?",
+    "message_2": "To find the minimum detectable activity (MDA) of the gamma-ray detector, we need to consider the detector efficiency, the count rate, and the exposure rate. \n\nFirst, we need to convert the exposure rate from microsieverts per hour (μSv/h) to counts per minute (cpm). \n\n1 μSv/h = 0.001 mSv/h\n\n2.5 μSv/h = 0.0025 mSv/h\n\nNow, we need to find the conversion factor between mSv/h and cpm. This factor depends on the specific gamma-ray detector and the energy of the gamma rays being detected. For this problem, we will assume a conversion factor of 1000 cpm per mSv/h. This means that 1 mSv/h is equivalent to 1000 cpm.\n\n0.0025 mSv/h * 1000 cpm/mSv/h = 2.5 cpm\n\nNow that we have the exposure rate in cpm, we can find the MDA by dividing the count rate above background by the detector efficiency.\n\nMDA = (Count rate above background) / (Detector efficiency)\n\nMDA = (10 cpm) / (0.10)\n\nMDA = 100 cpm\n\nThe minimum detectable activity of the gamma-ray detector is 100 counts per minute (cpm)."
+}

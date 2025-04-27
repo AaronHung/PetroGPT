@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Alkanes and cycloalkanes",
+    "message_1": "What is the name and molecular formula of the alkane with six carbon atoms in its chain?",
+    "message_2": "The alkane with six carbon atoms in its chain is called hexane. Its molecular formula is C6H14."
+}

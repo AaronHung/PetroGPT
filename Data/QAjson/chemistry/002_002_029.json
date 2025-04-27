@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Determining oxidation states of elements in inorganic compounds",
+    "message_1": "What is the oxidation state of sulfur in the compound SOCl2?",
+    "message_2": "To determine the oxidation state of sulfur in SOCl2, we can use the oxidation state rules and the fact that the sum of oxidation states of all atoms in a neutral molecule is equal to zero.\n\n1. The oxidation state of oxygen is typically -2.\n2. The oxidation state of chlorine is typically -1.\n\nLet x be the oxidation state of sulfur. Then, the equation for the sum of oxidation states is:\n\nx + (-2) + 2*(-1) = 0\n\nSolving for x:\n\nx - 2 - 2 = 0\nx = 4\n\nSo, the oxidation state of sulfur in SOCl2 is +4."
+}

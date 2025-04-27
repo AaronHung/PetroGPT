@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Analytical chemistry",
+    "sub_topic": "Analysis of the composition of a sample using mass balance calculations",
+    "message_1": "A chemist analyzed a sample of unknown substance and found that it contains 55% carbon, 9.17% of hydrogen and the rest of the mass is oxygen. What is the percentage by mass of oxygen in the sample?",
+    "message_2": "To find the percentage by mass of oxygen in the sample, we need to subtract the percentages of carbon and hydrogen from 100%.\n\n100% - 55% (carbon) - 9.17% (hydrogen) = 35.83% (oxygen)\n\nSo, the percentage by mass of oxygen in the sample is 35.83%."
+}

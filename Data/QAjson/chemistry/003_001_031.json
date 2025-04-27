@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Thermodynamics of chemical reactions",
+    "message_1": "What is the standard enthalpy change for the combustion of methane (CH4) gas at 298 K and 1 atm?",
+    "message_2": "The standard enthalpy change for the combustion of methane (CH4) gas at 298 K and 1 atm is -890.3 kJ/mol. This value represents the amount of heat released when one mole of methane is completely combusted in excess oxygen under standard conditions."
+}

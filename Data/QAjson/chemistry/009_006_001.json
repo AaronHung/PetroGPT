@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Isotope notation and identification",
+    "message_1": "What is the isotope notation for an atom of carbon-13 and which subatomic particles are different from a typical carbon atom?",
+    "message_2": "The isotope notation for an atom of carbon-13 is 13C or alternatively, it can be written as C-13. In this notation, the number 13 represents the mass number (the sum of protons and neutrons) and the letter C represents the element, carbon.\n\nA typical carbon atom, carbon-12 (12C), has 6 protons, 6 neutrons, and 6 electrons. Carbon-13 (13C) also has 6 protons and 6 electrons, but it has 7 neutrons instead of 6. The difference between carbon-12 and carbon-13 lies in the number of neutrons in the nucleus."
+}

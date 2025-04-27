@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Functional groups and their reactions",
+    "message_1": "What is the product of the reaction between an alcohol and a carboxylic acid, and what functional group is present in this product?",
+    "message_2": "The product of the reaction between an alcohol and a carboxylic acid is an ester. The functional group present in this product is an ester functional group, which has the general structure R-COO-R', where R and R' are alkyl or aryl groups."
+}

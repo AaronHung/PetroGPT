@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the activation energy for an electrochemical reaction.",
+    "message_1": "What is the activation energy of an electrochemical reaction involving the oxidation of copper on a platinum electrode, if the reaction rate constant at 25°C is 2.5 x 10^-4 mol L^-1 s^-1 and the activation energy for the reaction is 64 kJ/mol?",
+    "message_2": "The activation energy (Ea) for the reaction is already given as 64 kJ/mol. Therefore, there is no need to calculate it. The activation energy for the electrochemical reaction involving the oxidation of copper on a platinum electrode is 64 kJ/mol."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Elimination reactions",
+    "message_1": "What is the major product obtained from the reaction between 2-bromo-2-methylbutane and alcoholic potassium hydroxide, and why?",
+    "message_2": "The major product obtained from the reaction between 2-bromo-2-methylbutane and alcoholic potassium hydroxide is 2-methyl-2-butene. This reaction is an example of an elimination reaction, specifically E2 (bimolecular elimination) reaction.\n\nIn this reaction, the alcoholic potassium hydroxide (KOH) acts as a strong base. The hydroxide ion (OH-) abstracts a proton from the carbon adjacent to the carbon bearing the bromine atom, while the bromide ion (Br-) leaves as a leaving group. This results in the formation of a double bond between the two carbons, creating an alkene.\n\nThe reason 2-methyl-2-butene is the major product is due to Zaitsev's rule, which states that in an elimination reaction, the more substituted alkene (the one with more alkyl groups attached to the double bond) will be the major product. In this case, 2-methyl-2-butene is more substituted than 1-methyl-1-butene, as it has three alkyl groups attached to the double bond, while 1-methyl-1-butene has only two. Therefore, 2-methyl-2-butene is the major product of this reaction."
+}

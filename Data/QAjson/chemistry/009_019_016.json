@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Nuclear magnetic resonance (NMR) spectroscopy",
+    "message_1": "What is the chemical structure of an unknown compound given its Nuclear Magnetic Resonance (NMR) spectroscopy data?",
+    "message_2": "As an AI language model, I cannot analyze graphical data or images. However, I can help you interpret NMR data if you provide the information in text format. Please provide the NMR data, including the type of NMR (1H, 13C, etc.), chemical shifts, splitting patterns, and any other relevant information."
+}

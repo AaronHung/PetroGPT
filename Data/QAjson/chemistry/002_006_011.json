@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the molar mass of inorganic compounds",
+    "message_1": "What is the molar mass of calcium carbonate (CaCO3)?",
+    "message_2": "To calculate the molar mass of calcium carbonate (CaCO3), we need to add the molar masses of each element present in the compound.\n\nCalcium (Ca): 1 atom × 40.08 g/mol = 40.08 g/mol\nCarbon (C): 1 atom × 12.01 g/mol = 12.01 g/mol\nOxygen (O): 3 atoms × 16.00 g/mol = 48.00 g/mol\n\nNow, add the molar masses of each element:\n\n40.08 g/mol (Ca) + 12.01 g/mol (C) + 48.00 g/mol (O) = 100.09 g/mol\n\nThe molar mass of calcium carbonate (CaCO3) is approximately 100.09 g/mol."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the boiling and melting points of inorganic compounds",
+    "message_1": "What is the boiling point of copper (II) sulfate (CuSO4) at a pressure of 1 atmosphere?",
+    "message_2": "Copper (II) sulfate (CuSO4) decomposes before reaching its boiling point. It undergoes a series of transformations when heated. At around 110°C, it loses water molecules and converts to its pentahydrate form (CuSO4·5H2O). As the temperature increases, it continues to lose water molecules and eventually turns into an anhydrous form (CuSO4) at around 650°C. At temperatures above 650°C, CuSO4 starts to decompose into copper (II) oxide (CuO) and sulfur trioxide (SO3). Therefore, it does not have a specific boiling point at 1 atmosphere."
+}

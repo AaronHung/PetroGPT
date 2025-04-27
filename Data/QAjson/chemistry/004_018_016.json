@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Analytical chemistry",
+    "sub_topic": "Analysis of the composition of a sample using mass balance calculations",
+    "message_1": "A chemistry student is given a sample of an unknown salt consisting of a mixture of two compounds. The student is asked to determine the percentage composition of each compound in the salt using mass balance calculations. The total mass of the sample is 10 grams, and after performing careful analysis, the student obtains the following data: One compound has a molar mass of 80 g/mol and comprises 60% of the total mass of the salt. The other compound has a molar mass of 120 g/mol and comprises 40% of the total mass of the salt. What are the percentage compositions of each compound in the salt?",
+    "message_2": "The problem states that the student has already determined the percentage composition of each compound in the salt. One compound comprises 60% of the total mass, and the other compound comprises 40% of the total mass. Therefore, the percentage compositions of each compound in the salt are as follows:\n\nCompound 1 (80 g/mol): 60%\nCompound 2 (120 g/mol): 40%"
+}

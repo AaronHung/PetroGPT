@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of standard electrode potentials",
+    "message_1": "Calculate the standard electrode potential for the following redox reaction: \n\nZn(s) + Cu²⁺(aq) → Zn²⁺(aq) + Cu(s)\n\nGiven that the standard electrode potential for the Zn²⁺/Zn electrode is -0.76V and for the Cu²⁺/Cu electrode is +0.34V.",
+    "message_2": "To calculate the standard electrode potential for the given redox reaction, we need to consider the reduction and oxidation half-reactions:\n\n1. Oxidation half-reaction: Zn(s) → Zn²⁺(aq) + 2e⁻ (Zn is oxidized)\nStandard electrode potential for Zn²⁺/Zn: E°(Zn) = -0.76V\n\n2. Reduction half-reaction: Cu²⁺(aq) + 2e⁻ → Cu(s) (Cu²⁺ is reduced)\nStandard electrode potential for Cu²⁺/Cu: E°(Cu) = +0.34V\n\nNow, to find the standard electrode potential for the overall redox reaction, we can use the formula:\n\nE°(cell) = E°(cathode) - E°(anode)\n\nIn this case, the Cu²⁺/Cu electrode is the cathode (reduction occurs), and the Zn²⁺/Zn electrode is the anode (oxidation occurs):\n\nE°(cell) = E°(Cu) - E°(Zn) = (+0.34V) - (-0.76V) = +0.34V + 0.76V = +1.10V\n\nSo, the standard electrode potential for the given redox reaction is +1.10V."
+}

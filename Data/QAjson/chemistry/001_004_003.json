@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Functional groups and their reactions",
+    "message_1": "What organic reaction occurs when an alcohol reacts with a carboxylic acid in the presence of a strong acid catalyst, and what product is formed as a result? Provide the balanced chemical equation for this reaction.",
+    "message_2": "When an alcohol reacts with a carboxylic acid in the presence of a strong acid catalyst, an esterification reaction occurs. The product formed as a result is an ester and water.\n\nThe balanced chemical equation for this reaction is:\n\nR-OH (alcohol) + R'-COOH (carboxylic acid) → R'-COOR (ester) + H2O (water)\n\nHere, R and R' represent alkyl or aryl groups. The strong acid catalyst, such as sulfuric acid (H2SO4), is not shown in the balanced equation, but it is essential for the reaction to proceed."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Balancing chemical equations for inorganic compounds",
+    "message_1": "Determine the balanced chemical equation for the reaction between sulfuric acid and sodium hydroxide to produce sodium sulfate and water.",
+    "message_2": "To balance the chemical equation for the reaction between sulfuric acid (H₂SO₄) and sodium hydroxide (NaOH) to produce sodium sulfate (Na₂SO₄) and water (H₂O), follow these steps:\n\n1. Write the unbalanced equation:\nH₂SO₄ + NaOH → Na₂SO₄ + H₂O\n\n2. Balance the equation by adjusting the coefficients:\nH₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O\n\nSo, the balanced chemical equation for the reaction between sulfuric acid and sodium hydroxide is:\nH₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O"
+}

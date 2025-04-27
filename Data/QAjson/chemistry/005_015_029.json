@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Biochemistry",
+    "sub_topic": "Citric acid cycle and oxidative phosphorylation",
+    "message_1": "What is the net number of ATP molecules produced per glucose molecule oxidized in the citric acid cycle and oxidative phosphorylation?",
+    "message_2": "The net number of ATP molecules produced per glucose molecule oxidized in the citric acid cycle and oxidative phosphorylation is approximately 36-38 ATP. This includes:\n\n1. Glycolysis: 2 ATP (net) and 2 NADH (which can generate 4-6 ATP in oxidative phosphorylation, depending on the shuttle system used to transport electrons into the mitochondria)\n2. Pyruvate decarboxylation: 2 NADH (generating 6 ATP in oxidative phosphorylation)\n3. Citric acid cycle: 2 ATP, 6 NADH (generating 18 ATP in oxidative phosphorylation), and 2 FADH2 (generating 4 ATP in oxidative phosphorylation)\n\nThe total ATP yield is approximately 36-38 ATP per glucose molecule, depending on the efficiency of the electron transport chain and the shuttle system used for NADH transport."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Isomerism in organic compounds",
+    "message_1": "Identify the type of isomerism exhibited by 2-pentene and 2-methylbutene and explain why they are isomers of each other?",
+    "message_2": "2-pentene and 2-methylbutene exhibit structural isomerism, also known as constitutional isomerism. This type of isomerism occurs when molecules have the same molecular formula but different arrangements of atoms in their structures.\n\nBoth 2-pentene and 2-methylbutene have the same molecular formula, C5H10, but their structures are different:\n\n1. 2-pentene has a carbon chain of five atoms with a double bond between the second and third carbons:\n   CH2=CH-CH2-CH3\n\n2. 2-methylbutene has a carbon chain of four atoms with a double bond between the second and third carbons, and a methyl group (CH3) attached to the second carbon:\n   CH3-C(CH3)=CH-CH3\n\nThese different arrangements of atoms in their structures result in different chemical and physical properties, making them isomers of each other."
+}

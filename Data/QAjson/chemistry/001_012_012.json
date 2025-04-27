@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Amines and amides",
+    "message_1": "What is the chemical equation for the reaction between an amide and an acid catalyst, and what are the products produced?",
+    "message_2": "The reaction between an amide and an acid catalyst is an acid-catalyzed hydrolysis of the amide. The general chemical equation for this reaction is:\n\nRC(O)NR'2 + H2O + H+ → RC(O)OH + HNR'2\n\nWhere R, R' represent alkyl or aryl groups.\n\nIn this reaction, the amide (RC(O)NR'2) reacts with water (H2O) in the presence of an acid catalyst (H+) to produce a carboxylic acid (RC(O)OH) and a protonated amine (HNR'2). The acid catalyst helps to facilitate the reaction by protonating the carbonyl oxygen of the amide, making it more susceptible to nucleophilic attack by water."
+}

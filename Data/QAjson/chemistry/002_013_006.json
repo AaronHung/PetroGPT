@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Determining the hybridization of inorganic compounds",
+    "message_1": "What is the hybridization of the central atom in the following inorganic compound: NH4+ ?",
+    "message_2": "In the NH4+ ion, the central atom is nitrogen (N). To determine the hybridization of nitrogen, we need to look at its electron configuration and the number of electron domains around it.\n\nNitrogen has 5 valence electrons. In NH4+, it forms four single bonds with four hydrogen atoms. This means that there are four electron domains (bonding pairs) around the nitrogen atom.\n\nAccording to the VSEPR theory, the electron domain geometry around the nitrogen atom is tetrahedral. To achieve this geometry, the nitrogen atom undergoes sp3 hybridization, which means it uses one s orbital and three p orbitals to form four sp3 hybrid orbitals. These hybrid orbitals then form sigma bonds with the hydrogen atoms.\n\nSo, the hybridization of the central atom (nitrogen) in the NH4+ ion is sp3."
+}

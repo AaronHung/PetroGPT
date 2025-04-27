@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the equilibrium constant for an electrochemical reaction",
+    "message_1": "What is the equilibrium constant (K) for the electrochemical cell reaction at 25°C when the cell potential is measured as -0.32 volts and the stoichiometric coefficients are: Cu (s) + 2 Ag⁺ (aq) → Cu²⁺ (aq) + 2 Ag (s)?",
+    "message_2": "To find the equilibrium constant (K) for the given electrochemical cell reaction, we can use the Nernst equation. The Nernst equation relates the cell potential (E) to the equilibrium constant (K) as follows:\n\nE = - (RT/nF) * ln(K)\n\nwhere:\nE = cell potential (-0.32 volts)\nR = gas constant (8.314 J/mol·K)\nT = temperature (25°C = 298.15 K)\nn = number of electrons transferred (2, as 2 Ag⁺ ions are reduced)\nF = Faraday's constant (96,485 C/mol)\n\nFirst, we need to rearrange the Nernst equation to solve for K:\n\nln(K) = - (nFE/RT)\nK = e^(-nFE/RT)\n\nNow, we can plug in the given values and solve for K:\n\nK = e^(-2 * 96,485 * -0.32 / (8.314 * 298.15))\nK ≈ 1.69 × 10^10\n\nSo, the equilibrium constant (K) for the given electrochemical cell reaction at 25°C is approximately 1.69 × 10^10."
+}

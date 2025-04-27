@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Analytical chemistry",
+    "sub_topic": "Identification of the structure of a compound using nuclear magnetic resonance spectroscopy",
+    "message_1": "What is the structure of the compound based on the given NMR spectrum? Spectral data includes chemical shifts, coupling constants, and integration values.",
+    "message_2": "To provide an accurate structure for the compound, I would need the specific NMR spectral data, including the chemical shifts (in ppm), coupling constants (in Hz), and integration values. Additionally, it would be helpful to know if the NMR spectrum is a 1H NMR or a 13C NMR, as well as any other relevant information about the compound, such as its molecular formula or functional groups.\n\nPlease provide the necessary spectral data, and I will be happy to help you determine the structure of the compound."
+}

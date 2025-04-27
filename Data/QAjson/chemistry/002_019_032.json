@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the boiling and melting points of inorganic compounds",
+    "message_1": "What is the boiling point of sodium chloride (NaCl) at standard atmospheric pressure (1 atm)? Show your complete calculation.",
+    "message_2": "Sodium chloride (NaCl) is an ionic compound, and its boiling point is significantly higher than that of molecular compounds due to the strong electrostatic forces between its positive (Na+) and negative (Cl-) ions. \n\nThe boiling point of sodium chloride is 1,413°C (2,575°F) at standard atmospheric pressure (1 atm). \n\nAs a chemist, I don't need to perform any calculations to determine the boiling point of a well-known compound like NaCl. The boiling point is an experimentally determined value and can be found in reference materials such as the CRC Handbook of Chemistry and Physics or other reputable sources."
+}

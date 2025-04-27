@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Calculating the molar mass of inorganic compounds",
+    "message_1": "Calculate the molar mass of ammonium sulfate ((NH4)2SO4), given that the atomic masses of nitrogen, hydrogen, sulfur, and oxygen are 14.01 g/mol, 1.01 g/mol, 32.06 g/mol, and 16.00 g/mol, respectively.",
+    "message_2": "To calculate the molar mass of ammonium sulfate ((NH4)2SO4), we need to find the molar mass of each element in the compound and then add them together.\n\nAmmonium sulfate contains 2 nitrogen atoms, 8 hydrogen atoms, 1 sulfur atom, and 4 oxygen atoms.\n\nMolar mass of nitrogen (N) = 14.01 g/mol\nMolar mass of hydrogen (H) = 1.01 g/mol\nMolar mass of sulfur (S) = 32.06 g/mol\nMolar mass of oxygen (O) = 16.00 g/mol\n\nNow, we will calculate the molar mass of each element in the compound:\n\nMolar mass of 2 nitrogen atoms (2N) = 2 × 14.01 g/mol = 28.02 g/mol\nMolar mass of 8 hydrogen atoms (8H) = 8 × 1.01 g/mol = 8.08 g/mol\nMolar mass of 1 sulfur atom (S) = 32.06 g/mol\nMolar mass of 4 oxygen atoms (4O) = 4 × 16.00 g/mol = 64.00 g/mol\n\nFinally, we will add the molar masses of all the elements to find the molar mass of ammonium sulfate:\n\nMolar mass of (NH4)2SO4 = 28.02 g/mol (N) + 8.08 g/mol (H) + 32.06 g/mol (S) + 64.00 g/mol (O) = 132.16 g/mol\n\nThe molar mass of ammonium sulfate ((NH4)2SO4) is 132.16 g/mol."
+}

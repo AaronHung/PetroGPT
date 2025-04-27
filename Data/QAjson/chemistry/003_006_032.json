@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Spectroscopy and molecular vibrations",
+    "message_1": "What is the wavenumber (cm^-1) of the fundamental vibrational mode of carbon dioxide using Fourier transform infrared spectroscopy?",
+    "message_2": "To calculate the wavenumber of the fundamental vibrational mode of carbon dioxide (CO2) using Fourier transform infrared spectroscopy, we need to consider the symmetric stretching mode (v1), the bending mode (v2), and the asymmetric stretching mode (v3). However, the symmetric stretching mode (v1) is not IR active, so we will focus on the bending mode (v2) and the asymmetric stretching mode (v3).\n\nThe wavenumbers for the bending mode (v2) and the asymmetric stretching mode (v3) are approximately 667 cm^-1 and 2349 cm^-1, respectively. These values are obtained from experimental data and can vary slightly depending on the sample and instrument used.\n\nSo, the fundamental vibrational modes of carbon dioxide using Fourier transform infrared spectroscopy are approximately:\n\n- Bending mode (v2): 667 cm^-1\n- Asymmetric stretching mode (v3): 2349 cm^-1"
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Radiation therapy and dosimetry",
+    "message_1": "What is the effective dose of a patient who received a radiation therapy of 70 Gray for their cancer treatment? Assume the tissue weighting factors for the relevant organs are as follows: 0.12 for the lungs, 0.05 for the liver, 0.12 for the stomach, 0.15 for the colon, and 0.05 for the gonads.",
+    "message_2": "To calculate the effective dose, we need to multiply the absorbed dose (70 Gray) by the tissue weighting factors for each organ and then sum the results.\n\nEffective dose = (70 Gray * 0.12 for lungs) + (70 Gray * 0.05 for liver) + (70 Gray * 0.12 for stomach) + (70 Gray * 0.15 for colon) + (70 Gray * 0.05 for gonads)\n\nEffective dose = (8.4 Gray for lungs) + (3.5 Gray for liver) + (8.4 Gray for stomach) + (10.5 Gray for colon) + (3.5 Gray for gonads)\n\nEffective dose = 34.3 Gray\n\nThe effective dose for the patient who received a radiation therapy of 70 Gray is 34.3 Gray."
+}

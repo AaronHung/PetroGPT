@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Analytical chemistry",
+    "sub_topic": "Quantification of the amount of a substance in a sample using gravimetric analysis",
+    "message_1": "What is the mass of pure calcium carbonate in a sample weighing 2.50 g, given that the sample contains 80.0% calcium carbonate and 20.0% impurities?",
+    "message_2": "To find the mass of pure calcium carbonate in the sample, you can use the percentage given:\n\nMass of pure calcium carbonate = (Percentage of calcium carbonate / 100) * Total mass of the sample\n\nMass of pure calcium carbonate = (80.0 / 100) * 2.50 g\n\nMass of pure calcium carbonate = 0.8 * 2.50 g\n\nMass of pure calcium carbonate = 2.00 g\n\nSo, the mass of pure calcium carbonate in the sample is 2.00 g."
+}

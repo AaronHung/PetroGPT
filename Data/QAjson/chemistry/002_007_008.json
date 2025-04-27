@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the products of inorganic reactions",
+    "message_1": "Which products will form when sodium chloride (NaCl) is mixed with silver nitrate (AgNO3)? Write a balanced chemical equation for the reaction that occurs and identify the type of reaction.",
+    "message_2": "When sodium chloride (NaCl) is mixed with silver nitrate (AgNO3), a double displacement reaction occurs, resulting in the formation of silver chloride (AgCl) and sodium nitrate (NaNO3). The balanced chemical equation for this reaction is:\n\nNaCl (aq) + AgNO3 (aq) → AgCl (s) + NaNO3 (aq)\n\nThis is a double displacement (also known as a metathesis) reaction, where the cations and anions of the two reactants switch places to form two new products."
+}

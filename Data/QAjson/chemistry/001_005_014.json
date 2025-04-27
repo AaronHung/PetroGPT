@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Alkanes and cycloalkanes",
+    "message_1": "What is the condensed structural formula for 3,3-dimethylhexane?",
+    "message_2": "The condensed structural formula for 3,3-dimethylhexane is CH3CH2C(CH3)2CH2CH2CH3."
+}

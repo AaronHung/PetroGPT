@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of standard electrode potentials",
+    "message_1": "What is the standard electrode potential of the following reaction using a standard hydrogen electrode as the reference electrode? \n\nAg+ (aq) + e- → Ag (s) \n\n(Hint: Look up the standard electrode potentials for each half reaction and use the formula Ecell = Ecathode - Eanode)",
+    "message_2": "To find the standard electrode potential of the given reaction, we need to look up the standard electrode potentials for each half-reaction involved. In this case, we have the reduction of silver ions (Ag+) to solid silver (Ag) and the standard hydrogen electrode (SHE) as the reference electrode.\n\nThe standard electrode potential for the reduction of silver ions to solid silver is:\n\nAg+ (aq) + e- → Ag (s)  E° = +0.80 V\n\nThe standard hydrogen electrode has a potential of 0 V by definition:\n\n2H+ (aq) + 2e- → H2 (g)  E° = 0.00 V\n\nNow, we can use the formula Ecell = Ecathode - Eanode to find the standard electrode potential of the given reaction:\n\nEcell = E(Ag+/Ag) - E(SHE)\n\nEcell = (+0.80 V) - (0.00 V)\n\nEcell = +0.80 V\n\nSo, the standard electrode potential of the given reaction using a standard hydrogen electrode as the reference electrode is +0.80 V."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Alkenes and alkynes",
+    "message_1": "What is the product obtained when 2-methyl-2-butene reacts with HBr in the presence of peroxide?",
+    "message_2": "When 2-methyl-2-butene reacts with HBr in the presence of peroxide, the reaction follows an anti-Markovnikov addition due to the radical mechanism involved. The product obtained is 1-bromo-2-methylbutane."
+}

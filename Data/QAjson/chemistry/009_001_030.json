@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Half-life calculations",
+    "message_1": "A sample of uranium-238 has an initial activity level of 5.0 becquerels. If the half-life of uranium-238 is 4.5 billion years, how many becquerels of activity will remain after 9.0 billion years?",
+    "message_2": "To solve this problem, we can use the radioactive decay formula:\n\nA = A₀ * (1/2)^(t/T)\n\nwhere:\nA = the final activity level (in becquerels)\nA₀ = the initial activity level (in becquerels)\nt = the time elapsed (in years)\nT = the half-life of the substance (in years)\n\nGiven:\nA₀ = 5.0 becquerels\nt = 9.0 billion years\nT = 4.5 billion years\n\nWe can now plug these values into the formula:\n\nA = 5.0 * (1/2)^(9.0 / 4.5)\n\nA = 5.0 * (1/2)^2\n\nA = 5.0 * (1/4)\n\nA = 5.0 * 0.25\n\nA = 1.25 becquerels\n\nAfter 9.0 billion years, the activity level of the uranium-238 sample will be 1.25 becquerels."
+}

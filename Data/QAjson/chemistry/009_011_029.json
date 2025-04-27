@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Radioactive dating methods",
+    "message_1": "What is the age of a fossil that has undergone 5 half-lives of radioactive decay if the original quantity of the radioactive isotope was 80 grams and the half-life of the isotope is 100,000 years?",
+    "message_2": "To find the age of the fossil, we can use the formula:\n\nAge = number of half-lives × half-life of the isotope\n\nGiven that the fossil has undergone 5 half-lives and the half-life of the isotope is 100,000 years, we can calculate the age as follows:\n\nAge = 5 × 100,000 years\nAge = 500,000 years\n\nThe age of the fossil is 500,000 years."
+}

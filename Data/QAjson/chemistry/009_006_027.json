@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Isotope notation and identification",
+    "message_1": "What is the nuclear notation of a carbon atom with 8 neutrons and identify it by its atomic symbol?",
+    "message_2": "A carbon atom has 6 protons, and in this case, it has 8 neutrons. The nuclear notation of this carbon isotope is written as:\n\n¹⁴C\n\nHere, the superscript 14 (6 protons + 8 neutrons) represents the mass number (total number of protons and neutrons), and C is the atomic symbol for carbon."
+}

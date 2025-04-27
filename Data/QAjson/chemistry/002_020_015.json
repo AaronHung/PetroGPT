@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Identifying the type of inorganic solid (ionic, covalent, metallic)",
+    "message_1": "What is the type of inorganic solid formed by the combination of a metal and a non-metal? Provide an example of this type of solid and explain why it belongs to this category.",
+    "message_2": "The type of inorganic solid formed by the combination of a metal and a non-metal is called an ionic solid. Ionic solids consist of positively charged metal cations and negatively charged non-metal anions held together by strong electrostatic forces, also known as ionic bonds.\n\nAn example of an ionic solid is sodium chloride (NaCl), commonly known as table salt. In this compound, sodium (Na) is a metal that loses one electron to become a positively charged cation (Na+), while chlorine (Cl) is a non-metal that gains one electron to become a negatively charged anion (Cl-). The electrostatic attraction between the Na+ and Cl- ions forms an ionic bond, resulting in the formation of the ionic solid NaCl.\n\nSodium chloride belongs to the category of ionic solids because it is composed of a metal (sodium) and a non-metal (chlorine) that are bonded together through ionic bonds, forming a crystalline lattice structure with alternating positive and negative ions."
+}

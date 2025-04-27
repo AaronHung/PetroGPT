@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Rearrangement reactions",
+    "message_1": "Identify the major product(s) of the following rearrangement reaction:\n\n![Rearrangement Reaction](https://i.imgur.com/1q3hzf6.png)\n\nAssume that the reaction takes place under typical conditions for similar reactions, and that all the necessary reagents are present in excess.",
+    "message_2": "The given reaction is a Claisen rearrangement, which is a [3,3]-sigmatropic rearrangement involving an allyl vinyl ether. In this case, the allyl vinyl ether is formed by the reaction of the phenol with the allyl alcohol in the presence of a Lewis acid catalyst.\n\nThe Claisen rearrangement proceeds through a concerted mechanism, and the major product is formed by the migration of the allyl group to the more substituted carbon of the vinyl ether, leading to the formation of a more stable carbocation.\n\nThe major product of this Claisen rearrangement reaction is:\n\n![Major Product](https://i.imgur.com/5OJH5G0.png)"
+}

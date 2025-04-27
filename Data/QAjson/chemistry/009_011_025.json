@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Radioactive dating methods",
+    "message_1": "What is the age of a rock that contains 500 grams of a radioactive isotope with a half-life of 1 million years, if the rock currently contains 62.5 grams of the isotope?",
+    "message_2": "To determine the age of the rock, we can use the formula for radioactive decay:\n\nN = N0 * (1/2)^(t/T)\n\nwhere N is the current amount of the radioactive isotope (62.5 grams), N0 is the initial amount of the isotope (500 grams), t is the age of the rock (which we want to find), and T is the half-life of the isotope (1 million years).\n\nRearranging the formula to solve for t:\n\nt = T * (log(N/N0) / log(1/2))\n\nPlugging in the values:\n\nt = 1,000,000 * (log(62.5/500) / log(1/2))\n\nt ≈ 2,000,000 years\n\nThe age of the rock is approximately 2 million years."
+}

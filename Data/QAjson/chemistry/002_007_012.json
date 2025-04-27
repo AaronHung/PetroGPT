@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the products of inorganic reactions",
+    "message_1": "A chemistry student needs to predict the products of a reaction between aluminum and sulfuric acid. What chemical equation represents this reaction and what are the names and states of the products formed?",
+    "message_2": "The reaction between aluminum (Al) and sulfuric acid (H₂SO₄) can be represented by the following balanced chemical equation:\n\n2Al (s) + 3H₂SO₄ (aq) → Al₂(SO₄)₃ (aq) + 3H₂ (g)\n\nIn this reaction, solid aluminum (Al) reacts with aqueous sulfuric acid (H₂SO₄) to form aqueous aluminum sulfate (Al₂(SO₄)₃) and hydrogen gas (H₂)."
+}

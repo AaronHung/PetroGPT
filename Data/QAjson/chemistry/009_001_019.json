@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Half-life calculations",
+    "message_1": "What is the remaining amount of a radioactive material initially starting with 100 grams of Carbon-14 after 5,730 years, given the half-life of Carbon-14 is 5,730 years?",
+    "message_2": "To calculate the remaining amount of a radioactive material after a certain period of time, we can use the formula:\n\nRemaining amount = Initial amount * (1/2)^(time elapsed / half-life)\n\nIn this case, the initial amount is 100 grams, the time elapsed is 5,730 years, and the half-life of Carbon-14 is 5,730 years. Plugging these values into the formula, we get:\n\nRemaining amount = 100 * (1/2)^(5730 / 5730)\nRemaining amount = 100 * (1/2)^1\nRemaining amount = 100 * 0.5\nRemaining amount = 50 grams\n\nSo, after 5,730 years, there will be 50 grams of Carbon-14 remaining."
+}

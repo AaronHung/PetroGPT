@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the Faraday constant",
+    "message_1": "What is the mass of silver deposited on a cathode when a current of 2.5 A is passed for 4 hours through a solution of silver nitrate? (Given that the atomic weight of silver is 107.9 g/mol)",
+    "message_2": "To find the mass of silver deposited on the cathode, we will use Faraday's laws of electrolysis. First, we need to find the total charge passed through the solution.\n\nCharge (Q) = Current (I) × Time (t)\nwhere\nCurrent (I) = 2.5 A\nTime (t) = 4 hours = 4 × 3600 seconds (since 1 hour = 3600 seconds)\n\nQ = 2.5 A × (4 × 3600 s)\nQ = 2.5 A × 14400 s\nQ = 36000 Coulombs\n\nNow, we will use Faraday's constant (F) which is approximately 96485 Coulombs/mol to find the number of moles of electrons (n) involved in the reaction.\n\nn = Q / F\nn = 36000 C / 96485 C/mol\nn = 0.373 mol of electrons\n\nThe reaction for the deposition of silver from silver nitrate is:\nAg⁺ + e⁻ → Ag\n\nFrom the stoichiometry of the reaction, 1 mol of electrons will deposit 1 mol of silver. Therefore, 0.373 mol of electrons will deposit 0.373 mol of silver.\n\nNow, we can find the mass of silver deposited (m) using the atomic weight of silver (107.9 g/mol).\n\nm = moles of silver × atomic weight of silver\nm = 0.373 mol × 107.9 g/mol\nm = 40.24 g\n\nSo, the mass of silver deposited on the cathode is approximately 40.24 grams."
+}

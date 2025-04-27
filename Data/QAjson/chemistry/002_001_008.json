@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Balancing chemical equations for inorganic compounds",
+    "message_1": "Balance the following chemical equation for the reaction between iron (II) sulfide and hydrochloric acid:\n\nFeS + HCl → FeCl2 + H2S",
+    "message_2": "To balance the chemical equation, we need to ensure that the number of atoms of each element on both sides of the equation is equal. \n\nFeS + HCl → FeCl2 + H2S\n\nFirst, balance the Fe (iron) atoms:\n\n1 Fe on the left side and 1 Fe on the right side, so it's already balanced.\n\nNext, balance the S (sulfur) atoms:\n\n1 S on the left side and 1 S on the right side, so it's already balanced.\n\nFinally, balance the H (hydrogen) and Cl (chlorine) atoms:\n\nThere are 1 H and 1 Cl on the left side, but 2 H and 2 Cl on the right side. To balance this, we need to add a coefficient of 2 in front of HCl:\n\nFeS + 2 HCl → FeCl2 + H2S\n\nNow the equation is balanced:\n\n1 Fe, 1 S, 2 H, and 2 Cl on both sides of the equation."
+}

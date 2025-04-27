@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Determining the conductivity of inorganic compounds",
+    "message_1": "What is the electrical conductivity (in S/cm) of a 0.1 M solution of potassium chloride (KCl) at 25 degrees Celsius?",
+    "message_2": "To calculate the electrical conductivity of a 0.1 M KCl solution at 25°C, we need to consider the molar conductivity of KCl and the concentration of the solution.\n\nThe molar conductivity of KCl at 25°C is approximately 149.9 S cm²/mol. We can use the following equation to calculate the electrical conductivity:\n\nElectrical conductivity (κ) = Molar conductivity (Λ) × Concentration (c)\n\nκ = 149.9 S cm²/mol × 0.1 mol/L\n\nκ = 14.99 S/m\n\nSo, the electrical conductivity of a 0.1 M KCl solution at 25°C is approximately 14.99 S/m or 14.99 S/cm."
+}

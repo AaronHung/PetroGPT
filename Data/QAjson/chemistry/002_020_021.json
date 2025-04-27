@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Identifying the type of inorganic solid (ionic, covalent, metallic)",
+    "message_1": "Which type of inorganic solid is formed when atoms of metal are held together by a sea of electrons?",
+    "message_2": "When atoms of metal are held together by a sea of electrons, the type of inorganic solid formed is called a metallic solid or a metal lattice. This structure is characterized by the presence of positively charged metal ions surrounded by a delocalized cloud of electrons, which allows for good electrical and thermal conductivity."
+}

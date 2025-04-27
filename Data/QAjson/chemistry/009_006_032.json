@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Isotope notation and identification",
+    "message_1": "Which of the following isotopes has the greatest number of neutrons?\nA) Carbon-12\nB) Carbon-13\nC) Carbon-14\nD) all have same number of neutrons",
+    "message_2": "C) Carbon-14\n\nCarbon-14 has the greatest number of neutrons. To determine the number of neutrons in an isotope, you subtract the atomic number (number of protons) from the mass number (total number of protons and neutrons). Carbon has an atomic number of 6.\n\nA) Carbon-12: 12 - 6 = 6 neutrons\nB) Carbon-13: 13 - 6 = 7 neutrons\nC) Carbon-14: 14 - 6 = 8 neutrons\n\nCarbon-14 has 8 neutrons, which is the greatest number among the given isotopes."
+}

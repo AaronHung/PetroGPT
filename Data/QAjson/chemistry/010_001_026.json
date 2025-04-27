@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of standard electrode potentials",
+    "message_1": "What is the standard potential of a cell in which an electrode made of nickel (Ni) is immersed in a 1 M nickel ion solution (Ni2+) and another electrode made of silver (Ag) is immersed in a 1 M silver ion solution (Ag+)? The reduction potential of Ni2+(aq) + 2e- → Ni(s) is -0.25 V, and the reduction potential of Ag+(aq) + e- → Ag(s) is +0.80 V.",
+    "message_2": "To find the standard potential of the cell, we need to determine which half-reaction will be the anode (oxidation) and which will be the cathode (reduction). The half-reaction with the higher reduction potential will be the cathode, and the other will be the anode.\n\nIn this case, the reduction potential of Ag+(aq) + e- → Ag(s) is higher (+0.80 V) than the reduction potential of Ni2+(aq) + 2e- → Ni(s) (-0.25 V). Therefore, the silver half-reaction will be the cathode, and the nickel half-reaction will be the anode.\n\nNow we need to reverse the anode half-reaction to represent oxidation:\n\nNi(s) → Ni2+(aq) + 2e-\n\nThe oxidation potential of this reaction is the opposite of the reduction potential, so it is +0.25 V.\n\nFinally, to find the standard potential of the cell, we add the oxidation potential of the anode to the reduction potential of the cathode:\n\nE°cell = E°cathode + E°anode\nE°cell = (+0.80 V) + (+0.25 V)\nE°cell = +1.05 V\n\nThe standard potential of the cell is +1.05 V."
+}

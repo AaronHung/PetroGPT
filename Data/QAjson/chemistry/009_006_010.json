@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Isotope notation and identification",
+    "message_1": "What is the isotope notation and identification of the chlorine atom with 18 neutrons in its nucleus?",
+    "message_2": "The isotope notation for a chlorine atom with 18 neutrons in its nucleus is written as Cl-37. This is because chlorine has an atomic number of 17 (meaning it has 17 protons), and when you add the 18 neutrons, you get a mass number of 37 (17 protons + 18 neutrons = 37). The isotope is identified as chlorine-37 (or ³⁷Cl)."
+}

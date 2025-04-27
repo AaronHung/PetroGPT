@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Balancing chemical equations for inorganic compounds",
+    "message_1": "A student is given the unbalanced equation for the reaction between magnesium sulfate and sodium hydroxide in aqueous solution: MgSO4 + NaOH -> Mg(OH)2 + Na2SO4. The student needs to balance the equation and determine the coefficients for each compound.",
+    "message_2": "To balance the chemical equation, we need to make sure that the number of atoms for each element is the same on both sides of the equation. Here's the balanced equation:\n\nMgSO4 + 2 NaOH -> Mg(OH)2 + Na2SO4\n\nThe coefficients for each compound are:\n- MgSO4: 1\n- NaOH: 2\n- Mg(OH)2: 1\n- Na2SO4: 1"
+}

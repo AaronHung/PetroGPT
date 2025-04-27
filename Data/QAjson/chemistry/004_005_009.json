@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Analytical chemistry",
+    "sub_topic": "Determination of the pH of a solution using a pH meter",
+    "message_1": "What is the pH of a 0.1 M solution of hydrochloric acid if the pH meter reading is 1.5?",
+    "message_2": "The pH meter reading indicates the pH of the solution. In this case, the pH of the 0.1 M hydrochloric acid (HCl) solution is 1.5. There is no need to calculate the pH since the pH meter has already provided the value."
+}

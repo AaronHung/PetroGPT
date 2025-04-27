@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Spectroscopy and molecular vibrations",
+    "message_1": "What is the frequency (in cm⁻¹) of the stretching vibration of the C=O bond in a molecule of acetone (CH₃COCH₃) observed in the infrared spectrum at 1715 cm⁻¹?",
+    "message_2": "The frequency of the stretching vibration of the C=O bond in a molecule of acetone (CH₃COCH₃) observed in the infrared spectrum is given as 1715 cm⁻¹. Therefore, the frequency of the C=O bond stretching vibration is 1715 cm⁻¹."
+}

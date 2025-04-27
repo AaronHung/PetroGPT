@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Biochemistry",
+    "sub_topic": "Citric acid cycle and oxidative phosphorylation",
+    "message_1": "What is the net number of ATP molecules produced through oxidative phosphorylation when one molecule of pyruvate is completely oxidized via the citric acid cycle in eukaryotic cells?",
+    "message_2": "When one molecule of pyruvate is completely oxidized via the citric acid cycle in eukaryotic cells, the net number of ATP molecules produced through oxidative phosphorylation is as follows:\n\n1. Conversion of pyruvate to Acetyl-CoA: 1 NADH is produced, which generates 2.5 ATP through oxidative phosphorylation.\n\n2. Citric acid cycle: For each turn of the cycle, 3 NADH, 1 FADH2, and 1 GTP (equivalent to 1 ATP) are produced. The 3 NADH molecules generate 7.5 ATP (3 x 2.5), and the 1 FADH2 generates 1.5 ATP.\n\nSo, the total ATP production for one molecule of pyruvate through oxidative phosphorylation is:\n\n2.5 (from pyruvate to Acetyl-CoA) + 7.5 (from NADH in the citric acid cycle) + 1.5 (from FADH2 in the citric acid cycle) + 1 (from GTP in the citric acid cycle) = 12.5 ATP\n\nTherefore, the net number of ATP molecules produced through oxidative phosphorylation when one molecule of pyruvate is completely oxidized via the citric acid cycle in eukaryotic cells is 12.5 ATP."
+}

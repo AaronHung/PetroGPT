@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Diffusion and transport phenomena",
+    "message_1": "What is the rate of diffusion of ammonia gas in air at 25 °C and atmospheric pressure of 1 atm?  The diffusion coefficient of ammonia in air at 25°C is 0.15 cm²/s. Calculate the distance a molecule of ammonia will travel on average in 10 seconds starting from rest in still air.",
+    "message_2": "To calculate the distance a molecule of ammonia will travel on average in 10 seconds, we can use the formula:\n\ndistance = sqrt(2 * D * t)\n\nwhere distance is the average distance traveled, D is the diffusion coefficient, and t is the time.\n\nGiven the diffusion coefficient (D) of ammonia in air at 25°C is 0.15 cm²/s and the time (t) is 10 seconds, we can plug these values into the formula:\n\ndistance = sqrt(2 * 0.15 cm²/s * 10 s)\n\ndistance = sqrt(3 cm²)\n\ndistance ≈ 1.73 cm\n\nSo, a molecule of ammonia will travel on average approximately 1.73 cm in 10 seconds starting from rest in still air at 25°C and atmospheric pressure of 1 atm."
+}

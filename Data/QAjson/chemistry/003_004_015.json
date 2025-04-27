@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Electrochemistry and electrochemical cells",
+    "message_1": "What is the maximum electrical work that can be obtained from the reaction of a zinc electrode (in contact with 1.0 M Zn2+ solutions) and a copper electrode (in contact with 1.0 M Cu2+ solution) in an electrochemical cell at standard conditions, assuming that the cell potential is 1.10 V?",
+    "message_2": "To calculate the maximum electrical work that can be obtained from the reaction, we can use the formula:\n\nW = -nFE\n\nwhere W is the electrical work, n is the number of moles of electrons transferred, F is the Faraday constant (96,485 C/mol), and E is the cell potential.\n\nFirst, we need to write the balanced redox reaction for the electrochemical cell:\n\nZn(s) + Cu²⁺(aq) → Zn²⁺(aq) + Cu(s)\n\nFrom the balanced equation, we can see that 2 moles of electrons are transferred (1 mole of electrons for each half-reaction):\n\nZn(s) → Zn²⁺(aq) + 2e⁻\nCu²⁺(aq) + 2e⁻ → Cu(s)\n\nNow, we can plug the values into the formula:\n\nW = -nFE\nW = -(2 mol)(96,485 C/mol)(1.10 V)\n\nW = -212,667 J/mol\n\nThe maximum electrical work that can be obtained from the reaction is -212,667 J/mol. The negative sign indicates that the work is being done by the system (the electrochemical cell) on the surroundings."
+}

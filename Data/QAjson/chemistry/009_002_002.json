@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Radioactive decay series",
+    "message_1": "What is the final product of the decay series of radium-226?",
+    "message_2": "The final product of the decay series of radium-226 is stable lead-206 (Pb-206). Radium-226 undergoes a series of radioactive decays, including alpha and beta decays, through various intermediate isotopes such as radon-222, polonium-218, and bismuth-214, among others, before ultimately reaching the stable isotope of lead-206."
+}

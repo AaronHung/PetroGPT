@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Polymer chemistry",
+    "sub_topic": "Rheological properties of polymer melts",
+    "message_1": "What is the effect of molecular weight on the viscosity of polymer melts?",
+    "message_2": "The viscosity of polymer melts is significantly affected by the molecular weight of the polymer. As the molecular weight of a polymer increases, the viscosity of the melt also increases. This is because the longer polymer chains become more entangled, leading to a higher resistance to flow.\n\nThe relationship between molecular weight and viscosity can be described by the Mark-Houwink equation:\n\nη = K * M^a\n\nwhere η is the viscosity, M is the molecular weight, and K and a are constants specific to the polymer-solvent system. The exponent 'a' typically ranges from 0.5 to 0.8 for most polymers, indicating that the viscosity increases more than linearly with molecular weight.\n\nIn summary, the viscosity of polymer melts increases with increasing molecular weight due to the increased entanglement of longer polymer chains, which results in a higher resistance to flow."
+}

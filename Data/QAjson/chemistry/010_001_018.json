@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of standard electrode potentials",
+    "message_1": "A student needs to determine the standard electrode potential for the following reaction: \n\nFe3+ + e- → Fe2+ \n\nUsing the standard electrode potentials of Fe3+/Fe2+ and Ag+/Ag, calculate the standard cell potential for the following reaction: \n\n2Ag+ (aq) + Fe(s) → 2Ag(s) + Fe2+ (aq) \n\nDetermine if this reaction is spontaneous or nonspontaneous under standard conditions.",
+    "message_2": "To calculate the standard cell potential for the given reaction, we need the standard electrode potentials for both the Fe3+/Fe2+ and Ag+/Ag redox couples. The standard electrode potentials are as follows:\n\nFe3+ + e- → Fe2+; E°(Fe3+/Fe2+) = +0.77 V\nAg+ + e- → Ag; E°(Ag+/Ag) = +0.80 V\n\nThe given reaction can be broken down into two half-reactions:\n\nOxidation half-reaction (anode): Fe(s) → Fe2+ (aq) + 2e-; E°(Fe2+/Fe) = - E°(Fe3+/Fe2+) = -0.77 V\nReduction half-reaction (cathode): 2Ag+ (aq) + 2e- → 2Ag(s); E°(Ag+/Ag) = +0.80 V\n\nNow, we can calculate the standard cell potential (E°cell) using the equation:\n\nE°cell = E°cathode - E°anode\n\nE°cell = (+0.80 V) - (-0.77 V) = +0.80 V + 0.77 V = +1.57 V\n\nSince the standard cell potential (E°cell) is positive (+1.57 V), the reaction is spontaneous under standard conditions."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Crystallography and crystal structures",
+    "message_1": "What is the coordination number of sodium ion (Na+) in the sodium chloride crystal structure and how many nearest neighbors does a sodium ion have?",
+    "message_2": "In the sodium chloride (NaCl) crystal structure, each sodium ion (Na+) is surrounded by six chloride ions (Cl-) in an octahedral arrangement. Therefore, the coordination number of the sodium ion (Na+) in the sodium chloride crystal structure is 6. This also means that a sodium ion has 6 nearest neighbors."
+}

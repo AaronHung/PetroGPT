@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Half-life calculations",
+    "message_1": "A sample of radioactive isotope has an initial activity of 200 Bq. If the half-life of the isotope is 10 days, how much activity will be left after 30 days?",
+    "message_2": "To solve this problem, we can use the radioactive decay formula:\n\nA = A₀ * (1/2)^(t/T)\n\nwhere:\nA = final activity\nA₀ = initial activity\nt = time elapsed\nT = half-life of the isotope\n\nGiven:\nA₀ = 200 Bq\nT = 10 days\nt = 30 days\n\nNow, we can plug these values into the formula:\n\nA = 200 * (1/2)^(30/10)\n\nA = 200 * (1/2)^3\n\nA = 200 * (1/8)\n\nA = 25 Bq\n\nAfter 30 days, the activity of the radioactive isotope will be 25 Bq."
+}

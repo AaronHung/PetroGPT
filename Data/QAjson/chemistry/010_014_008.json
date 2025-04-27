@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the mass of a substance deposited or dissolved during an electrochemical reaction",
+    "message_1": "What is the mass of copper deposited on a cathode when a current of 5A is applied for 1 hour in a copper sulfate solution with a concentration of 0.5M? (Molar Mass of Cu: 63.55 g/mol and Faraday's constant: 96,485 C/mol)",
+    "message_2": "To calculate the mass of copper deposited on the cathode, we can use Faraday's law of electrolysis. \n\nFirst, we need to find the total charge passed through the solution. \n\nTotal charge (Q) = current (I) × time (t)\nQ = 5 A × 1 hour × (3600 seconds/hour) = 18,000 C\n\nNow, we need to find the number of moles of electrons (n) passed through the solution using Faraday's constant (F).\n\nn = Q / F\nn = 18,000 C / 96,485 C/mol = 0.1865 mol of electrons\n\nIn the case of copper sulfate, the reaction at the cathode is:\n\nCu²⁺ + 2e⁻ → Cu\n\nThis means that 2 moles of electrons are required to deposit 1 mole of copper. So, we need to find the number of moles of copper deposited (n_Cu).\n\nn_Cu = n / 2 = 0.1865 mol of electrons / 2 = 0.09325 mol of Cu\n\nFinally, we can find the mass of copper deposited (m_Cu) using the molar mass of copper (M_Cu).\n\nm_Cu = n_Cu × M_Cu\nm_Cu = 0.09325 mol of Cu × 63.55 g/mol = 5.92 g\n\nSo, the mass of copper deposited on the cathode is approximately 5.92 grams."
+}

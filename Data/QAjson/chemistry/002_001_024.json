@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Balancing chemical equations for inorganic compounds",
+    "message_1": "Balance the following chemical equation for the inorganic compound KO2 reacting with water to produce potassium hydroxide and oxygen gas:\n\nKO2 + H2O → KOH + O2",
+    "message_2": "To balance the chemical equation, we need to make sure that the number of atoms of each element on both sides of the equation is equal. Here's the balanced equation:\n\n2 KO2 + 2 H2O → 2 KOH + O2"
+}

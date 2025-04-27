@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Biochemistry",
+    "sub_topic": "Nucleic acid structure and function",
+    "message_1": "What is the specific sequence of nucleotides in the DNA strand that corresponds to the mRNA sequence AUG-UCG-UGC-AGU-UCU?",
+    "message_2": "To find the corresponding DNA sequence for the given mRNA sequence, we need to replace the uracil (U) in the mRNA with thymine (T) in the DNA sequence and transcribe the rest of the nucleotides accordingly.\n\nThe mRNA sequence is: AUG-UCG-UGC-AGU-UCU\n\nThe corresponding DNA sequence would be: TAC-AGC-ACG-TCA-AGA"
+}

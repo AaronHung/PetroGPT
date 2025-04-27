@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Balancing chemical equations for inorganic compounds",
+    "message_1": "Write the balanced chemical equation for the reaction of sodium chloride (NaCl) with sulfuric acid (H2SO4) to form sodium sulfate (Na2SO4) and hydrochloric acid (HCl).",
+    "message_2": "The balanced chemical equation for the reaction of sodium chloride (NaCl) with sulfuric acid (H2SO4) to form sodium sulfate (Na2SO4) and hydrochloric acid (HCl) is:\n\n2 NaCl (s) + H2SO4 (aq) → Na2SO4 (aq) + 2 HCl (g)"
+}

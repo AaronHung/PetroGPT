@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Identifying the type of inorganic solid (ionic, covalent, metallic)",
+    "message_1": "Identify the type of inorganic solid that forms from the combination of Mg and Cl atoms.",
+    "message_2": "The combination of Mg (magnesium) and Cl (chlorine) atoms forms an inorganic solid called magnesium chloride (MgCl2). This compound is an ionic solid, as it is formed by the transfer of electrons from the metal (Mg) to the non-metal (Cl), resulting in the formation of positively charged magnesium ions (Mg2+) and negatively charged chloride ions (Cl-). These ions are held together by strong electrostatic forces in a crystal lattice structure."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Naming organic compounds",
+    "message_1": "What is the IUPAC name of the following organic compound?\n\n   CH3-CH2-CH(Cl)-CH=CH2\n\nHint: The longest chain contains 5 carbon atoms.",
+    "message_2": "The IUPAC name of the given organic compound is 3-chloro-1-pentene."
+}

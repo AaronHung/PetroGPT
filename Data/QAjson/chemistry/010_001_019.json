@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of standard electrode potentials",
+    "message_1": "Calculate the standard electrode potential of the following cell: \n\nZn(s) | Zn2+(aq) || Cu2+(aq) | Cu(s) \n\nGiven: Eº(Zn2+(aq)/Zn(s)) = -0.76 V and Eº(Cu2+(aq)/Cu(s)) = +0.34 V.",
+    "message_2": "To calculate the standard electrode potential of the given cell, we can use the Nernst equation. However, since we are dealing with standard conditions, the equation simplifies to:\n\nEº(cell) = Eº(cathode) - Eº(anode)\n\nIn this cell, the Zn(s) | Zn2+(aq) half-cell acts as the anode (oxidation) and the Cu2+(aq) | Cu(s) half-cell acts as the cathode (reduction). We are given the standard electrode potentials for both half-cells:\n\nEº(Zn2+(aq)/Zn(s)) = -0.76 V (anode)\nEº(Cu2+(aq)/Cu(s)) = +0.34 V (cathode)\n\nNow, we can plug these values into the simplified Nernst equation:\n\nEº(cell) = (+0.34 V) - (-0.76 V)\nEº(cell) = +0.34 V + 0.76 V\nEº(cell) = +1.10 V\n\nThe standard electrode potential of the given cell is +1.10 V."
+}

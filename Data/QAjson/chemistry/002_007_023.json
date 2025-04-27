@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Predicting the products of inorganic reactions",
+    "message_1": "What is the expected product of the reaction between barium chloride (BaCl2) and potassium sulfate (K2SO4)?",
+    "message_2": "The expected product of the reaction between barium chloride (BaCl2) and potassium sulfate (K2SO4) is barium sulfate (BaSO4) and potassium chloride (KCl). This is a double displacement reaction, where the cations and anions of the two reactants switch places to form two new compounds. The balanced chemical equation for this reaction is:\n\nBaCl2 (aq) + K2SO4 (aq) → BaSO4 (s) + 2 KCl (aq)"
+}

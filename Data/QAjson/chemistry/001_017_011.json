@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Oxidation and reduction reactions",
+    "message_1": "How does the oxidation state of a compound change during a reduction reaction? Provide an example of a reaction where this occurs in organic chemistry.",
+    "message_2": "During a reduction reaction, the oxidation state of a compound decreases as it gains electrons. In other words, the compound is reduced by accepting electrons from a reducing agent, which in turn gets oxidized. This process is the opposite of an oxidation reaction, where the oxidation state of a compound increases as it loses electrons.\n\nAn example of a reduction reaction in organic chemistry is the reduction of a carbonyl compound, such as an aldehyde or a ketone, to an alcohol using a reducing agent like sodium borohydride (NaBH4) or lithium aluminum hydride (LiAlH4).\n\nFor instance, let's consider the reduction of acetone (a ketone) to isopropanol (an alcohol) using sodium borohydride as the reducing agent:\n\nAcetone (CH3COCH3) + NaBH4 → Isopropanol (CH3CHOHCH3) + NaBO2\n\nIn this reaction, the carbonyl carbon in acetone has an oxidation state of +2. When it is reduced to isopropanol, the oxidation state of the carbon decreases to +1, as it gains a hydrogen atom and forms a new C-O bond. The reducing agent, NaBH4, loses a hydride ion (H-) and gets oxidized to NaBO2."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the number of electrons transferred in an electrochemical reaction",
+    "message_1": "What is the total number of electrons transferred in the following electrochemical reaction: \n2Fe3+ (aq) + Mg (s) → 2Fe2+ (aq) + Mg2+ (aq)?",
+    "message_2": "In the given electrochemical reaction:\n\n2Fe³⁺ (aq) + Mg (s) → 2Fe²⁺ (aq) + Mg²⁺ (aq)\n\nEach Fe³⁺ ion is reduced to Fe²⁺, which means it gains one electron. Since there are two Fe³⁺ ions, a total of 2 electrons are gained in the reduction half-reaction.\n\nMg (s) is oxidized to Mg²⁺ (aq), which means it loses two electrons.\n\nSo, the total number of electrons transferred in this reaction is 2 (from the reduction of Fe³⁺ ions) + 2 (from the oxidation of Mg) = 4 electrons."
+}

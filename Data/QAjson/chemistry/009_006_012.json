@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Isotope notation and identification",
+    "message_1": "What is the isotope notation and identification of an atom with 16 protons and 18 neutrons?",
+    "message_2": "The isotope notation of an atom with 16 protons and 18 neutrons is written as:\n\nSulfur-34 or ³⁴S\n\nThe identification of this atom is Sulfur (S), which has an atomic number of 16. The isotope has a mass number of 34 (16 protons + 18 neutrons)."
+}

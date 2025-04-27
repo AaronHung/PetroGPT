@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the cell potential for a given electrochemical reaction",
+    "message_1": "Calculate the cell potential for the following electrochemical reaction at 25°C: \n\nZn(s) + 2AgNO3(aq) → Zn(NO3)2(aq) + 2Ag(s) \n\nGiven: \n\nE°(Ag+/Ag) = +0.80 V \n\nE°(Zn2+/Zn) = −0.76 V",
+    "message_2": "To calculate the cell potential for the given electrochemical reaction, we can use the Nernst equation. However, since we are given standard reduction potentials and the temperature is 25°C, we can simplify the calculation by using the following equation:\n\nE°(cell) = E°(cathode) - E°(anode)\n\nFirst, we need to identify the cathode and anode half-reactions. The cathode is where reduction occurs, and the anode is where oxidation occurs. In this case:\n\nOxidation (anode): Zn(s) → Zn²⁺(aq) + 2e⁻, E°(Zn²⁺/Zn) = −0.76 V\nReduction (cathode): 2Ag⁺(aq) + 2e⁻ → 2Ag(s), E°(Ag⁺/Ag) = +0.80 V\n\nNow, we can plug these values into the equation:\n\nE°(cell) = E°(cathode) - E°(anode)\nE°(cell) = (+0.80 V) - (−0.76 V)\nE°(cell) = 0.80 V + 0.76 V\nE°(cell) = 1.56 V\n\nThe cell potential for the given electrochemical reaction at 25°C is 1.56 V."
+}

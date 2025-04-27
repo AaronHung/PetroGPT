@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Organic chemistry",
+    "sub_topic": "Isomerism in organic compounds",
+    "message_1": "Identify and classify the isomers of the compound C6H12O that possess a functional group of ketone. Provide their respective structural formulas and explain how they differ from one another.",
+    "message_2": "There are three isomers of the compound C6H12O that possess a ketone functional group. These isomers are classified as follows:\n\n1. Hexan-2-one:\nThis isomer has the ketone functional group at the second carbon atom. The structural formula is as follows:\n\nCH3-CO-CH2-CH2-CH2-CH3\n\n2. Hexan-3-one:\nThis isomer has the ketone functional group at the third carbon atom. The structural formula is as follows:\n\nCH3-CH2-CO-CH2-CH2-CH3\n\n3. 4-Methylpentan-3-one:\nThis isomer has a methyl group at the fourth carbon atom and the ketone functional group at the third carbon atom. The structural formula is as follows:\n\nCH3-CH2-CO-CH(CH3)-CH2-CH3\n\nThese isomers differ from one another in the position of the ketone functional group and the presence of a methyl group in the third isomer. The first two isomers are linear, while the third isomer has a branched structure."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Determination of the oxidation state of an element in a compound",
+    "message_1": "What is the oxidation state of sulfur in H2SO4?",
+    "message_2": "The oxidation state of sulfur in H2SO4 (sulfuric acid) is +6."
+}

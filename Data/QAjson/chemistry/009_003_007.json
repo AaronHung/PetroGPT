@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Nuclear fission reactions",
+    "message_1": "What is the energy released when one atom of uranium-235 undergoes complete fission?",
+    "message_2": "The energy released when one atom of uranium-235 undergoes complete fission is approximately 200 MeV (million electron volts) or 3.2 x 10^-11 Joules. This value is an average, as the actual energy released can vary depending on the specific fission products produced during the reaction."
+}

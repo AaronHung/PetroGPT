@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the Faraday constant",
+    "message_1": "A current of 2.5 amperes was passed through molten silver chloride for 5 hours. What mass of silver metal will be deposited? (The atomic mass of silver = 107.87 g/mol)",
+    "message_2": "To find the mass of silver metal deposited, we can use Faraday's laws of electrolysis. First, we need to find the total charge passed through the molten silver chloride.\n\nTotal charge (Q) = Current (I) × Time (t)\nQ = 2.5 A × 5 h × 3600 s/h = 45000 C (Coulombs)\n\nNow, we need to find the number of moles of electrons (n) passed through the molten silver chloride using Faraday's constant (F = 96485 C/mol).\n\nn = Q / F\nn = 45000 C / 96485 C/mol ≈ 0.466 mol of electrons\n\nThe balanced half-reaction for the reduction of silver chloride is:\n\nAgCl + e⁻ → Ag + Cl⁻\n\nFrom the balanced half-reaction, we can see that 1 mole of electrons reduces 1 mole of silver ions (Ag⁺) to 1 mole of silver metal (Ag). Therefore, the number of moles of silver metal deposited is equal to the number of moles of electrons passed through the molten silver chloride.\n\nMoles of silver metal = 0.466 mol\n\nNow, we can find the mass of silver metal deposited using the atomic mass of silver (107.87 g/mol).\n\nMass of silver metal = Moles of silver metal × Atomic mass of silver\nMass of silver metal = 0.466 mol × 107.87 g/mol ≈ 50.25 g\n\nSo, approximately 50.25 grams of silver metal will be deposited."
+}

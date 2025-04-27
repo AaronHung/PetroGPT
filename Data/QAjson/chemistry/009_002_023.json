@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Radioactive decay series",
+    "message_1": "What is the final product of the radioactive decay series of thorium-232?",
+    "message_2": "The final product of the radioactive decay series of thorium-232 is lead-208 (Pb-208). Thorium-232 undergoes a series of alpha and beta decays, passing through various intermediate isotopes, until it eventually reaches the stable isotope of lead-208."
+}

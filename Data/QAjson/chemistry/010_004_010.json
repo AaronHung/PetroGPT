@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the cell potential for a given electrochemical reaction",
+    "message_1": "What is the cell potential for the reaction Zn(s) + Ni2+(aq) → Zn2+(aq) + Ni(s) at 25°C, given that the standard reduction potentials for Zn2+(aq) + 2 e- → Zn(s) and Ni2+(aq) + 2 e- → Ni(s) are -0.76 V and -0.25 V, respectively?",
+    "message_2": "To find the cell potential for the given reaction, we need to determine the difference in standard reduction potentials between the two half-reactions. The reaction can be broken down into two half-reactions:\n\n1. Zn(s) → Zn2+(aq) + 2 e- (oxidation)\n2. Ni2+(aq) + 2 e- → Ni(s) (reduction)\n\nThe standard reduction potential for the first half-reaction is given as -0.76 V, but since it is an oxidation reaction, we need to reverse the sign, making it +0.76 V.\n\nThe standard reduction potential for the second half-reaction is given as -0.25 V.\n\nNow, we can calculate the cell potential (E°cell) using the formula:\n\nE°cell = E°cathode - E°anode\n\nIn this case, the cathode is the reduction half-reaction (Ni2+ + 2 e- → Ni), and the anode is the oxidation half-reaction (Zn → Zn2+ + 2 e-). So, we have:\n\nE°cell = (-0.25 V) - (+0.76 V) = -1.01 V\n\nThe cell potential for the reaction Zn(s) + Ni2+(aq) → Zn2+(aq) + Ni(s) at 25°C is -1.01 V."
+}

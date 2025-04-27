@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Electrochemistry",
+    "sub_topic": "Calculation of the overpotential in an electrochemical reaction",
+    "message_1": "What is the overpotential for the reduction of copper ions to copper metal at a cathode if the standard potential for the reaction is +0.34 V and the actual potential applied is +0.50 V?",
+    "message_2": "The overpotential is the difference between the actual potential applied and the standard potential for the reaction. In this case, the standard potential for the reduction of copper ions to copper metal is +0.34 V, and the actual potential applied is +0.50 V.\n\nOverpotential = Actual potential - Standard potential\nOverpotential = +0.50 V - (+0.34 V)\nOverpotential = +0.16 V\n\nThe overpotential for the reduction of copper ions to copper metal at the cathode is +0.16 V."
+}

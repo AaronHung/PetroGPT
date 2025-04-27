@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Inorganic chemistry",
+    "sub_topic": "Determining oxidation states of elements in inorganic compounds",
+    "message_1": "What is the oxidation state of chlorine in FeCl3?",
+    "message_2": "In FeCl3, the oxidation state of chlorine is -1. \n\nHere's the explanation: The oxidation state of iron (Fe) in FeCl3 is +3, as iron has three electrons removed to form the Fe³⁺ ion. There are three chlorine (Cl) atoms, each with an oxidation state of -1, as they each gain one electron to form the Cl⁻ ion. The sum of the oxidation states in a neutral compound must be zero, so in this case, the oxidation state of Fe (+3) plus the combined oxidation states of the three Cl atoms (-3) equals zero:\n\n(+3) + 3(-1) = 0"
+}

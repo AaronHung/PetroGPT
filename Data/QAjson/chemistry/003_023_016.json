@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Thermochemistry and calorimetry",
+    "message_1": "What is the heat released or absorbed when 50 grams of methane ($CH_{4}$) is burnt completely in oxygen ($O_{2}$) at a constant pressure of 1 atm? The heat of combustion of methane is -890.4 kJ/mol.",
+    "message_2": "To calculate the heat released or absorbed during the combustion of 50 grams of methane, we need to first determine the number of moles of methane involved. The molar mass of methane ($CH_{4}$) is 12.01 g/mol (carbon) + 4 * 1.01 g/mol (hydrogen) = 16.05 g/mol.\n\nNow, we can find the number of moles of methane:\nNumber of moles = mass / molar mass\nNumber of moles = 50 g / 16.05 g/mol ≈ 3.115 moles\n\nSince the heat of combustion of methane is -890.4 kJ/mol, we can now calculate the heat released during the combustion of 3.115 moles of methane:\n\nHeat released = number of moles * heat of combustion per mole\nHeat released = 3.115 moles * -890.4 kJ/mol ≈ -2773.3 kJ\n\nThe heat released during the complete combustion of 50 grams of methane in oxygen at a constant pressure of 1 atm is approximately -2773.3 kJ. The negative sign indicates that the reaction is exothermic, meaning heat is released."
+}

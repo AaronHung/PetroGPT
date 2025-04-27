@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Radioactive decay series",
+    "message_1": "The half-life of radium-226 is approximately 1,600 years. If a sample containing 200 grams of radium-226, how long will it take for the sample to decay to 25 grams?",
+    "message_2": "To solve this problem, we can use the half-life formula:\n\nFinal amount = Initial amount * (1/2)^(time elapsed / half-life)\n\nIn this case, we have:\n\nFinal amount = 25 grams\nInitial amount = 200 grams\nHalf-life = 1,600 years\n\nWe need to find the time elapsed. Let's denote it as t.\n\n25 = 200 * (1/2)^(t / 1,600)\n\nNow, we need to solve for t:\n\n(1/2)^(t / 1,600) = 25 / 200\n(1/2)^(t / 1,600) = 1/8\n\nSince (1/2)^3 = 1/8, we can write:\n\n(1/2)^(t / 1,600) = (1/2)^3\n\nThis means that the exponents must be equal:\n\nt / 1,600 = 3\n\nNow, we can solve for t:\n\nt = 3 * 1,600\nt = 4,800 years\n\nSo, it will take 4,800 years for the 200-gram sample of radium-226 to decay to 25 grams."
+}

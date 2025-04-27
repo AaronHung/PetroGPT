@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Nuclear chemistry",
+    "sub_topic": "Nuclear magnetic resonance spectroscopy (MRS)",
+    "message_1": "What is the chemical structure of a specific compound that is being analyzed using nuclear magnetic resonance spectroscopy? Identify the compounds functional groups, isotopes, and any impurities present in the sample.",
+    "message_2": "As an AI, I cannot directly analyze a physical sample using nuclear magnetic resonance (NMR) spectroscopy. However, I can help you interpret NMR data if you provide the information obtained from the NMR spectrum.\n\nTo identify the chemical structure, functional groups, isotopes, and impurities in a compound, please provide the NMR data, such as chemical shifts, coupling constants, and peak multiplicities. Additionally, information from other spectroscopic techniques, like infrared (IR) or mass spectrometry (MS), can be helpful in determining the structure of the compound."
+}

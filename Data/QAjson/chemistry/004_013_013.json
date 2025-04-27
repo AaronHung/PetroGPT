@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Analytical chemistry",
+    "sub_topic": "Quantification of the amount of a substance in a sample using coulometry",
+    "message_1": "What is the amount of copper in a sample of an unknown compound if 25.0 mL of a 0.050 M EDTA solution is required to titrate a 0.100 g sample of the compound using coulometry?",
+    "message_2": "To find the amount of copper in the sample, we first need to determine the moles of EDTA used in the titration. \n\nMoles of EDTA = Molarity × Volume\nMoles of EDTA = 0.050 M × 0.025 L = 0.00125 moles\n\nIn a titration with EDTA, the stoichiometry between EDTA and the metal ion (in this case, copper) is usually 1:1. Therefore, the moles of copper in the sample are equal to the moles of EDTA used in the titration.\n\nMoles of copper = 0.00125 moles\n\nNow, we can find the mass of copper in the sample by multiplying the moles of copper by its molar mass (63.55 g/mol for copper).\n\nMass of copper = Moles of copper × Molar mass of copper\nMass of copper = 0.00125 moles × 63.55 g/mol = 0.07944 g\n\nSo, there are approximately 0.07944 grams of copper in the 0.100 g sample of the unknown compound."
+}

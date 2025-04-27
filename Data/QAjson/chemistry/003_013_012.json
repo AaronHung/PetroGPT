@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Physical chemistry",
+    "sub_topic": "Non-equilibrium thermodynamics and irreversible processes",
+    "message_1": "What is the amount of work done during an irreversible expansion of an ideal gas at constant temperature and pressure?",
+    "message_2": "To calculate the work done during an irreversible expansion of an ideal gas at constant temperature and pressure, we can use the formula:\n\nW = -P_ext * ΔV\n\nwhere W is the work done, P_ext is the external pressure, and ΔV is the change in volume.\n\nFirst, we need to know the initial and final volumes (V1 and V2) of the gas, as well as the external pressure (P_ext). Once we have this information, we can calculate the change in volume (ΔV = V2 - V1) and then use the formula to find the work done.\n\nKeep in mind that if the gas expands, the work done will be negative (since the gas is doing work on the surroundings), and if the gas is compressed, the work done will be positive (since the surroundings are doing work on the gas)."
+}

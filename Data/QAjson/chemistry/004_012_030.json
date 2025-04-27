@@ -1,0 +1,7 @@
+{
+    "role_1": "Chemist_RoleType.ASSISTANT",
+    "topic;": "Analytical chemistry",
+    "sub_topic": "Analysis of the composition of a sample using elemental analysis",
+    "message_1": "How do the elemental composition and concentration of a sample of river water vary as a function of distance downstream from a heavily industrialized area? Using elemental analysis techniques, determine the concentrations of at least three common industrial pollutants in the water and investigate their sources.",
+    "message_2": "The elemental composition and concentration of a sample of"
+}

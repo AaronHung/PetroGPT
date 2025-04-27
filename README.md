@@ -2,7 +2,9 @@
 
 ## GitHub Repository: **PetroGPT** & **WestSeverus-7B-DPO-v2**
 
-## **PetroGPT** focusing on pretrain and finetune domain specific LLMs in Gas/Oil Refinement/Chemistry domains including MoE (Mixture of Expert) model -- WestSeverus-7B-DPO-v2 is a powerful multi-domain language model, combining Mistral-7B, FerdanoGPT (math-focused), and WestLake for scientific, mathematical, and programming tasks. Ranked #1 on Open LLM leaderboard, available on Hugging Face.
+### **PetroGPT**
+
+focusing on pretrain and finetune domain specific LLMs in Gas/Oil Refinement/Chemistry domains including MoE (Mixture of Expert) model -- WestSeverus-7B-DPO-v2 is a powerful multi-domain language model, combining Mistral-7B, FerdanoGPT (math-focused), and WestLake for scientific, mathematical, and programming tasks. Ranked #1 on Open LLM leaderboard, available on Hugging Face.
 
 #### **Description:**
 
